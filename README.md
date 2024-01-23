@@ -285,10 +285,15 @@ Shout out to some awesome people
 Halgari for creation of this wonderful tool
 
 For play testing and feedback>>
+
 Iyreshot
+
 Pixelnate
+
 BiggieBoss
+
 You people Rock!
+
 
 Final words before I let you go
 I designed this mod list to be tougher than anything vanilla with FAR more creatures that are tougher than stock ones.
