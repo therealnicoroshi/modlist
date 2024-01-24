@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "The Nico Experience",
-    "description": "Power fantasy list that I personally play",
+    "description": "Power fantasy list that I personally play with emphasis on visuals, combat, new creatures, new places, and fast paced acrobatic combat",
     "author": "nicoroshi",
     "maintainers": [
       "github/therealnicoroshi"
@@ -12,7 +12,9 @@
       "Fantasy",
       "MCO",
       "New Worldspaces",
-      "Graphics"
+      "Graphics",
+      "New Creatures",
+      "New Quests"
     ],
     "nsfw": false,
     "image_contains_title": false,
@@ -21,19 +23,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://authored-files.wabbajack.org/ScreenShot9.jpg_2e8a4401-83eb-4266-a897-815e652ab098",
       "readme": "https://github.com/therealnicoroshi/modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/The%20Nico%20Experience.wabbajack_7efec3dc-3606-41f9-8359-7eeb8b49a14f",
+      "download": "https://authored-files.wabbajack.org/The%20Nico%20Experience.wabbajack_7b5b60d2-47cb-4bc6-b6a7-a2f74b345bde",
       "machineURL": "modlist/The_Nico_Experience",
-      "discordURL": "<your discord link here>"
+      "discordURL": ""
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "lfMdttjcecg=",
-      "Size": 1226886746,
-      "NumberOfArchives": 1396,
-      "SizeOfArchives": 161209026143,
-      "NumberOfInstalledFiles": 626381,
-      "SizeOfInstalledFiles": 317391127321
+      "Hash": "GZjhRLZR8ik=",
+      "Size": 1228364985,
+      "NumberOfArchives": 1403,
+      "SizeOfArchives": 162170494037,
+      "NumberOfInstalledFiles": 724001,
+      "SizeOfInstalledFiles": 341397075671
     },
-    "version": "1.1.0"
+    "version": "1.1.1"
   }
 ]
