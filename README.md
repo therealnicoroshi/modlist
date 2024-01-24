@@ -1,6 +1,6 @@
 # The Nico Experience
 by Nicoroshi 
-V 1.1.0
+V 1.1.1
 
 
 Overview:
@@ -73,6 +73,9 @@ Included tools:
 Bethini
 SSEedit and QuickAutoClean
 LOOT
+Skyrim priority affinty through MO2
+
+Use them.
 
 Other tools you may want, and how to install them (but not required):
 Download, and install to a location outside of the game files or program files:
