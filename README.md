@@ -65,6 +65,8 @@ VRAMr_Output for 12GB cards
 Depending on your graphics card VRAM amount. 
 CHOOSE ONLY ONE TO ACTIVATE
 
+4. In MO2 Tools find 'Set CPU Affinity' and set it for the core count of your system.
+
 Default game resolution is 1920x1080 but support mods for 21:9 resolution are included . 
 Use the search bar on the bottom left for 'Widescreen' to find and implement them.
 Don't forget to change your resoltion in Bethini as well.
@@ -137,11 +139,7 @@ Run latency at ultra and any settings you can at high performance in the driver.
 Panjano has a good video on how to set this up here >>>
  https://www.youtube.com/watch?v=5DqcgHtkm9I
 
-4. Run either Skyrim Priority (a mod on the Nexus) or Process Lasso (there is a free version) to set priority for Skyrim to HIGH as well as set affinity for the processor core count you have.
-These are not included as they need to be tuned to fit the specific hardware. See instructiuons on the mod page
-https://www.nexusmods.com/skyrimspecialedition/mods/50129
-
-5. Go to system settings and set virtual memory on the drive the mod organizer is on at 40GB min and 40GB Max. Save and restart.
+4. Go to system settings and set virtual memory on the drive the mod organizer is on at 40GB min and 40GB Max. Save and restart.
 This will be your swap file and supplement the VRAM if needed.
 
 Some Paywalled mods worthy of mention (Not required but you'll have a much better experience with them than without IMHO):
