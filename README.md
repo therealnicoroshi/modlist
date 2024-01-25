@@ -46,6 +46,14 @@ These armors can be accessed in game via the additem menu
 
 After those are downloaded the rest of the install should be automated.
 
+Potentially Problematic Files:
+
+CC Curios.
+If install fails on this please open the game through steam and re-download the AE pack for Creation Club content
+
+[SE] DM BDOR Kibelius by Team TAL.7z
+If install fails on this please go to Lovers Lab, Download manually and drop archive into your downloads folder 
+
 Post Installation:
 VERY IMPORTANT:
 1. Make sure you run the mod organizer.exe as admin and have excluded it from your anti-virus
