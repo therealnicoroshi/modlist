@@ -129,19 +129,25 @@ I recommend staying away from landscape changes, scripted mods or Overhauls as t
 Some notes on basic system set up
 This mod list IS graphically taxing on the hardware but systems can run it if they have the room to breathe.
 I'm not going to hold your hand on this, and assume you know Google-fu for anything you don't understand here.
+
 1. Turn off any start up programs or background programs that do not need to be on while running the game. 
 https://www.blackviper.com/ is a wonderful resource on trimming the fat out of the Windows System Services.
-2. strip that graphics driver down of any AA, AO, AF settings (Turn off) as those effects will be handled by the game engine or the ENB. 
+
+3. strip that graphics driver down of any AA, AO, AF settings (Turn off) as those effects will be handled by the game engine or the ENB. 
 DO NOT DOUBLE UP ON EFFECTS!  It will kill your framerate and will not look any better than only one doing that specific effect.
 Run Gsync if avialable and for Heavens sake DO NOT use the in game vsync. Use driver vsync instead.
 Run latency at ultra and any settings you can at high performance in the driver.
-3. Run resizable bar if your hardware is capable of it. It widens the bandwidth for better file transfer speeds (i.e. smoother gameplay)
+
+5. Run resizable bar if your hardware is capable of it. It widens the bandwidth for better file transfer speeds (i.e. smoother gameplay)
 Panjano has a good video on how to set this up here >>>
  https://www.youtube.com/watch?v=5DqcgHtkm9I
-4. Run either Skyrim Priority (a mod on the Nexus) or Process Lasso (there is a free version) to set priority for Skyrim to HIGH as well as set affinity for the processor core count you have.
+
+7. Run either Skyrim Priority (a mod on the Nexus) or Process Lasso (there is a free version) to set priority for Skyrim to HIGH as well as set affinity for the processor core count you have.
+
 These are not included as they need to be tuned to fit the specific hardware. See instructiuons on the mod page
 https://www.nexusmods.com/skyrimspecialedition/mods/50129
-5. Go to system settings and set virtual memory on the drive the mod organizer is on at 40GB min and 40GB Max. Save and restart.
+
+9. Go to system settings and set virtual memory on the drive the mod organizer is on at 40GB min and 40GB Max. Save and restart.
 This will be your swap file and supplement the VRAM if needed.
 
 Some Paywalled mods worthy of mention (Not required but you'll have a much better experience with them than without IMHO):
@@ -164,73 +170,130 @@ without these two my system runs this list at 30-50 fps.
 Decide for yourself what is right for you.
 
 The MCM Menu
-Alright.....There is a LOT here. I do have some profiles I set up that should be a part of this Wabbajack that are set up the way I like it. I recommend running the MCM Recorder Profile for Ryn if playing a female character. There is also one character preset included for a red headed Nord (Ryn) you can use if you'd like.
+Alright.....There is a LOT here. I do have some profiles I set up that should be a part of this Wabbajack that are set up the way I like it. 
+I recommend running the MCM Recorder Profile for Ryn if playing a female character. 
+There is also one character preset included for a red headed Nord (Ryn) you can use if you'd like.
+
 You can run these using MCM Recorder in the MCM Menu to get you started or simply go through the MCM menu one at a time, and set how you like it.
+
 It is IMPORTANT to leave Minatours and Spiders turned OFF for OBIS, ore guardians OFF in Immersive creatures, and shadows OFF for Strange Runes as they are KNOWN to crash the game. 
+
 Magical jumping is non-lore friendly in the recorder (means you have it by default)
 
-Important things to know regarding paraglider and magical jumping
-Sometimes Paraglider will get stuck and not work. Loading from desktop will require a load from within game to reset paraglider.
+Important things to know regarding paraglider and magical jumping:
+
+Sometimes Paraglider will get stuck and not work. 
+Loading from desktop will require a load from within game to reset paraglider.
+
 Not working?  -> Quicksave -> quickload = profit
+
 This was tracked to go to bed\ campfire\ use those blankets conflict.
+
 How to avoid this:
-Set up tent in campfire. Use activate key and choose 'lay down'. USE ONLY THE JUMP KEY 'E' TO CHOOSE SLEEP. Get up after sleeping using directional keys ONLY (NOT MENU).
+
+Set up tent in campfire. 
+Use activate key and choose 'lay down'.
+USE ONLY THE JUMP KEY 'E' TO CHOOSE SLEEP.
+Get up after sleeping using directional keys ONLY (NOT MENU).
+
 If you use the activate key to sleep or get up you will need to quicksave and quick load to regain use of the paraglider.
-Good Rule of Thumb for this list....Do a little jump and activate the glide crow  to make sure it's working BEFORE jumping off any mountains.
+
+Good Rule of Thumb for this list....Do a little jump and activate the glide crow to make sure it's working BEFORE jumping off any mountains.
+
 Magical Jumping: this can be kind of glitchy with other mods in the list.
+
 What I did:
+
 Set lore friendly mode to 'OFF'. In the SKSE folder DTry Ultilities find magical jumping and comment OUT using ; everything that is not already commented out.
+
 This disables the dash, and bash parts but keeps NO fall damage on and allows for triple jumping magical jumps by default
 
 Some important default keys to know
+
 Caps Lock + Enter = ENB Menu
+
 Backspace = Immersive Equipment Displays
+
 Shift + O = Open Animation Replacer
+
 Ins = Blink Spell Hotkey (Can be modified in it's ini file)
+
 X = Toggle HUD and swan dive jump
+
 C = Short Dive jump and quicklight
+
 Scroll wheel = walk\run speed adjustment on the fly
+
 K (Hold) + Scroll Wheel = Zoom
+
 Dodges= Direction + Left Shift (can be changed in ini file for TK Dodge RE)
+
 G = walk/Run Toggle
 
 While falling
+
 Paraglider pull or put away = activate key
+
 Falling arts/ skydiving =
   Adding additional control mechanics: Activating the Gale spell without equip spell :
+  
 -While in glider state ,pressing  Space key (Gamepad use Y) .
+
 -While in a Falling state, pressingLeft ctrl key (Gamepad : LEFT_THUMB)
  allows for adjusting the Link-style skydiving posture.
+ 
 -press Left Alt key (Gamepad : LEFT_SHOULDER) into accelerate state when in skydiving state
   and press sneak button Left ctrl key(Gamepad : LEFT_THUMB) again back to skydiving.
+  
 -press Left Shift key(Gamepad : RIGHT_THUMB) to use Air Dodge.
 Some key binds like TK Dodge are in SKSE ini files so if you can't find it then it's probably in an ini file in SKSE folder of that mod.
 
+
 How I set some Keys in the MCM Recorder
 Page Down = Proteus Wheel
+
 Page Up = SMP reset
+
 ; : = quicksave (but set to make these regular saves in Engine fixes)
+
 ' " = quickload
+
 9 ( = toggle EVG traversal markers on/off
+
 = + = PC head tracking Hello
+
 - _ = PC head Tracking Goodbye
+- 
 0 ) = PC head Tracking Random Saying
+  
 C = Quicklight toggle
+                     
 
 Word of Warning 
 Some creatures will be deleveled so you might come across a level 30 ogre at level 1 and have to run to survive. Ye have been warned!
 You will learn....stick and move, stick and dodge, run and heal or just plain run away to survive at lower levels.
 Recommend difficulty levels:
+
 Level 0-10 Apprentice
+
 Level 11-18 Adept
+
 Level 19-25 Expert
+
 Level 26-32 Master
+
 Level 32 and up Legendry (if you have the stones for it)
+
 The game also has survival built in using Sunhelm but can toggle this on or off along with Cold survival in the MCM.
+
 Some quality of life / fun mods are also included.
+
 Paraglider, magical jumping, bow rapid combo v3, mist flight, and others you can have fun discovering and exploring.
+
 There are added worldspaces to explore as well.
+
 Wyrmstooth and Beyond Reach will start at a certain level but some you will just find in your exploring like Chanterelle, The Shire, Moonpath to Elswyer, Darkend, Skyrim Sewers, and Skyrim Underground.
+
 Shout out to some awesome people
 
 Halgari for creation of this wonderful tool
