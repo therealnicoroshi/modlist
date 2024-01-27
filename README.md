@@ -81,19 +81,28 @@ Download, and install to a location outside of the game files or program files:
  Synthesis
 https://github.com/Mutagen-Modding/Synthesis
 I personally run
+
 Water for ENB Patcher
+
 Water Does Damage Patcher
+
 Immersive Equipment Mesh Gen
+
 Skyrim Unlimited Rings Patcher
+
 Skyrim Remove Landscape Vertex Colors
+
 NifSkope
 https://github.com/niftools/nifskope/releases
+
 DynDOLOD 3
 https://www.nexusmods.com/skyrimspecialedition/mods/68518
+
 
 All the tools you choose to install  need to  link in the top right executable bar in MO2 so these programs can start from within the virtual file structure of MO2.
 This Wabbajack uses a file structure that contains a folder called 'Stock Folder' in the MO2 directory.
 This is where the game will run from. It will NOT run from Skyrim Special Editions Folder so ALL links to executables NEED to point to the Stock Folder in Arguements to work correctly.
+
 In this example image my SSEedit installation is in my P:\ partition (separate from the game files)
 The '-D:' prefix denotes where the data will be located, and the Wabbajack install location is Z:\Fresh install Nico Experience 1_0_2\MO2
 Example image:
