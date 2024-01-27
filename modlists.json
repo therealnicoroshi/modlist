@@ -21,21 +21,21 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://authored-files.wabbajack.org/ScreenShot9.jpg_2e8a4401-83eb-4266-a897-815e652ab098",
+      "image": "https://github.com/therealnicoroshi/modlist/blob/main/splash.png",
       "readme": "https://github.com/therealnicoroshi/modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/The%20Nico%20Experience.wabbajack_7b5b60d2-47cb-4bc6-b6a7-a2f74b345bde",
+      "download": "https://authored-files.wabbajack.org/The%20Nico%20Experience.wabbajack_ea09c402-0f4d-4659-9d5e-8633d0e521fe",
       "machineURL": "modlist/The_Nico_Experience",
       "discordURL": ""
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "GZjhRLZR8ik=",
-      "Size": 1228364985,
-      "NumberOfArchives": 1403,
-      "SizeOfArchives": 162170494037,
-      "NumberOfInstalledFiles": 724001,
-      "SizeOfInstalledFiles": 341397075671
+      "Hash": "zrBOJxLpQYo=",
+      "Size": 1233568160,
+      "NumberOfArchives": 1536,
+      "SizeOfArchives": 161288151770,
+      "NumberOfInstalledFiles": 692171,
+      "SizeOfInstalledFiles": 328905559390
     },
-    "version": "1.1.1"
+    "version": "1.1.2"
   }
 ]
