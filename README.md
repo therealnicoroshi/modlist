@@ -299,9 +299,13 @@ Shout out to some awesome people
 Halgari for creation of this wonderful tool
 
 For play testing and feedback>>
+
 Iyreshot
+
 Pixelnate
+
 BiggieBoss
+
 You people Rock!
 
 Final words before I let you go
