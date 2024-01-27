@@ -21,7 +21,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/therealnicoroshi/modlist/blob/main/splash.png",
+      "image": "https://raw.githubusercontent.com/therealnicoroshi/modlist/main/ScreenShot9.jpg",
       "readme": "https://github.com/therealnicoroshi/modlist/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/The%20Nico%20Experience.wabbajack_ea09c402-0f4d-4659-9d5e-8633d0e521fe",
       "machineURL": "modlist/The_Nico_Experience",
