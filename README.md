@@ -39,7 +39,9 @@ Important Note:
 **You will need a Lovers Lab account for some manual downloads in the Wabbajack**
 
 Install (Main)
+
 Run Wabbajack
+
 Choose Install from disk
 Navigate to The Nico Experience wabbajack file and choose your game install location (min 500GB) and file download location
 **There WILL BE about 22 Files that you WILL NEED to click the green DOWNLOAD button on Lover's Lab to download through Wabbajack after signing into Lover's Lab account**
