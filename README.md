@@ -33,7 +33,9 @@ Pre-install:
 1. Install a fresh copy of Skyrim AE from Steam version 1.6.1170
 
 2.Install the Creation Kit from Steam
+
 3. Launch the game once from Steam and at the prompt download all CC Content from the full version of AE.
+
 4. Start new game and after hearing  "So you're finally awake" open console (~) and type QQQ then press enter to quit out.
 
 Important Note:
