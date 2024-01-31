@@ -25,11 +25,17 @@ Added SSEedit and Cathedral assets Optimizer as tools included in the list
 
 1.1.3
 Added in:
+
 Feline Run Animation,
+
 Modular SMP Hairstyles
+
 NifSkope in Tools
+
 Bug Fixes:
+
 Removed SMP Vanilla Clothing because of specular lighting reflection issue in .nifs
+
 Repaired Broken Helm Hollow chopping block blood splatter mesh issue
 
 
