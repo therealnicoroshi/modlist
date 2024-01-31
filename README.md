@@ -4,7 +4,7 @@ V 1.1.3
 
 Overview:
 
-This is the mod list I personally play. I would describne it as a power fantasy list with 
+This is the mod list I personally play. I would describe it as a power fantasy list with 
 emphasis on visuals, combat, new creatures, new places, and fast paced game play.
 I could write a book on this, and still have more to say so I will just put it to you like this.
 I am very OCD, and want the best of everything in my Skyrim. 
