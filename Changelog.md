@@ -38,6 +38,8 @@ Removed SMP Vanilla Clothing because of specular lighting reflection issue in .n
 
 Repaired Broken Helm Hollow chopping block blood splatter mesh issue
 
+Removed Inferno to fix crazy flames on torches
+
 
 
 
