@@ -30,6 +30,8 @@ Feline Run Animation,
 
 Modular SMP Hairstyles
 
+Alt Start Voiced
+
 NifSkope in Tools
 
 Bug Fixes:
