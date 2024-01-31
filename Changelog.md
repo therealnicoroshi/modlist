@@ -32,6 +32,8 @@ Modular SMP Hairstyles
 
 Alt Start Voiced
 
+Enchanted Arsenal
+
 NifSkope in Tools
 
 Bug Fixes:
