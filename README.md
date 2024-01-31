@@ -1,6 +1,6 @@
 # The Nico Experience
 by Nicoroshi 
-V 1.1.2
+V 1.1.3
 
 Overview:
 
@@ -77,6 +77,7 @@ LOOT
 Cathedral Assets Optimizer
 Nemesis
 Bodyslide and Outfit Studio
+NifSkope
 
 Other tools you may want, and how to install them (but not required):
 Download, and install to a location outside of the game files or program files:
@@ -93,9 +94,6 @@ Immersive Equipment Mesh Gen
 Skyrim Unlimited Rings Patcher
 
 Skyrim Remove Landscape Vertex Colors
-
-NifSkope
-https://github.com/niftools/nifskope/releases
 
 DynDOLOD 3
 https://www.nexusmods.com/skyrimspecialedition/mods/68518
