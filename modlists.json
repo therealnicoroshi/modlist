@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "The Nico Experience",
     "description": "Power fantasy list that I personally play with emphasis on visuals, combat, new creatures, new places, and fast paced acrobatic combat",
     "author": "nicoroshi",
@@ -8,6 +7,7 @@
       "github/therealnicoroshi"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "Fantasy",
       "MCO",
@@ -17,25 +17,28 @@
       "New Quests"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/therealnicoroshi/modlist/main/ScreenShot9.jpg",
       "readme": "https://github.com/therealnicoroshi/modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/The%20Nico%20Experience.wabbajack_899776a1-f031-4461-b534-46477c1c8718",
+      "download": "https://authored-files.wabbajack.org/The Nico Experience.wabbajack_b2745511-3317-4e6c-a659-b8c64ee4268c",
       "machineURL": "The_Nico_Experience",
       "discordURL": ""
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "akAx3rJsZf8=",
-      "Size": 1233566256,
-      "NumberOfArchives": 1536,
-      "SizeOfArchives": 161288151770,
-      "NumberOfInstalledFiles": 692170,
-      "SizeOfInstalledFiles": 328905558246
+      "Hash": "apY22VvD5nk=",
+      "Size": 1230772697,
+      "NumberOfArchives": 1539,
+      "SizeOfArchives": 161210383394,
+      "NumberOfInstalledFiles": 594782,
+      "SizeOfInstalledFiles": 304883354343
     },
-    "version": "1.1.2"
+    "version": "1.1.3",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-01-31T19:18:35.9180439Z",
+    "repositoryName": ""
   }
 ]
