@@ -18,11 +18,11 @@
     ],
     "nsfw": false,
     "utility_list": false,
-    "image_contains_title": false,
+    "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/therealnicoroshi/modlist/main/ScreenShot9.jpg",
+      "image": "https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg",
       "readme": "https://github.com/therealnicoroshi/modlist/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/The Nico Experience.wabbajack_75ea9769-2606-44c1-9a79-acbf5bbb1c72",
       "machineURL": "The_Nico_Experience",
