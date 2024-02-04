@@ -44,6 +44,22 @@ Repaired Broken Helm Hollow chopping block blood splatter mesh issue
 
 Removed Inferno to fix crazy flames on torches
 
+1.1.4
+Added in:
+
+CCRedguard Strayar floating in Iverstead fix
+
+Sky Reflections Fix
+
+Master Spell Runes
+
+Stellaris Spells
+
+Beyond Reach (Various Patches)
+
+Light Horses of Skyrim
+
+
 
 
 
