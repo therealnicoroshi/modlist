@@ -59,6 +59,10 @@ Beyond Reach (Various Patches)
 
 Light Horses of Skyrim
 
+Re-added VRAMr 12GB version not present in v 1.1.3
+
+Added in Reshade with my personal profile (minus RTGI because it's a paid mod)
+
 
 
 
