@@ -15,24 +15,34 @@ The Nico Experience
 
   Recommended Hardware
 Absolute minimum if using every provided option for optimization is:
+
 Video card with 12GB of VRAM
+
 Processor of 3Gz or better and minumum 4 cores
+
 16GB system ram
+
 Sata SSD with minimum 500 GB of free space and 40GB virtual memory 
+
 NOTE: The minimum specs will certainly struggle to maintain 30-50fps
 
 Ideal specs 
+
 Video Card with 24GB of VRAM
+
 Processor of 4.5GHz or better and 16+ cores
+
 32 GB of system Ram
+
 M.2 nVMe drive with minimum 500 GB of free space and 40GB virtual memory
+
 If you fall somewhere between these two you can play it. Optimization is KEY for any specs so read this to the end for recommended configuration.
 
 Installation:
 Pre-install:
 1. Install a fresh copy of Skyrim AE from Steam version 1.6.1170
 
-2.Install the Creation Kit from Steam
+   2.Install the Creation Kit from Steam
 
 3. Launch the game once from Steam and at the prompt download all CC Content from the full version of AE.
 
@@ -45,7 +55,6 @@ Install (Main)
 
 Run Wabbajack
 
-Choose Install from disk
 Navigate to The Nico Experience wabbajack file and choose your game install location (min 500GB) and file download location
 **There WILL BE about 22 Files that you WILL NEED to click the green DOWNLOAD button on Lover's Lab to download through Wabbajack after signing into Lover's Lab account**
 These armors can be accessed in game via the additem menu
@@ -53,7 +62,7 @@ After those are downloaded the rest of the install should be automated.
 
 Post Installation:
 VERY IMPORTANT:
-1. Make sure you run the mod organizer.exe as admin and have excluded it from your anti-virus
+1. Make sure you run the mod organizer.exe as admin and have excluded it from your anti-virus. Also disable Steam Overlay completely
 2. Navigate to (Drive letter):\Where\you\installed\the Wabbajack\ModOrganizer.ini
 Change this line (near the top)
 gamePath=@ByteArray(C:\\Wabbajack<\\The Nico Experience\\Mod Organizer 2\\Stock Game) 
@@ -105,14 +114,10 @@ https://www.nexusmods.com/skyrimspecialedition/mods/68518
 All the tools you choose to install  need to  link in the top right executable bar in MO2 so these programs can start from within the virtual file structure of MO2.
 This Wabbajack uses a file structure that contains a folder called 'Stock Folder' in the MO2 directory.
 This is where the game will run from. It will NOT run from Skyrim Special Editions Folder so ALL links to executables NEED to point to the Stock Folder in Arguements to work correctly.
-
-In this example image my SSEedit installation is in my P:\ partition (separate from the game files)
-The '-D:' prefix denotes where the data will be located, and the Wabbajack install location is Z:\Fresh install Nico Experience 1_0_2\MO2
-Example image:
  
 
 Find this in MO2 executable bar under <EDIT....> then on the binary click the 3 dots and navigate to your file path for that exe to change this file paths to lead to your specific file install paths OR IT WILL NOT WORK. They are currently set for my file paths. Use those as a reference on how to set them up.
-Good tutorial on how to set these up is here as well >>>>
+Good tutorial on how to set these up is here >>>>
 https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Setting%20up%20Stock%20Game%20for%20Skyrim%20SE.md#tool-setup
 
 Mods that are NOT hosted on Nexus I personally use. 
