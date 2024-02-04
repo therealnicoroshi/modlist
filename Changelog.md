@@ -49,6 +49,8 @@ Added in:
 
 CCRedguard Strayar floating in Iverstead fix
 
+Tree fix on the road East of Whiterun reported by Iyreshot
+
 Sky Reflections Fix
 
 Master Spell Runes
