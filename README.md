@@ -25,7 +25,7 @@ Processor of 3Gz or better and minumum 4 cores
 
 Sata SSD with minimum 500 GB of free space and 40GB virtual memory 
 
-                     NOTE: The minimum specs will certainly struggle to maintain 30-50fps
+   NOTE: The minimum specs will certainly struggle to maintain 30-50fps
 
 Ideal specs:
 
@@ -91,16 +91,24 @@ Base resolution for 21:9 profile is 3440x1440
 Don't forget to change your resoltion in Bethini to match your screen resolution.
 
 Included tools:
+
 Bethini Pie
+
 SSEedit and QuickAutoClean
+
 LOOT
+
 Cathedral Assets Optimizer
+
 Nemesis
+
 Bodyslide and Outfit Studio
+
 NifSkope
 
 
-All the tools you choose to install need to link in the top right executable bar in MO2 so these programs can start from within the virtual file structure of MO2.
+
+All the tools you choose to install in addition to these need to link in the top right executable bar in MO2 so these programs can start from within the virtual file structure of MO2.
 This Wabbajack uses a file structure that contains a folder called 'Stock Folder' in the MO2 directory.
 This is where the game will run from. It will NOT run from Skyrim Special Editions Folder so ALL links to executables NEED to point to the Stock Folder in Arguements to work correctly.
  
@@ -113,10 +121,13 @@ Mods that are NOT hosted on Nexus I personally use.
 They are NOT hard requirements but highly recommended
 
 Voice Files for DBVO on Discord by FearTCB (Requires log in to Discord)
+
 Ciri
+
 https://discord.com/channels/1083738069225709588/1110554398364536885
 
 There are other vioce files on FearTCB's discord you may like as well so look around while there and add the ones you want.
+
 Voice files I put in the Dialog tab of MO2
 
 Kirax BDOR Complete Collection
@@ -136,7 +147,8 @@ Some notes on basic system set up
 This mod list IS graphically taxing on the hardware but systems can run it if they have the room to breathe.
 I'm not going to hold your hand on this, and assume you know Google-fu for anything you don't understand here.
 
-1. Turn off any start up programs or background programs that do not need to be on while running the game. 
+1. Turn off any start up programs or background programs that do not need to be on while running the game.
+   
 https://www.blackviper.com/ is a wonderful resource on trimming the fat out of the Windows System Services.
 
 3. strip that graphics driver down of any AA, AO, AF settings (Turn off) as those effects will be handled by the game engine or the ENB. 
@@ -148,27 +160,29 @@ Run latency at ultra and any settings you can at high performance in the driver.
 Panjano has a good video on how to set this up here >>>
  https://www.youtube.com/watch?v=5DqcgHtkm9I
 
-7. Run either Skyrim Priority (a mod on the Nexus) or Process Lasso (there is a free version) to set priority for Skyrim to HIGH as well as set affinity for the processor core count you have.
+7. Skyrim Priority is included in the tolls tab at the top of MO2. MAKE SURE TO SET THIS TO MATCH YOUR SPECIFIC PROCESSOR!
 
-These are not included as they need to be tuned to fit the specific hardware. See instructiuons on the mod page
-https://www.nexusmods.com/skyrimspecialedition/mods/50129
-
-9. Go to system settings and set virtual memory on the drive the mod organizer is on at 40GB min and 40GB Max. Save and restart.
+8. Go to system settings and set virtual memory on the drive the mod organizer is on at 40GB min and 40GB Max. Save and restart.
 This will be your swap file and supplement the VRAM if needed.
 
 Some Paywalled mods worthy of mention (Not required but you'll have a much better experience with them than without IMHO):
 
 Puredark's Upscaler for ENB ($5)
+
 https://www.patreon.com/posts/skyrimupscaler-85674764
+
 Using this gained me a solid 5-10 FPS as well as superior Anti Aliasing
 
 Some free options would be to upscale using Display tweaks (included in list) or nVidia gForce Experience
 
 Can get the better antialising in the free version of Puredark's upscaler on the nexus if want free.
+
 https://www.nexusmods.com/skyrimspecialedition/mods/80343
 
 Lossless Scaling ($7)
+
 https://store.steampowered.com/app/993090/Lossless_Scaling/
+
 This can do upscaling but I use it for the frame generation feature as the upscaling isn't as nice as the one from PureDark.
 
 NOTE:   Using this frame generator with pureDark's upscaler DLSS Performance I can run this list at 3440x1440 output resolution, and 120-144fps on my 3090 i9 10850 32GB Ram system.
