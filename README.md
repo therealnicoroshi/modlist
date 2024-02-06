@@ -72,8 +72,8 @@ Yours might look different but the idea is to point it to where your Stock Game 
 
 It may already be pointed in the correct location but good to check.
 
-5. in MO2 left pane go to #93 LOD Generation_Output Tab
-6. 
+4. in MO2 left pane go to #93 LOD Generation_Output Tab
+
 Choose either:
 
 VRAMr_Output for 16GB cards (On by default)
