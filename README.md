@@ -14,6 +14,7 @@ limits of what Skyrim can be I invite you to take a trip through
 The Nico Experience 
 
   Recommended Hardware
+  
 Absolute minimum if using every provided option for optimization is:
 
 Video card with 12GB of VRAM
@@ -24,9 +25,9 @@ Processor of 3Gz or better and minumum 4 cores
 
 Sata SSD with minimum 500 GB of free space and 40GB virtual memory 
 
-NOTE: The minimum specs will certainly struggle to maintain 30-50fps
+                     NOTE: The minimum specs will certainly struggle to maintain 30-50fps
 
-Ideal specs 
+Ideal specs:
 
 Video Card with 24GB of VRAM
 
@@ -62,20 +63,31 @@ VERY IMPORTANT:
 1. Make sure you run the mod organizer.exe as admin and have excluded it from your anti-virus. Also disable Steam Overlay completely
 2. Navigate to (Drive letter):\Where\you\installed\the Wabbajack\ModOrganizer.ini
 3. Check this line near the top
-gamePath=@ByteArray(C:\\Wabbajack<\\The Nico Experience\\Mod Organizer 2\\Stock Game 
-(this example is where I installed it.
+   
+gamePath=@ByteArray(C:\\Wabbajack<\\The Nico Experience\\Mod Organizer 2\\Stock Game
+ 
+This example is where I installed it
+
 Yours might look different but the idea is to point it to where your Stock Game folder is located in the new install
+
 It may already be pointed in the correct location but good to check.
-4. in MO2 left pane go to #93 LOD Generation_Output Tab
+
+5. in MO2 left pane go to #93 LOD Generation_Output Tab
+6. 
 Choose either:
+
 VRAMr_Output for 16GB cards (On by default)
 or 
 VRAMr_Output for 12GB cards
-Depending on your graphics card VRAM amount. 
+
+Depending on your graphics card VRAM amount.
+
 CHOOSE ONLY ONE TO ACTIVATE
 
 Default game resolution is 1920x1080 but Profile for 21:9 resolution is included. 
-Base resolution for 21:9 is 3440x1440
+
+Base resolution for 21:9 profile is 3440x1440
+
 Don't forget to change your resoltion in Bethini to match your screen resolution.
 
 Included tools:
