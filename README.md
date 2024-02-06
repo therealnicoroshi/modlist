@@ -41,11 +41,8 @@ If you fall somewhere between these two you can play it. Optimization is KEY for
 Installation:
 Pre-install:
 1. Install a fresh copy of Skyrim AE from Steam version 1.6.1170
-
-   2.Install the Creation Kit from Steam
-
+2. Install the Creation Kit from Steam
 3. Launch the game once from Steam and at the prompt download all CC Content from the full version of AE.
-
 4. Start new game and after hearing  "So you're finally awake" open console (~) and type QQQ then press enter to quit out.
 
 Important Note:
@@ -64,13 +61,12 @@ Post Installation:
 VERY IMPORTANT:
 1. Make sure you run the mod organizer.exe as admin and have excluded it from your anti-virus. Also disable Steam Overlay completely
 2. Navigate to (Drive letter):\Where\you\installed\the Wabbajack\ModOrganizer.ini
-Change this line (near the top)
-gamePath=@ByteArray(C:\\Wabbajack<\\The Nico Experience\\Mod Organizer 2\\Stock Game) 
-(this example is where I installed it. Yours might look different but the idea is to point it to where your Stock Game folder is located in the new install)
-to
-gamePath=@ByteArray(drive letter:\\where\\you installed\\The Wabbajack\\Stock Game)
-
-3. in MO2 left pane go to #93 LOD Generation_Output Tab
+3. Check this line near the top
+gamePath=@ByteArray(C:\\Wabbajack<\\The Nico Experience\\Mod Organizer 2\\Stock Game 
+(this example is where I installed it.
+Yours might look different but the idea is to point it to where your Stock Game folder is located in the new install
+It may already be pointed in the correct location but good to check.
+4. in MO2 left pane go to #93 LOD Generation_Output Tab
 Choose either:
 VRAMr_Output for 16GB cards (On by default)
 or 
@@ -78,9 +74,9 @@ VRAMr_Output for 12GB cards
 Depending on your graphics card VRAM amount. 
 CHOOSE ONLY ONE TO ACTIVATE
 
-Default game resolution is 1920x1080 but support mods for 21:9 resolution are included. 
-Use the search bar on the bottom left for 'Widescreen' to find and implement them.
-Don't forget to change your resoltion in Bethini as well.
+Default game resolution is 1920x1080 but Profile for 21:9 resolution is included. 
+Base resolution for 21:9 is 3440x1440
+Don't forget to change your resoltion in Bethini to match your screen resolution.
 
 Included tools:
 Bethini Pie
@@ -91,27 +87,8 @@ Nemesis
 Bodyslide and Outfit Studio
 NifSkope
 
-Other tools you may want, and how to install them (but not required):
-Download, and install to a location outside of the game files or program files:
- Synthesis
-https://github.com/Mutagen-Modding/Synthesis
-I personally run
 
-Water for ENB Patcher
-
-Water Does Damage Patcher
-
-Immersive Equipment Mesh Gen
-
-Skyrim Unlimited Rings Patcher
-
-Skyrim Remove Landscape Vertex Colors
-
-DynDOLOD 3
-https://www.nexusmods.com/skyrimspecialedition/mods/68518
-
-
-All the tools you choose to install  need to  link in the top right executable bar in MO2 so these programs can start from within the virtual file structure of MO2.
+All the tools you choose to install need to link in the top right executable bar in MO2 so these programs can start from within the virtual file structure of MO2.
 This Wabbajack uses a file structure that contains a folder called 'Stock Folder' in the MO2 directory.
 This is where the game will run from. It will NOT run from Skyrim Special Editions Folder so ALL links to executables NEED to point to the Stock Folder in Arguements to work correctly.
  
@@ -121,8 +98,8 @@ Good tutorial on how to set these up is here >>>>
 https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Setting%20up%20Stock%20Game%20for%20Skyrim%20SE.md#tool-setup
 
 Mods that are NOT hosted on Nexus I personally use. 
-They are NOT hard requirements but recommended
-I had trouble including these via ManualURL so linking them here
+They are NOT hard requirements but highly recommended
+
 Voice Files for DBVO on Discord by FearTCB (Requires log in to Discord)
 Ciri
 https://discord.com/channels/1083738069225709588/1110554398364536885
@@ -130,9 +107,18 @@ https://discord.com/channels/1083738069225709588/1110554398364536885
 There are other vioce files on FearTCB's discord you may like as well so look around while there and add the ones you want.
 Voice files I put in the Dialog tab of MO2
 
-I cannot offer support for this but..........
-There should  be some open ESP slots before you reach the 255 limit to add other things you might like (armor, clothing, followers, etc)
-I recommend staying away from landscape changes, scripted mods or Overhauls as they would most likely cause issues.
+Kirax BDOR Complete Collection
+
+https://kiraxskyrim.com/public-work/bdor-complete-collection
+
+Be sure and grab this to go with it
+
+https://www.nexusmods.com/skyrimspecialedition/mods/103046?tab=files
+
+There are some other armors available on this site as well worthy of looking at. 
+
+Decide what you would like.
+
 
 Some notes on basic system set up
 This mod list IS graphically taxing on the hardware but systems can run it if they have the room to breathe.
