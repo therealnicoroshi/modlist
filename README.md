@@ -1,6 +1,6 @@
 # The Nico Experience
 by Nicoroshi 
-V 1.1.4
+V 1.1.5
 
 Overview:
 
