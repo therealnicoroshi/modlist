@@ -65,6 +65,23 @@ Re-added VRAMr 12GB version not present in v 1.1.3
 
 Added in Reshade with my personal profile (minus RTGI because it's a paid mod)
 
+1.1.5
+Added in:
+
+Nethers Follower framework
+
+widescreen profile for 21x9
+
+usable unlit campfires
+
+player Rotation in Show Race Menu
+
+Added links in Readme for optional Kirax BDOR Armors as well as cleaned up the readme
+
+Updated Tree Optimization - Nico.esp with many clipping repairs of trees througout the game
+
+
+
 
 
 
