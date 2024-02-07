@@ -160,10 +160,11 @@ Run latency at ultra and any settings you can at high performance in the driver.
 Panjano has a good video on how to set this up here >>>
  https://www.youtube.com/watch?v=5DqcgHtkm9I
 
-7. Skyrim Priority is included in the tolls tab at the top of MO2. MAKE SURE TO SET THIS TO MATCH YOUR SPECIFIC PROCESSOR!
+7. Skyrim Priority is included in the tools tab at the top of MO2. MAKE SURE TO SET THIS TO MATCH YOUR SPECIFIC PROCESSOR!
 
 8. Go to system settings and set virtual memory on the drive the mod organizer is on at 40GB min and 40GB Max. Save and restart.
 This will be your swap file and supplement the VRAM if needed.
+
 
 Some Paywalled mods worthy of mention (Not required but you'll have a much better experience with them than without IMHO):
 
@@ -178,6 +179,7 @@ Some free options would be to upscale using Display tweaks (included in list) or
 Can get the better antialising in the free version of Puredark's upscaler on the nexus if want free.
 
 https://www.nexusmods.com/skyrimspecialedition/mods/80343
+
 
 Lossless Scaling ($7)
 
