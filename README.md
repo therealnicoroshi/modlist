@@ -123,8 +123,9 @@ Find this in MO2 executable bar under <EDIT....> then on the binary click the 3 
 Good tutorial on how to set these up is here >>>>
 https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Setting%20up%20Stock%20Game%20for%20Skyrim%20SE.md#tool-setup
 
-Mods that are NOT hosted on Nexus I personally use. 
-They are NOT hard requirements but highly recommended
+
+COMPLETELY OPTIONAL FILES YOU MIGHT LIKE:
+
 
 Voice Files for DBVO on Discord by FearTCB (Requires log in to Discord)
 
@@ -302,15 +303,15 @@ Some creatures will be deleveled so you might come across a level 30 ogre at lev
 You will learn....stick and move, stick and dodge, run and heal or just plain run away to survive at lower levels.
 Recommend difficulty levels:
 
-Level 0-10 Apprentice
+Level 0-9 Apprentice
 
-Level 11-18 Adept
+Level 10-15 Adept
 
-Level 19-25 Expert
+Level 16-20 Expert
 
-Level 26-32 Master
+Level 21-30 Master
 
-Level 32 and up Legendry (if you have the stones for it)
+Level 31 and up Legendry (if you have the stones for it)
 
 The game also has survival built in using Sunhelm but can toggle this on or off along with Cold survival in the MCM.
 
