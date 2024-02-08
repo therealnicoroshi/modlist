@@ -51,6 +51,12 @@ Important Note:
 
 Install (Main)
 
+Make sure you are on the latest version of Wabbajack. As of this readme writing it's 3.5.0.1
+
+Get it here>>>
+
+https://github.com/wabbajack-tools/wabbajack/releases/tag/3.5.0.1
+
 Run Wabbajack
 
 Navigate to The Nico Experience wabbajack file and choose your game install location (min 500GB) and file download location
