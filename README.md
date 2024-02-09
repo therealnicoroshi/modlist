@@ -199,8 +199,11 @@ without these two my system runs this list at 30-50 fps.
 Decide for yourself what is right for you.
 
 The MCM Menu
-Alright.....There is a LOT here. I do have some profiles I set up that should be a part of this Wabbajack that are set up the way I like it. 
+
+Alright.....There is a LOT here. I do have some profiles I set up that should be a part of this Wabbajack that are set up the way I like it.
+
 I recommend running the MCM Recorder Profile for Ryn if playing a female character. 
+
 There is also one character preset included for a red headed Nord (Ryn) you can use if you'd like.
 
 You can run these using MCM Recorder in the MCM Menu to get you started or simply go through the MCM menu one at a time, and set how you like it.
