@@ -1,6 +1,6 @@
 # The Nico Experience
 by Nicoroshi 
-V 1.1.5
+V 1.1.6
 
 Overview:
 
@@ -209,26 +209,6 @@ It is IMPORTANT to leave Minatours and Spiders turned OFF for OBIS, ore guardian
 
 Magical jumping is non-lore friendly in the recorder (means you have it by default)
 
-Important things to know regarding paraglider and magical jumping:
-
-Sometimes Paraglider will get stuck and not work. 
-Loading from desktop will require a load from within game to reset paraglider.
-
-Not working?  -> Quicksave -> quickload = profit
-
-This was tracked to go to bed\ campfire\ use those blankets conflict.
-
-How to avoid this:
-
-Set up tent in campfire. 
-Use activate key and choose 'lay down'.
-USE ONLY THE JUMP KEY 'E' TO CHOOSE SLEEP.
-Get up after sleeping using directional keys ONLY (NOT MENU).
-
-If you use the activate key to sleep or get up you will need to quicksave and quick load to regain use of the paraglider.
-
-Good Rule of Thumb for this list....Do a little jump and activate the glide crow to make sure it's working BEFORE jumping off any mountains.
-
 Magical Jumping: this can be kind of glitchy with other mods in the list.
 
 What I did:
@@ -262,20 +242,6 @@ G = walk/Run Toggle
 While falling
 
 Paraglider pull or put away = activate key
-
-Falling arts/ skydiving =
-  Adding additional control mechanics: Activating the Gale spell without equip spell :
-  
--While in glider state ,pressing  Space key (Gamepad use Y) .
-
--While in a Falling state, pressingLeft ctrl key (Gamepad : LEFT_THUMB)
- allows for adjusting the Link-style skydiving posture.
- 
--press Left Alt key (Gamepad : LEFT_SHOULDER) into accelerate state when in skydiving state
-  and press sneak button Left ctrl key(Gamepad : LEFT_THUMB) again back to skydiving.
-  
--press Left Shift key(Gamepad : RIGHT_THUMB) to use Air Dodge.
-Some key binds like TK Dodge are in SKSE ini files so if you can't find it then it's probably in an ini file in SKSE folder of that mod.
 
 
 How I set some Keys in the MCM Recorder
