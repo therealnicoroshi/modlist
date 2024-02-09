@@ -88,6 +88,42 @@ Added links in Readme for optional Kirax BDOR Armors as well as cleaned up the r
 
 Updated Tree Optimization - Nico.esp with many clipping repairs of trees througout the game
 
+1.1.6
+
+Added in:
+
+Shadow of Skyrim
+
+Face Sculptor QE
+
+High Poly Head
+
+Kaiden
+
+Khajiit will follow
+
+Anja
+
+Unmasking Sybille
+
+FYX Fire reacts to wind
+
+Changed more .esp to .esl (without compacting Form IDs)
+
+Updated Mods:
+
+EVG Animated traversal
+
+Immersive Interactions
+
+Removed mods:
+
+Skydiving Falling Art to remove conflict with Paraglider not working correctly
+
+
+
+
+
 
 
 
