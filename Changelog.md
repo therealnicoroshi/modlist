@@ -120,6 +120,33 @@ Removed mods:
 
 Skydiving Falling Art to remove conflict with Paraglider not working correctly
 
+1.1.7
+
+Added in:
+
+Unofficial LUX Patch Hub
+
+NIF Preview for MO2
+
+Ogre club fix for Immersive creatures
+
+CC Wild Horses - Fluffworks - Lighter horses compatibility patch
+
+CC Landscape fix at cave entrance to Rielle CC content
+
+Arc's Kettle Redux
+
+Quiet Dog
+
+Sparks react to wind
+
+FYX Diverse Campfires
+
+Reverted .esl flags on Roguelike encounters optional .esps
+
+
+
+
 
 
 
