@@ -1,6 +1,6 @@
 # The Nico Experience
 by Nicoroshi 
-V 1.1.7
+V 1.1.8
 
 Overview:
 
@@ -193,6 +193,8 @@ Lossless Scaling ($7)
 https://store.steampowered.com/app/993090/Lossless_Scaling/
 
 This can do upscaling but I use it for the frame generation feature as the upscaling isn't as nice as the one from PureDark.
+
+Use the Beta - Beta version under properties/ updates
 
 NOTE:   Using this frame generator with pureDark's upscaler DLSS Performance I can run this list at 3440x1440 output resolution, and 120-144fps on my 3090 i9 10850 32GB Ram system.
 without these two my system runs this list at 30-50 fps.
