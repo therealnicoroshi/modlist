@@ -144,6 +144,21 @@ FYX Diverse Campfires
 
 Reverted .esl flags on Roguelike encounters optional .esps
 
+1.1.8
+
+Added in:
+
+Nocturnal Moths
+
+Fully Voiced Version of Anja Iceheart Follower
+
+Sa'Chil Follower
+
+Sa'Chil fluffy SMP Tail
+
+Sa'Chil PAtch Hub
+
+
 
 
 
