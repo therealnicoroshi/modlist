@@ -1,6 +1,6 @@
 # The Nico Experience
 by Nicoroshi 
-V 1.1.8
+V 1.1.9
 
 Overview:
 
@@ -173,7 +173,7 @@ Panjano has a good video on how to set this up here >>>
 This will be your swap file and supplement the VRAM if needed.
 
 
-Some Paywalled mods worthy of mention (Not required but you'll have a much better experience with them than without IMHO):
+Some OPTIONAL Paywalled mods worthy of mention (Not required but you'll have a much better experience with them than without IMHO):
 
 Puredark's Upscaler for ENB ($5)
 
