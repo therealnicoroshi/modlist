@@ -158,6 +158,16 @@ Sa'Chil fluffy SMP Tail
 
 Sa'Chil PAtch Hub
 
+1.1.9
+
+Added in:
+
+ENB series Update to latest .499 release
+
+updated Tree Optimization.esp with new bug fixes
+
+Lux_Karthspire PAtch - Nico to fix hard freeze up in main quest at the entrance to Skyhaven temple
+
 
 
 
