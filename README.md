@@ -1,6 +1,6 @@
 # The Nico Experience
 by Nicoroshi 
-V 1.1.9
+V 1.2.0
 
 Overview:
 
@@ -47,7 +47,7 @@ Pre-install:
 4. Start new game and after hearing  "So you're finally awake" open console (~) and type QQQ then press enter to quit out.
 
 Important Note:
-**You will need a Lovers Lab account for some manual downloads in the Wabbajack**
+**You will need a Lovers Lab, and Vector Plexis account for some manual downloads in the Wabbajack**
 
 Install (Main)
 
@@ -139,11 +139,8 @@ Voice files I put in the Dialog tab of MO2
 
 Kirax BDOR Complete Collection
 
-https://kiraxskyrim.com/public-work/bdor-complete-collection
+https://www.loverslab.com/files/file/20287-bdor-complete-collection-by-kirax/
 
-Be sure and grab this to go with it
-
-https://www.nexusmods.com/skyrimspecialedition/mods/103046?tab=files
 
 There are some other armors available on this site as well worthy of looking at. 
 
