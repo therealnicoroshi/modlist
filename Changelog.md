@@ -162,11 +162,28 @@ Sa'Chil PAtch Hub
 
 Added in:
 
-ENB series Update to latest .499 release
+ENB update to latest .499 release
 
 updated Tree Optimization.esp with new bug fixes
 
-Lux_Karthspire PAtch - Nico to fix hard freeze up in main quest at the entrance to Skyhaven temple
+Lux_Karthspire Patch - Nico to fix hard freeze up in main quest at the entrance to Skyhaven temple
+
+1.2.0
+
+Added in: 
+
+Floating tree moss removal in JK's Skyhaven Temple
+
+Floating tree moss removal in Skyhaven Forge exterior
+
+Floating leaves in the Riften waters
+
+Floating leaves inside the town of Riften (from sky)
+
+Snowy Carts
+
+Repaired ENB update files to latest .499 release (1.1.9 still had older version).
+
 
 
 
