@@ -64,13 +64,6 @@ Navigate to The Nico Experience wabbajack file and choose your game install loca
 These armors can be accessed in game via the additem menu
 After those are downloaded the rest of the install should be automated.
 
-Potentailly problematic file:
-
-BDOr Complete collection by Kirax  
-https://www.loverslab.com/files/file/20287-bdor-complete-collection-by-kirax/
-
-If this Fails during the wabbajack installation please download from here and drop the downloads folder and re run the installer.
-
 Post Installation:
 VERY IMPORTANT:
 1. Make sure you run the mod organizer.exe as admin and have excluded it from your anti-virus. Also disable Steam Overlay completely
