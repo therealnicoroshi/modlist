@@ -66,7 +66,9 @@ After those are downloaded the rest of the install should be automated.
 
 Potentailly problematic file:
 
-BDOr Complete collection by Kirax  https://www.loverslab.com/files/file/20287-bdor-complete-collection-by-kirax/
+BDOr Complete collection by Kirax  
+https://www.loverslab.com/files/file/20287-bdor-complete-collection-by-kirax/
+
 If this Fails during the wabbajack installation please download from here and drop the downloads folder and re run the installer.
 
 Post Installation:
