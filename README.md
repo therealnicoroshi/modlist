@@ -124,29 +124,6 @@ Good tutorial on how to set these up is here >>>>
 https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Setting%20up%20Stock%20Game%20for%20Skyrim%20SE.md#tool-setup
 
 
-COMPLETELY OPTIONAL FILES YOU MIGHT LIKE:
-
-
-Voice Files for DBVO on Discord by FearTCB (Requires log in to Discord)
-
-Ciri
-
-https://discord.com/channels/1083738069225709588/1110554398364536885
-
-There are other vioce files on FearTCB's discord you may like as well so look around while there and add the ones you want.
-
-Voice files I put in the Dialog tab of MO2
-
-Kirax BDOR Complete Collection
-
-https://www.loverslab.com/files/file/20287-bdor-complete-collection-by-kirax/
-
-
-There are some other armors available on this site as well worthy of looking at. 
-
-Decide what you would like.
-
-
 Some notes on basic system set up
 This mod list IS graphically taxing on the hardware but systems can run it if they have the room to breathe.
 I'm not going to hold your hand on this, and assume you know Google-fu for anything you don't understand here.
@@ -169,33 +146,6 @@ Panjano has a good video on how to set this up here >>>
 8. Go to system settings and set virtual memory on the drive the mod organizer is on at 40GB min and 40GB Max. Save and restart.
 This will be your swap file and supplement the VRAM if needed.
 
-
-Some OPTIONAL Paywalled mods worthy of mention (Not required but you'll have a much better experience with them than without IMHO):
-
-Puredark's Upscaler for ENB ($5)
-
-https://www.patreon.com/posts/skyrimupscaler-85674764
-
-Using this gained me a solid 5-10 FPS as well as superior Anti Aliasing
-
-Some free options would be to upscale using Display tweaks (included in list) or nVidia gForce Experience
-
-Can get the better antialising in the free version of Puredark's upscaler on the nexus if want free.
-
-https://www.nexusmods.com/skyrimspecialedition/mods/80343
-
-
-Lossless Scaling ($7)
-
-https://store.steampowered.com/app/993090/Lossless_Scaling/
-
-This can do upscaling but I use it for the frame generation feature as the upscaling isn't as nice as the one from PureDark.
-
-Use the Beta - Beta version under properties/ updates
-
-NOTE:   Using this frame generator with pureDark's upscaler DLSS Performance I can run this list at 3440x1440 output resolution, and 120-144fps on my 3090 i9 10850 32GB Ram system.
-without these two my system runs this list at 30-50 fps.
-Decide for yourself what is right for you.
 
 The MCM Menu
 
