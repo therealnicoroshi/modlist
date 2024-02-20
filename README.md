@@ -64,7 +64,13 @@ Navigate to The Nico Experience wabbajack file and choose your game install loca
 These armors can be accessed in game via the additem menu
 After those are downloaded the rest of the install should be automated.
 
+If you have any problems please come to the discord for help
+
+https://discord.gg/yEwUP4Rq
+
+
 Post Installation:
+
 VERY IMPORTANT:
 1. Make sure you run the mod organizer.exe as admin and have excluded it from your anti-virus. Also disable Steam Overlay completely
 2. Navigate to (Drive letter):\Where\you\installed\the Wabbajack\ModOrganizer.ini
