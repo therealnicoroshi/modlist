@@ -16,8 +16,11 @@ The Nico Experience
 Disclaimer/Information:
 
 This modlist requires Skyrim AE v. 1.6.1170 with paid CC content.
+
 It will auto Downgrade and run Skyrim SE 1.5.97 with CC content.
+
 It is released with Open Permissions per the Wabbajack License Agreement 
+
 https://github.com/wabbajack-tools/wabbajack/blob/main/LICENSE.txt
 
 
