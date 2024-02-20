@@ -13,7 +13,15 @@ So if you're looking for a visually stunning Skyrim experience that will push th
 limits of what Skyrim can be I invite you to take a trip through
 The Nico Experience 
 
-  Recommended Hardware
+Disclaimer/Information:
+
+This modlist requires Skyrim AE v. 1.6.1170 with paid CC content.
+It will auto Downgrade and run Skyrim SE 1.5.97 with CC content.
+It is released with Open Permissions per the Wabbajack License Agreement 
+https://github.com/wabbajack-tools/wabbajack/blob/main/LICENSE.txt
+
+
+  Recommended Hardware:
   
 Absolute minimum if using every provided option for optimization is:
 
@@ -27,7 +35,8 @@ Sata SSD with minimum 500 GB of free space and 40GB virtual memory
 
    NOTE: The minimum specs will certainly struggle to maintain 30-50fps
 
-Ideal specs:
+ 
+  Ideal specs:
 
 Video Card with 24GB of VRAM
 
