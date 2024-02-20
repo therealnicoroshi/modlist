@@ -24,6 +24,8 @@ It is released with Open Permissions per the Wabbajack License Agreement
 https://github.com/wabbajack-tools/wabbajack/blob/main/LICENSE.txt
 
 
+
+
   Recommended Hardware:
   
 Absolute minimum if using every provided option for optimization is:
