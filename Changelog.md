@@ -184,6 +184,24 @@ Snowy Carts
 
 Repaired ENB update files to latest .499 release (1.1.9 still had older version).
 
+1.2.1
+
+Added in:
+
+patch file to repair floating birds in Karthwasten
+
+Updated Tree_Optimization to 1_9 with more fixes of tree conflicts
+
+Changed ENB Night eye settings back to Rudy ENB default
+
+Added Arc's Kitchen Redux
+
+Added Various Food in cooking pots
+
+re-added missing VRAMr 12GB output into wabbajack included files
+
+
+
 
 
 
