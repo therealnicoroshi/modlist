@@ -116,6 +116,7 @@ Base resolution for 21:9 profile is 3440x1440
 
 Don't forget to change your resoltion in Bethini to match your screen resolution.
 
+
 Included tools:
 
 Bethini Pie
