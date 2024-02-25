@@ -7,22 +7,22 @@ V 1.2.2
 
 
 - [Overview](README.md#overview)
- - [Disclaimer/Information](-disclaimer/information)
-- [Recommended Minimum Hardware](-recommended-minimum-hardware)
-- [Ideal Specs](-ideal-specs)
-- [Installation](-installation)
- - [Pre-Install](-pre-install)
- - [Main Install](-main-install)
-- [Post Installation](-post-installation)
-- [included Tools](-included-tools)
- - [About Adding More Tools](-about-adding-more-tools)
- - [Some Notes on Basic System Setup](-some-notes-on-basic-system-setup)
-- [The MCM Menu](-the-mcm-menu)
-- [Some Important Default Keys to Know](-some-important-default-keys-to-know)
- - [Word of Warning](-word-of-warning)
-- [Recommended Difficulty Levels](-recommended-difficulty-levels)
- - [Shout Out To Some Awesome People](-shout-out-to-some-awesome-people)
-- [Final Words Before I Let You Go](-final-words-before-i-let-you-go)
+ - [Disclaimer/Information](README.md#disclaimer-and-information)
+- [Recommended Minimum Hardware](README.md#recommended-minimum-hardware)
+- [Ideal Specs](README.md#ideal-specs)
+- [Installation](README.md#installation)
+ - [Pre-Install](README.md#pre-install)
+ - [Main Install](README.md#main-install)
+- [Post Installation](README.md#post-installation)
+- [included Tools](README.md#included-tools)
+ - [About Adding More Tools](README.md#about-adding-more-tools)
+ - [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-setup)
+- [The MCM Menu](README.md#the-mcm-menu)
+- [Some Important Default Keys to Know](README.md#some-important-default-keys-to-know)
+ - [Word of Warning](README.md#word-of-warning)
+- [Recommended Difficulty Levels](README.md#recommended-difficulty-levels)
+ - [Shout Out To Some Awesome People](README.md#shout-out-to-some-awesome-people)
+- [Final Words Before I Let You Go](README.md#final-words-before-i-let-you-go)
 
    
 ## Overview:
@@ -38,7 +38,7 @@ limits of what Skyrim can be I invite you to take a trip through
 The Nico Experience 
 
 
- ## Disclaimer/Information:
+ ## Disclaimer and Information:
 
 This modlist requires Skyrim AE v. 1.6.1170 with paid CC content.
 
