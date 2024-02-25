@@ -91,8 +91,8 @@ If you fall somewhere between these two you can play it. Optimization is KEY for
   ## Main Install:
 
 Make sure you are on the latest version of Wabbajack. As of this readme writing it's 3.5.0.1
-Get it here>>>
-https://github.com/wabbajack-tools/wabbajack/releases/tag/3.5.0.1
+
+Get it here>>> https://github.com/wabbajack-tools/wabbajack/releases/tag/3.5.0.1
 
 
 1. Browse to The Nico Experience wabbajack, and click the Download arrow in the bottom right corner.
