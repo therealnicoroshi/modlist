@@ -40,6 +40,7 @@ The Nico Experience
 
  # Requirements and Information:
 
+ 
 This modlist requires the Steam version of Skyrim AE v. 1.6.1170 with paid CC content.
 
 It will auto Downgrade and run Skyrim SE 1.5.97 with CC content.
@@ -51,8 +52,6 @@ https://github.com/wabbajack-tools/wabbajack/blob/main/LICENSE.txt
 Support will be provided for non-modified installations of the list via the Discord server
 
 Found here>>> https://discord.gg/yEwUP4Rq
-
-
 
 
 
