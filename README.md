@@ -88,7 +88,7 @@ If you fall somewhere between these two you can play it. Optimization is KEY for
   ## >Important Note<:
 **You will need a Lovers Lab, and Vector Plexis account for some manual downloads in the Wabbajack**
 
- ## Main Install:
+  ## Main Install:
 
 Make sure you are on the latest version of Wabbajack. As of this readme writing it's 3.5.0.1
 Get it here>>>
