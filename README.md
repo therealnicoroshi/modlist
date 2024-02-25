@@ -7,7 +7,7 @@ V 1.2.2
 
 
 - [Overview](README.md#overview)
-  - [Disclaimer/Information](README.md#disclaimer-and-information)
+  - [Requirements/Information](README.md#requirements-and-information)
  - [Recommended Minimum Hardware](README.md#recommended-minimum-hardware)
  - [Ideal Specs](README.md#ideal-specs)
 - [Installation](README.md#installation)
@@ -38,9 +38,9 @@ limits of what Skyrim can be I invite you to take a trip through
 The Nico Experience 
 
 
- ## Disclaimer and Information:
+ ## Requirements and Information:
 
-This modlist requires Skyrim AE v. 1.6.1170 with paid CC content.
+This modlist requires the Steam version of Skyrim AE v. 1.6.1170 with paid CC content.
 
 It will auto Downgrade and run Skyrim SE 1.5.97 with CC content.
 
