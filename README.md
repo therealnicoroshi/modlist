@@ -16,7 +16,7 @@ V 1.2.2
 - [Post Installation](README.md#post-installation)
   - [included Tools](README.md#included-tools)
   - [About Adding More Tools](README.md#about-adding-more-tools)
-  - [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-setup)
+  - [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-set-up)
   - [The MCM Menu](README.md#the-mcm-menu)
 - [Some Important Default Keys to Know](README.md#some-important-default-keys-to-know)
   - [Word of Warning](README.md#word-of-warning)
