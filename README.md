@@ -1,8 +1,32 @@
+![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
+
 # The Nico Experience
 by Nicoroshi 
-V 1.2.1
+V 1.2.2
 
-Overview:
+
+
+- [Overview](readme.md-overview)
+ - [Disclaimer/Information](-disclaimer/information)
+- [Recommended Minimum Hardware](-recommended-minimum-hardware)
+- [Ideal Specs](-ideal-specs)
+- [Installation](-installation)
+ - [Pre-Install](-pre-install)
+ - [Main Install](-main-install)
+- [Post Installation](-post-installation)
+- [included Tools](-included-tools)
+ - [About Adding More Tools](-about-adding-more-tools)
+ - [Some Notes on Basic System Setup](-some-notes-on-basic-system-setup)
+- [The MCM Menu](-the-mcm-menu)
+- [Some Important Default Keys to Know](-some-important-default-keys-to-know)
+ - [Word of Warning](-word-of-warning)
+- [Recommended Difficulty Levels](-recommended-difficulty-levels)
+ - [Shout Out To Some Awesome People](-shout-out-to-some-awesome-people)
+- [Final Words Before I Let You Go](-final-words-before-i-let-you-go)
+
+   
+## Overview:
+ 
 
 This is the mod list I personally play. I would describe it as a power fantasy list with 
 emphasis on visuals, combat, new creatures, new places, and fast paced game play.
@@ -13,7 +37,8 @@ So if you're looking for a visually stunning Skyrim experience that will push th
 limits of what Skyrim can be I invite you to take a trip through
 The Nico Experience 
 
-Disclaimer/Information:
+
+ ## Disclaimer/Information:
 
 This modlist requires Skyrim AE v. 1.6.1170 with paid CC content.
 
@@ -25,8 +50,7 @@ https://github.com/wabbajack-tools/wabbajack/blob/main/LICENSE.txt
 
 
 
-
-  Recommended Hardware:
+ ## Recommended Minimum Hardware:
   
 Absolute minimum if using every provided option for optimization is:
 
@@ -41,7 +65,7 @@ Sata SSD with minimum 500 GB of free space and 40GB virtual memory
    NOTE: The minimum specs will certainly struggle to maintain 30-50fps
 
  
-  Ideal specs:
+  ## Ideal specs:
 
 Video Card with 24GB of VRAM
 
@@ -53,29 +77,32 @@ M.2 nVMe drive with minimum 500 GB of free space and 40GB virtual memory
 
 If you fall somewhere between these two you can play it. Optimization is KEY for any specs so read this to the end for recommended configuration.
 
-Installation:
-Pre-install:
+
+# Installation:
+  ## Pre-install:
 1. Install a fresh copy of Skyrim AE from Steam version 1.6.1170
 2. Install the Creation Kit from Steam
 3. Launch the game once from Steam and at the prompt download all CC Content from the full version of AE.
 4. Start new game and after hearing  "So you're finally awake" open console (~) and type QQQ then press enter to quit out.
 
-Important Note:
+  ## >Important Note<:
 **You will need a Lovers Lab, and Vector Plexis account for some manual downloads in the Wabbajack**
 
-Install (Main)
+ ## Main Install:
 
 Make sure you are on the latest version of Wabbajack. As of this readme writing it's 3.5.0.1
-
 Get it here>>>
-
 https://github.com/wabbajack-tools/wabbajack/releases/tag/3.5.0.1
 
-Run Wabbajack
 
-Navigate to The Nico Experience wabbajack file and choose your game install location (min 500GB) and file download location
-**There WILL BE about 22 Files that you WILL NEED to click the green DOWNLOAD button on Lover's Lab to download through Wabbajack after signing into Lover's Lab account**
-These armors can be accessed in game via the additem menu
+1. Browse to The Nico Experience wabbajack, and click the Download arrow in the bottom right corner.
+2. When download is complete click the play arrow in the same location.
+3. Choose your install location, and Download location in the Wabbajack window.
+  ## **Make sure the install location is minimum 500GB and OUTSIDE of any program or system files**
+
+  ### NOTE: **There WILL BE about 22 Files that you WILL NEED to click the green DOWNLOAD button on Lover's Lab to download through Wabbajack after signing into Lover's Lab account**
+
+These armors can be accessed in game via the additem menu or dMenu
 After those are downloaded the rest of the install should be automated.
 
 If you have any problems please come to the discord for help
@@ -83,7 +110,7 @@ If you have any problems please come to the discord for help
 https://discord.gg/yEwUP4Rq
 
 
-Post Installation:
+ ## Post Installation:
 
 VERY IMPORTANT:
 1. Make sure you run the mod organizer.exe as admin and have excluded it from your anti-virus. Also disable Steam Overlay completely
@@ -100,7 +127,7 @@ It may already be pointed in the correct location but good to check.
 
 4. in MO2 left pane go to #93 LOD Generation_Output Tab
 
-Choose either:
+  ## Choose either:
 
 VRAMr_Output for 16GB cards (On by default)
 or 
@@ -108,16 +135,16 @@ VRAMr_Output for 12GB cards
 
 Depending on your graphics card VRAM amount.
 
-CHOOSE ONLY ONE TO ACTIVATE
+  ## *CHOOSE ONLY ONE TO ACTIVATE*
 
-Default game resolution is 1920x1080 but Profile for 21:9 resolution is included. 
+Default game resolution is 1920x1080. 
 
 Base resolution for 21:9 profile is 3440x1440
 
-Don't forget to change your resoltion in Bethini to match your screen resolution.
+  ### *Don't forget to change your resoltion in Bethini to match your screen resolution.*
 
 
-Included tools:
+## Included tools:
 
 Bethini Pie
 
@@ -134,6 +161,8 @@ Bodyslide and Outfit Studio
 NifSkope
 
 
+ ## About Adding more tools:
+
 
 All the tools you choose to install in addition to these need to link in the top right executable bar in MO2 so these programs can start from within the virtual file structure of MO2.
 This Wabbajack uses a file structure that contains a folder called 'Stock Folder' in the MO2 directory.
@@ -145,30 +174,31 @@ Good tutorial on how to set these up is here >>>>
 https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Setting%20up%20Stock%20Game%20for%20Skyrim%20SE.md#tool-setup
 
 
-Some notes on basic system set up
+
+  ## Some notes on basic system set up:
+	
 This mod list IS graphically taxing on the hardware but systems can run it if they have the room to breathe.
 I'm not going to hold your hand on this, and assume you know Google-fu for anything you don't understand here.
 
-1. Turn off any start up programs or background programs that do not need to be on while running the game.
-   
+1. Turn off any start up programs or background programs that do not need to be on while running the game.   
 https://www.blackviper.com/ is a wonderful resource on trimming the fat out of the Windows System Services.
 
-3. strip that graphics driver down of any AA, AO, AF settings (Turn off) as those effects will be handled by the game engine or the ENB. 
+2. strip that graphics driver down of any AA, AO, AF settings (Turn off) as those effects will be handled by the game engine or the ENB. 
 DO NOT DOUBLE UP ON EFFECTS!  It will kill your framerate and will not look any better than only one doing that specific effect.
 Run Gsync if avialable and for Heavens sake DO NOT use the in game vsync. Use driver vsync instead.
 Run latency at ultra and any settings you can at high performance in the driver.
 
-5. Run resizable bar if your hardware is capable of it. It widens the bandwidth for better file transfer speeds (i.e. smoother gameplay)
+3. Run resizable bar if your hardware is capable of it. It widens the bandwidth for better file transfer speeds (i.e. smoother gameplay)
 Panjano has a good video on how to set this up here >>>
  https://www.youtube.com/watch?v=5DqcgHtkm9I
 
-7. Skyrim Priority is included in the tools tab at the top of MO2. MAKE SURE TO SET THIS TO MATCH YOUR SPECIFIC PROCESSOR!
+4. Skyrim Affinity is included in the tools tab at the top of MO2. MAKE SURE TO SET THIS TO MATCH YOUR SPECIFIC PROCESSOR!
 
-8. Go to system settings and set virtual memory on the drive the mod organizer is on at 40GB min and 40GB Max. Save and restart.
+5. Go to system settings and set virtual memory on the drive the mod organizer is on at 40GB min and 40GB Max. Save and restart.
 This will be your swap file and supplement the VRAM if needed.
 
 
-The MCM Menu
+ ## The MCM Menu:
 
 Alright.....There is a LOT here. I do have some profiles I set up that should be a part of this Wabbajack that are set up the way I like it.
 
@@ -190,7 +220,8 @@ Set lore friendly mode to 'OFF'. In the SKSE folder DTry Ultilities find magical
 
 This disables the dash, and bash parts but keeps NO fall damage on and allows for triple jumping magical jumps by default
 
-Some important default keys to know
+
+# *Some important default keys to know*:
 
 Caps Lock + Enter = ENB Menu
 
@@ -212,12 +243,22 @@ Dodges= Direction + Left Shift (can be changed in ini file for TK Dodge RE)
 
 G = walk/Run Toggle
 
+Left Control = Wheeler menu
+
+Shift = sprint
+
+Del = dMenu
+
+Home = Reshade menu
+
+
 While falling
 
 Paraglider pull or put away = activate key
 
 
 How I set some Keys in the MCM Recorder
+
 Page Down = Proteus Wheel
 
 Page Up = SMP reset
@@ -237,10 +278,12 @@ Page Up = SMP reset
 C = Quicklight toggle
                      
 
-Word of Warning 
+## *Word of Warning*:
+
 Some creatures will be deleveled so you might come across a level 30 ogre at level 1 and have to run to survive. Ye have been warned!
 You will learn....stick and move, stick and dodge, run and heal or just plain run away to survive at lower levels.
-Recommend difficulty levels:
+
+ ## Recommend difficulty levels:
 
 Level 0-9 Apprentice
 
@@ -262,7 +305,7 @@ There are added worldspaces to explore as well.
 
 Wyrmstooth and Beyond Reach will start at a certain level but some you will just find in your exploring like Chanterelle, The Shire, Moonpath to Elswyer, Darkend, Skyrim Sewers, and Skyrim Underground.
 
-Shout out to some awesome people
+ ## Shout out to some awesome people:
 
 Halgari for creation of this wonderful tool
 
@@ -276,7 +319,8 @@ BiggieBoss
 
 You people Rock!
 
-Final words before I let you go
+## Final words before I let you go:
+
 I designed this mod list to be tougher than anything vanilla with FAR more creatures that are tougher than stock ones.
 As such I have included a mod called skyrim skill uncapper. It has an ini file you can tweak to your liking increasing (or decreasing) the amount of perk points per level as well as amount things like health, magica, and stamina go up per level. Default it is set up with an ini designed for use with Ordinator which is the main perk mod in this list.
 I have also included a mod called Unlimited Rings and Amulets to offset the difficulty.
