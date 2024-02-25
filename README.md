@@ -6,7 +6,7 @@ V 1.2.2
 
 
 
-- [Overview](readme.md/#-overview)
+- [Overview](readme.md-overview)
  - [Disclaimer/Information](-disclaimer/information)
 - [Recommended Minimum Hardware](-recommended-minimum-hardware)
 - [Ideal Specs](-ideal-specs)
