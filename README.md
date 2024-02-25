@@ -48,6 +48,12 @@ It is released with Open Permissions per the Wabbajack License Agreement
 
 https://github.com/wabbajack-tools/wabbajack/blob/main/LICENSE.txt
 
+Support will be provided for non-modified installations of the list via the Discord server
+
+Found here>>> https://discord.gg/yEwUP4Rq
+
+
+
 
 
  ## Recommended Minimum Hardware:
