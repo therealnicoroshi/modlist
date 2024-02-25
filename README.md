@@ -25,7 +25,7 @@ V 1.2.2
 - [Final Words Before I Let You Go](README.md#final-words-before-i-let-you-go)
 
    
-## Overview:
+# Overview:
  
 
 This is the mod list I personally play. I would describe it as a power fantasy list with 
@@ -38,7 +38,7 @@ limits of what Skyrim can be I invite you to take a trip through
 The Nico Experience 
 
 
- ## Requirements and Information:
+ # Requirements and Information:
 
 This modlist requires the Steam version of Skyrim AE v. 1.6.1170 with paid CC content.
 
