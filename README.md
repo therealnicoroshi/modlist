@@ -100,7 +100,8 @@ Get it here>>> https://github.com/wabbajack-tools/wabbajack/releases/tag/3.5.0.1
 3. Choose your install location, and Download location in the Wabbajack window.
   ## **Make sure the install location is minimum 500GB and OUTSIDE of any program or system files**
 
-  ### NOTE: **There WILL BE about 22 Files that you WILL NEED to click the green DOWNLOAD button on Lover's Lab to download through Wabbajack after signing into Lover's Lab account**
+  ### NOTE: **There WILL BE about 22 Files that you WILL NEED to use the wabbajack manualURL window to download**
+  ### Just read the top left corner for instructions for each file
 
 These armors can be accessed in game via the additem menu or dMenu
 After those are downloaded the rest of the install should be automated.
