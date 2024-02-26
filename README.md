@@ -110,6 +110,7 @@ Get it here>>> https://github.com/wabbajack-tools/wabbajack/releases/tag/3.5.0.1
   ### Just read the top left corner for instructions for each file
 
 These armors can be accessed in game via the additem menu or dMenu
+
 After those are downloaded the rest of the install should be automated.
 
 If you have any problems please come to the discord for help
