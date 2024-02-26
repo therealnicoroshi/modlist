@@ -3,7 +3,7 @@
 # The Nico Experience
 by Nicoroshi 
 
-# v. 1.2.2
+## v. 1.2.2
 
 
 
