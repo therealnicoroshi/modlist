@@ -2,7 +2,8 @@
 
 # The Nico Experience
 by Nicoroshi 
-V 1.2.2
+
+# v. 1.2.2
 
 
 
