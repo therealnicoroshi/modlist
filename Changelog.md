@@ -1,10 +1,10 @@
 Version History:
 
-1.1.0 
+# 1.1.0 
 
 first public release 
 
-1.1.1 
+# 1.1.1 
 
 Added in:
 
@@ -16,7 +16,7 @@ Kabu's Really Gourd Plant Replacer
 
 Recompiled wabbajack for Skyrim 1.6.1170
 
-1.1.2
+# 1.1.2
 
 Added in:
 
@@ -30,7 +30,7 @@ Clean in Cathedral Assets Optimizer NordicLargeTent02.nif and textures
 
 Added SSEedit and Cathedral assets Optimizer as tools included in the list
 
-1.1.3
+# 1.1.3
 
 Added in:
 
@@ -50,7 +50,7 @@ Repaired Broken Helm Hollow chopping block blood splatter mesh issue
 
 Removed Inferno to fix crazy flames on torches
 
-1.1.4
+# 1.1.4
 
 Added in:
 
@@ -72,7 +72,7 @@ Re-added VRAMr 12GB version not present in v 1.1.3
 
 Added in Reshade with my personal profile (minus RTGI because it's a paid mod)
 
-1.1.5
+# 1.1.5
 
 Added in:
 
@@ -88,7 +88,7 @@ Added links in Readme for optional Kirax BDOR Armors as well as cleaned up the r
 
 Updated Tree Optimization - Nico.esp with many clipping repairs of trees througout the game
 
-1.1.6
+# 1.1.6
 
 Added in:
 
@@ -120,7 +120,7 @@ Removed mods:
 
 Skydiving Falling Art to remove conflict with Paraglider not working correctly
 
-1.1.7
+# 1.1.7
 
 Added in:
 
@@ -144,7 +144,7 @@ FYX Diverse Campfires
 
 Reverted .esl flags on Roguelike encounters optional .esps
 
-1.1.8
+# 1.1.8
 
 Added in:
 
@@ -158,7 +158,7 @@ Sa'Chil fluffy SMP Tail
 
 Sa'Chil PAtch Hub
 
-1.1.9
+# 1.1.9
 
 Added in:
 
@@ -168,7 +168,7 @@ updated Tree Optimization.esp with new bug fixes
 
 Lux_Karthspire Patch - Nico to fix hard freeze up in main quest at the entrance to Skyhaven temple
 
-1.2.0
+# 1.2.0
 
 Added in: 
 
@@ -184,7 +184,7 @@ Snowy Carts
 
 Repaired ENB update files to latest .499 release (1.1.9 still had older version).
 
-1.2.1
+# 1.2.1
 
 Added in:
 
@@ -199,6 +199,21 @@ Added Arc's Kitchen Redux
 Added Various Food in cooking pots
 
 re-added missing VRAMr 12GB output into wabbajack included files
+
+# 1.2.2
+
+Removed Improved Camera
+
+Added in:
+
+dMenu
+
+Wheeler Menu
+
+Lion's Mane for Khajiit
+
+
+
 
 
 
