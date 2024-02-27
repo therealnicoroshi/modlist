@@ -115,7 +115,7 @@ After those are downloaded the rest of the install should be automated.
 
 If you have any problems please come to the discord for help
 
-https://discord.gg/yEwUP4Rq
+[Discord Invite Link](https://discord.gg/kHehbzuFZ4)
 
 
  ## Post Installation:
