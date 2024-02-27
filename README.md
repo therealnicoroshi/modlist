@@ -98,7 +98,7 @@ If you fall somewhere between these two you can play it. Optimization is KEY for
 
 Make sure you are on the latest version of Wabbajack. As of this readme writing it's 3.5.0.1
 
-Get it here>>> https://github.com/wabbajack-tools/wabbajack/releases/tag/3.5.0.1
+[Wabbajack Version 3.5.0.1](https://github.com/wabbajack-tools/wabbajack/releases/tag/3.5.0.1)
 
 
 1. Browse to The Nico Experience wabbajack, and click the Download arrow in the bottom right corner.
@@ -198,7 +198,7 @@ Run latency at ultra and any settings you can at high performance in the driver.
 
 3. Run resizable bar if your hardware is capable of it. It widens the bandwidth for better file transfer speeds (i.e. smoother gameplay)
 Panjano has a good video on how to set this up
- [>>>Here<<<}(https://www.youtube.com/watch?v=5DqcgHtkm9I)
+ [>>>Here<<<](https://www.youtube.com/watch?v=5DqcgHtkm9I)
 
 4. Skyrim Affinity is included in the tools tab at the top of MO2. MAKE SURE TO SET THIS TO MATCH YOUR SPECIFIC PROCESSOR!
 
