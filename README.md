@@ -48,7 +48,7 @@ It will auto Downgrade and run Skyrim SE 1.5.97 with CC content.
 
 It is released with Open Permissions per the Wabbajack License Agreement 
 
-https://github.com/wabbajack-tools/wabbajack/blob/main/LICENSE.txt
+[Wabbajack License](https://github.com/wabbajack-tools/wabbajack/blob/main/LICENSE.txt)
 
 Support will be provided for non-modified installations of the list via the Discord server
 
@@ -179,7 +179,7 @@ This is where the game will run from. It will NOT run from Skyrim Special Editio
 
 Find this in MO2 executable bar under <EDIT....> then on the binary click the 3 dots and navigate to your file path for that exe to change this file paths to lead to your specific file install paths OR IT WILL NOT WORK. They are currently set for my file paths. Use those as a reference on how to set them up.
 Good tutorial on how to set these up is here >>>>
-https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Setting%20up%20Stock%20Game%20for%20Skyrim%20SE.md#tool-setup
+[Tutorial on setting up executables in stock folder](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Setting%20up%20Stock%20Game%20for%20Skyrim%20SE.md#tool-setup)
 
 
 
@@ -189,7 +189,7 @@ This mod list IS graphically taxing on the hardware but systems can run it if th
 I'm not going to hold your hand on this, and assume you know Google-fu for anything you don't understand here.
 
 1. Turn off any start up programs or background programs that do not need to be on while running the game.   
-https://www.blackviper.com/ is a wonderful resource on trimming the fat out of the Windows System Services.
+[Blackviper.com](https://www.blackviper.com/) is a wonderful resource on trimming the fat out of the Windows System Services.
 
 2. strip that graphics driver down of any AA, AO, AF settings (Turn off) as those effects will be handled by the game engine or the ENB. 
 DO NOT DOUBLE UP ON EFFECTS!  It will kill your framerate and will not look any better than only one doing that specific effect.
@@ -197,8 +197,8 @@ Run Gsync if avialable and for Heavens sake DO NOT use the in game vsync. Use dr
 Run latency at ultra and any settings you can at high performance in the driver.
 
 3. Run resizable bar if your hardware is capable of it. It widens the bandwidth for better file transfer speeds (i.e. smoother gameplay)
-Panjano has a good video on how to set this up here >>>
- https://www.youtube.com/watch?v=5DqcgHtkm9I
+Panjano has a good video on how to set this up
+ [>>>Here<<<}(https://www.youtube.com/watch?v=5DqcgHtkm9I)
 
 4. Skyrim Affinity is included in the tools tab at the top of MO2. MAKE SURE TO SET THIS TO MATCH YOUR SPECIFIC PROCESSOR!
 
