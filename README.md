@@ -155,6 +155,12 @@ Choose and select the one that fits your screen resolution.
 
   ### *Don't forget to change your resoltion in Bethini to match your screen resolution.*
 
+6. In MO2 top left find the tools tab, and click on it.
+
+Find ##*Set CPU Affinity* 
+
+Click it and allow it to set the affinty for your processor.
+
 
 ## Included tools:
 
@@ -204,12 +210,11 @@ Run latency at ultra and any settings you can at high performance in the driver.
 Panjano has a good video on how to set this up
  [>>>Here<<<](https://www.youtube.com/watch?v=5DqcgHtkm9I)
 
-4. Skyrim Affinity is included in the tools tab at the top of MO2. MAKE SURE TO SET THIS TO MATCH YOUR SPECIFIC PROCESSOR!
 
-5. Go to system settings and set virtual memory on the drive the mod organizer is on at 40GB min and 40GB Max. Save and restart.
+4. Go to system settings and set virtual memory on the drive the mod organizer is on at 40GB min and 40GB Max. Save and restart.
 This will be your swap file and supplement the VRAM if needed.
 
-6. Some completely optional things I personally use that dramatically help the frame rate (but are paid mods so decide for yourself if they are right for you)
+5. Some completely optional things I personally use that dramatically help the frame rate (but are paid mods so decide for yourself if they are right for you)
 
 [Skyrim Upscaler for ENB](https://www.patreon.com/posts/skyrimupscaler-85674557)
 
