@@ -157,12 +157,13 @@ Choose and select the one that fits your screen resolution.
 
 6. In MO2 top left find the tools tab, and click on it.
 
-Find: ## *Set CPU Affinity* 
+Find: 
+## *Set CPU Affinity* 
 
 Click it and allow it to set the affinty for your processor.
 
 
-## Included tools:
+ # Included tools:
 
 Bethini Pie
 
