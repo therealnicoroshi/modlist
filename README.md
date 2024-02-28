@@ -145,9 +145,13 @@ Depending on your graphics card VRAM amount.
 
   ## *CHOOSE ONLY ONE TO ACTIVATE*
 
-Default game resolution is 1920x1080. 
+5. There are 2 included profiles 
 
-Base resolution for 21:9 profile is 3440x1440
+Default game profile resolution is 1920x1080. 
+
+21:9 profile is 3440x1440
+
+Choose and select the one that fits your screen resolution.
 
   ### *Don't forget to change your resoltion in Bethini to match your screen resolution.*
 
