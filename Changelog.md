@@ -1,92 +1,101 @@
 Version History:
 
-# 1.1.0 
+# 1.2.2
 
-first public release 
-
-# 1.1.1 
+Removed Improved Camera
 
 Added in:
 
-Enchanted Arsenal
+dMenu
 
-Skyrim priority/ affinity mod with MO2 integration
+Wheeler Menu
 
-Kabu's Really Gourd Plant Replacer
+Lion's Mane for Khajiit
 
-Recompiled wabbajack for Skyrim 1.6.1170
 
-# 1.1.2
-
-Added in:
-
-AE Paid CC mods as a requirement as well as implemented then into the mod list
-
-Created and added patches for CC content to work with mod list
-
-Repaired one floating tree reported by Iyreshot
-
-Clean in Cathedral Assets Optimizer NordicLargeTent02.nif and textures
-
-Added SSEedit and Cathedral assets Optimizer as tools included in the list
-
-# 1.1.3
+# 1.2.1
 
 Added in:
 
-Feline Run Animation,
+patch file to repair floating birds in Karthwasten
 
-Modular SMP Hairstyles
+Updated Tree_Optimization to 1_9 with more fixes of tree conflicts
 
-Alt Start Voiced
+Changed ENB Night eye settings back to Rudy ENB default
 
-NifSkope in Tools
+Added Arc's Kitchen Redux
 
-Bug Fixes:
+Added Various Food in cooking pots
 
-Removed SMP Vanilla Clothing because of specular lighting reflection issue in .nifs
+re-added missing VRAMr 12GB output into wabbajack included files
 
-Repaired Broken Helm Hollow chopping block blood splatter mesh issue
 
-Removed Inferno to fix crazy flames on torches
+# 1.2.0
 
-# 1.1.4
+Added in: 
 
-Added in:
+Floating tree moss removal in JK's Skyhaven Temple
 
-CCRedguard Strayar floating in Iverstead fix
+Floating tree moss removal in Skyhaven Forge exterior
 
-Tree fix on the road East of Whiterun reported by Iyreshot
+Floating leaves in the Riften waters
 
-Sky Reflections Fix
+Floating leaves inside the town of Riften (from sky)
 
-Master Spell Runes
+Snowy Carts
 
-Stellaris Spells
+Repaired ENB update files to latest .499 release (1.1.9 still had older version).
 
-Beyond Reach (Various Patches)
 
-Light Horses of Skyrim
-
-Re-added VRAMr 12GB version not present in v 1.1.3
-
-Added in Reshade with my personal profile (minus RTGI because it's a paid mod)
-
-# 1.1.5
+# 1.1.9
 
 Added in:
 
-Nethers Follower framework
+ENB update to latest .499 release
 
-widescreen profile for 21x9
+updated Tree Optimization.esp with new bug fixes
 
-usable unlit campfires
+Lux_Karthspire Patch - Nico to fix hard freeze up in main quest at the entrance to Skyhaven temple
 
-player Rotation in Show Race Menu
 
-Added links in Readme for optional Kirax BDOR Armors as well as cleaned up the readme
+# 1.1.8
 
-Updated Tree Optimization - Nico.esp with many clipping repairs of trees througout the game
+Added in:
+
+Nocturnal Moths
+
+Fully Voiced Version of Anja Iceheart Follower
+
+Sa'Chil Follower
+
+Sa'Chil fluffy SMP Tail
+
+Sa'Chil PAtch Hub
+
+
+# 1.1.7
+
+Added in:
+
+Unofficial LUX Patch Hub
+
+NIF Preview for MO2
+
+Ogre club fix for Immersive creatures
+
+CC Wild Horses - Fluffworks - Lighter horses compatibility patch
+
+CC Landscape fix at cave entrance to Rielle CC content
+
+Arc's Kettle Redux
+
+Quiet Dog
+
+Sparks react to wind
+
+FYX Diverse Campfires
+
+Reverted .esl flags on Roguelike encounters optional .esps
 
 # 1.1.6
 
@@ -120,97 +129,99 @@ Removed mods:
 
 Skydiving Falling Art to remove conflict with Paraglider not working correctly
 
-# 1.1.7
+
+# 1.1.5
 
 Added in:
 
-Unofficial LUX Patch Hub
+Nethers Follower framework
 
-NIF Preview for MO2
+widescreen profile for 21x9
 
-Ogre club fix for Immersive creatures
+usable unlit campfires
 
-CC Wild Horses - Fluffworks - Lighter horses compatibility patch
+player Rotation in Show Race Menu
 
-CC Landscape fix at cave entrance to Rielle CC content
+Added links in Readme for optional Kirax BDOR Armors as well as cleaned up the readme
 
-Arc's Kettle Redux
+Updated Tree Optimization - Nico.esp with many clipping repairs of trees througout the game
 
-Quiet Dog
 
-Sparks react to wind
-
-FYX Diverse Campfires
-
-Reverted .esl flags on Roguelike encounters optional .esps
-
-# 1.1.8
+# 1.1.4
 
 Added in:
 
-Nocturnal Moths
+CCRedguard Strayar floating in Iverstead fix
 
-Fully Voiced Version of Anja Iceheart Follower
+Tree fix on the road East of Whiterun reported by Iyreshot
 
-Sa'Chil Follower
+Sky Reflections Fix
 
-Sa'Chil fluffy SMP Tail
+Master Spell Runes
 
-Sa'Chil PAtch Hub
+Stellaris Spells
 
-# 1.1.9
+Beyond Reach (Various Patches)
 
-Added in:
+Light Horses of Skyrim
 
-ENB update to latest .499 release
+Re-added VRAMr 12GB version not present in v 1.1.3
 
-updated Tree Optimization.esp with new bug fixes
+Added in Reshade with my personal profile (minus RTGI because it's a paid mod)
 
-Lux_Karthspire Patch - Nico to fix hard freeze up in main quest at the entrance to Skyhaven temple
 
-# 1.2.0
-
-Added in: 
-
-Floating tree moss removal in JK's Skyhaven Temple
-
-Floating tree moss removal in Skyhaven Forge exterior
-
-Floating leaves in the Riften waters
-
-Floating leaves inside the town of Riften (from sky)
-
-Snowy Carts
-
-Repaired ENB update files to latest .499 release (1.1.9 still had older version).
-
-# 1.2.1
+# 1.1.3
 
 Added in:
 
-patch file to repair floating birds in Karthwasten
+Feline Run Animation,
 
-Updated Tree_Optimization to 1_9 with more fixes of tree conflicts
+Modular SMP Hairstyles
 
-Changed ENB Night eye settings back to Rudy ENB default
+Alt Start Voiced
 
-Added Arc's Kitchen Redux
+NifSkope in Tools
 
-Added Various Food in cooking pots
+Bug Fixes:
 
-re-added missing VRAMr 12GB output into wabbajack included files
+Removed SMP Vanilla Clothing because of specular lighting reflection issue in .nifs
 
-# 1.2.2
+Repaired Broken Helm Hollow chopping block blood splatter mesh issue
 
-Removed Improved Camera
+Removed Inferno to fix crazy flames on torches
+
+
+# 1.1.2
 
 Added in:
 
-dMenu
+AE Paid CC mods as a requirement as well as implemented then into the mod list
 
-Wheeler Menu
+Created and added patches for CC content to work with mod list
 
-Lion's Mane for Khajiit
+Repaired one floating tree reported by Iyreshot
+
+Clean in Cathedral Assets Optimizer NordicLargeTent02.nif and textures
+
+Added SSEedit and Cathedral assets Optimizer as tools included in the list
+
+
+# 1.1.1 
+
+Added in:
+
+Enchanted Arsenal
+
+Skyrim priority/ affinity mod with MO2 integration
+
+Kabu's Really Gourd Plant Replacer
+
+Recompiled wabbajack for Skyrim 1.6.1170
+
+
+# 1.1.0 
+
+first public release 
 
 
 
