@@ -209,6 +209,13 @@ Panjano has a good video on how to set this up
 5. Go to system settings and set virtual memory on the drive the mod organizer is on at 40GB min and 40GB Max. Save and restart.
 This will be your swap file and supplement the VRAM if needed.
 
+6. Some completely optional things I personally use that dramatically help the frame rate (but are paid mods so decide for yourself if they are right for you)
+
+[Skyrim Upscaler for ENB](https://www.patreon.com/posts/skyrimupscaler-85674557)
+
+[Lossless Scaling Frame Generator](https://store.steampowered.com/app/993090/Lossless_Scaling/)
+
+
 
  ## The MCM Menu:
 
