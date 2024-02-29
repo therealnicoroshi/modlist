@@ -150,13 +150,13 @@ After those are downloaded the rest of the install should be automated.
 
    ### MO2 and System Settings
    
-   ### 1. Run mod organizer as admin.
+   ## 1. Run mod organizer as admin.
    
    Right click the Mod Organiazer 2.exe located in the MO2 folder and click on Properties.
    
    In the Compatability Tab check mark 'Run this Program as Administrator'
    
-   ### 2. Exclude MO2 from your Anti-Virus
+   ## 2. Exclude MO2 from your Anti-Virus
    
    For Windows Defender click Windows tab in bottom left
    
@@ -164,7 +164,7 @@ After those are downloaded the rest of the install should be automated.
    
    Add an Exclusion and navigate to your Mod Organizer 2. exe
 
-   ### 3. Disable Steam Overlay
+   ## 3. Disable Steam Overlay
    
    Find the game in your Steam Library then go to Properties
    
@@ -172,7 +172,7 @@ After those are downloaded the rest of the install should be automated.
    
    Make sure it's unchecked.
    
-   ### 4. Check the Stock Game folder location
+   ## 4. Check the Stock Game folder location
 
    Navigate to (Drive letter):\Where\you\installed\the Wabbajack\ModOrganizer.ini
    
@@ -184,7 +184,7 @@ Yours might look different but the idea is to point it to where your Stock Game 
 
 It may already be pointed in the correct location but good to check.
 
-   ### 5. Choose your LOD
+   ## 5. Choose your LOD
 
 In MO2 left pane go to #93 LOD Generation_Output Tab
 
@@ -198,7 +198,7 @@ Depending on your graphics card VRAM amount.
 
   ## *CHOOSE ONLY ONE TO ACTIVATE*
 
-### 6. Choose your profile
+  ## 6. Choose your profile
 
 ### There are 2 included profiles to choose from based on screen resolution
 
@@ -210,7 +210,7 @@ Choose and select the one that fits your screen resolution.
 
   ### *Don't forget to change your resolution in Bethini to match your screen resolution.*
 
-### 7. Set your affinity
+  ## 7. Set your affinity
 
 In MO2 top left find the tools tab, and click on it.
 
