@@ -1,5 +1,31 @@
 Version History:
 
+# 1.2.3
+
+Added in:
+
+Dynamic horse petting
+
+Potema_Helm - patch - Nico
+
+More tree clipping fixes for Ancient Lands
+
+Dint999 Winter Mountain Guardian Armor
+
+Kirax BDOR Complete Collection
+
+Dint999 BDOR Hairs 1, and 2
+
+[SE] Kirax BDO Yinixtra SMP 3BA
+
+[Kirax] OVR Brynhildr.rar
+
+Re-Write and restructure of README.md
+
+Re-Compile Nemesis_Output
+
+
+
 # 1.2.2
 
 Removed Improved Camera
