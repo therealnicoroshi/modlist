@@ -1,9 +1,10 @@
+
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 # The Nico Experience
 by Nicoroshi 
 
-## v. 1.2.2
+## v. 1.2.3
 
 
 
@@ -14,16 +15,25 @@ by Nicoroshi
 - [Installation](README.md#installation)
   - [Pre-Install](README.md#pre-install)
   - [Main Install](README.md#main-install)
+   - [Potentially Problematic Files](README.md#potentially-problematic-files)
 - [Post Installation](README.md#post-installation)
-  - [included Tools](README.md#included-tools)
+  - [MO2 Settings](README.md#mo2-and-system-settings)
+     - [Run Mod Organizer as Administrator](README.md#run-mod-organizer-as-admin)
+     - [Exclude Mod Organizer from your Anti-Virus](README.md#exclude-mo2-from-your-anti-virus)
+     - [Disable Steam Overlay](README.md#disable-steam-overlay)
+     - [Check The Stock Game Folder Location](README.md#check-the-stock-game-folder-location)
+     - [Choose Your LOD](README.md#choose-your-lod)
+     - [Choose Your Profile](README.md#choose-your-profile)
+     - [Set Your Affinity](README.md#set-your-affinity)
+- [included Tools](README.md#included-tools)
   - [About Adding More Tools](README.md#about-adding-more-tools)
-  - [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-set-up)
-  - [The MCM Menu](README.md#the-mcm-menu)
+- [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-set-up)
+- [The MCM Menu](README.md#the-mcm-menu)
 - [Some Important Default Keys to Know](README.md#some-important-default-keys-to-know)
   - [Word of Warning](README.md#word-of-warning)
 - [Recommended Difficulty Levels](README.md#recommended-difficulty-levels)
   - [Shout Out To Some Awesome People](README.md#shout-out-to-some-awesome-people)
-- [Final Words Before I Let You Go](README.md#final-words-before-i-let-you-go)
+   - [Final Words Before I Let You Go](README.md#final-words-before-i-let-you-go)
 
    
 # Overview:
@@ -50,13 +60,15 @@ It is released with Open Permissions per the Wabbajack License Agreement
 
 [Wabbajack License](https://github.com/wabbajack-tools/wabbajack/blob/main/LICENSE.txt)
 
-Support will be provided for non-modified installations of the list via the Discord server
+Support will be provided for non-modified installations of the mod list via the Discord server
 
 [Discord Invite Link](https://discord.gg/kHehbzuFZ4)
 
+### *We will only support legally purchased copies of the game*
 
 
- ## Recommended Minimum Hardware:
+
+ # Recommended Minimum Hardware:
   
 Absolute minimum if using every provided option for optimization is:
 
@@ -71,7 +83,7 @@ Sata SSD with minimum 500 GB of free space and 40GB virtual memory
    NOTE: The minimum specs will certainly struggle to maintain 30-50fps
 
  
-  ## Ideal specs:
+  # Ideal Specs:
 
 Video Card with 24GB of VRAM
 
@@ -94,6 +106,7 @@ If you fall somewhere between these two you can play it. Optimization is KEY for
   ## >Important Note<:
 **You will need a Lovers Lab, and Vector Plexis account for some manual downloads in the Wabbajack**
 
+
   ## Main Install:
 
 Make sure you are on the latest version of Wabbajack. As of this readme writing it's 3.5.0.1
@@ -113,29 +126,69 @@ These armors can be accessed in game via the additem menu or dMenu
 
 After those are downloaded the rest of the install should be automated.
 
-If you have any problems please come to the discord for help
 
-[Discord Invite Link](https://discord.gg/kHehbzuFZ4)
+# >>Potentially Problematic Files<<
 
+#### Sometimes metered hosting sites fail to download correctly with Wabbajack. Should the install fail on one or more of these files please manually download them from the links below and Drop the archive(s) in the Download folder then re-run Wabbajack.
 
- ## Post Installation:
-
-VERY IMPORTANT:
-1. Make sure you run the mod organizer.exe as admin and have excluded it from your anti-virus. Also disable Steam Overlay completely
-2. Navigate to (Drive letter):\Where\you\installed\the Wabbajack\ModOrganizer.ini
-3. Check this line near the top
-   
-gamePath=@ByteArray(C:\\Wabbajack<\\The Nico Experience\\Mod Organizer 2\\Stock Game
+ ### *Google Drive*
  
-This example is where I installed it
+[Dint999 BDOR Hairs SSE 0.17](https://drive.google.com/uc?id=1tpY3bDs-LR6rptf8oPUfraKs1CkxJJB3)
+
+[Dint999 HairPack02 SSE 1.11 (base)](https://drive.google.com/uc?id=1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ)
+
+[dint999 BDOr Winter Mountain Guardian Spirit v1.1](https://drive.google.com/uc?id=1siyc644OSI0Lz8PlM9lo3Gxf_VxQLlN5)
+
+[SE Kirax BDO Yinixtra SMP 3BA](https://drive.google.com/uc?id=1_rAtCZFiffF-QaCCZ0hz6Svw5mRfcoex)
+
+### *Mega* 
+
+[BDOR Complete Collection by Kirax](https://mega.nz/file/zHRDhQBK#yJ9vhNaNwqQpUzHPCcR0n2UrpOF1oG3AJL4FL_MYHQw)
+
+
+ # Post Installation:
+
+   ### MO2 and System Settings
+   
+   ### 1. Run mod organizer as admin.
+   
+   Right click the Mod Organiazer 2.exe located in the MO2 folder and click on Properties.
+   
+   In the Compatability Tab check mark 'Run this Program as Administrator'
+   
+   ### 2. Exclude MO2 from your Anti-Virus
+   
+   For Windows Defender click Windows tab in bottom left
+   
+   Type 'Virus' and select 'virus and threat protection'/ 'Manage settings'/ 'Exclusions'/ 'Add or remove exclusions'
+   
+   Add an Exclusion and navigate to your Mod Organizer 2. exe
+
+   ### 3. Disable Steam Overlay
+   
+   Find the game in your Steam Library then go to Properties
+   
+   Under the General tab, you'll find a checkbox for Enable the Steam Overlay while in-game.
+   
+   Make sure it's unchecked.
+   
+   ### 4. Check the Stock Game folder location
+
+   Navigate to (Drive letter):\Where\you\installed\the Wabbajack\ModOrganizer.ini
+   
+   This example is where I installed it
+   
+   gamePath=@ByteArray(C:\\Wabbajack<\\The Nico Experience\\Mod Organizer 2\\Stock Game
 
 Yours might look different but the idea is to point it to where your Stock Game folder is located in the new install
 
 It may already be pointed in the correct location but good to check.
 
-4. in MO2 left pane go to #93 LOD Generation_Output Tab
+   ### 5. Choose your LOD
 
-  ## Choose either:
+In MO2 left pane go to #93 LOD Generation_Output Tab
+
+  ### Choose either (based on the VRAM of your video card):
 
 VRAMr_Output for 16GB cards (On by default)
 or 
@@ -145,25 +198,31 @@ Depending on your graphics card VRAM amount.
 
   ## *CHOOSE ONLY ONE TO ACTIVATE*
 
-5. There are 2 included profiles 
+### 6. Choose your profile
+
+### There are 2 included profiles to choose from based on screen resolution
 
 Default game profile resolution is 1920x1080. 
 
-21:9 profile is 3440x1440
+21:9 profile is set for 3440x1440 but can be used for widescreen 1080p as well.
 
 Choose and select the one that fits your screen resolution.
 
-  ### *Don't forget to change your resoltion in Bethini to match your screen resolution.*
+  ### *Don't forget to change your resolution in Bethini to match your screen resolution.*
 
-6. In MO2 top left find the tools tab, and click on it.
+### 7. Set your affinity
+
+In MO2 top left find the tools tab, and click on it.
 
 Find: 
 ### *Set CPU Affinity* 
 
 Click it and allow it to set the affinty for your processor.
 
+## Congratulations you are now installed and set up.
 
- # Included tools:
+
+ # Included Tools:
 
 Bethini Pie
 
@@ -180,7 +239,7 @@ Bodyslide and Outfit Studio
 NifSkope
 
 
- ## About Adding more tools:
+ # About Adding More Tools:
 
 
 All the tools you choose to install in addition to these need to link in the top right executable bar in MO2 so these programs can start from within the virtual file structure of MO2.
@@ -194,7 +253,7 @@ Good tutorial on how to set these up is here >>>>
 
 
 
-  ## Some notes on basic system set up:
+  # Some Notes On Basic System Set Up:
 	
 This mod list IS graphically taxing on the hardware but systems can run it if they have the room to breathe.
 I'm not going to hold your hand on this, and assume you know Google-fu for anything you don't understand here.
@@ -223,7 +282,7 @@ This will be your swap file and supplement the VRAM if needed.
 
 
 
- ## The MCM Menu:
+ # The MCM Menu:
 
 Alright.....There is a LOT here. I do have some profiles I set up that should be a part of this Wabbajack that are set up the way I like it.
 
@@ -246,9 +305,11 @@ Set lore friendly mode to 'OFF'. In the SKSE folder DTry Ultilities find magical
 This disables the dash, and bash parts but keeps NO fall damage on and allows for triple jumping magical jumps by default
 
 
-# *Some important default keys to know*:
+# *Some Important Default Keys To Know*:
 
 Caps Lock + Enter = ENB Menu
+
+Caps Lock + F12 = Toggle ENB Effect
 
 Backspace = Immersive Equipment Displays
 
@@ -303,12 +364,12 @@ Page Up = SMP reset
 C = Quicklight toggle
                      
 
-## *Word of Warning*:
+# *Word Of Warning*:
 
 Some creatures will be deleveled so you might come across a level 30 ogre at level 1 and have to run to survive. Ye have been warned!
 You will learn....stick and move, stick and dodge, run and heal or just plain run away to survive at lower levels.
 
- ## Recommend difficulty levels:
+ # Recommend Difficulty Levels:
 
 Level 0-9 Apprentice
 
@@ -330,7 +391,8 @@ There are added worldspaces to explore as well.
 
 Wyrmstooth and Beyond Reach will start at a certain level but some you will just find in your exploring like Chanterelle, The Shire, Moonpath to Elswyer, Darkend, Skyrim Sewers, and Skyrim Underground.
 
- ## Shout out to some awesome people:
+ 
+ # Shout Out To Some Awesome People:
 
 Halgari for creation of this wonderful tool
 
@@ -344,7 +406,7 @@ BiggieBoss
 
 You people Rock!
 
-## Final words before I let you go:
+# Final Words Before I Let You Go:
 
 I designed this mod list to be tougher than anything vanilla with FAR more creatures that are tougher than stock ones.
 As such I have included a mod called skyrim skill uncapper. It has an ini file you can tweak to your liking increasing (or decreasing) the amount of perk points per level as well as amount things like health, magica, and stamina go up per level. Default it is set up with an ini designed for use with Ordinator which is the main perk mod in this list.
@@ -356,7 +418,6 @@ Basically the tools are there to make it as hard or easy as you want.
 Now go forth brave adventurer, and get lost admiring the parallax mud puddles, and ice cube glaciers......But Beware as the world is full of dangers and rewards.
 Have fun :)
 Nico
-
 
 
 
