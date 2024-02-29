@@ -369,7 +369,7 @@ C = Quicklight toggle
 Some creatures will be deleveled so you might come across a level 30 ogre at level 1 and have to run to survive. Ye have been warned!
 You will learn....stick and move, stick and dodge, run and heal or just plain run away to survive at lower levels.
 
- # Recommend Difficulty Levels:
+ # Recommended Difficulty Levels:
 
 Level 0-9 Apprentice
 
