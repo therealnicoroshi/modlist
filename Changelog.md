@@ -1,5 +1,42 @@
 Version History:
 
+# 1.2.4
+
+Repaired ENB Meta information
+
+Rework of Reshade preset to remove flicker when looking around
+
+Write tutorial on how to set HUD for 21:9 profile
+
+Added in:
+
+Experience mod plus compatibility patches
+
+Move tree optimization patch from inline to downloaded
+
+Added in character presets for male/ female of almost every race
+
+Curtains for Shacks
+
+Koralina Brows as well as other facial mods to support character presets
+
+Skyrim Food Expansion plus patches 
+
+MCO first person patch
+
+Bring back Improved Camera with patch hub
+
+No startup quest exp for Expereince mod
+
+Fury Animal Taming
+
+REMOVED:
+
+All BDOR armors that were either manualURL download or DirectURL Download from Mega or Google Drive (Too Problematic so have been moved to Optional file Links in the Discord for those that want them).
+
+
+
+
 # 1.2.3
 
 Added in:
