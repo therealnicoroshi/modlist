@@ -204,9 +204,9 @@ There are armor mods that were included in v.1.2.3 that were problematic for ins
 
 ### *These files are completely optional, and not required for the list to run.*
 
-They can be added if you choose to do so and can be found on the Discord in 'Suggested Additions You Might Like for the Mod List'
+They can be added manually through MO2 if you choose to do so and can be found on the Discord in 'Suggested Additions You Might Like for the Mod List'
 
-I will still offer support for the mod list if you decide to add these specific files.
+*I will still offer support for the mod list if you decide to add these specific files.*
 
 
 
