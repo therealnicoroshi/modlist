@@ -24,6 +24,7 @@ by Nicoroshi
   - [Choose Your LOD](README.md#5-choose-your-lod)
   - [Choose Your Profile](README.md#6-choose-your-profile)
   - [Set Your Affinity](README.md#7-set-your-affinity)
+  - [Optional files I will offer support for if added to the list](README.md#8-optional-files-i-will-offer-support-for-if-added-to-the-list)
 - [included Tools](README.md#included-tools)
   - [About Adding More Tools](README.md#about-adding-more-tools)
 - [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-set-up)
@@ -196,6 +197,18 @@ Find:
 ### *Set CPU Affinity* 
 
 Click it and allow it to set the affinty for your processor.
+
+## 8. Optional files I will offer support for if added to the list
+
+There are armor mods that were included in v.1.2.3 that were problematic for installation through Wabbajack so were removed in v.1.2.4
+
+### *These files are completely optional, and not required for the list to run.*
+
+They can be added if you choose to do so and can be found on the Discord in 'Suggested Additions You Might Like for the Mod List'
+
+I will still offer support for the mod list if you decide to add these specific files.
+
+
 
 ## Congratulations you are now installed and set up.
 
