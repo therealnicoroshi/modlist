@@ -4,7 +4,7 @@
 # The Nico Experience
 by Nicoroshi 
 
-## v. 1.2.3
+## v. 1.2.4
 
 
 
@@ -15,7 +15,6 @@ by Nicoroshi
 - [Installation](README.md#installation)
   - [Pre-Install](README.md#pre-install)
   - [Main Install](README.md#main-install)
-   - [Potentially Problematic Files](README.md#potentially-problematic-files)
 - [Post Installation](README.md#post-installation)
   - [MO2 Settings](README.md#mo2-and-system-settings)
   - [Run Mod Organizer as Administrator](README.md#1-run-mod-organizer-as-admin)
@@ -30,6 +29,7 @@ by Nicoroshi
 - [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-set-up)
 - [The MCM Menu](README.md#the-mcm-menu)
 - [Some Important Default Keys to Know](README.md#some-important-default-keys-to-know)
+  - [Setting the HUD for 21:9 Resolution](setting-the-hud-for-21x9-resolution)
   - [Word of Warning](README.md#word-of-warning)
 - [Recommended Difficulty Levels](README.md#recommended-difficulty-levels)
   - [Shout Out To Some Awesome People](README.md#shout-out-to-some-awesome-people)
@@ -104,7 +104,7 @@ If you fall somewhere between these two you can play it. Optimization is KEY for
 4. Start new game and after hearing  "So you're finally awake" open console (~) and type QQQ then press enter to quit out.
 
   ## >Important Note<:
-**You will need a Lovers Lab, and Vector Plexis account for some manual downloads in the Wabbajack**
+**You will need a Vector Plexis account for High Poly Head download in the Wabbajack**
 
 
   ## Main Install:
@@ -119,31 +119,9 @@ Make sure you are on the latest version of Wabbajack. As of this readme writing 
 3. Choose your install location, and Download location in the Wabbajack window.
   ### **Make sure the install location is minimum 500GB and OUTSIDE of any program or system files**
 
-  ### NOTE: **There WILL BE about 22 Files that you WILL NEED to use the wabbajack manualURL window to download**
-  ### Just read the top left corner for instructions for each file
+  ### NOTE: **There will be one file that requires you choose and click the download on Vector Plexus window. The file you want is High Poly Head v1.4 SE**
 
-These armors can be accessed in game via the additem menu or dMenu
-
-After those are downloaded the rest of the install should be automated.
-
-
-# >>Potentially Problematic Files<<
-
-#### Sometimes metered hosting sites fail to download correctly with Wabbajack. Should the install fail on one or more of these files please manually download them from the links below and Drop the archive(s) in the Download folder then re-run Wabbajack.
-
- ### *Google Drive*
- 
-[Dint999 BDOR Hairs SSE 0.17](https://drive.google.com/uc?id=1tpY3bDs-LR6rptf8oPUfraKs1CkxJJB3)
-
-[Dint999 HairPack02 SSE 1.11 (base)](https://drive.google.com/uc?id=1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ)
-
-[dint999 BDOr Winter Mountain Guardian Spirit v1.1](https://drive.google.com/uc?id=1siyc644OSI0Lz8PlM9lo3Gxf_VxQLlN5)
-
-[SE Kirax BDO Yinixtra SMP 3BA](https://drive.google.com/uc?id=1_rAtCZFiffF-QaCCZ0hz6Svw5mRfcoex)
-
-### *Mega* 
-
-[BDOR Complete Collection by Kirax](https://mega.nz/file/zHRDhQBK#yJ9vhNaNwqQpUzHPCcR0n2UrpOF1oG3AJL4FL_MYHQw)
+After that file is downloaded the rest of the install should be automated.
 
 
  # Post Installation:
@@ -284,17 +262,15 @@ This will be your swap file and supplement the VRAM if needed.
 
  # The MCM Menu:
 
-Alright.....There is a LOT here. I do have some profiles I set up that should be a part of this Wabbajack that are set up the way I like it.
+Alright.....There is a LOT here.
 
-I recommend running the MCM Recorder Profile for Ryn if playing a female character. 
+There are many character presets included for most races and genders. Be sure to check which race the preset is for before applying it as it might look strange on a different race.
 
-There is also one character preset included for a red headed Nord (Ryn) you can use if you'd like.
-
-You can run these using MCM Recorder in the MCM Menu to get you started or simply go through the MCM menu one at a time, and set how you like it.
+I recommend simply going through the MCM menu one at a time, and set how you like it.
 
 It is IMPORTANT to leave Minatours and Spiders turned OFF for OBIS, ore guardians OFF in Immersive creatures, and shadows OFF for Strange Runes as they are KNOWN to crash the game. 
 
-Magical jumping is non-lore friendly in the recorder (means you have it by default)
+Magical jumping should be lore friendly in the MCM. Change it to NON-Lore friendly in the MCM to get magical jumping by default.
 
 Magical Jumping: this can be kind of glitchy with other mods in the list.
 
@@ -362,7 +338,26 @@ Page Up = SMP reset
 0 ) = PC head Tracking Random Saying
   
 C = Quicklight toggle
-                     
+
+
+# Setting the HUD for 21x9 resolution.
+
+In the MCM Menu:
+
+SkyUI- 
+
+Set 3D Item to H= 24, and Scale to 1.2. 
+
+Set Item Card to H= - 225.
+
+Show Player in Menus-
+
+X Offset = 50
+
+TrueHUD-
+
+Set X to - 0.125 for Player Widget.
+
 
 # *Word Of Warning*:
 
