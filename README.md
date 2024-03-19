@@ -29,7 +29,7 @@ by Nicoroshi
 - [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-set-up)
 - [The MCM Menu](README.md#the-mcm-menu)
 - [Some Important Default Keys to Know](README.md#some-important-default-keys-to-know)
-  - [Setting the HUD for 21:9 Resolution](setting-the-hud-for-21x9-resolution)
+  - [Setting the HUD for 21:9 Resolution](README.md#setting-the-hud-for-21x9-resolution)
   - [Word of Warning](README.md#word-of-warning)
 - [Recommended Difficulty Levels](README.md#recommended-difficulty-levels)
   - [Shout Out To Some Awesome People](README.md#shout-out-to-some-awesome-people)
