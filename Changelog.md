@@ -32,7 +32,7 @@ Fury Animal Taming
 
 REMOVED:
 
-All BDOR armors that were either manualURL download or DirectURL Download from Mega or Google Drive (Too Problematic so have been moved to Optional file Links in the Discord for those that want them).
+All BDOR armors and dint Hairs that were either manualURL download or DirectURL Download from Mega or Google Drive (Too Problematic so have been moved to Optional file Links in the Discord for those that want them).
 
 
 
