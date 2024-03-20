@@ -1,5 +1,18 @@
 Version History:
 
+# 1.2.5
+
+Add in: 
+
+Bandit Lines Expansion
+
+Action BAsed Projectiles
+
+Remove:
+
+Distar's Projectiles
+
+
 # 1.2.4
 
 Repaired ENB Meta information
