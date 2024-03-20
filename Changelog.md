@@ -6,7 +6,7 @@ Add in:
 
 Bandit Lines Expansion
 
-Action BAsed Projectiles
+Action Based Projectiles
 
 Remove:
 
