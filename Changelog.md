@@ -1,5 +1,18 @@
 Version History:
 
+# 1.2.6
+
+Update Meta Data for ADXP-MCO to reflect new file location
+
+Added In:
+
+Creatures MCO
+
+BDOR Complete Collection
+
+Slightly Better Rock Carrions
+
+
 # 1.2.5
 
 Add in: 
