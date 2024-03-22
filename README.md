@@ -187,7 +187,7 @@ Default game profile resolution is 1920x1080.
 
 Choose and select the one that fits your screen resolution.
 
-  ### *Don't forget to change your resolution in Bethini to match your screen resolution.*
+  ### *Don't forget to change your resolution in Bethini to match your screen resolution. You may also wish to enable TAA at this time or change preset*
 
   ## 7. Set your affinity
 
