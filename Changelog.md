@@ -1,5 +1,14 @@
 Version History:
 
+# 1.2.7
+
+Added In:
+
+Dynamic Loot and Harvesting
+
+Hide The Wolves from Creatures MCO
+
+
 # 1.2.6
 
 Update Meta Data for ADXP-MCO to reflect new file location
