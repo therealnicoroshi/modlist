@@ -6,6 +6,13 @@ Remove:
 
 Kirax BDOR Complete collection (again...It's whitelisted but still too problematic so will remain as an optional download on the discord)
 
+Add in:
+
+Lux Via Roadsign Patch
+
+Beyond Reach Horse Patch
+
+
 # 1.2.7
 
 Added In:
