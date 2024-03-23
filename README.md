@@ -4,7 +4,7 @@
 # The Nico Experience
 by Nicoroshi 
 
-## v. 1.2.7
+## v. 1.2.8
 
 
 
@@ -15,7 +15,6 @@ by Nicoroshi
 - [Installation](README.md#installation)
   - [Pre-Install](README.md#pre-install)
   - [Main Install](README.md#main-install)
-  - [Potentailly Problematic Files](README.md#potentially-problematic-files)
 - [Post Installation](README.md#post-installation)
   - [MO2 Settings](README.md#mo2-and-system-settings)
   - [Run Mod Organizer as Administrator](README.md#1-run-mod-organizer-as-admin)
@@ -125,13 +124,6 @@ Make sure you are on the latest version of Wabbajack. As of this readme writing 
 
 After that file is downloaded the rest of the install should be automated.
 
-# Potentially Problematic Files:
-
-### *If this file fails please download from the link below and drop into the Download folder then re-run Wabbajack*
-
-Kirax BDOR Complete Collection
-
-https://mega.nz/file/zHRDhQBK#yJ9vhNaNwqQpUzHPCcR0n2UrpOF1oG3AJL4FL_MYHQw
 
  # Post Installation:
 
