@@ -15,6 +15,7 @@ by Nicoroshi
 - [Installation](README.md#installation)
   - [Pre-Install](README.md#pre-install)
   - [Main Install](README.md#main-install)
+  - [Potentailly Problematic Files](README.md#potentially-problematic-files)
 - [Post Installation](README.md#post-installation)
   - [MO2 Settings](README.md#mo2-and-system-settings)
   - [Run Mod Organizer as Administrator](README.md#1-run-mod-organizer-as-admin)
