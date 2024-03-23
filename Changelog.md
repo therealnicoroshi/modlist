@@ -1,5 +1,24 @@
 Version History:
 
+# 1_2_9
+
+Add In:
+
+Static Skill Leveling Rewritten
+
+faster spiders (+5....Now they are truly scary)
+
+Arachnid -Spiders Sounds Rework SFX
+
+Fluffy Spiders
+
+Iconic's Spiders of Skyrim Retexture
+
+Removed: 
+
+Wolf, Bear, and Sabercat animations from Creatures MCO 
+
+
 # 1.2.8
 
 Remove:
