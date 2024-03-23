@@ -4,7 +4,7 @@ Version History:
 
 Remove:
 
-Kirax BDOR Complete collection (again...It's whitelisted but still too problematic so will remain as an optional downloadon the discord)
+Kirax BDOR Complete collection (again...It's whitelisted but still too problematic so will remain as an optional download on the discord)
 
 # 1.2.7
 
