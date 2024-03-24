@@ -284,7 +284,9 @@ This will be your swap file and supplement the VRAM if needed.
    
    3. Turn the settings on the effects in ENB tolow or medium (default is high/Very high). These are in the left pane when you open ENB and can be seen when expanding each effect individually.
    
-   4. Run at a lower resolution. Pretty self explainatory. 
+   4. Run at a lower resolution.
+   
+   5. Lower the grass density in 'Explore Virtual Folder/Net Script Framework/Plugins/GrassControlConfig.txt/OverwriteMinGrassSize = 65' by INCREASING this number to something like 75-80.
    
 
  # The MCM Menu:
