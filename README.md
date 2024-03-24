@@ -25,7 +25,7 @@ by Nicoroshi
   - [Choose Your Profile](README.md#6-choose-your-profile)
   - [Set Your Affinity](README.md#7-set-your-affinity)
   - [Optional files I will offer support for if added to the list](README.md#8-optional-files-i-will-offer-support-for-if-added-to-the-list)
-- [included Tools](README.md#included-tools)
+- [Included Tools](README.md#included-tools)
   - [About Adding More Tools](README.md#about-adding-more-tools)
 - [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-set-up)
   - [Performance Tweaks](README.md#performance-tweaks)
