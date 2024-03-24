@@ -28,6 +28,7 @@ by Nicoroshi
 - [included Tools](README.md#included-tools)
   - [About Adding More Tools](README.md#about-adding-more-tools)
 - [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-set-up)
+  - [Performance Tweaks](README.md#performance-tweaks)
 - [The MCM Menu](README.md#the-mcm-menu)
 - [Some Important Default Keys to Know](README.md#some-important-default-keys-to-know)
   - [Setting the HUD for 21:9 Resolution](README.md#setting-the-hud-for-21x9-resolution)
@@ -273,7 +274,18 @@ This will be your swap file and supplement the VRAM if needed.
 
 [Lossless Scaling Frame Generator](https://store.steampowered.com/app/993090/Lossless_Scaling/)
 
+   # Performance Tweaks
 
+   Here are some things I recommend if your framerate is still suffering after applying the 12GB VRAMr and following the notes on 'Basic system set up' above.
+
+   1. Run BethINI (included tool) and choose a lower preset setting like Medium. The default is Ultra. Be sure to NOT use Ambient Occusion if using the one in Reshade or ENB. Remember DO NOT DOUBLE UP ON EFFECTS!
+
+   2. Disable Reshade or remove it entirely. This will lose very little visual enhancement but help the frame rate quite a bit.
+   
+   3. Turn the settings on the effects in ENB tolow or medium (default is high/Very high). These are in the left pane when you open ENB and can be seen when expanding each effect individually.
+   
+   4. Run at a lower resolution. Pretty self explainatory. 
+   
 
  # The MCM Menu:
 
