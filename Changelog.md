@@ -1,5 +1,24 @@
 Version History:
 
+# 1_3_0
+
+Added In:
+
+Koralina's Hair
+
+Destructible Skyrim - BOS
+
+Hawk Patch - Base Object Swapper Remake
+
+Road Signs Reloaded 2K
+
+Add Fallrim tools Resaver as a tool
+
+DLAA
+
+Update ENB to latest version
+
+
 # 1_2_9
 
 Add In:
