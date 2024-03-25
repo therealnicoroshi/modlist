@@ -232,6 +232,8 @@ Bodyslide and Outfit Studio
 
 NifSkope
 
+ReSaver
+
 
  # About Adding More Tools:
 
