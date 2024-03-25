@@ -203,11 +203,11 @@ Click it and allow it to set the affinty for your processor.
 
 There are BDOR armor mods that were included in v.1.2.3 that were problematic for installation through Wabbajack so were removed in v.1.2.4
 
-### *These files are completely optional, and not required for the list to run.*
+### *These files are completely optional, FREE, and not required for the list to run.*
 
 They can be added manually through MO2 if you choose to do so and can be found on the Discord in:
 
-'Suggested Additions You Might Like for the Mod List'
+['free-mods-that-were-problematic-in-the-wabbajack-i-will-support'](https://discord.com/channels/1202446860938387467/1209299517254406176)
 
 *I will still offer support for the mod list if you decide to add these specific files.*
 
