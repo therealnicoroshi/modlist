@@ -278,7 +278,7 @@ This will be your swap file and supplement the VRAM if needed.
 
    Here are some things I recommend if your framerate is still suffering after applying the 12GB VRAMr and following the notes on 'Basic system set up' above.
 
-   1. Run BethINI (included tool) and choose a lower preset setting like Medium. The default is Ultra. Be sure to NOT use Ambient Occusion if using the one in Reshade or ENB. Remember DO NOT DOUBLE UP ON EFFECTS!
+   1. Run BethINI (included tool) and choose a lower preset setting like Medium. The default is High. Be sure to NOT use Ambient Occusion if using the one in Reshade or ENB. Remember DO NOT DOUBLE UP ON EFFECTS!
 
    2. Disable Reshade or remove it entirely. This will lose very little visual enhancement but help the frame rate quite a bit.
    
