@@ -270,8 +270,6 @@ This will be your swap file and supplement the VRAM if needed.
 
 5. Some completely optional things I personally use that dramatically help the frame rate (but are paid mods so decide for yourself if they are right for you)
 
-[Skyrim Upscaler for ENB](https://www.patreon.com/posts/skyrimupscaler-85674557)
-
 [Lossless Scaling Frame Generator](https://store.steampowered.com/app/993090/Lossless_Scaling/)
 
    # Performance Tweaks
