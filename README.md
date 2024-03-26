@@ -24,8 +24,8 @@ by Nicoroshi
   - [Choose Your LOD](README.md#5-choose-your-lod)
   - [Choose Your Profile](README.md#6-choose-your-profile)
   - [Set Your Affinity](README.md#7-set-your-affinity)
-  - [AMD Specific Requirements *IMPORTANT*](README.md#amd-specific-requirements)
-  - [Optional files I will offer support for if added to the list](README.md#8-optional-files-i-will-offer-support-for-if-added-to-the-list)
+  - [AMD Specific Requirements *IMPORTANT*](README.md#8-amd-specific-requirements)
+  - [Optional files I will offer support for if added to the list](README.md#9-optional-files-i-will-offer-support-for-if-added-to-the-list)
 - [Included Tools](README.md#included-tools)
   - [About Adding More Tools](README.md#about-adding-more-tools)
 - [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-set-up)
@@ -200,15 +200,14 @@ Find:
 
 Click it and allow it to set the affinty for your processor.
 
-# *IMPORTANT*
-
-## AMD Specific Requirements 
+## *IMPORTANT*
+## 8. AMD Specific Requirements 
 
 In MO2 left pane find line #4 Optimization, and expand
 
 Uncheck SkyrimUpscaler as it's set up for DLAA which won't work on AMD cards (will cause crash)
 
-## 8. Optional files I will offer support for if added to the list
+## 9. Optional files I will offer support for if added to the list
 
 There are Free to download BDOR armor mods that were included in v.1.2.3 that were problematic for installation through Wabbajack so were removed in v.1.2.4
 
