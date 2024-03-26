@@ -282,7 +282,7 @@ This will be your swap file and supplement the VRAM if needed.
 
    2. Disable Reshade or remove it entirely. This will lose very little visual enhancement but help the frame rate quite a bit.
    
-   3. Turn the settings on the effects in ENB tolow or medium (default is high/Very high). These are in the left pane when you open ENB and can be seen when expanding each effect individually.
+   3. Turn the settings on the effects in ENB to low or medium (default is high/Very high). These are in the left pane when you open ENB and can be seen when expanding each effect individually.
    
    4. Run at a lower resolution.
    
