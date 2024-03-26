@@ -189,6 +189,15 @@ Default game profile resolution is 1920x1080.
 
 Choose and select the one that fits your screen resolution.
 
+### In the MO2 folder find the folder 'profiles'. Within that find the profile you're using and SkyrimPrefs.ini
+
+Change this line to reflect the graphics card you are using:
+
+[Launcher]
+sD3DDevice="NVIDIA GeForce RTX 3090"
+
+This could also be done by running BethINI IIRC but good to check afterward to make sure it's referncing the correct card being used.
+
   ### *Don't forget to change your resolution in Bethini to match your screen resolution. You may also wish to enable TAA at this time or change preset*
 
   ## 7. Set your affinity
@@ -200,7 +209,6 @@ Find:
 
 Click it and allow it to set the affinty for your processor.
 
-## *IMPORTANT*
 ## 8. AMD Specific Requirements 
 
 In MO2 left pane find line #4 Optimization, and expand
