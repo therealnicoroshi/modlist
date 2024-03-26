@@ -4,8 +4,6 @@ Version History:
 
 Added In:
 
-Koralina's Hair
-
 Destructible Skyrim - BOS
 
 Hawk Patch - Base Object Swapper Remake
