@@ -1,5 +1,24 @@
 Version History:
 
+# 1_3_1
+
+Added In:
+
+Striding Silt Striders
+
+Thieves Guild Alternative Endings
+
+Cliff RAcers on Solstheim
+
+Red Mountain Plume visible from Skyrim
+
+Nature of the Wild Lands Burning Log Fix
+
+Repaired:
+
+Incorrect normal map for C.O.I.N due to VRAMr_output
+
+
 # 1_3_0
 
 Added In:
