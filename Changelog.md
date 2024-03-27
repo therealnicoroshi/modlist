@@ -8,7 +8,7 @@ Striding Silt Striders
 
 Thieves Guild Alternative Endings
 
-Cliff RAcers on Solstheim
+Cliff Racers on Solstheim
 
 Red Mountain Plume visible from Skyrim
 
