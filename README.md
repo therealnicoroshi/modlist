@@ -286,9 +286,6 @@ Panjano has a good video on how to set this up
 4. Go to system settings and set virtual memory on the drive the mod organizer is on at 40GB min and 40GB Max. Save and restart.
 This will be your swap file and supplement the VRAM if needed.
 
-5. Some completely optional things I personally use that dramatically help the frame rate (but are paid mods so decide for yourself if they are right for you)
-
-[Lossless Scaling Frame Generator](https://store.steampowered.com/app/993090/Lossless_Scaling/)
 
    # Performance Tweaks
 
@@ -304,7 +301,11 @@ This will be your swap file and supplement the VRAM if needed.
    
    5. Lower the grass density in 'Explore Virtual Folder/Net Script Framework/Plugins/GrassControlConfig.txt/OverwriteMinGrassSize = 65' by INCREASING this number to something like 75-80.
    
+   6. Consider frame generation software. ## *NOTE* ### This is software I chose to purchase from Steam for my own game. Decide for yourself what is right for you.
 
+   [Lossless Scaling Frame Generator](https://store.steampowered.com/app/993090/Lossless_Scaling/)
+
+   
  # The MCM Menu:
 
 Alright.....There is a LOT here.
