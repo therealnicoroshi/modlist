@@ -26,13 +26,13 @@ by Nicoroshi
   - [Set Your Affinity](README.md#7-set-your-affinity)
   - [AMD Specific Requirements *IMPORTANT*](README.md#8-amd-specific-requirements)
   - [Optional files I will offer support for if added to the list](README.md#9-optional-files-i-will-offer-support-for-if-added-to-the-list)
+  - [Optional Setting the HUD for 21:9 Resolution](README.md#optional-setting-the-hud-for-21x9-resolution)
 - [Included Tools](README.md#included-tools)
   - [About Adding More Tools](README.md#about-adding-more-tools)
 - [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-set-up)
   - [Performance Tweaks](README.md#performance-tweaks)
 - [The MCM Menu](README.md#the-mcm-menu)
 - [Some Important Default Keys to Know](README.md#some-important-default-keys-to-know)
-  - [Setting the HUD for 21:9 Resolution](README.md#setting-the-hud-for-21x9-resolution)
   - [Word of Warning](README.md#word-of-warning)
 - [Recommended Difficulty Levels](README.md#recommended-difficulty-levels)
   - [Shout Out To Some Awesome People](README.md#shout-out-to-some-awesome-people)
@@ -227,6 +227,24 @@ They can be added manually through MO2 if you choose to do so and can be found o
 
 *I will still offer support for the mod list if you decide to add these specific files.*
 
+## 10. Optional Setting the HUD for 21x9 resolution.
+
+In the MCM Menu:
+
+SkyUI:
+
+Set 3D Item to H= 24, and Scale to 1.2. 
+
+Set Item Card to H= - 225.
+
+Show Player in Menus:
+
+X Offset = 50
+
+TrueHUD:
+
+Set X to - 0.125 for Player Widget.
+
 
 
 ## Congratulations you are now installed and set up.
@@ -391,25 +409,6 @@ Page Up = SMP reset
 0 ) = PC head Tracking Random Saying
   
 C = Quicklight toggle
-
-
-# Setting the HUD for 21x9 resolution.
-
-In the MCM Menu:
-
-SkyUI:
-
-Set 3D Item to H= 24, and Scale to 1.2. 
-
-Set Item Card to H= - 225.
-
-Show Player in Menus:
-
-X Offset = 50
-
-TrueHUD:
-
-Set X to - 0.125 for Player Widget.
 
 
 # *Word Of Warning*:
