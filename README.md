@@ -26,7 +26,7 @@ by Nicoroshi
   - [Set Your Affinity](README.md#7-set-your-affinity)
   - [AMD Specific Requirements *IMPORTANT*](README.md#8-amd-specific-requirements)
   - [Optional files I will offer support for if added to the list](README.md#9-optional-files-i-will-offer-support-for-if-added-to-the-list)
-  - [Optional Setting the HUD for 21:9 Resolution](README.md#optional-setting-the-hud-for-21x9-resolution)
+  - [Optional Setting the HUD for 21:9 Resolution](README.md#10-optional-setting-the-hud-for-21x9-resolution)
 - [Included Tools](README.md#included-tools)
   - [About Adding More Tools](README.md#about-adding-more-tools)
 - [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-set-up)
