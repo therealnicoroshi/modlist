@@ -198,7 +198,7 @@ sD3DDevice="NVIDIA GeForce RTX 3090"
 
 This could also be done by running BethINI IIRC but good to check afterward to make sure it's referncing the correct card being used.
 
-  ### *Don't forget to change your resolution in Bethini to match your screen resolution. You may also wish to enable TAA at this time if using an AMD card (nVidia cards will use the Upscaler DLAA included) or change preset*
+  ### *Don't forget to change your resolution in Bethini to match your screen resolution. You may also wish to enable TAA at this time if using an AMD card (nVidia cards will use the Upscaler DLAA included in the list) or change preset*
 
   ## 7. Set your affinity
 
