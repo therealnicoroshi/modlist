@@ -336,6 +336,12 @@ Caps Lock + Enter = ENB Menu
 
 Caps Lock + F12 = Toggle ENB Effect
 
+Caps Lock + F11 = Toggle Wire Frame
+
+Home = Reshade menu
+
+F11 = Toggle Reshade
+
 Backspace = Immersive Equipment Displays
 
 Shift + O = Open Animation Replacer
@@ -356,11 +362,9 @@ G = walk/Run Toggle
 
 Left Control = Wheeler menu
 
-Shift = sprint
+Caps Lock = Sprint
 
 Del = dMenu
-
-Home = Reshade menu
 
 
 While falling
