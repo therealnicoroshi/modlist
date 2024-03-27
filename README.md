@@ -229,6 +229,8 @@ They can be added manually through MO2 if you choose to do so and can be found o
 
 ## 10. Optional Setting the HUD for 21x9 resolution.
 
+### If using the 21:9 proflie set:
+
 In the MCM Menu:
 
 SkyUI:
