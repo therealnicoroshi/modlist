@@ -301,7 +301,10 @@ This will be your swap file and supplement the VRAM if needed.
    
   5. Lower the grass density in 'Explore Virtual Folder/Net Script Framework/Plugins/GrassControlConfig.txt/OverwriteMinGrassSize = 65' by INCREASING this number to something like 75-80.
 
-  6. Consider frame generation software. ## *NOTE* ### This is software I chose to purchase from Steam for my own game. Decide for yourself what is right for you.
+  6. Consider frame generation software.
+
+     ## *NOTE*
+     ### This is software I chose to purchase from Steam for my own game. Decide for yourself what is right for you.
 
    [Lossless Scaling Frame Generator](https://store.steampowered.com/app/993090/Lossless_Scaling/)
 
