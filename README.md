@@ -336,7 +336,7 @@ As of Version 1_3_2 the MCM Recorder should Auto Run on new game start with reco
 
 You can still go through the menu and change things to suit your preference afterward but this will give you a solid base to start from.
 
-### Some important things to leave disabled for stbility reasons
+### Some important things to leave disabled for stability reasons
 
 Leave Minatours and Spiders Off in OBIS
 
