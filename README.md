@@ -168,17 +168,9 @@ It may already be pointed in the correct location but good to check.
 
    ## 5. Choose your LOD
 
-In MO2 left pane go to #93 LOD Generation_Output Tab
+By default this list will require up to 20GB of Vram to run smoothly.
 
-  ### Choose either (based on the VRAM of your video card):
-
-VRAMr_Output for 16GB cards (On by default)
-or 
-VRAMr_Output for 12GB cards
-
-Depending on your graphics card VRAM amount.
-
-  ## *CHOOSE ONLY ONE TO ACTIVATE*
+# If you want to run this list with a card that has less Vram than that you will need to run the included VRAMr program for either performance (12GB) or Standard (16GB) as I cannot include these files for you.
 
   ## 6. Choose your profile
 
