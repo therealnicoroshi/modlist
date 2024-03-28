@@ -74,7 +74,7 @@ Support will be provided for non-modified installations of the mod list via the 
 
  # Recommended Minimum Hardware:
   
-Absolute minimum if using every provided option for optimization is:
+Absolute minimum if using every provided option for optimization, and run VRAMr at 'performance' settings is:
 
 Video card with 12GB of VRAM
 
@@ -170,7 +170,7 @@ It may already be pointed in the correct location but good to check.
 
 By default this list will require up to 20GB of Vram to run smoothly.
 
-# If you want to run this list with a card that has less Vram than that you will need to run the included VRAMr program for either performance (12GB) or Standard (16GB) as I cannot include these files for you.
+## If you want to run this list with a card that has less Vram than that you will need to run the included VRAMr program for either performance (12GB) or Standard (16GB) as I cannot include these files for you.
 
   ## 6. Choose your profile
 
