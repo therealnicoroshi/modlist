@@ -18,6 +18,8 @@ Change destructible skyrim table horn candle back to SD Horn candle model
 
 Change garlic models of full heads back to High poly project model
 
+Removal of VRAMr outputs. Now needs to be maually done by the end user.
+
 Hotfix/Updates:
 
 Update ALL Creation Club content with SSEedit Quick Auto Clean and latest master list
