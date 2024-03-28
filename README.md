@@ -170,7 +170,9 @@ It may already be pointed in the correct location but good to check.
 
 By default this list will require up to 20GB of Vram to run smoothly.
 
-## If you want to run this list with a card that has less Vram than that you will need to run the included VRAMr program for either performance (12GB) or Standard (16GB) as I cannot include these files for you.
+## If you want to run this list with a card that has less Vram than that you will need to run the included VRAMr program (in Executables at top right in MO2) for either performance (12GB) or Standard (16GB) as I cannot include these files for you.
+
+Once complete Zip the oputput and install like a mod in MO2 in Left Pane of MO2 '93. LOD Generation Output'
 
   ## 6. Choose your profile
 
