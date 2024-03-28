@@ -4,7 +4,7 @@
 # The Nico Experience
 by Nicoroshi 
 
-## v. 1.3.1
+## v. 1.3.2
 
 
 
@@ -31,7 +31,8 @@ by Nicoroshi
   - [About Adding More Tools](README.md#about-adding-more-tools)
 - [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-set-up)
   - [Performance Tweaks](README.md#performance-tweaks)
-- [The MCM Menu](README.md#the-mcm-menu)
+  - [The MCM Menu](README.md#the-mcm-menu)
+  - [Known Issues](README.md#known-issues)
 - [Some Important Default Keys to Know](README.md#some-important-default-keys-to-know)
   - [Word of Warning](README.md#word-of-warning)
 - [Recommended Difficulty Levels](README.md#recommended-difficulty-levels)
@@ -331,23 +332,29 @@ This will be your swap file and supplement the VRAM if needed.
    
  # The MCM Menu:
 
-Alright.....There is a LOT here.
+As of Version 1_3_2 the MCM Recorder should Auto Run on new game start with recommended settings.
 
-There are many character presets included for most races and genders. Be sure to check which race the preset is for before applying it as it might look strange on a different race.
+You can still go through the menu and change things to suit your preference afterward but this will give you a solid base to start from.
 
-I recommend simply going through the MCM menu one at a time, and set how you like it.
+### Some important things to leave disabled for stbility reasons
 
-It is IMPORTANT to leave Minatours and Spiders turned OFF for OBIS, ore guardians OFF in Immersive creatures, and shadows OFF for Strange Runes as they are KNOWN to crash the game. 
+Leave Minatours and Spiders Off in OBIS
 
-Magical jumping should be lore friendly in the MCM. Change it to NON-Lore friendly in the MCM to get magical jumping by default.
+Leave Extra spawns Ore Guardians Off in Immersive Creatures
 
-Magical Jumping: this can be kind of glitchy with other mods in the list.
+Leave shadows OFF in Strange Runes
 
-What I did:
+  # Known Issues:
 
-Set lore friendly mode to 'OFF'. In the SKSE folder DTry Ultilities find magical jumping and comment OUT using ; everything that is not already commented out.
+When destroying tables some lanterns and horn candles will not drop to the ground.
 
-This disables the dash, and bash parts but keeps NO fall damage on and allows for triple jumping magical jumps by default
+Sometimes when jumping you might get stuck in the jump animation. Jump again to fix
+
+Sometimes the Bow rapid combo attack won't work correctly. Switch weapons then switch back to fix
+
+Sometimes the game gets confused if you're in first person or third (i.e. MCO step forward animations will not step forward) Quicksave/quickload to repair
+
+You will need to use the X (swan dive) or C (Shorter Dive) keys before jumping to trigger a short or long dive animation for Leaps of faith.
 
 
 # *Some Important Default Keys To Know*:
