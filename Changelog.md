@@ -1,5 +1,27 @@
 Version History:
 
+# 1_3_2
+
+Add in:
+
+Halffaces Flin, Shein, Sujamma, and Matze
+
+Farm Animals and Co. Extended version SE
+
+Koralina's Aesthetics - Hair Collection - SMP
+
+Changes:
+
+Change MCM Recorder to auto run and expand to more complete set up.
+
+Change destructible skyrim table horn candle back to SD Horn candle model
+
+Change garlic models of full heads back to High poly project model
+
+Hotfix/Updates:
+
+Update ALL Creation Club content with SSEedit Quick Auto Clean and latest master list
+
 # 1_3_1
 
 Added In:
