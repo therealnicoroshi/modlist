@@ -246,6 +246,8 @@ NifSkope
 
 ReSaver
 
+VRAMr
+
 
  # About Adding More Tools:
 
