@@ -16,17 +16,14 @@ by Nicoroshi
   - [Pre-Install](README.md#pre-install)
   - [Main Install](README.md#main-install)
 - [Post Installation](README.md#post-installation)
-  - [MO2 Settings](README.md#mo2-and-system-settings)
-  - [Run Mod Organizer as Administrator](README.md#1-run-mod-organizer-as-admin)
-  - [Exclude Mod Organizer from your Anti-Virus](README.md#2-exclude-mo2-from-your-anti-virus)
-  - [Disable Steam Overlay](README.md#3-disable-steam-overlay)
-  - [Check The Stock Game Folder Location](README.md#4-check-the-stock-game-folder-location)
-  - [Choose Your LOD](README.md#5-choose-your-lod)
-  - [Choose Your Profile](README.md#6-choose-your-profile)
-  - [Set Your Affinity](README.md#7-set-your-affinity)
-  - [AMD Specific Requirements *IMPORTANT*](README.md#8-amd-specific-requirements)
-  - [Optional files I will offer support for if added to the list](README.md#9-optional-files-i-will-offer-support-for-if-added-to-the-list)
-  - [Optional Setting the HUD for 21:9 Resolution](README.md#10-optional-setting-the-hud-for-21x9-resolution)
+  - [Exclude Mod Organizer from your Anti-Virus](README.md#1-exclude-mo2-from-your-anti-virus)
+  - [Disable Steam Overlay](README.md#2-disable-steam-overlay)
+  - [Choose Your LOD](README.md#3-choose-your-lod)
+  - [Choose Your Profile](README.md#4-choose-your-profile)
+  - [Set Your Affinity](README.md#5-set-your-affinity)
+  - [AMD Specific Requirements *IMPORTANT*](README.md#6-amd-specific-requirements)
+  - [Optional files I will offer support for if added to the list](README.md#7-optional-files-i-will-offer-support-for-if-added-to-the-list)
+  - [Optional Setting the HUD for 21:9 Resolution](README.md#9-optional-setting-the-hud-for-21x9-resolution)
 - [Included Tools](README.md#included-tools)
   - [About Adding More Tools](README.md#about-adding-more-tools)
 - [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-set-up)
@@ -132,13 +129,7 @@ After that file is downloaded the rest of the install should be automated.
 
    ### MO2 and System Settings
    
-   ## 1. Run mod organizer as admin.
-   
-   Right click the Mod Organiazer 2.exe located in the MO2 folder and click on Properties.
-   
-   In the Compatability Tab check mark 'Run this Program as Administrator'
-   
-   ## 2. Exclude MO2 from your Anti-Virus
+   ## 1. Exclude MO2 from your Anti-Virus
    
    For Windows Defender click Windows tab in bottom left
    
@@ -146,35 +137,25 @@ After that file is downloaded the rest of the install should be automated.
    
    Add an Exclusion and navigate to your Mod Organizer 2. exe
 
-   ## 3. Disable Steam Overlay
+   ## 2. Disable Steam Overlay
    
    Find the game in your Steam Library then go to Properties
    
    Under the General tab, you'll find a checkbox for Enable the Steam Overlay while in-game.
    
    Make sure it's unchecked.
-   
-   ## 4. Check the Stock Game folder location
 
-   Navigate to (Drive letter):\Where\you\installed\the Wabbajack\ModOrganizer.ini
-   
-   This example is where I installed it
-   
-   gamePath=@ByteArray(C:\\Wabbajack<\\The Nico Experience\\Mod Organizer 2\\Stock Game
-
-Yours might look different but the idea is to point it to where your Stock Game folder is located in the new install
-
-It may already be pointed in the correct location but good to check.
-
-   ## 5. Choose your LOD
+   ## 3. Choose your LOD
 
 By default this list will require up to 20GB of Vram to run smoothly.
 
 ## If you want to run this list with a card that has less Vram than that you will need to run the included VRAMr program (in Executables at top right in MO2) for either performance (12GB) or Standard (16GB) as I cannot include these files for you.
 
+## This will take about an hour to run but important to reduce VRAM Usage and avoid system stutter while playing.
+
 Once complete Zip the output and install like a mod in MO2 in Left Pane. '93. LOD Generation Output'
 
-  ## 6. Choose your profile
+  ## 4. Choose your profile
 
 ### There are 2 included profiles to choose from based on screen resolution
 
@@ -195,7 +176,7 @@ This could also be done by running BethINI IIRC but good to check afterward to m
 
   ### *Don't forget to change your resolution in Bethini to match your screen resolution. You may also wish to enable TAA at this time if using an AMD card (nVidia cards will use the Upscaler DLAA included in the list) or change preset*
 
-  ## 7. Set your affinity
+  ## 5. Set your affinity
 
 In MO2 top left find the tools tab, and click on it.
 
@@ -204,13 +185,13 @@ Find:
 
 Click it and allow it to set the affinty for your processor.
 
-## 8. AMD Specific Requirements 
+## 6. AMD Specific Requirements 
 
 In MO2 left pane find line #4 Optimization, and expand
 
 Uncheck SkyrimUpscaler as it's set up for DLAA which won't work on AMD cards (will cause crash)
 
-## 9. Optional files I will offer support for if added to the list
+## 7. Optional files I will offer support for if added to the list
 
 There are Free to download BDOR armor mods that were included in v.1.2.3 that were problematic for installation through Wabbajack so were removed in v.1.2.4
 
@@ -222,7 +203,7 @@ They can be added manually through MO2 if you choose to do so and can be found o
 
 *I will still offer support for the mod list if you decide to add these specific files.*
 
-## 10. Optional Setting the HUD for 21x9 resolution.
+## 8. Optional Setting the HUD for 21x9 resolution.
 
 ### If using the 21:9 proflie set:
 
