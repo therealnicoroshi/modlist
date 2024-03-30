@@ -340,8 +340,6 @@ Caps Lock + F12 = Toggle ENB Effect
 
 Caps Lock + F11 = Toggle Wire Frame
 
-Home = Reshade menu
-
 F11 = Toggle Reshade
 
 Backspace = Immersive Equipment Displays
