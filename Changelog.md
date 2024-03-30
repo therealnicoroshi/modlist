@@ -1,5 +1,28 @@
 Version History:
 
+# 1_3_3
+
+Remove VRAMr outputs (Sadly this will have to be done by the end user from here on out)
+
+Update VRAMr to latest version
+
+Fluffworks CC Wild Horses Patch
+
+Fluffworks Animallica Patch
+
+Animated Ships
+
+Animated Ships - Finer Sails
+
+Animated Ships Patches
+
+Nature of the Mild Lands Downscale
+
+BA Bard Songs
+
+Remove Reshade (This was done to improve frame rate with minimal loss in image quality)
+
+
 # 1_3_2
 
 Add in:
