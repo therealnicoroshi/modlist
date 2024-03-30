@@ -4,7 +4,7 @@
 # The Nico Experience
 by Nicoroshi 
 
-## v. 1.3.2
+## v. 1.3.3
 
 
 
@@ -290,16 +290,14 @@ This will be your swap file and supplement the VRAM if needed.
    Here are some things I recommend if your framerate is still suffering after applying the 12GB VRAMr and following the notes on 'Basic system set up' above.
 
   1. Run BethINI (included tool) and choose a lower preset setting like Medium. The default is High. Be sure to NOT use Ambient Occusion, Screen Space Reflections, and turn Tree LOD Distance to '0'. These effects are being handled by Reshade, ENB, and DynDOLOD. Remember DO NOT DOUBLE UP ON EFFECTS! It will cost twice the frame cost with no change in visuals!
+   
+  2. Turn the settings on the effects in ENB to low or medium (default is high/Very high). These are in the left pane when you open ENB and can be seen when expanding each effect individually.
+   
+  3. Run at a lower resolution.
+   
+  4. Lower the grass density in 'Explore Virtual Folder/Net Script Framework/Plugins/GrassControlConfig.txt/OverwriteMinGrassSize = 65' by INCREASING this number to something like 75-80.
 
-  2. Disable Reshade or remove it entirely. This will lose very little visual enhancement but help the frame rate quite a bit.
-   
-  3. Turn the settings on the effects in ENB to low or medium (default is high/Very high). These are in the left pane when you open ENB and can be seen when expanding each effect individually.
-   
-  4. Run at a lower resolution.
-   
-  5. Lower the grass density in 'Explore Virtual Folder/Net Script Framework/Plugins/GrassControlConfig.txt/OverwriteMinGrassSize = 65' by INCREASING this number to something like 75-80.
-
-  6. Consider frame generation software.
+  5. Consider frame generation software.
 
      ## *NOTE*
      ### This is software I chose to purchase from Steam for my own game. Decide for yourself what is right for you.
