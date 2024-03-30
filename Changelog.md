@@ -2,7 +2,7 @@ Version History:
 
 # 1_3_3
 
-Remove VRAMr outputs (Sadly this will have to be done by the end user from here on out)
+Add VRAMr as a tool in Executables of MO2
 
 Update VRAMr to latest version
 
