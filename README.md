@@ -153,6 +153,8 @@ By default this list will require up to 20GB of Vram to run smoothly.
 
 ## This will take about an hour to run but important to reduce VRAM Usage and avoid system stutter while playing.
 
+- [Tutorial Video](https://www.youtube.com/watch?v=Se6oAvmtaBE&t=1s)
+
 Once complete Zip the output and install like a mod in MO2 in Left Pane. '93. LOD Generation Output'
 
   ## 4. Choose your profile
