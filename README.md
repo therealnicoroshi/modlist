@@ -53,7 +53,11 @@ The Nico Experience
  # Requirements and Information:
 
  
-This modlist requires the Steam version of Skyrim AE v. 1.6.1170 with paid CC content, and Creation Kit.
+## This modlist requires the Steam version of Skyrim AE v. 1.6.1170
+
+## All Anniversary Edition Creation Club Content
+
+## The Skyrim Special Edition Creation Kit
 
 It will auto Downgrade and run Skyrim SE 1.5.97 with CC content.
 
