@@ -159,7 +159,7 @@ By default this list will require up to 20GB of Vram to run smoothly.
 
 - [Tutorial Video](https://www.youtube.com/watch?v=Se6oAvmtaBE&t=1s)
 
-Once complete Zip the output and install like a mod in MO2 in Left Pane. '93. LOD Generation Output'
+Once complete drag and drop the folder it creates (that is clearly marked "DragNDropThisFolderIntoModManager") between Texgen_Output and Dyndolod_Output in MO2 '93. LOD Generation Output'
 
   ## 4. Choose your profile
 
