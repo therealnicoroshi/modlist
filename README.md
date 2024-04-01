@@ -327,6 +327,14 @@ Leave shadows OFF in Strange Runes
 
   # Known Issues:
 
+## With MO2 Executables not working as intended
+
+Find the tools folder and the .exe of the application inside it's respective folder
+
+Right click/ compatability/ Run as administrator
+
+## Within the game
+
 When destroying tables some lanterns and horn candles will not drop to the ground.
 
 Sometimes when jumping you might get stuck in the jump animation. Jump again to fix
