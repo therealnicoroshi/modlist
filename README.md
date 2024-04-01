@@ -329,7 +329,7 @@ Leave shadows OFF in Strange Runes
 
 ## With MO2 Executables not working as intended
 
-Find the tools folder and the .exe of the application inside it's respective folder
+Find the tools folder within your MO2 installation folder, and the .exe of the application inside it's respective folder (Example: D:\The Nico Experience\MO2\Tools\SSEedit)
 
 Right click/ compatability/ Run as administrator
 
