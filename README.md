@@ -346,15 +346,17 @@ Caps Lock + F12 = Toggle ENB Effect
 
 Caps Lock + F11 = Toggle Wire Frame
 
-F11 = Toggle Reshade
+F11 = Toggle A matter of time widget and clock
 
 Backspace = Immersive Equipment Displays
 
 Shift + O = Open Animation Replacer
 
+Shift = Toggle use or take, and talk or pet for cats, dogs, and horses
+
 Ins = Blink Spell Hotkey (Can be modified in it's ini file)
 
-X = Toggle HUD and swan dive jump
+X = Toggle Compass HUD and swan dive jump
 
 C = Short Dive jump and quicklight
 
