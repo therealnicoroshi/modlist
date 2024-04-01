@@ -1,5 +1,23 @@
 Version History:
 
+# 1.3.4
+
+Added in:
+
+Abandoned Shack Crow Fix - Nico
+
+Alikir Accusations happen only once
+
+1st Person Candlelight fix
+
+No Silly physics damage
+
+Twitching plates fix
+
+Update Dynamic Looting and Harvesting 
+
+Patch to remove Flamingos and Roadrunners from Farm animals and Co.
+
 # 1_3_3
 
 Add VRAMr as a tool in Executables of MO2
