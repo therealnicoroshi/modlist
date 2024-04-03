@@ -135,7 +135,7 @@ After that file is downloaded the rest of the install should be automated.
 
  If the installation fails (more than once) on a specific file you will need to manually download it and put it into your Downloads folder within the MO2 installation then re-run Wabback so it can complete
 
- This links are provided for your convienence
+ These links are provided for your convienence
 
  - [[Dint]BDOR Hairs SSE 0.17.7z](https://drive.usercontent.google.com/download?id=1tpY3bDs-LR6rptf8oPUfraKs1CkxJJB3&export=download&authuser=0)
  - [[Dint999] HairPack02 SSE 1.11 (base).7z](https://drive.google.com/u/0/uc?id=1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ&export=download)
