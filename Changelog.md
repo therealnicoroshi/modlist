@@ -1,6 +1,28 @@
 Version History:
 
+# 1_3_5
 
+[Dint999] BDOR Hairs SSE 0.17
+
+[Dint999] HairPack02 SSE 1.11 
+
+[Dint999] FacePartMod (SSE) v0.6b
+
+[dint999] BDOr Winter Mountain Guardian Spirit
+
+Bring back Reshade
+
+Take a Nap - Sleep on Chairs
+
+Update Skyrim on Skooma to latest version
+
+Basic Knife and Fork retexture (Steel)
+
+Move Experience mod for 21:9 to higher location to fix skill menu being cut off at top and bottom.
+
+Tools not Weapons
+
+Skyjack simple woodcutter
 
 # 1_3_4
 
