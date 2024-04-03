@@ -14,44 +14,6 @@ Reshade
 
 [dint999] BDOr Winter Mountain Guardian Spirit
 
-[SE] BDO Herawen Xing CBBE 3BA SMP SE
-
-[SE] Kirax_BDO DK 0172 SMP 3BA
-
-[SE] Kirax BDO Rosa Le Dessous SMP 3BA
-
-[SE] DM BDOR Hamshin
-
-[SE] BDOR Checkmate 3BA fix
-
-[SE] DM BDOR Caroxya
-
-[SE] DM BDOR Danharum
-
-[SE] DM BDOR Mueburus
-
-[SE] DM BDOR Adamas
-
-[SE] DM BDOR Aquila
-
-DM BDOR Dobart
-
-[SE] DM BDOR Nova Taritas
-
-[SE] Kirax BDO Cavaro SMP 3BA
-
-[SE] Kirax BDO DK Ataraxia SMP 3BA
-
-[SE] Kirax BDO Yinixtra SMP 3BA
-
-[SE] DM BDOR Sephia
-
-Dint Hair pack 1
-
-Dint Hair pack 2
-
-Dint Face Parts
-
 Take a nap
 
 Update Skyrim on Skooma to latest version
