@@ -1,28 +1,5 @@
 Version History:
 
-# 1_3_5
-
-Additions:
-
-Reshade 
-
-[Dint999] BDOR Hairs SSE 0.17
-
-[Dint999] HairPack02 SSE 1.11 
-
-[Dint999] FacePartMod (SSE) v0.6b
-
-[dint999] BDOr Winter Mountain Guardian Spirit
-
-Take a nap
-
-Update Skyrim on Skooma to latest version
-
-Basic Knife and fork retexture (Steel)
-
-Tools Not Weapons
-
-Skyjack Simple Woodcutter
 
 
 # 1_3_4
