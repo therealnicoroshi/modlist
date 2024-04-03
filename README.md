@@ -110,7 +110,7 @@ If you fall somewhere between these two you can play it. Optimization is KEY for
 4. Start new game and after hearing  "So you're finally awake" open console (~) and type QQQ then press enter to quit out.
 
   ## >Important Note<:
-**You will need a Vector Plexis and Lovers Lab account for High Poly Head and BDOR Armor downloads in the Wabbajack**
+**You will need a Vector Plexis account for High Poly Head download in the Wabbajack**
 
 
   ## Main Install:
