@@ -4,7 +4,7 @@
 # The Nico Experience
 by Nicoroshi 
 
-## v. 1.3.5
+## v. 1.3.4
 
 
 
@@ -15,7 +15,6 @@ by Nicoroshi
 - [Installation](README.md#installation)
   - [Pre-Install](README.md#pre-install)
   - [Main Install](README.md#main-install)
-  - [Potentially Problematic Files](README.md#potentially-problematic-files)
 - [Post Installation](README.md#post-installation)
   - [Exclude Mod Organizer from your Anti-Virus](README.md#1-exclude-mo2-from-your-anti-virus)
   - [Disable Steam Overlay](README.md#2-disable-steam-overlay)
@@ -128,19 +127,6 @@ Make sure you are on the latest version of Wabbajack. As of this readme writing 
   ### NOTE: **There will be one file that requires you choose and click the download on Vector Plexus window. The file you want is High Poly Head v1.4 SE**
 
 After that file is downloaded the rest of the install should be automated.
-
- ## Potentially Problematic Files
-
- Sometimes Wabbajack has trouble downloading files on metered connections like Google Drive.
-
- If the installation fails (more than once) on a specific file you will need to manually download it and put it into your Downloads folder within the MO2 installation then re-run Wabback so it can complete
-
- These links are provided for your convienence
-
- - [[Dint]BDOR Hairs SSE 0.17.7z](https://drive.usercontent.google.com/download?id=1tpY3bDs-LR6rptf8oPUfraKs1CkxJJB3&export=download&authuser=0)
- - [[Dint999] HairPack02 SSE 1.11 (base).7z](https://drive.google.com/u/0/uc?id=1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ&export=download)
- - [[Dint999] FacePartMod (SSE) v0.6b.7z](https://drive.google.com/u/0/uc?id=1RQl8ki73fgLnzBZn6EWjneuW4Dk8TUO_&export=download)
- - [[dint999] BDOr Winter Mountain Guardian Spirit](https://drive.google.com/file/d/1siyc644OSI0Lz8PlM9lo3Gxf_VxQLlN5/view)
 
 
  # Post Installation:
