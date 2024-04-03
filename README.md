@@ -133,7 +133,7 @@ After that file is downloaded the rest of the install should be automated.
 
  Sometimes Wabbajack has trouble downloading files on metered connections like Google Drive.
 
- If the installation (more than once) on a specific file you will need to manually download it and put it into your Downloads folder within the MO2 installation then re-run Wabback so it can complete
+ If the installation fails (more than once) on a specific file you will need to manually download it and put it into your Downloads folder within the MO2 installation then re-run Wabback so it can complete
 
  This links are provided for your convienence
 
