@@ -368,7 +368,9 @@ Caps Lock + F12 = Toggle ENB Effect
 
 Caps Lock + F11 = Toggle Wire Frame
 
-F11 = Toggle A matter of time widget and clock
+F11 = Toggle A matter of time widget and clock 
+
+Home = Reshade
 
 Backspace = Immersive Equipment Displays
 
