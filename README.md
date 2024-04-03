@@ -15,7 +15,7 @@ by Nicoroshi
 - [Installation](README.md#installation)
   - [Pre-Install](README.md#pre-install)
   - [Main Install](README.md#main-install)
-  - [Potentially Problematic Files](README.md#potentialy-problematic-files)
+  - [Potentially Problematic Files](README.md#potentially-problematic-files)
 - [Post Installation](README.md#post-installation)
   - [Exclude Mod Organizer from your Anti-Virus](README.md#1-exclude-mo2-from-your-anti-virus)
   - [Disable Steam Overlay](README.md#2-disable-steam-overlay)
