@@ -4,7 +4,7 @@
 # The Nico Experience
 by Nicoroshi 
 
-## v. 1.3.5
+## v. 1.3.6
 
 
 
