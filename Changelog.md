@@ -1,5 +1,29 @@
 Version History:
 
+# 1_3_6
+
+Added in:
+
+simple fishing overhaul
+
+immersive fishing
+
+animated carriages
+
+Light horses for animated Carriages patch
+
+Animated carriages additional routes
+
+talkative Hagravens
+
+talkative Falmers
+
+Mihail's CC Goblins
+
+Mihal's CC Zombies
+
+Xtudo's CC Zombies retexture
+
 # 1_3_5
 
 [Dint999] BDOR Hairs SSE 0.17
