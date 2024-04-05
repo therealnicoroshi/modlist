@@ -118,10 +118,10 @@ Make sure you are on the latest version of Wabbajack. As of this readme writing 
 
 [Wabbajack Version 3.5.0.1](https://github.com/wabbajack-tools/wabbajack/releases/tag/3.5.0.1)
 
-Make sure you are logged into Vector Plexis, LoversLab, and Nexus
+- Make sure you are logged into Vector Plexis, LoversLab, and Nexus
+- [Download The Wabbajack app and run it](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe)
 
-
-1. Browse to The Nico Experience wabbajack, and click the Download arrow in the bottom right corner.
+1. Browse to The Nico Experience wabbajack from within the Wabbajack app, and click the Download arrow in the bottom right corner.
 2. When download is complete click the play arrow in the same location.
 3. Choose your install location, and Download location in the Wabbajack window.
   ### **Make sure the install location is minimum 500GB and OUTSIDE of any program or system files**
