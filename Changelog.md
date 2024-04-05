@@ -1,5 +1,59 @@
 Version History:
 
+# 1_3_7
+
+[SE] DM BDOR Vedirdate by Team TAL
+
+[SE] DM BDOR Sacra by Team TAL
+
+[SE] DM BDOR Lephria by Team TAL 200426 (1)
+
+[SE] DM BDOR Kibelius by Team TAL
+
+[SE] BDOR Pabilla by Team TAL
+
+[SE] BDOR Taritas by Team TAL
+
+[SE] BDO Herawen Xing CBBE 3BA SMP SE
+
+[SE] Kirax_BDO DK 0172 SMP 3BA
+
+[SE] Kirax BDO Rosa Le Dessous SMP 3BA
+
+[SE] DM BDOR Hamshin
+
+[SE] BDOR Checkmate 3BA
+
+[SE] DM BDOR Caroxya
+
+[SE] DM BDOR Danharum
+
+[SE] DM BDOR Mueburus
+
+[SE] DM BDOR Adamas
+
+[SE] DM BDOR Aquila
+
+DM BDOR Dobart
+
+[SE] DM BDOR Nova Taritas
+
+[SE] Kirax BDO Cavaro SMP 3BA
+
+[SE] Kirax BDO DK Ataraxia SMP 3BA
+
+[SE] Kirax BDO Yinixtra SMP 3BA
+
+[SE] DM BDOR Sephia
+
+BDOR Complete Collection by Kirax
+
+Ignoble beds
+
+Valhalla Combat - Less Ear Piercing Tackle Sound
+
+Koralina's Eyebrows for High Poly Head
+
 # 1_3_6
 
 Added in:
