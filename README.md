@@ -114,11 +114,8 @@ If you fall somewhere between these two you can play it. Optimization is KEY for
 
   ## Main Install:
 
-Make sure you are on the latest version of Wabbajack. As of this readme writing it's 3.5.0.1
-
-[Wabbajack Version 3.5.0.1](https://github.com/wabbajack-tools/wabbajack/releases/tag/3.5.0.1)
-
 - Make sure you are logged into Vector Plexis, LoversLab, and Nexus
+
 - [Download The Wabbajack app and run it](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe)
 
 1. Browse to The Nico Experience wabbajack from within the Wabbajack app, and click the Download arrow in the bottom right corner.
