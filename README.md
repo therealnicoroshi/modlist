@@ -60,12 +60,9 @@ The Nico Experience
 
 ### The Skyrim Special Edition Creation Kit
 
-
   ## >Important Note<:
   
-**You will need a Vector Plexis and LoversLab account in addition to a Nexus premium account**
-
-
+### **You will need a Vector Plexis and LoversLab account in addition to a Nexus premium account**
 
 It is released with Open Permissions per the Wabbajack License Agreement 
 
