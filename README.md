@@ -60,6 +60,10 @@ The Nico Experience
 
 ### The Skyrim Special Edition Creation Kit
 
+  ## >Important Note<:
+  
+**You will need a Vector Plexis and LoversLab account in addition to a Nexus premium account**
+
 It will auto Downgrade and run Skyrim SE 1.5.97 with CC content.
 
 It is released with Open Permissions per the Wabbajack License Agreement 
@@ -109,15 +113,14 @@ If you fall somewhere between these two you can play it. Optimization is KEY for
 3. Launch the game once from Steam and at the prompt download all CC Content from the full version of AE.
 4. Start new game and after hearing  "So you're finally awake" open console (~) and type QQQ then press enter to quit out.
 
-  ## >Important Note<:
-**You will need a Vector Plexis account for High Poly Head download in the Wabbajack**
-
 
   ## Main Install:
 
 Make sure you are on the latest version of Wabbajack. As of this readme writing it's 3.5.0.1
 
 [Wabbajack Version 3.5.0.1](https://github.com/wabbajack-tools/wabbajack/releases/tag/3.5.0.1)
+
+Make sure you are logged into Vector Plexis, LoversLab, and Nexus
 
 
 1. Browse to The Nico Experience wabbajack, and click the Download arrow in the bottom right corner.
