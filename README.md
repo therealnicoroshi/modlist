@@ -123,9 +123,8 @@ If you fall somewhere between these two you can play it. Optimization is KEY for
 3. Choose your install location, and Download location in the Wabbajack window.
   ### **Make sure the install location is minimum 500GB and OUTSIDE of any program or system files**
 
-  ### NOTE: **There will be one file that requires you choose and click the download on Vector Plexus window. The file you want is High Poly Head v1.4 SE**
-
-After that file is downloaded the rest of the install should be automated.
+  ### NOTE: **There will be a few files that require you choose and click the download button in the wabbajack browser window**
+  ### Read the top left for instructions. Click Download *ONLY ONCE*, and please be patient as it takes a few seconds to register and begin download. You should see download happening in the bottom right of the wabback app window once started.
 
 # Potentially Problematic Files
 
