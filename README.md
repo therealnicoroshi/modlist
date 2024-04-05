@@ -4,7 +4,7 @@
 # The Nico Experience
 by Nicoroshi 
 
-## v. 1.3.6
+## v. 1.3.7
 
 
 
@@ -135,19 +135,36 @@ Sometimes Wabbajack has trouble with metered connections like Google Drive.
 
 If the installation fails multiple times on one of these files please download it manually from the links below and put it into the Download folder then re-run Wabbajack to complete installation.
 
-[[dint999] BDOr Winter Mountain Guardian Spirit v1.1(4)](https://drive.google.com/uc?id=1siyc644OSI0Lz8PlM9lo3Gxf_VxQLlN5&export=download)
-
-[[Dint999] BDO Sorceress DahliaOfTheNight SE](https://www.loverslab.com/files/file/11804-dint999s-bdor-dahlia-of-the-night-smp-se-3ba/)
-
-[[Dint999] BDO_Witch_ v1.1 (female)](https://www.loverslab.com/files/file/11996-dint999s-bdo-weenie-looney-smp-3ba/)
-
-[[SE] Dint999 BDO Arethel+Heled SMP CBBE 3BA 1.01](https://www.loverslab.com/files/file/12828-se-dint999s-bdo-arethel-heled-smp-3ba/)
-
-[[SE] Dint999 BDO Sor LumiK SMP 3BA by em486](https://www.loverslab.com/files/file/13922-se-dint999s-bdo-sor-lumik-smp-3ba/)
-
-[[Dint999] BDOR Hairs SSE 0.17](https://drive.google.com/uc?id=1tpY3bDs-LR6rptf8oPUfraKs1CkxJJB3&export=download)
-
-[[Dint999] HairPack02 SSE 1.11 (base)](https://drive.google.com/uc?id=1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ&export=download)
+- [[dint999] BDOr Winter Mountain Guardian Spirit v1.1(4)](https://drive.google.com/uc?id=1siyc644OSI0Lz8PlM9lo3Gxf_VxQLlN5&export=download)
+- [[Dint999] BDO Sorceress DahliaOfTheNight SE](https://www.loverslab.com/files/file/11804-dint999s-bdor-dahlia-of-the-night-smp-se-3ba/)
+- [[Dint999] BDO_Witch_ v1.1 (female)](https://www.loverslab.com/files/file/11996-dint999s-bdo-weenie-looney-smp-3ba/)
+- [[SE] Dint999 BDO Arethel+Heled SMP CBBE 3BA 1.01](https://www.loverslab.com/files/file/12828-se-dint999s-bdo-arethel-heled-smp-3ba/)
+- [[SE] Dint999 BDO Sor LumiK SMP 3BA by em486](https://www.loverslab.com/files/file/13922-se-dint999s-bdo-sor-lumik-smp-3ba/)
+- [[Dint999] BDOR Hairs SSE 0.17](https://drive.google.com/uc?id=1tpY3bDs-LR6rptf8oPUfraKs1CkxJJB3&export=download)
+- [[Dint999] HairPack02 SSE 1.11 (base)](https://drive.google.com/uc?id=1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ&export=download)
+- [[SE] DM BDOR Vedirdate by Team TAL](https://www.loverslab.com/files/file/13457-se-team-tals-dm-bdor-vedirdate-smp-3ba/)
+- [[SE] DM BDOR Sacra by Team TAL(converted by em486)](https://www.loverslab.com/files/file/15192-se-team-tals-dm-bdor-sacra-smp-3ba/)
+- [[SE] DM BDOR Lephria by Team TAL 200426 (1)](https://www.loverslab.com/files/file/12825-se-team-tals-dm-bdor-lephria-smp-3ba/)
+- [[SE] DM BDOR Kibelius by Team TAL.7z](https://www.loverslab.com/files/file/12827-se-team-tals-dm-bdor-kibelius-smp-3ba/)
+- [[SE] BDOR Pabilla by Team TAL](https://www.loverslab.com/files/file/12076-team-tals-dm-bdor-pabilla-smp-3ba/)
+- [[SE] BDOR Taritas by Team TAL(converted by em486)](https://www.loverslab.com/files/file/14739-se-team-tals-dm-bdor-taritas-smp-3ba/)
+- [[SE] BDO Herawen Xing CBBE 3BA SMP SE](https://drive.google.com/file/d/1rXV6ftgxGnvvo6_RfAnpchAezr4s3Y48/view)
+- [[SE] Kirax_BDO DK 0172 SMP 3BA](https://drive.google.com/file/d/1TkeHDdN48ybtTeRH5zpE9_cjKCGAgiHq/view)
+- [[SE] Kirax BDO Rosa Le Dessous SMP 3BA](https://drive.google.com/file/d/1w8FYON11jWnOY0J8yqaMxKUtEYuI6TdA/view)
+- [[SE] DM BDOR Hamshin](https://drive.google.com/file/d/1huAumy3LIObVxpDaw2JdA9_KNQICmSiE/view)
+- [[SE] BDOR Checkmate 3BA fix](https://drive.google.com/file/d/1iy9FT2kf8vq2g0aTOuFtlLNKiyUepfq9/view)
+- [[SE] DM BDOR Caroxya](https://drive.google.com/file/d/11Ix_VTvmZjxMxz0sHpgj1WWtJgH3dozI/view)
+- [[SE] DM BDOR Danharum](https://drive.google.com/file/d/1wUpZayp2hDMbd4303-SYZLfLUqJdwQsK/view)
+- [[SE] DM BDOR Mueburus](https://drive.google.com/file/d/1NL26SeJQClfAoq-4NqrcRAsrV3oi2wNb/view)
+- [[SE] DM BDOR Adamas](https://drive.google.com/file/d/1bBhqwH969t1UBVAJVtOog9k2uKJQ-hjY/view)
+- [[SE] DM BDOR Aquila](https://drive.google.com/file/d/1AfWT6nlJ3FGTRXSbPKGrpD1QjYipBPTs/view)
+- [DM BDOR Dobart](https://drive.google.com/file/d/1Q2lSwBX4fRFWeP5tE5eSaSibfXgMPn0G/view)
+- [[SE] DM BDOR Nova Taritas](https://drive.google.com/file/d/1_OGjX0QK7tgzK7CDRPEY0A7Dswzln1Av/view)
+- [[SE] Kirax BDO Cavaro SMP 3BA](https://drive.google.com/file/d/1qDN1OymReXzS52ZidrD4JywEgnpus-D5/view)
+- [[SE] Kirax BDO DK Ataraxia SMP 3BA](https://drive.google.com/file/d/1qBpFZmOIp6B_JmSXl7-FB4kLDeDeJxAf/view)
+- [[SE] Kirax BDO Yinixtra SMP 3BA](https://drive.google.com/file/d/1_rAtCZFiffF-QaCCZ0hz6Svw5mRfcoex/view)
+- [[SE] DM BDOR Sephia](https://drive.google.com/file/d/1qfS_8ccC_C6Qq88toPffLMrQv0kIpmmh/view)
+- [BDOR Complete Collection by Kirax](https://mega.nz/file/zHRDhQBK#yJ9vhNaNwqQpUzHPCcR0n2UrpOF1oG3AJL4FL_MYHQw)
 
  # Post Installation:
 
