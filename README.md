@@ -15,6 +15,7 @@ by Nicoroshi
 - [Installation](README.md#installation)
   - [Pre-Install](README.md#pre-install)
   - [Main Install](README.md#main-install)
+  - [Potentially Problematic Files](README.md#potentially-problematic-files)
 - [Post Installation](README.md#post-installation)
   - [Exclude Mod Organizer from your Anti-Virus](README.md#1-exclude-mo2-from-your-anti-virus)
   - [Disable Steam Overlay](README.md#2-disable-steam-overlay)
@@ -128,6 +129,24 @@ Make sure you are on the latest version of Wabbajack. As of this readme writing 
 
 After that file is downloaded the rest of the install should be automated.
 
+# Potentially Problematic Files
+
+Sometimes Wabbajack has trouble with metered connections like Google Drive. 
+
+If the installation fails multiple times on one of these files please download it manually from the links below and put it into the Download folder then re-run Wabbajack to complete installation.
+
+[[dint999] BDOr Winter Mountain Guardian Spirit v1.1(4)](https://drive.google.com/uc?id=1siyc644OSI0Lz8PlM9lo3Gxf_VxQLlN5&export=download)
+
+[[Dint999] BDO Sorceress DahliaOfTheNight SE](https://www.loverslab.com/files/file/11804-dint999s-bdor-dahlia-of-the-night-smp-se-3ba/)
+
+[[Dint999] BDO_Witch_ v1.1 (female)](https://www.loverslab.com/files/file/11996-dint999s-bdo-weenie-looney-smp-3ba/)
+[[SE] Dint999 BDO Arethel+Heled SMP CBBE 3BA 1.01](https://www.loverslab.com/files/file/12828-se-dint999s-bdo-arethel-heled-smp-3ba/)
+
+[[SE] Dint999 BDO Sor LumiK SMP 3BA by em486](https://www.loverslab.com/files/file/13922-se-dint999s-bdo-sor-lumik-smp-3ba/)
+
+[[Dint999] BDOR Hairs SSE 0.17](https://drive.google.com/uc?id=1tpY3bDs-LR6rptf8oPUfraKs1CkxJJB3&export=download)
+
+[[Dint999] HairPack02 SSE 1.11 (base)](https://drive.google.com/uc?id=1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ&export=download)
 
  # Post Installation:
 
