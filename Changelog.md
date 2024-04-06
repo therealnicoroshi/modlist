@@ -1,5 +1,35 @@
 Version History:
 
+# 1_3_8
+
+### *Remove:*
+
+Skyrim food expansion
+
+Nicos loading screens
+
+Spinning main menu emblem
+
+### *Update and repair*
+
+ Tree optimazation - Nico to fix a few trees near Lorias farm and all trees clipping with Milandrel spiral walkway
+
+ Bosmer house fixes to replace missing upper outdoor floor and missing skin on tanning rack
+
+ ### *Add in*
+
+ ElSopa - Gem Holders Redone
+
+ Diverse foods
+ 
+ Diverse food Hearthfire patches
+
+ The Elder Scrolls Legends - Loading Screens
+
+ TESL Loading Screens - Tweaks and Addons
+
+ Northern Maiden Main Menu
+
 # 1_3_7
 
 [SE] DM BDOR Vedirdate by Team TAL
