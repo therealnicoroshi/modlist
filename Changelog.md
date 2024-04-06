@@ -10,13 +10,13 @@ Nicos loading screens
 
 Spinning main menu emblem
 
-### *Update and repair*
+### *Update and repair:*
 
  Tree optimazation - Nico to fix a few trees near Lorias farm and all trees clipping with Milandrel spiral walkway
 
  Bosmer house fixes to replace missing upper outdoor floor and missing skin on tanning rack
 
- ### *Add in*
+ ### *Add in:*
 
  ElSopa - Gem Holders Redone
 
