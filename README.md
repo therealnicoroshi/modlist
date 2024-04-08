@@ -244,8 +244,6 @@ Uncheck SkyrimUpscaler as it's set up for DLAA which won't work on AMD cards (wi
 
 ## 7. Optional files I will offer support for if added to the list
 
-There are Free to download BDOR armor mods that were included in v.1.2.3 that were problematic for installation through Wabbajack so were removed in v.1.2.4
-
 ### *These files are completely FREE, optional, and NOT required for the list to run.*
 
 They can be added manually through MO2 if you choose to do so and can be found on the Discord in:
@@ -354,6 +352,14 @@ This will be your swap file and supplement the VRAM if needed.
      ### This is software I chose to purchase from Steam for my own game. Decide for yourself what is right for you.
 
    [Lossless Scaling Frame Generator](https://store.steampowered.com/app/993090/Lossless_Scaling/)
+
+   ## *Some Users have reported being able to run this list on hardware BELOW the minimum I feel it needs*
+
+   In addition to the tweaks recommended above people have removed the ENB and reshade from the list to trade graphical fidelity for frame rate.
+
+   I have seen this list play on a 1080ti trading ENB and reshade for Community Shaders.
+
+   We do have a topic in the Discord for people to discuss what they have done to get it to run.
 
    
  # The MCM Menu:
