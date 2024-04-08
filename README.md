@@ -4,7 +4,7 @@
 # The Nico Experience
 by Nicoroshi 
 
-## v. 1.3.9
+## v. 1.3.9 (Should be save safe to update)
 
 
 
