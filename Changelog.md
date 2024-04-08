@@ -2,11 +2,11 @@ Version History:
 
 # 1_3_9
 
-Remove:
+### *Remove:*
 
 Take a Nap
 
-Add in:
+### *Add in:*
 
 [SE] Overhit Syana by Team TAL(converted by em486)
 
