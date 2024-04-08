@@ -162,6 +162,17 @@ If the installation fails multiple times on one of these files please download i
 - [[SE] Kirax BDO Yinixtra SMP 3BA](https://drive.google.com/file/d/1_rAtCZFiffF-QaCCZ0hz6Svw5mRfcoex/view)
 - [[SE] DM BDOR Sephia](https://drive.google.com/file/d/1qfS_8ccC_C6Qq88toPffLMrQv0kIpmmh/view)
 - [BDOR Complete Collection by Kirax](https://mega.nz/file/zHRDhQBK#yJ9vhNaNwqQpUzHPCcR0n2UrpOF1oG3AJL4FL_MYHQw)
+- [[SE] Overhit Syana by Team TAL(converted by em486](https://www.loverslab.com/files/file/14405-se-team-tals-overhit-syana-smp-3ba/)
+- [[SE] Overhit Jannedaarc by Team TAL(converted by em486)](https://www.loverslab.com/files/file/14067-se-team-tals-overhit-jannedaarc-smp-3ba/)
+- [[SE] TAL TW Yennefer SMP 3BA by em486](https://www.loverslab.com/files/file/13799-se-team-tals-tw-yennefer-smp-3ba/)
+- [[SE] 9204 DR Alicia by Team TAL CBBE 3BA BS](https://www.loverslab.com/files/file/13662-se-team-tals-9204-dr-alicia-smp-3ba/)
+- [[Kirax] OVR Brynhildr](https://drive.google.com/file/d/1y2lqK-OaEEbTFJA-irS6NEBEcF3DJaQj/view)
+- [[Kirax] OVR Sorceress Aegir](https://www.loverslab.com/files/file/32023-ovr-sorceress-aegir-outfit/)
+- [BDOR Exclaire](https://drive.google.com/file/d/1ZFk8QUIyf0DVX9aqrKhI1UeNwImx3CrM/view)
+- [[Kirax] Project V Reborn - Neamhain](https://drive.google.com/file/d/1IkKHZaM7vHiF2C1HjqW0Xss3h63v2wdf/view)
+- [[Kirax] OVR Elf](https://drive.google.com/file/d/1G-0L2W74SkQc-8PoTBpf1y8wymwwdPP3/view)
+- [[Kirax] Project V Reborn - Macha Armor](https://drive.google.com/file/d/1UVs5Pb8Ebzya8XmcmnXD3dYC0G4-87sb/view)
+- [[Kirax] OVR Gulfaxi of Protection](https://drive.google.com/file/d/17nOjwOfVcivLyMOu9KUVYy5iCYJ8Jb_6/view)
 
  # Post Installation:
 
