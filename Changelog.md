@@ -1,5 +1,38 @@
 Version History:
 
+# 1_3_9
+
+Remove:
+
+Take a Nap
+
+Add in:
+
+[SE] Overhit Syana by Team TAL(converted by em486)
+
+[SE] Overhit Jannedaarc by Team TAL(converted by em486)
+
+[SE] TAL TW Yennefer SMP 3BA by em486
+
+[SE] 9204 DR Alicia by Team TAL CBBE 3BA BS
+
+[Kirax] OVR Brynhildr
+
+[Kirax] OVR Sorceress Aegir
+
+BDOR Exclaire
+
+[Kirax] Project V Reborn - Neamhain
+
+[Kirax] OVR Elf
+
+[Kirax] Project V Reborn - Macha Armor
+
+[Kirax] OVR Gulfaxi of Protection
+
+Populated Lands Roads Paths
+
+
 # 1_3_8
 
 ### *Remove:*
