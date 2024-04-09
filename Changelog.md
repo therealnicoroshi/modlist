@@ -6,6 +6,8 @@ Version History:
 
 Take a Nap
 
+Fluffworks Animallica patch (made animals shiny)
+
 ### *Add in:*
 
 [SE] Overhit Syana by Team TAL(converted by em486)
