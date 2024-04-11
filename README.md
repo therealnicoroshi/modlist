@@ -342,7 +342,7 @@ This will be your swap file and supplement the VRAM if needed.
 
 # Performance Tweaks
 
-   Here are some things I recommend if your framerate is still suffering after applying the 12GB VRAMr and following the notes on 'Basic system set up' above.
+   Here are some things I recommend if your framerate is still suffering after applying the Performance VRAMr and following the notes on 'Basic system set up' above.
 
   1. Run BethINI (included tool) and choose a lower preset setting like Medium. The default is High. Be sure to NOT use Ambient Occusion, Screen Space Reflections, and turn Tree LOD Distance to '0'. These effects are being handled by Reshade, ENB, and DynDOLOD. Remember DO NOT DOUBLE UP ON EFFECTS! It will cost twice the frame cost with no change in visuals!
    
