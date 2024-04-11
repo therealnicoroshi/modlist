@@ -16,7 +16,7 @@ Horses simply turn better
 
 Main menu randomizer
 
-8 new Norther n Maiden and hand picked Random Main menu screens added
+8 new Northern Maiden and hand picked Random Main menu screens added
 
 ### Add line 'uInterior Cell Buffer=0' to ini under General to (hopefully) stop any crashes related to Shadow Scene Node
 
