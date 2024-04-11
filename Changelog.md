@@ -18,15 +18,15 @@ Main menu randomizer
 
 8 new Norther n Maiden and hand picked Random Main menu screens added
 
-Add line 'uInterior Cell Buffer=0' to ini under General to (hopefully) stop any crashes related to Shadow Scene Node
+### Add line 'uInterior Cell Buffer=0' to ini under General to (hopefully) stop any crashes related to Shadow Scene Node
 
-Add onto Auto run MCM Recorder to:
+### Add onto Auto run MCM Recorder to:
 
-1.center up a matter of time  display
+   1.center up a matter of time  display
 
-2.set up Shadow of Skyrim to avoid crashing on respawn
+   2.set up Shadow of Skyrim to avoid crashing on respawn
 
-3.set Immersive HUD and MoreHUD settings to display enemy health bar and number at top of screen for active target.
+   3.set Immersive HUD and MoreHUD settings to display enemy health bar and number at top of screen for active target.
 
 
 
