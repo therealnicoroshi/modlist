@@ -206,7 +206,9 @@ If the installation fails multiple times on one of these files please download i
    
    Under the General tab, you'll find a checkbox for Enable the Steam Overlay while in-game.
    
-   Make sure it's unchecked.
+   Make sure it's unchecked. 
+   
+   While you're there change the hotkey to something you would NEVER hit by accident as a precaution.
 
    ## 3. Choose your LOD
 
