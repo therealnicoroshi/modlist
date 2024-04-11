@@ -392,7 +392,7 @@ Right click/ compatability/ Run as administrator
 
 ## Within the game
 
-When destroying tables some lanterns and horn candles will not drop to the ground.
+When destroying tables some lanterns and horn candles will not drop to the ground. Conversely Some candles might drop to the ground as they now have physics because of the Destructable Syrim mod. Use a broom (Broom organize stuff) to put them back or console disable them 
 
 Sometimes when jumping you might get stuck in the jump animation. Jump again to fix
 
