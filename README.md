@@ -90,7 +90,9 @@ Processor of 3Gz or better and minumum 4 cores
 
 Sata SSD with minimum 500 GB of free space and 40GB virtual memory 
 
-   NOTE: The minimum specs will certainly struggle to maintain 30-50fps
+   NOTES: The minimum specs will certainly struggle to maintain 30-50fps with ENB and Reshade enabled.
+
+         ## It has been reported that this list CAN play on a 1080ti and on a 2060 with ENB and reshade removed and settings tweaked
 
  
   # Ideal Specs:
