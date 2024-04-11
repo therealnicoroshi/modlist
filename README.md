@@ -4,7 +4,9 @@
 # The Nico Experience
 by Nicoroshi 
 
-## v. 1.3.9 (Should be save safe to update)
+## v. 1.4.0
+
+## *All updates will be save safe to update unless noted otherwise here*
 
 
 
@@ -110,7 +112,10 @@ If you fall somewhere between these two you can play it. Optimization is KEY for
 2. Install the Creation Kit from Steam for Skyrim AE
 3. Launch the game once from Steam and at the prompt download all CC Content from the full version of AE.
 4. Start new game and after hearing  "So you're finally awake" open console (~) and type QQQ then press enter to quit out.
-5. Set your Virtual memory on the drive you will install the list on to 'Custom' 40000 min and 40000 max
+5. install the latest C++ from Micosoft (Both x86, and X64 versions)
+  - [Permalink for X86](https://aka.ms/vs/17/release/vc_redist.x86.exe)
+  - [Permalink for X64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+6. Set your Virtual memory on the drive you will install the list on to 'Custom' 40000 min and 40000 max
    
 ### *Procedure:*
 
