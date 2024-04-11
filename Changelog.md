@@ -22,12 +22,9 @@ Main menu randomizer
 
 ### Add onto Auto run MCM Recorder to:
 
-   1.center up a matter of time  display
-
-   2.set up Shadow of Skyrim to avoid crashing on respawn
-
-   3.set Immersive HUD and MoreHUD settings to display enemy health bar and number at top of screen for active target.
-
+   1. Center up a matter of time display
+   2. Set up Shadow of Skyrim to avoid crashing on respawn
+   3. Set Immersive HUD and MoreHUD settings to display enemy health bar and number at top of screen for active target.
 
 
 # 1_3_9
