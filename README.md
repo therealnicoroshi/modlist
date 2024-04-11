@@ -25,8 +25,7 @@ by Nicoroshi
   - [Choose Your Profile](README.md#4-choose-your-profile)
   - [Set Your Affinity](README.md#5-set-your-affinity)
   - [AMD Specific Requirements *IMPORTANT*](README.md#6-amd-specific-requirements)
-  - [Optional files I will offer support for if added to the list](README.md#7-optional-files-i-will-offer-support-for-if-added-to-the-list)
-  - [Optional Setting the HUD for 21:9 Resolution](README.md#8-optional-setting-the-hud-for-21x9-resolution)
+  - [Optional Setting the HUD for 21:9 Resolution](README.md#7-optional-setting-the-hud-for-21x9-resolution)
 - [Included Tools](README.md#included-tools)
   - [About Adding More Tools](README.md#about-adding-more-tools)
 - [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-set-up)
@@ -258,17 +257,8 @@ In MO2 left pane find line #4 Optimization, and expand
 
 Uncheck SkyrimUpscaler as it's set up for DLAA which won't work on AMD cards (will cause crash)
 
-## 7. Optional files I will offer support for if added to the list
 
-### *These files are completely FREE, optional, and NOT required for the list to run.*
-
-They can be added manually through MO2 if you choose to do so and can be found on the Discord in:
-
-['free-mods-that-were-problematic-in-the-wabbajack-i-will-support'](https://discord.com/channels/1202446860938387467/1209299517254406176)
-
-*I will still offer support for the mod list if you decide to add these specific files.*
-
-## 8. Optional Setting the HUD for 21x9 resolution.
+## 7. Optional Setting the HUD for 21x9 resolution.
 
 ### If using the 21:9 proflie set:
 
