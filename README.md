@@ -133,9 +133,8 @@ If you fall somewhere between these two you can play it. Optimization is KEY for
 
 1. Browse to The Nico Experience wabbajack from within the Wabbajack app, and click the Download arrow in the bottom right corner.
 2. When download is complete click the play arrow in the same location.
-3. Choose your install location, and Download location in the Wabbajack window.
+3. Choose your install location, and Download location in the Wabbajack window. Then press the 'Play' Arrow in the bottom right.
   ### **Make sure the install location is minimum 500GB and OUTSIDE of any program or system files**
-
   ### NOTE: **There will be a few files that require you choose and click the download button in the wabbajack browser window**
   ### Read the top left for instructions. Click Download *ONLY ONCE*, and please be patient as it takes a few seconds to register and begin download. You should see download happening in the bottom right of the wabback app window once started.
 
