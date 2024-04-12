@@ -20,7 +20,7 @@ SoulsLike
 
 Remove last roadrunner from Rorikstead exterior
 
-Change glazed candles of Destructable Skyrim from HAvok enabled to static to keep them from litering the floors of interior as they fall off shelves.
+Change glazed candles of Destructable Skyrim from Havok enabled to static to keep them from litering the floors of interior as they fall off shelves.
 
 
 # 1_4_0
