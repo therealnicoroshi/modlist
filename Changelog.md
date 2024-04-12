@@ -1,5 +1,28 @@
 Version History:
 
+#1_4_1
+
+### *Add In*
+
+Dynamic Crafting Animations
+
+Hotfix 2 for Dwemer Pipeworks Reworked
+
+### 3 new smoothcam presets:
+
+MouseCam 1.3
+
+Enhanced Vanilla
+
+SoulsLike
+
+### *Fixes and patches*
+
+Remove last roadrunner from Rorikstead exterior
+
+Change glazed candles of Destructable Skyrim from HAvok enabled to static to keep them from litering the floors of interior as they fall off shelves.
+
+
 # 1_4_0
 
 ### *Add in*
