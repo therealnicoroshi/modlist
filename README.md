@@ -4,7 +4,7 @@
 # The Nico Experience
 by Nicoroshi 
 
-## v. 1.4.0
+## v. 1.4.1
 
 ## *All updates will be save safe to update unless noted otherwise here*
 
@@ -392,7 +392,11 @@ Right click/ compatability/ Run as administrator
 
 ## Within the game
 
-When destroying tables some lanterns and horn candles will not drop to the ground. Conversely Some candles might drop to the ground as they now have physics because of the Destructable Syrim mod. Use a broom (Broom organize stuff) to put them back or console disable them 
+When destroying tables some lanterns, glazed candles, and horn candles will not drop to the ground. Conversely Some candles might drop to the ground as they now have physics because of the Destructable Syrim mod.
+
+If interupting an ilde animation with another animation it might stick the animation stopping you from doing anything else. click on an activatable item with animation or eat/drink to repair (basically play another animation).
+
+If holding block and doing a bash you might get stuck in the block stance. Press M2 (block key) again to come out.
 
 Sometimes when jumping you might get stuck in the jump animation. Jump again to fix
 
