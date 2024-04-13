@@ -1,5 +1,11 @@
 Version History:
 
+#1.4.2
+
+Hotfix File to fix meshes and textures for Nicos Scimitars
+
+Campfire Animations
+
 #1_4_1
 
 ### *Add In*
