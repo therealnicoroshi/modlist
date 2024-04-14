@@ -115,8 +115,8 @@ If you fall somewhere between these two you can play it. Optimization is KEY for
   - [Permalink for X86](https://aka.ms/vs/17/release/vc_redist.x86.exe)
   - [Permalink for X64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 4. Launch the game once from Steam and at the prompt download all CC Content from the full version of AE.
-5. Launch the Creation Kit from steam so it can generate needed files. Once open quit out.
-6. Start new game and after hearing  "So you're finally awake" open console (~) and type QQQ then press enter to quit out.
+5. Start new game and after hearing  "So you're finally awake" open console (~) and type QQQ then press enter to quit out.
+6. Launch the Creation Kit from steam so it can generate needed files. Once open quit out.
 7. Set your Virtual memory on the drive you will install the list on to 'Custom' 40000 bytes min and 40000 bytes max
    
 ### *Procedure:*
