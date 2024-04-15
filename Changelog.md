@@ -1,12 +1,16 @@
 Version History:
 
-#1.4.2
+# 1_4_3
+
+Repair Wabbajack issue with CreationKitPrefs.ini unable to download
+
+# 1_4_2
 
 Hotfix File to fix meshes and textures for Nicos Scimitars
 
 Campfire Animations
 
-#1_4_1
+# 1_4_1
 
 ### *Add In*
 
