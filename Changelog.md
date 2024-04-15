@@ -1,5 +1,9 @@
 Version History:
 
+# 1_4_4
+
+Removed CreationKitPrefs.ini from Stock Game folder (Can't fail if not included)
+
 # 1_4_3
 
 Repair Wabbajack issue with CreationKitPrefs.ini unable to download
