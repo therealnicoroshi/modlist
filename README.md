@@ -254,9 +254,11 @@ Click it and allow it to set the affinty for your processor.
 
 ## 6. AMD Specific Requirements 
 
+### *This also Applies to Any non-RTX nVidia Graphics card*
+
 In MO2 left pane find line #4 Optimization, and expand
 
-Uncheck SkyrimUpscaler as it's set up for DLAA which won't work on AMD cards (will cause crash)
+Uncheck SkyrimUpscaler as it's set up for DLAA which won't work on AMD, and non- RTX cards (will cause crash)
 
 
 ## 7. Optional Setting the HUD for 21x9 resolution.
