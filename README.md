@@ -249,6 +249,8 @@ In MO2 left pane find line #4 Optimization, and expand
 
 Uncheck SkyrimUpscaler as it's set up for DLAA which won't work on AMD, and non- RTX cards (will cause crash)
 
+If you uncheck this I recommend using TAA by turning it on in Bethini
+
 
 ## 7. Optional Setting the HUD for widescreen resolution.
 
