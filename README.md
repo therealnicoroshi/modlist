@@ -6,7 +6,7 @@ by Nicoroshi
 
 ## v. 1.4.5
 
-## *This update is safe safe however I Highly recommend a new game for this update 1.4.5 as it contains new perk trees for Destiny, Unarmored, and HAnd to Hand skills*
+## *This update is safe safe however I Highly recommend a new game for this update 1.4.5 as it contains new perk trees for Destiny, Unarmored, and Hand to Hand skills*
 
 
 
