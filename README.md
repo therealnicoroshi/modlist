@@ -4,7 +4,7 @@
 # The Nico Experience
 by Nicoroshi 
 
-## v. 1.4.4
+## v. 1.4.5
 
 ## *All updates will be save safe to update unless noted otherwise here*
 
@@ -22,7 +22,7 @@ by Nicoroshi
   - [Exclude Mod Organizer from your Anti-Virus](README.md#1-exclude-mo2-from-your-anti-virus)
   - [Disable Steam Overlay](README.md#2-disable-steam-overlay)
   - [Choose Your LOD](README.md#3-choose-your-lod)
-  - [Choose Your Profile](README.md#4-choose-your-profile)
+  - [Change this line in the ini](README.md#4-change-this-line)
   - [Set Your Affinity](README.md#5-set-your-affinity)
   - [AMD and NON-RTX Card Required Action *IMPORTANT*](README.md#6-amd-specific-requirements)
   - [Optional Setting the HUD for 21:9 Resolution](README.md#7-optional-setting-the-hud-for-21x9-resolution)
@@ -221,17 +221,9 @@ By default this list will require up to 20GB of Vram to run smoothly.
 
 Once complete drag and drop the folder it creates (that is clearly marked "DragNDropThisFolderIntoModManager") between Texgen_Output and Dyndolod_Output in MO2 '93. LOD Generation Output'
 
-  ## 4. Choose your profile
+  ## 4. Change this line
 
-### There are 2 included profiles to choose from based on screen resolution
-
-Default game profile resolution is 1920x1080. 
-
-21:9 profile is set for 3440x1440 but can be used for widescreen 1080p as well.
-
-Choose and select the one that fits your screen resolution.
-
-### In the MO2 folder find the folder 'profiles'. Within that find the profile you're using and SkyrimPrefs.ini
+### In the MO2 folder find the folder 'profiles'. Within that find SkyrimPrefs.ini
 
 Change this line to reflect the graphics card you are using:
 
@@ -239,8 +231,6 @@ Change this line to reflect the graphics card you are using:
 sD3DDevice="NVIDIA GeForce RTX 3090"
 
 This could also be done by running BethINI IIRC but good to check afterward to make sure it's referncing the correct card being used.
-
-  ### *Don't forget to change your resolution in Bethini to match your screen resolution. You may also wish to enable TAA at this time if using an AMD card (nVidia cards will use the Upscaler DLAA included in the list) or change preset*
 
   ## 5. Set your affinity
 
@@ -260,11 +250,13 @@ In MO2 left pane find line #4 Optimization, and expand
 Uncheck SkyrimUpscaler as it's set up for DLAA which won't work on AMD, and non- RTX cards (will cause crash)
 
 
-## 7. Optional Setting the HUD for 21x9 resolution.
+## 7. Optional Setting the HUD for widescreen resolution.
 
-### If using the 21:9 proflie set:
+There is a white separator in MO2 near the bottom that contains all the patches needed to fix the menus and HUD for 21:9 resolution
 
-In the MCM Menu:
+Enable all of them.
+
+If running 21:9 3440x1440 change these in the MCM
 
 SkyUI:
 
