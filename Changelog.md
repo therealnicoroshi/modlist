@@ -1,5 +1,39 @@
 Version History:
 
+# 1_4_5
+
+### Update is save safe but includes 3 new perk trees for unarmored, hand to hand, and destiny
+
+Update reshade
+
+Update ENB 
+
+Disk cache enabler
+
+Grass cache helper
+
+ConsolePlusPlus
+
+Update Stellarus
+
+Removed the 21:9 profile in favor of a dedicated separator for Widescreen patches in MO2
+
+Custom Skills Framework
+
+Subclasses of Skyrim (Destiny perk tree can be accessed via a spell)
+
+SOS_ADXP_Patch
+
+Custom Skill Hand to Hand (new location outside Whiterun)
+
+Custom Skill Unarmored (New location outside Whiterun)
+
+Perk entry point extender
+
+Comprehensive Attack Rate Patch
+
+
+
 # 1_4_4
 
 Removed CreationKitPrefs.ini from Stock Game folder (Can't fail if not included)
