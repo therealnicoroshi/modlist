@@ -258,6 +258,8 @@ There is a white separator in MO2 near the bottom that contains all the patches 
 
 Enable all of them.
 
+### **Don't forget to run Bethini and change your resolution**
+
 If running 21:9 3440x1440 change these in the MCM
 
 SkyUI:
