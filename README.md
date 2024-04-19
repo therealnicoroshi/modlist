@@ -25,7 +25,7 @@ by Nicoroshi
   - [Change this line in the ini](README.md#4-change-this-line)
   - [Set Your Affinity](README.md#5-set-your-affinity)
   - [AMD and NON-RTX Card Required Action *IMPORTANT*](README.md#6-amd-specific-requirements)
-  - [Optional Setting the HUD for 21:9 Resolution](README.md#7-optional-setting-the-hud-for-21x9-resolution)
+  - [Optional Setting the HUD for 21:9 Resolution](README.md#7-optional-setting-the-hud-for-widescreen-resolution)
 - [Included Tools](README.md#included-tools)
   - [About Adding More Tools](README.md#about-adding-more-tools)
 - [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-set-up)
