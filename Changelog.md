@@ -2,7 +2,7 @@ Version History:
 
 # 1_4_5
 
-## Published a silent update without version change to fix load order for flashing save game (only an issue if you're using widescreen) and Static Skills leveling. If you have an issue with Static skill leveling not showing please grab download the new file and update.
+## Published a silent update without version change to fix load order for flashing save game (only an issue if you're using widescreen) and Static Skills leveling. If you have an issue with Static skill leveling not showing please download the new file and update.
 
 ### Update is save safe but includes 3 new perk trees for unarmored, hand to hand, and destiny
 
