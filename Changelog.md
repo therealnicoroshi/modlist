@@ -1,5 +1,37 @@
 Version History:
 
+
+# 1_4_6
+
+## Recommend a new game or run your save through included Resaver to remove orphanded scripts of mods that got removed
+
+### *Add In*
+
+Racial Abilities icons 
+
+Goblins and Durzogs fixed .esl
+
+Sound fix for large sector drives
+
+KittyVFX - Fire
+
+KittyVFX - Frost
+
+### *Remove*
+
+Fury Animal training  and patches
+
+Showing off stuff
+
+### *Updates*
+
+Update Nemesis_Output
+
+Update Bodyslide_Output
+
+Implement upscaling through display tweaks
+
+
 # 1_4_5
 
 ## Published a silent update without version change to fix load order for flashing save game (only an issue if you're using widescreen) and Static Skills leveling. If you have an issue with Static skill leveling not showing please download the new file and update.
