@@ -4,6 +4,7 @@ Version History:
 # 1_4_6
 
 ## Recommend a new game or run your save through included Resaver to remove orphanded scripts of mods that got removed
+## This will bork items added to plaques and tamed animals so a NEW GAME is needed if you have either of those in your game
 
 ### *Add In*
 
