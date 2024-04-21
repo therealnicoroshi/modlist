@@ -262,12 +262,12 @@ Enable all of them.
 
 ### You will also need to change a line in display tweaks to match your resolution
 
-          In the left pane of MO2 type 'Display Teaks' in the search bar
-	  Open to: SKSE\Plugins\SSEDisplayTweaks.ini
-	  Find the lines:
-          Resolution = 1920x1080
-	  ResolutionScale = .80
-          Change the resolution to match your chosen resolution then save
+    In the left pane of MO2 type 'Display Teaks' in the search bar
+    Open to: SKSE\Plugins\SSEDisplayTweaks.ini
+    Find the lines:
+    Resolution = 1920x1080
+    ResolutionScale = .80
+    Change the resolution to match your chosen resolution then save
 	  
 
 If running 21:9 3440x1440 change these in the MCM
