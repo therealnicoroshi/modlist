@@ -4,10 +4,10 @@
 # The Nico Experience
 by Nicoroshi 
 
-## v. 1.4.5
+## v. 1.4.6
 
-## *This update is safe safe however I Highly recommend a new game for update 1.4.5 as it contains new perk trees for Destiny, Unarmored, and Hand to Hand skills*
-
+## *This update is safe safe however I Highly recommend a new game for update 1.4.5 + as it contains new perk trees for Destiny, Unarmored, and Hand to Hand skills*
+(Safe to update from 1.4.5 to 1.4.6)
 
 
 - [Overview](README.md#overview)
@@ -259,6 +259,16 @@ There is a white separator in MO2 near the bottom that contains all the patches 
 Enable all of them.
 
 ### **Don't forget to run Bethini and change your resolution**
+
+### You will also need to change a line in display tweaks to match your resolution
+
+          In the left pane of MO2 type 'Display Teaks' in the search bar
+	  Open to: SKSE\Plugins\SSEDisplayTweaks.ini
+	  Find the lines:
+          Resolution = 1920x1080
+	  ResolutionScale = .80
+          Change the resolution to match your chosen resolution then save
+	  
 
 If running 21:9 3440x1440 change these in the MCM
 
