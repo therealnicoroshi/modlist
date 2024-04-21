@@ -6,7 +6,7 @@ by Nicoroshi
 
 ## v. 1.4.6
 
-## *This update Requires a new save!*
+## *This update Requires a new game!*
 
 
 - [Overview](README.md#overview)
