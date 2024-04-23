@@ -1,5 +1,26 @@
 Version History:
 
+# 1_4_7
+
+### *Add In*
+
+Heimskr - IC consistency patch
+
+update tree - optimization
+
+Dylbills Papyrus Functions
+
+Extended Vanilla Menus
+
+Custom Skills Merged
+
+Custom skill - Survival
+
+Skyrim Skill Uncapper for SE and AE
+*Tweaked perk points to add 2 per level instead of one*
+
+
+
 
 # 1_4_6
 
