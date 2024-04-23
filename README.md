@@ -4,7 +4,7 @@
 # The Nico Experience
 by Nicoroshi 
 
-## v. 1.4.6
+## v. 1.4.7
 
 ## *This update Requires a new game!*
 
@@ -388,6 +388,8 @@ Leave Minatours and Spiders Off in OBIS
 Leave Extra spawns Ore Guardians Off in Immersive Creatures
 
 Leave shadows OFF in Strange Runes
+
+### All Custom Skills can be accessed via a spell that is added to your inventory 
 
   # Known Issues:
 
