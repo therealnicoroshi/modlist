@@ -6,7 +6,7 @@ by Nicoroshi
 
 ## v. 1.4.7
 
-## *This update Requires a new game!*
+## *1.4.5 -> 1.4.6 Requires a new game!  1.4.6 -> 1.4.7 is save safe*
 
 
 - [Overview](README.md#overview)
