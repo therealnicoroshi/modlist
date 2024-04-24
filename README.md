@@ -381,6 +381,8 @@ This will be your swap file and supplement the VRAM if needed.
 
 As of Version 1_3_2 the MCM Recorder should Auto Run on new game start with recommended settings.
 
+## *If this fails for any reason or gets stuck you can edit the .ini for MCM Recorder and disable the auto run feature* 
+
 You can still go through the menu and change things to suit your preference afterward but this will give you a solid base to start from.
 
 ### Some important things to leave disabled for stability reasons
