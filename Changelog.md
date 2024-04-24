@@ -1,5 +1,29 @@
 Version History:
 
+# 1_4_8
+
+### *Removed (Problematic):*
+
+Dylbills Papyrus Functions
+
+Extended Vanilla Menus
+
+Custom Skills Merged
+
+Custom skill - Survival
+
+Skyrim Skill Uncapper for SE and AE
+
+
+
+### *Added in:*
+
+Reshade update to 6.1.1
+
+Converus Bugfix for community Overlays 3
+
+
+
 # 1_4_7
 
 ### *Add In*
