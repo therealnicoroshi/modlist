@@ -215,7 +215,7 @@ If you uncheck this I recommend using TAA by turning it on in Bethini
 
 ## 7. Optional Setting the HUD for widescreen resolution.
 
-There is a white separator in MO2 near the bottom that contains all the patches needed to fix the menus and HUD for 21:9 resolution
+Search in MO2 Left pane for 'Widescreen' and again for 'Ultrawide'.
 
 Enable all of them.
 
