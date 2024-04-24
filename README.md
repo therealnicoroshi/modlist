@@ -331,7 +331,7 @@ This mod list IS graphically taxing on the hardware but systems can run it if th
 I'm not going to hold your hand on this, and assume you know Google-fu for anything you don't understand here.
 
 1. Turn off any start up programs or background programs that do not need to be on while running the game.   
-[Blackviper.com](https://www.blackviper.com/) is a wonderful resource on trimming the fat out of the Windows System Services.
+There are guides on the web on how to go through Services.msc to trim the fat out of the Windows System Services.
 
 2. strip that graphics driver down of any AA, AO, AF settings (Turn off) as those effects will be handled by the game engine or the ENB. 
 DO NOT DOUBLE UP ON EFFECTS!  It will kill your framerate and will not look any better than only one doing that specific effect.
