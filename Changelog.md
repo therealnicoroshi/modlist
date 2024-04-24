@@ -1,5 +1,16 @@
 Version History:
 
+# 1_4_9
+
+Revert Load order to stable 1.4.4 
+
+### *Remove:*
+
+ALL Manual URL BDOR Armors from Lovers Lab (Too problematic) If you want them they can be had on Lovers LAb.
+
+Custom Skills Framework and Custom SKills (Too Problematic)
+
+
 # 1_4_8
 
 ### *Removed (Problematic):*
