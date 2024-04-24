@@ -146,6 +146,7 @@ If the installation fails multiple times on one of these files please download i
 
 - [[Dint999] BDOR Hairs SSE 0.17](https://drive.google.com/uc?id=1tpY3bDs-LR6rptf8oPUfraKs1CkxJJB3&export=download)
 - [[Dint999] HairPack02 SSE 1.11 (base)](https://drive.google.com/uc?id=1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ&export=download)
+- [[dint999] BDOr Winter Mountain Guardian Spirit v1.1](https://drive.google.com/uc?id=1siyc644OSI0Lz8PlM9lo3Gxf_VxQLlN5&export=download)
 - [High Poly Head](https://vectorplexis.com/files/file/283-high-poly-head/)
 
  # Post Installation:
