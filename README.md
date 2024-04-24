@@ -355,16 +355,18 @@ This will be your swap file and supplement the VRAM if needed.
    
   2. Turn the settings on the effects in ENB to low or medium (default is high/Very high). These are in the left pane when you open ENB and can be seen when expanding each effect individually.
    
-  3. Run at a lower resolution.
+  3. Run at a lower resolution. 
    
   4. Lower the grass density in 'Explore Virtual Folder/Net Script Framework/Plugins/GrassControlConfig.txt/OverwriteMinGrassSize = 65' by INCREASING this number to something like 75-80.
+  
+  5. Go into Display Tweaks in the left pane of MO2 (search it then explore to SSEDisplayTweaks.ini) and lower this line number value:
+         ResolutionScale = 0.85
+  To something like .75   
+  This will reduce the resolution but also decrease the amount of pixels the game needs to render helping frame rate.    
+   Try to find a happy medium between graphical fidelity and FPS.
 
-  5. Consider frame generation software.
+  6. Consider frame generation software from Steam.
 
-     ## *NOTE*
-     ### This is software I chose to purchase from Steam for my own game. Decide for yourself what is right for you.
-
-   [Lossless Scaling Frame Generator](https://store.steampowered.com/app/993090/Lossless_Scaling/)
 
    ## *Some Users have reported being able to run this list on hardware BELOW the minimum I feel it needs*
 
