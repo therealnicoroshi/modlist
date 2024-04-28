@@ -4,7 +4,7 @@
 # The Nico Experience
 by Nicoroshi 
 
-## v. 1.4.9
+## v. 1.5.0
 
 ## *Requires a new game*
 
