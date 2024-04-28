@@ -1,5 +1,18 @@
 Version History:
 
+# 1_5_0
+
+Change sound file for LOUD bleeting Ram near Whiterun  in farmCo. esp to sound like the sheep
+
+Move Kittytails Fire effects in the load order so it's not being overwritten
+
+move Experience and MCM for it above widescreen patches to restore proper resolution in level up menu screen when playing in wide screen format
+
+Frost River Fixes patch
+
+Re-compile on a fresh download of the game, AE CC content, and Creation Kit to repair Curios CC failure.
+
+
 # 1_4_9
 
 Revert Load order to stable 1.4.4 
