@@ -148,6 +148,7 @@ If the installation fails multiple times on one of these files please download i
 - [[Dint999] HairPack02 SSE 1.11 (base)](https://drive.google.com/uc?id=1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ&export=download)
 - [[dint999] BDOr Winter Mountain Guardian Spirit v1.1](https://drive.google.com/uc?id=1siyc644OSI0Lz8PlM9lo3Gxf_VxQLlN5&export=download)
 - [High Poly Head](https://vectorplexis.com/files/file/283-high-poly-head/)
+- [High Poly Head Mirror](https://drive.google.com/drive/folders/1V_jcYzwTiKnSv8Dbv-7Z0hh9SWbkn6Bi)
 
  # Post Installation:
 
