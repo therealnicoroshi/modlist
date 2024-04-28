@@ -6,7 +6,7 @@ by Nicoroshi
 
 ## v. 1.5.0
 
-## *Requires a new game*
+## *Safe to update from 1.4.9 New game required for 1.4.8 or earlier*
 
 
 - [Overview](README.md#overview)
