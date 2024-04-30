@@ -53,7 +53,10 @@ The Nico Experience
 
  # Requirements and Information:
 
- 
+## The number one requirement is that you read and follow the instructions written here.
+## Please don't skip ANY steps because you think you already have it or don't need it.
+## About 95% of EVERY issue people had on the discord is due to NOT following this simple requirement.
+
 ### This modlist requires the Steam version of Skyrim AE v. 1.6.1170
 
 ### All Anniversary Edition Creation Club Content
