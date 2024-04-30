@@ -1,5 +1,14 @@
 Version History:
 
+# 1_5_1
+
+## *Important Bug Fix Update* 
+
+### Save safe to update from 1.5.0
+
+Repaired System lock up when entering Karthspire
+
+
 # 1_5_0
 
 Change sound file for LOUD bleeting Ram near Whiterun  in farmCo. esp to sound like the sheep
