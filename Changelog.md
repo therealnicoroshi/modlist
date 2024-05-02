@@ -1,5 +1,23 @@
 Version History:
 
+# 1_5_2
+
+Save safe from 1.4.9 and up
+
+### Major installation changes:
+
+Remove the need for a Vector Plexis account. High poly head will come from archived file on the nexus instead.
+
+Remove the need for a Lovers Lab account. All BDOR armors from Lovers Lab removed from the wabbajack
+
+### Add in:
+
+Persistent Favorites
+
+### Fixes:
+
+Sleeping_Giant_Light_Fix - Nico (Repairs flickering light in Sleeping giant inn)
+
 # 1_5_1
 
 ## *Important Bug Fix Update* 
