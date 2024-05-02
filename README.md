@@ -4,7 +4,7 @@
 # The Nico Experience
 by Nicoroshi 
 
-## v. 1.5.1
+## v. 1.5.2
 
 ## *Safe to update from 1.4.9 or higher. New game required for 1.4.8 or earlier*
 
@@ -63,17 +63,17 @@ The Nico Experience
 
   ## >Important Note<:
   
-### **You will need a Vector Plexis and LoversLab account in addition to a Nexus premium account**
+### **You will need a Nexus premium account**
 
 It is released with Open Permissions per the Wabbajack License Agreement 
 
 [Wabbajack License](https://github.com/wabbajack-tools/wabbajack/blob/main/LICENSE.txt)
 
-Support will be provided for non-modified installations of the mod list via the Discord server
+Support will be provided for **non-modified installations** of the mod list via the Discord server
 
 [Discord Invite Link](https://discord.gg/kHehbzuFZ4)
 
-## *We will only offer support for legally purchased copies of the game from Steam installed following this installation guide on hardware that meets or exceeds the minimum requirements With UNMODIFIED versions of this list*
+## *We will only offer support for legally purchased copies of the game from Steam installed following this installation guide on hardware that meets or exceeds the minimum requirements*
 
 
 
