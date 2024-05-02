@@ -73,7 +73,7 @@ Support will be provided for non-modified installations of the mod list via the 
 
 [Discord Invite Link](https://discord.gg/kHehbzuFZ4)
 
-## *We will only offer support for legally purchased copies of the game from Steam installed following this installation guide on hardware that meets or exceeds the minimum requirements*
+## *We will only offer support for legally purchased copies of the game from Steam installed following this installation guide on hardware that meets or exceeds the minimum requirements With UNMODIFIED versions of this list*
 
 
 
