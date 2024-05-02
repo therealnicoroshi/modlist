@@ -60,16 +60,14 @@ The Nico Experience
 ### All Anniversary Edition Creation Club Content
 
 ### The Skyrim Special Edition Creation Kit
-
-  ## >Important Note<:
   
-### **You will need a Nexus premium account**
+### **A Nexus premium account**
 
 It is released with Open Permissions per the Wabbajack License Agreement 
 
 [Wabbajack License](https://github.com/wabbajack-tools/wabbajack/blob/main/LICENSE.txt)
 
-Support will be provided for **non-modified installations** of the mod list via the Discord server
+Support will be provided ***ONLY*** for ***non-modified installations*** of the mod list here>>
 
 [Discord Invite Link](https://discord.gg/kHehbzuFZ4)
 
@@ -109,7 +107,7 @@ If you fall somewhere between these two you can play it. Optimization is KEY for
 
 # Installation:
   ## Pre-install:
-1. Install a *FRESH* copy of Skyrim AE from Steam version 1.6.1170
+1. Install a **FRESH** copy of Skyrim AE from Steam version 1.6.1170
 2. Install the Creation Kit from Steam for Skyrim AE
   - [Here's a Link to the file](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
 3. Install the latest C++ Redistributables
@@ -128,7 +126,7 @@ If you fall somewhere between these two you can play it. Optimization is KEY for
 
   ## Main Install:
 
-- Make sure you are logged into Vector Plexis, LoversLab, and Nexus
+- Make sure you are logged into Nexus
 
 - [Download The Wabbajack app and run it](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe)
 
@@ -148,8 +146,6 @@ If the installation fails multiple times on one of these files please download i
 - [[Dint999] BDOR Hairs SSE 0.17](https://drive.google.com/uc?id=1tpY3bDs-LR6rptf8oPUfraKs1CkxJJB3&export=download)
 - [[Dint999] HairPack02 SSE 1.11 (base)](https://drive.google.com/uc?id=1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ&export=download)
 - [[dint999] BDOr Winter Mountain Guardian Spirit v1.1](https://drive.google.com/uc?id=1siyc644OSI0Lz8PlM9lo3Gxf_VxQLlN5&export=download)
-- [High Poly Head](https://vectorplexis.com/files/file/283-high-poly-head/)
-- [High Poly Head Mirror](https://drive.google.com/drive/folders/1V_jcYzwTiKnSv8Dbv-7Z0hh9SWbkn6Bi)
 
  # Post Installation:
 
@@ -184,6 +180,8 @@ By default this list will require up to 20GB of Vram to run smoothly.
 - [Tutorial Video](https://www.youtube.com/watch?v=Se6oAvmtaBE&t=1s)
 
 Once complete drag and drop the folder it creates (that is clearly marked "DragNDropThisFolderIntoModManager") between Texgen_Output and Dyndolod_Output in MO2 '93. LOD Generation Output'
+
+Allow it time to install then activate the plug in by clicking on the box to checkmark it.
 
   ## 4. Change this line
 
@@ -234,25 +232,26 @@ Enable all of them.
     Change the resolution to match your chosen resolution then save
 	  
 
-If running 21:9 3440x1440 change these in the MCM
+If running 21:9 3440x1440 change these in the MCM in game.
 
 SkyUI:
 
-Set 3D Item to H= 24, and Scale to 1.2. 
+Set 3D Item to H= 24, and Scale to 1.2
 
-Set Item Card to H= - 225.
+Set Item Card to H= -225
 
 Show Player in Menus:
 
-X Offset = 50
+X Offset = 45
 
 TrueHUD:
 
-Set X to - 0.125 for Player Widget.
+Set X to -0.125 for Player Widget.
 
 
 
 ## Congratulations you are now installed and set up.
+
 
 
  # Included Tools:
@@ -274,6 +273,8 @@ NifSkope
 ReSaver
 
 VRAMr
+
+Creation Kit
 
 
  # About Adding More Tools:
@@ -310,6 +311,8 @@ Panjano has a good video on how to set this up
 
 4. Go to system settings and set virtual memory on the drive the mod organizer is on at 40GB min and 40GB Max. Save and restart.
 This will be your swap file and supplement the VRAM if needed.
+
+5. MAke sure your power plan is set for High performance and **NOT** balanced or power saver
 
 
 # Performance Tweaks
@@ -358,7 +361,10 @@ Leave Extra spawns Ore Guardians Off in Immersive Creatures
 
 Leave shadows OFF in Strange Runes
 
-### All Custom Skills can be accessed via a spell that is added to your inventory 
+## By default The voice for PC head tracking and Dragonborn voice over is set for Ciri. This can be changed in the MCM.
+
+## Most of the key mapping can be changed in the controls section of the main menu in game. The Dodge key can be set in the .ini for TK Dodge RE. HUD elements are controled in the MCM via TrueHUD, Immersive HUD, More Hud, and in the ini for SkyHUD.
+
 
   # Known Issues:
 
