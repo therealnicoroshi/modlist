@@ -310,7 +310,7 @@ Panjano has a good video on how to set this up
 4. Go to system settings and set virtual memory on the drive the mod organizer is on at 40GB min and 40GB Max. Save and restart.
 This will be your swap file and supplement the VRAM if needed.
 
-5. MAke sure your power plan is set for High performance and **NOT** balanced or power saver
+5. Make sure your power plan is set for High performance and **NOT** balanced or power saver
 
 
 # Performance Tweaks
