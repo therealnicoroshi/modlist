@@ -2,6 +2,8 @@ Version History:
 
 # 1_5_3
 
+Save safe from 1.4.9 and up
+
 ### Additions:
 
 Halffaces - Small edits of hitchposts
