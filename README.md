@@ -368,7 +368,7 @@ Sometimes when jumping you might get stuck in the jump animation. Jump again to 
 
 Sometimes the Bow rapid combo attack won't work correctly. Switch weapons then switch back to fix
 
-Sometimes the game gets confused if you're in first person or third (i.e. MCO step forward animations will not step forward) Quicksave/quickload to repair
+Sometimes the game gets confused if you're in first person or third (i.e. MCO step forward animations will not step forward) Quicksave/quickload to repair or change from 3rd person to 1st person and draw or sheath a weapon then switch back to 3rd person.
 
 You will need to use the X (swan dive) or C (Shorter Dive) keys before jumping to trigger a short or long dive animation for Leaps of faith.
 
