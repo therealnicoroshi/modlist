@@ -375,6 +375,8 @@ You will need to use the X (swan dive) or C (Shorter Dive) keys before jumping t
 
 # *Some Important Default Keys To Know*:
 
+### *NOTE: All these can be changed to suit your preference either in settings/controls menu in game, the MCM menu or through the ini files for the specific mod. This is only how I personally like my set up*
+
 Caps Lock + Enter = ENB Menu
 
 Caps Lock + F12 = Toggle ENB Effect
