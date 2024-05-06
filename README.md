@@ -145,7 +145,7 @@ If the installation fails multiple times on one of these files please download i
 
    ### MO2 and System Settings
    
-   ## 1. Exclude MO2 from your Anti-Virus
+   ### 1. Exclude MO2 from your Anti-Virus
    
    For Windows Defender click Windows tab in bottom left
    
@@ -153,7 +153,7 @@ If the installation fails multiple times on one of these files please download i
    
    Add an Exclusion and navigate to your Mod Organizer 2. exe
 
-   ## 2. Disable Steam Overlay
+   ### 2. Disable Steam Overlay
    
    Find the game in your Steam Library then go to Properties
    
@@ -163,7 +163,7 @@ If the installation fails multiple times on one of these files please download i
    
    While you're there change the hotkey to something you would NEVER hit by accident as a precaution.
 
-   ## 3. Choose your LOD
+   ### 3. Choose your LOD
 
 ### By default this list will require up to 20GB of Vram to run smoothly.
 
@@ -188,12 +188,12 @@ sD3DDevice="NVIDIA GeForce RTX 3090"
 
 This could also be done by running BethINI IIRC but good to check afterward to make sure it's referncing the correct card being used.
 
-  ## 5. Set your affinity
+  ### 5. Set your affinity
 
 In MO2 top left find the tools tab, and click on it.
 
 Find: 
-### *Set CPU Affinity* 
+## *Set CPU Affinity* 
 
 Click it and allow it to set the affinty for your processor.
 
