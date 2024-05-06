@@ -165,9 +165,9 @@ If the installation fails multiple times on one of these files please download i
 
    ## 3. Choose your LOD
 
-By default this list will require up to 20GB of Vram to run smoothly.
+### By default this list will require up to 20GB of Vram to run smoothly.
 
-### If you want to run this list with a card that has less Vram than that you will need to run the included VRAMr program (in Executables at top right in MO2) for either performance (12GB) or Quality (16GB) as I cannot include these files for you.
+### If you want to run this list with a card that has less Vram than that you will need to run the included VRAMr program (in Executables at top right in MO2) for either performance (10GB +) or Quality (16GB +) as I cannot include these files for you.
 
 ### This will take about an hour to run but important to reduce VRAM Usage and avoid system stutter while playing. Recommend Quality for 16GB VRAM or higher and Performance for 10GB or higher
 
