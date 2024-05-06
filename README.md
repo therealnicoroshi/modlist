@@ -23,8 +23,7 @@ by Nicoroshi
   - [Choose Your LOD](README.md#3-choose-your-lod)
   - [Change this line in the ini](README.md#4-change-this-line)
   - [Set Your Affinity](README.md#5-set-your-affinity)
-  - [AMD and NON-RTX Card Required Action *IMPORTANT*](README.md#6-amd-specific-requirements)
-  - [Optional Setting the HUD for 21:9 Resolution](README.md#7-optional-setting-the-hud-for-widescreen-resolution)
+  - [Optional Setting the HUD for 21:9 Resolution](README.md#6-optional-setting-the-hud-for-widescreen-resolution)
 - [Included Tools](README.md#included-tools)
   - [About Adding More Tools](README.md#about-adding-more-tools)
 - [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-set-up)
@@ -53,25 +52,23 @@ The Nico Experience
 
  # Requirements and Information:
 
-##    The number one requirement is that you read and follow the instructions written here. Please don't skip ANY steps because you think you already have it or don't need it. About 98% of EVERY issue people had on the discord is due to NOT following this simple requirement.
+###    The number one requirement is that you read and follow the instructions written here. Please don't skip ANY steps because you think you already have it or don't need it. About 98% of EVERY issue people had on the discord is due to NOT following this simple requirement.
 
-### This modlist requires the Steam version of Skyrim AE v. 1.6.1170
+## This modlist requires the Steam version of Skyrim AE v. 1.6.1170
 
-### All Anniversary Edition Creation Club Content
+## All Anniversary Edition Creation Club Content
 
-### The Skyrim Special Edition Creation Kit
+## The Skyrim Special Edition Creation Kit
   
-### **A Nexus premium account**
+## **A Nexus premium account**
 
 It is released with Open Permissions per the Wabbajack License Agreement 
 
 [Wabbajack License](https://github.com/wabbajack-tools/wabbajack/blob/main/LICENSE.txt)
 
-Support will be provided ***ONLY*** for ***non-modified installations*** of the mod list here>>
+## Support will be provided here ***ONLY*** for ***non-modified installations*** of the mod list installed following this readme >>
 
 [Discord Invite Link](https://discord.gg/kHehbzuFZ4)
-
-### *We will only offer support for legally purchased copies of the game from Steam installed following this installation guide on hardware that meets or exceeds the minimum requirements*
 
 
 
@@ -79,7 +76,7 @@ Support will be provided ***ONLY*** for ***non-modified installations*** of the 
   
 Absolute minimum if using every provided option for optimization, and run VRAMr at 'performance' settings is:
 
-Video card with 12GB of VRAM
+Video card with 10GB of VRAM
 
 Processor of 3Gz or better and minumum 4 cores
 
@@ -87,7 +84,6 @@ Processor of 3Gz or better and minumum 4 cores
 
 Sata SSD with minimum 500 GB of free space and 40GB virtual memory 
 
-   NOTES: The minimum specs will certainly struggle to maintain 30-50fps with ENB and Reshade enabled.
 
 ## It has been reported that this list CAN play on a 1080ti and on a 2060 with ENB and reshade removed and settings tweaked
 
@@ -116,7 +112,7 @@ If you fall somewhere between these two you can play it. Optimization is KEY for
 5. Start new game and after hearing  "So you're finally awake" open console (~) and type QQQ then press enter to quit out.
 6. Set your Virtual memory on the drive you will install the list on to 'Custom' 40000 bytes min and 40000 bytes max
    
-### *Procedure:*
+### *Procedure for setting Virtual Memory:*
     Access the System Properties settings.
     Go to Start > Run. Type sysdm.cpl and click OK.
     In the System Properties dialog box, click the Advanced tab. 
@@ -173,7 +169,7 @@ By default this list will require up to 20GB of Vram to run smoothly.
 
 ## If you want to run this list with a card that has less Vram than that you will need to run the included VRAMr program (in Executables at top right in MO2) for either performance (12GB) or Quality (16GB) as I cannot include these files for you.
 
-## This will take about an hour to run but important to reduce VRAM Usage and avoid system stutter while playing.
+## This will take about an hour to run but important to reduce VRAM Usage and avoid system stutter while playing. Recommend Quality for 16GB VRAM or higher and Performance for 10GB or higher
 
 - [Tutorial Video](https://www.youtube.com/watch?v=Se6oAvmtaBE&t=1s)
 
@@ -201,18 +197,8 @@ Find:
 
 Click it and allow it to set the affinty for your processor.
 
-## 6. AMD Specific Requirements 
 
-### *This also Applies to Any non-RTX nVidia Graphics card*
-
-In MO2 left pane find line #4 Optimization, and expand
-
-Uncheck SkyrimUpscaler as it's set up for DLAA which won't work on AMD, and non- RTX cards (will cause crash)
-
-If you uncheck this I recommend using TAA by turning it on in Bethini
-
-
-## 7. Optional Setting the HUD for widescreen resolution.
+## 6. Optional Setting the HUD for widescreen resolution.
 
 Search in MO2 Left pane for 'Widescreen' and again for 'Ultrawide'.
 
@@ -330,8 +316,6 @@ This will be your swap file and supplement the VRAM if needed.
   To something like .75   
   This will reduce the resolution but also decrease the amount of pixels the game needs to render helping frame rate.    
    Try to find a happy medium between graphical fidelity and FPS.
-
-  6. Consider frame generation software from Steam.
 
 
    ## *Some Users have reported being able to run this list on hardware BELOW the minimum I feel it needs*
