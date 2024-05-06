@@ -218,17 +218,17 @@ Enable all of them.
 
 If running 21:9 3440x1440 change these in the MCM in game.
 
-SkyUI:
+### SkyUI:
 
 Set 3D Item to H= 24, and Scale to 1.2
 
 Set Item Card to H= -225
 
-Show Player in Menus:
+### Show Player in Menus:
 
 X Offset = 45
 
-TrueHUD:
+### TrueHUD:
 
 Set X to -0.125 for Player Widget.
 
