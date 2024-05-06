@@ -177,7 +177,7 @@ Once complete drag and drop the folder it creates (that is clearly marked "DragN
 
 Allow it time to install then activate the plug in by clicking on the box to checkmark it.
 
-  ## 4. Change this line
+  ### 4. Change this line
 
 ### In the MO2 folder find the folder 'profiles'. Within that find SkyrimPrefs.ini
 
@@ -193,12 +193,12 @@ This could also be done by running BethINI IIRC but good to check afterward to m
 In MO2 top left find the tools tab, and click on it.
 
 Find: 
-## *Set CPU Affinity* 
+### *Set CPU Affinity* 
 
 Click it and allow it to set the affinty for your processor.
 
 
-## 6. Optional Setting the HUD for widescreen resolution.
+### 6. Optional Setting the HUD for widescreen resolution.
 
 Search in MO2 Left pane for 'Widescreen' and again for 'Ultrawide'.
 
