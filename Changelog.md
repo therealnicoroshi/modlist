@@ -1,5 +1,26 @@
 Version History:
 
+# 1_5_3
+
+### Additions:
+
+Halffaces - Small edits of hitchposts
+
+Halffaces small edit of baskets
+
+Dragon Breath VFX
+
+### Fixes:
+
+Wintersun_land fix -Nico fixes small bit of floating land near mixwater mill
+
+Major clean up of file structure, meta information, and readme
+
+### Remove:
+
+Removal of QND mage armor SPID pending potential permissions to inline.
+
+
 # 1_5_2
 
 Save safe from 1.4.9 and up
