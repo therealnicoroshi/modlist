@@ -345,8 +345,6 @@ Leave shadows OFF in Strange Runes
 
 ### By default The voice for PC head tracking and Dragonborn voice over is set for Ciri. This can be changed in the MCM.
 
-### Most of the key mapping can be changed in the controls section of the main menu in game. The Dodge key can be set in the .ini for TK Dodge RE. HUD elements are controled in the MCM via TrueHUD, Immersive HUD, More Hud, and in the ini for SkyHUD.
-
 
   # Known Issues:
 
