@@ -324,7 +324,7 @@ This will be your swap file and supplement the VRAM if needed.
 
    I have seen this list play on a 1080ti trading ENB and reshade for Community Shaders.
 
-   We do have a topic in the Discord for people to discuss what they have done to get it to run.
+   We do have a topic in the Discord for people to discuss what they have done to get it to run on hardware below the recommended minimum.
 
    
  # The MCM Menu:
