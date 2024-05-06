@@ -54,19 +54,19 @@ The Nico Experience
 
 ###    The number one requirement is that you read and follow the instructions written here. Please don't skip ANY steps because you think you already have it or don't need it. About 98% of EVERY issue people had on the discord is due to NOT following this simple requirement.
 
-## This modlist requires the Steam version of Skyrim AE v. 1.6.1170
+### This modlist requires the Steam version of Skyrim AE v. 1.6.1170
 
-## All Anniversary Edition Creation Club Content
+### All Anniversary Edition Creation Club Content
 
-## The Skyrim Special Edition Creation Kit
+### The Skyrim Special Edition Creation Kit
   
-## **A Nexus premium account**
+### **A Nexus premium account**
 
 It is released with Open Permissions per the Wabbajack License Agreement 
 
 [Wabbajack License](https://github.com/wabbajack-tools/wabbajack/blob/main/LICENSE.txt)
 
-## Support will be provided on the Discord ***ONLY*** for ***non-modified installations*** of the mod list installed following this readme >>
+### Support will be provided on the Discord ***ONLY*** for ***non-modified installations*** of the mod list installed following this readme >>
 
 [Discord Invite Link](https://discord.gg/kHehbzuFZ4)
 
