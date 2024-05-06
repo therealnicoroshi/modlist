@@ -66,7 +66,7 @@ It is released with Open Permissions per the Wabbajack License Agreement
 
 [Wabbajack License](https://github.com/wabbajack-tools/wabbajack/blob/main/LICENSE.txt)
 
-## Support will be provided here ***ONLY*** for ***non-modified installations*** of the mod list installed following this readme >>
+## Support will be provided on the Discord ***ONLY*** for ***non-modified installations*** of the mod list installed following this readme >>
 
 [Discord Invite Link](https://discord.gg/kHehbzuFZ4)
 
