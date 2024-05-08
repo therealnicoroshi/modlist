@@ -106,8 +106,9 @@ If you fall somewhere between these two you can play it. Optimization is KEY for
 1. Install a **FRESH** copy of Skyrim AE from Steam version 1.6.1170
 2. Install the Creation Kit from Steam for Skyrim AE
   - [Here's a Link to the file](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
-3. Install the latest C++ Redistributables
-  - [All in one package from TechPowerUp](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
+3. Install the latest C++ Redistributables and .Net Framework
+  - [C++ package from TechPowerUp](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
+  - [.Net Framework from Microsoft](https://dotnet.microsoft.com/en-us/download)
 4. Launch the game once from Steam and at the prompt download all CC Content from the full version of AE.
 5. Start new game and after hearing  "So you're finally awake" open console (~) and type QQQ then press enter to quit out.
 6. Set your Virtual memory on the drive you will install the list on to 'Custom' 40000 bytes min and 40000 bytes max
