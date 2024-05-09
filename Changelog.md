@@ -1,5 +1,38 @@
 Version History:
 
+#1_5_4
+
+Save safe from 1.4.9 and higher
+
+### *Added in:*
+
+Modern Wait Menu
+
+Custom Skills Framework
+
+Perk Entry Point Extender
+
+Comprehensive Attack Rate Patch
+
+Subclasses of Skyrim
+
+Custom Skills Hand to Hand
+
+Custom Skills Unarmored Defense
+
+Custom Skills Menu
+
+Custom Skills Menu Basic Icons
+
+Custom Icons For Custom Skills Menu
+
+Dryads
+
+### *Removed:*
+
+Skyrim Skill uncapper and Ordinator Skill uncapper ini (not compatible with Custom Skills)
+
+
 # 1_5_3
 
 Save safe from 1.4.9 and up
