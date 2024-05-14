@@ -186,7 +186,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ***
 
-❗ ### **IMPORTANT STEP DO NOT SKIP** ❗
+❗  **IMPORTANT STEP DO NOT SKIP** ❗
 
 ## Run VRAMr on performance setting
 
