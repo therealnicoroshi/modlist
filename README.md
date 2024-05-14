@@ -112,6 +112,8 @@ See how to setup a page file here: https://www.tomshardware.com/news/how-to-mana
 
 Installing **The Nico Experience** is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](README.md#updating).
 
+***
+
   ## Pre-installation
 
   Prior to installing **The Nico Experience**, please complete the following steps.
