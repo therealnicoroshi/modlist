@@ -215,7 +215,7 @@ The Nico Experience utilizes a Wabbajack technology called Stock Game. What this
 
 ### Change this line
 
-### In MO2 find 'Tools' in the top left and click on it. Navigate to ini editor/ SkyrimPrefs.ini/[Launcher] sD3DDevice="NVIDIA GeForce RTX 3090
+#### In MO2 find 'Tools' in the top left and click on it. Navigate to ini editor/ SkyrimPrefs.ini/[Launcher] sD3DDevice="NVIDIA GeForce RTX 3090
 
 Change this line to reflect the graphics card you are using:
 
