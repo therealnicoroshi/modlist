@@ -9,7 +9,7 @@
 <td><a href="https://www.nexusmods.com/skyrimspecialedition/mods/109901">Nexus Page</a></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download Wabbajack</a></td>	
 <td><a href="https://loadorderlibrary.com/lists/the-nico-expereince">Load Order Library</a></td>
-<td><a href="https://https://discord.gg/kHehbzuFZ4"><img alt="Discord" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="64px" ></a></td>
+<td><a href="https://discord.gg/kHehbzuFZ4"><img alt="Discord" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="64px" ></a></td>
 </tr>
 </table>
 
