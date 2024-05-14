@@ -135,7 +135,7 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 
 :warning: **NOTE**: **The Nico Experience** will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**. :warning:
 
-  ## Downloading and Installing The Nico Expereince
+  ## Downloading and Installing The Nico Experience
 
 Downloading and installing **The Nico Experience** can take a while depending on your internet connection and computer. To install, complete the following steps.
 
