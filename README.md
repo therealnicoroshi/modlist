@@ -156,7 +156,7 @@ Downloading and installing **The Nico Experience** can take a while depending on
 It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
 
 - Could not download x:
-	- Big files can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
+	- Big files or files hosted on metered connections like google drive can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
  
 ### Potentially Problematic Files
 
@@ -165,11 +165,8 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 - [[dint999] BDOr Winter Mountain Guardian Spirit v1.1](https://drive.google.com/uc?id=1siyc644OSI0Lz8PlM9lo3Gxf_VxQLlN5&export=download)
   
     - **Make sure you have downloaded all the Paid AE update content!**
+    - 
 	- Make sure you have the Creation Kit installed. Go back to [Pre-Installation](README.md#pre-installation) and read it properly this time.
-
-- x is not a whitelisted download:
-
-	 - This will happen when I update the modlist. Please check if there is a new update or wait until you see a release ping.
 
 - Wabbajack could not find my game folder:
 
