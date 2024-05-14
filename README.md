@@ -167,7 +167,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 - [[dint999] BDOr Winter Mountain Guardian Spirit v1.1](https://drive.google.com/uc?id=1siyc644OSI0Lz8PlM9lo3Gxf_VxQLlN5&export=download)
   
     - **Make sure you have downloaded all the Paid AE update content!**
-    - 
+  
 	- Make sure you have the Creation Kit installed. Go back to [Pre-Installation](README.md#pre-installation) and read it properly this time.
 
 - Wabbajack could not find my game folder:
