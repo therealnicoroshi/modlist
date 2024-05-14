@@ -1,5 +1,38 @@
 Version History:
 
+# 1_5_5
+
+### *Added in:*
+
+### *SSEedit patching:*
+
+Dialog_CP
+
+Dragons_CP
+
+Grass_CP
+
+Landscape_CP
+
+Leveled_List_CP
+
+Lighting_CP
+
+Magic_CP
+
+Misc_CP
+
+Music_CP
+
+NPCs_CP
+
+Perks_CP
+
+Sounds_CP
+
+Water_CP
+
+
 # 1_5_4
 
 Save safe from 1.4.9 and higher
