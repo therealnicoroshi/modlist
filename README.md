@@ -1,30 +1,39 @@
 
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
-# The Nico Experience
-by Nicoroshi 
 
-## v. 1.5.5
+## Version 1.5.5 by Nicoroshi 
 
-## *Safe to update from 1.4.9 or higher. New game required for 1.4.8 or earlier*
+<table stlyle="border: none;">
+<tr>
+<td><a href="https://www.nexusmods.com/skyrimspecialedition/mods/109901">Nexus Page</a></td>
+<td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download Wabbajack</a></td>	
+<td><a href="https://loadorderlibrary.com/lists/the-nico-expereince">Load Order Library</a></td>
+<td><a href="https://https://discord.gg/kHehbzuFZ4"><img alt="Discord" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="64px" ></a></td>
+</tr>
+</table>
 
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+***
 
 - [Overview](README.md#overview)
-  - [Requirements/Information](README.md#requirements-and-information)
-  - [Recommended Minimum Hardware](README.md#recommended-minimum-hardware)
-  - [Ideal Specs](README.md#ideal-specs)
+  - [Requirements and Information](README.md#requirements-and-information)
+  - [Recommended System Specifications](README.md#recommended-system-specifications)
 - [Installation](README.md#installation)
-  - [Pre-Install](README.md#pre-install)
-  - [Main Install](README.md#main-install)
-  - [Potentially Problematic Files](README.md#potentially-problematic-files)
+  - [Pre-Installation](README.md#pre-installation)
+  - [Wabbajack installation](README.md#wabbajack-installation)
+  - [Downloading and Installing The Nico Expereince](README.md#downloading-and-installing-the-nico-expereince)
+  - [Problems with Installation](README.md#problems-with-installation)
 - [Post Installation](README.md#post-installation)
-  - [Exclude Mod Organizer from your Anti-Virus](README.md#1-exclude-mo2-from-your-anti-virus)
-  - [Disable Steam Overlay](README.md#2-disable-steam-overlay)
-  - [Choose Your LOD](README.md#3-choose-your-lod)
-  - [Change this line in the ini](README.md#4-change-this-line)
-  - [Set Your Affinity](README.md#5-set-your-affinity)
-  - [Optional Setting the HUD for 21:9 Resolution](README.md#6-optional-setting-the-hud-for-widescreen-resolution)
-- [Included Tools](README.md#included-tools)
+  - [Widescreen Support](README.md#widescreen-support)
+  - [Included Tools](README.md#included-tools)
   - [About Adding More Tools](README.md#about-adding-more-tools)
 - [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-set-up)
   - [Performance Tweaks](README.md#performance-tweaks)
@@ -36,9 +45,11 @@ by Nicoroshi
   - [Shout Out To Some Awesome People](README.md#shout-out-to-some-awesome-people)
   - [Final Words Before I Let You Go](README.md#final-words-before-i-let-you-go)
 
-   
-# Overview:
- 
+***
+
+## Overview:
+
+***
 
 This is the mod list I personally play. I would describe it as a power fantasy list with 
 emphasis on visuals, combat, new creatures, new places, and fast paced game play.
@@ -49,157 +60,182 @@ So if you're looking for a visually stunning Skyrim experience that will push th
 limits of what Skyrim can be I invite you to take a trip through
 The Nico Experience 
 
+***
 
- # Requirements and Information:
+## Requirements and Information
 
-###    The number one requirement is that you read and follow the instructions written here. Please don't skip ANY steps because you think you already have it or don't need it. About 98% of EVERY issue people had on the discord is due to NOT following this simple requirement.
+***
 
-### This modlist requires the Steam version of Skyrim AE v. 1.6.1170
+### Disclaimer
 
-### All Anniversary Edition Creation Club Content
+**The Nico Experience** only supports **English Steam** versions of Skyrim Anniversary Edition. **GOG and other Languages are not supported**. The specific version used is 1.5.97 with the creation club content from 1.6.1170.
 
-### The Skyrim Special Edition Creation Kit
-  
-### **A Nexus premium account**
+:warning: :exclamation: **THE NICO EXPERIENCE REQUIRES THE FULL PAID UPDATE TO SKYRIM ANNIVERSARY EDITION. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS** :exclamation: :warning:
 
-It is released with Open Permissions per the Wabbajack License Agreement 
+Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and **The Nico Experience**.
 
-[Wabbajack License](https://github.com/wabbajack-tools/wabbajack/blob/main/LICENSE.txt)
+Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED AGAINST**. A lot of content is swapped at game run time and, as a result, fast storage and RAM are needed.
 
-### Support will be provided on the Discord ***ONLY*** for ***non-modified installations*** of the mod list installed following this readme >>
+***
 
-[Discord Invite Link](https://discord.gg/kHehbzuFZ4)
+## Recommended System Specifications
+
+***
+
+**The Nico Experience** requires a mid to high-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list, and running the included VRAMr at Performance settings. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
+
+| Component    | Recommended for 1080p | 
+|:--------------:|:-------------:|
+| CPU | 10th Generation i5 or better/equivalent
+| Ram | 16GB DDR4 Ram  + 40GB Pagefile 
+| Storage | SATA SSD or higher
+| GPU | RTX 3060 or better/equivalent (12 GB VRAM)
+
+| Component    | Recommended for 1440p | 
+|:--------------:|:-------------:|
+| CPU | 12th Generation i7 or better/equivalent
+| Ram | 32GB DDR4 Ram  + 40GB Pagefile 
+| Storage | M.2 SSD
+| GPU | RTX 4070ti Super or better/equivalent (16GB + VRAM)
+
+Space required: ~153GB Archives  ~292GB install Size  40GB Page file ~485GB Total so recommend 500GB of space allocated for this list.
+
+See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html
+
+:warning: **NOTE**: AMD RX 580 and older cards are **not supported**. :warning:
+
+***
+
+## Installation
+
+***
+
+Installing **The Nico Experience** is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](README.md#updating).
+
+  ## Pre-installation
+
+  Prior to installing **The Nico Experience**, please complete the following steps.
 
 
+1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
+2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
+3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside \Documents\My Games\.
+4. Fully disable OneDrive and any other programs which hook into user file areas.
+5. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
+6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
+7. Launch the game to the main menu and allow it to download the paid addon files. **DO NOT VERIFY YOUR GAME FILES**
+8. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
+9. **Install the Skyrim Special Edition: Creation Kit on Steam and run it at least once.**
 
- # Recommended Minimum Hardware:
-  
-Absolute minimum if using every provided option for optimization, and run VRAMr at 'performance' settings is:
+***
 
-Video card with 10GB of VRAM
+  ## Wabbajack Installation
 
-Processor of 3Gz or better and minumum 4 cores
+Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
-16GB system ram
+:warning: **NOTE**: **The Nico Experience** will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**. :warning:
 
-Sata SSD with minimum 500 GB of free space and 40GB virtual memory 
+  ## Downloading and Installing The Nico Expereince
 
+Downloading and installing **The Nico Experience** can take a while depending on your internet connection and computer. To install, complete the following steps.
 
-#### It has been reported that this list CAN play on a 1080ti and on a 2060 with ENB and reshade removed and settings tweaked
+1. Open Wabbajack and click on browse modlists. At the top in the GAmes Window choose Skyrim Special Edition. Check mark next to Show Unofficial Lists.
+2. Press the download button on The Nico Expereince, and wait for it to download.
+3. Set the installation folder to be somewhere like C:\The Nico Expereince. **Do not install it to your desktop or downloads folder.**
+4. The download location does not need to be on a SSD but it makes installing a bit faster.
+5. Press the play button to begin.
+6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
+7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
 
+***
+
+## Problems with installation
+
+***
+
+It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
+
+- Could not download x:
+	- Big files can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
  
-  # Ideal Specs:
-
-Video Card with 24GB of VRAM
-
-Processor of 4.5GHz or better and 16+ cores
-
-32 GB of system Ram
-
-M.2 nVMe drive with minimum 500 GB of free space and 40GB virtual memory
-
-If you fall somewhere between these two you can play it. Optimization is KEY for any specs so read this to the end for recommended configuration.
-
-
-# Installation:
-  ## Pre-install:
-1. Install a **FRESH** copy of Skyrim AE from Steam version 1.6.1170
-2. Install the Creation Kit from Steam for Skyrim AE
-  - [Here's a Link to the file](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
-3. Install the latest C++ Redistributables and .Net Framework
-  - [C++ package from TechPowerUp](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
-  - [.Net Framework from Microsoft](https://dotnet.microsoft.com/en-us/download)
-4. Launch the game once from Steam and at the prompt download all CC Content from the full version of AE.
-5. Start new game and after hearing  "So you're finally awake" open console (~) and type QQQ then press enter to quit out.
-6. Set your Virtual memory on the drive you will install the list on to 'Custom' 40000 bytes min and 40000 bytes max
-   
-### *Procedure for setting Virtual Memory:*
-    Access the System Properties settings.
-    Go to Start > Run. Type sysdm.cpl and click OK.
-    In the System Properties dialog box, click the Advanced tab. 
-    Under Performance, click Settings. 
-    In the Performance Options dialog box, click the Advanced tab.
-    Adjust the virtual memory setting.
-
-  ## Main Install:
-
-- Make sure you are logged into Nexus
-
-- [Download The Wabbajack app and run it](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe)
-
-1. Browse to The Nico Experience wabbajack from within the Wabbajack app, and click the Download arrow in the bottom right corner.
-2. When download is complete click the play arrow in the same location.
-3. Choose your install location, and Download location in the Wabbajack window. Then press the 'Play' Arrow in the bottom right.
-  ### **Make sure the install location is minimum 500GB and OUTSIDE of any program or system files**
-
-# Potentially Problematic Files
-
-Sometimes Wabbajack has trouble with metered connections like Google Drive. 
-
-If the installation fails multiple times on one of these files please download it manually from the links below and put it into the Download folder then re-run Wabbajack to complete installation.
+### Potentially Problematic Files
 
 - [[Dint999] BDOR Hairs SSE 0.17](https://drive.google.com/uc?id=1tpY3bDs-LR6rptf8oPUfraKs1CkxJJB3&export=download)
 - [[Dint999] HairPack02 SSE 1.11 (base)](https://drive.google.com/uc?id=1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ&export=download)
 - [[dint999] BDOr Winter Mountain Guardian Spirit v1.1](https://drive.google.com/uc?id=1siyc644OSI0Lz8PlM9lo3Gxf_VxQLlN5&export=download)
+  
+    - **Make sure you have downloaded all the Paid AE update content!**
+	- Make sure you have the Creation Kit installed. Go back to [Pre-Installation](README.md#pre-installation) and read it properly this time.
 
- # Post Installation:
+- x is not a whitelisted download:
 
-   ### MO2 and System Settings
-   
-   ### 1. Exclude MO2 from your Anti-Virus
-   
-   For Windows Defender click Windows tab in bottom left
-   
-   Type 'Virus' and select 'virus and threat protection'/ 'Manage settings'/ 'Exclusions'/ 'Add or remove exclusions'
-   
-   Add an Exclusion and navigate to your Mod Organizer 2. exe
+	 - This will happen when I update the modlist. Please check if there is a new update or wait until you see a release ping.
 
-   ### 2. Disable Steam Overlay
-   
-   Find the game in your Steam Library then go to Properties
-   
-   Under the General tab, you'll find a checkbox for Enable the Steam Overlay while in-game.
-   
-   Make sure it's unchecked. 
-   
-   While you're there change the hotkey to something you would NEVER hit by accident as a precaution.
+- Wabbajack could not find my game folder:
 
-   ### 3. Choose your LOD
+	- Either buy the game or go back to the [Pre-Installation](README.md#pre-installation) step.
 
-### By default this list will require up to 20GB of Vram to run smoothly.
+- Antivirus reports a virus:
+	- You did not follow the steps in [Pre-Installation](README.md#pre-installation). Go back and follow it.
+	- If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan). 
 
-#### If you want to run this list with a card that has less Vram than that you will need to run the included VRAMr program (in Executables at top right in MO2) for either performance (10GB +) or Quality (16GB +) as I cannot include these files for you.
+***
 
-#### This will take about an hour to run but important to reduce VRAM Usage and avoid system stutter while playing. Recommend Quality for 16GB VRAM or higher and Performance for 10GB or higher
+## Post Installation
+
+***
+
+❗ ### **IMPORTANT STEP DO NOT SKIP** ❗
+
+## Run VRAMr on performance setting
+
+### You can find VRAMr at the far right of the top of MO2 where all the executables are.
+
+#### This will take about an hour to run but important to reduce VRAM Usage and avoid system stutter while playing. Recommend Performance setting for everyone.
 
 - [Tutorial Video](https://www.youtube.com/watch?v=Se6oAvmtaBE&t=1s)
 
-Once complete drag and drop the folder it creates (that is clearly marked "DragNDropThisFolderIntoModManager") between Texgen_Output and Dyndolod_Output in MO2 '93. LOD Generation Output'
+Once complete drag and drop the folder it creates (that is clearly marked "DragNDropThisFolderIntoModManager") between Texgen_Output and Dyndolod_Output in MO2 '94. LOD Generation Output'
 
 Allow it time to install then activate the plug in by clicking on the box to checkmark it.
 
-  ### 4. Change this line
+❕ ### **IMPORTANT NOTE** ❕
 
-### In the MO2 folder find the folder 'profiles'. Within that find SkyrimPrefs.ini
+In the right pane of MO2 click on 'Data' at the top.
+Navigate to Textures/interface/intfullnebulapanarama02.dds
+Right click / Hide 
+
+This is because VRAMr **WILL** downsize the image of the girls in the perk interface and we are hiding the one from VRAMr so that it uses the higher resolution original one.
+
+### Stock Game
+
+The Nico Experience utilizes a Wabbajack technology called Stock Game. What this essentially does is create a copy of your Skyrim installation within the installation location of the list. This enables greater compatibility with other mod-lists.
+
+
+### Change this line
+
+### In MO2 find 'Tools' in the top left and click on it. Navigate to ini editor/ SkyrimPrefs.ini/[Launcher] sD3DDevice="NVIDIA GeForce RTX 3090
 
 Change this line to reflect the graphics card you are using:
 
-[Launcher]
-sD3DDevice="NVIDIA GeForce RTX 3090"
-
 This could also be done by running BethINI IIRC but good to check afterward to make sure it's referncing the correct card being used.
 
-  ### 5. Set your affinity
+### Set your affinity
 
-In MO2 top left find the tools tab, and click on it.
+In MO2 top left find the tools tab again, and click on it.
 
 Find: 
 ### *Set CPU Affinity* 
 
 Click it and allow it to set the affinty for your processor.
 
+***
 
-### 6. Optional Setting the HUD for widescreen resolution.
+## Widescreen Support
+
+***
+
+### Optional Setting the HUD for widescreen resolution.
 
 Search in MO2 Left pane for 'Widescreen' and again for 'Ultrawide'.
 
@@ -234,12 +270,25 @@ X Offset = 45
 Set X to -0.125 for Player Widget.
 
 
-
 ## Congratulations you are now installed and set up.
 
+***
 
+## Updating
 
- # Included Tools:
+***
+
+### Unless noted in the change log Updates will be Save Safe
+
+### Updating should be as simple as downloading the latest 'The Nico Expereince' from Wabbajack, and running it with the same MO2 and Downloads install paths as your existing installation making sure to check the 'overwrite installation' box in the bottom right corner.
+
+***
+
+ ## Included Tools:
+
+ ***
+
+ ⚠️ ### **NOTE: These are provided for those that wish to modify or add to this list however ❗ Official Support will not be given on modified lists ❗ ⚠️
 
 Bethini Pie
 
@@ -262,7 +311,7 @@ VRAMr
 Creation Kit
 
 
- # About Adding More Tools:
+ ## About Adding More Tools:
 
 
 All the tools you choose to install in addition to these need to link in the top right executable bar in MO2 so these programs can start from within the virtual file structure of MO2.
@@ -276,7 +325,7 @@ Good tutorial on how to set these up is here >>>>
 
 
 
-  # Some Notes On Basic System Set Up:
+  ## Some Notes On Basic System Set Up:
 	
 This mod list IS graphically taxing on the hardware but systems can run it if they have the room to breathe.
 I'm not going to hold your hand on this, and assume you know Google-fu for anything you don't understand here.
@@ -300,7 +349,7 @@ This will be your swap file and supplement the VRAM if needed.
 5. Make sure your power plan is set for High performance and **NOT** balanced or power saver
 
 
-# Performance Tweaks
+## Performance Tweaks
 
    Here are some things I recommend if your framerate is still suffering after applying the Performance VRAMr and following the notes on 'Basic system set up' above.
 
@@ -328,7 +377,7 @@ This will be your swap file and supplement the VRAM if needed.
    We do have a topic in the Discord for people to discuss what they have done to get it to run on hardware below the recommended minimum.
 
    
- # The MCM Menu:
+ ## The MCM Menu:
 
 As of Version 1_3_2 the MCM Recorder should Auto Run on new game start with recommended settings.
 
@@ -347,7 +396,7 @@ Leave shadows OFF in Strange Runes
 ### By default The voice for PC head tracking and Dragonborn voice over is set for Ciri. This can be changed in the MCM.
 
 
-  # Known Issues:
+  ## Known Issues:
 
 ## With MO2 Executables not working as intended
 
@@ -372,7 +421,7 @@ Sometimes the game gets confused if you're in first person or third (i.e. MCO st
 You will need to use the X (swan dive) or C (Shorter Dive) keys before jumping to trigger a short or long dive animation for Leaps of faith.
 
 
-# *Some Important Default Keys To Know*:
+## *Some Important Default Keys To Know*:
 
 ### *NOTE: All these can be changed to suit your preference either in settings/controls menu in game, the MCM menu or through the ini files for the specific mod. This is only how I personally like my set up*
 
@@ -439,12 +488,7 @@ Page Up = SMP reset
 C = Quicklight toggle
 
 
-# *Word Of Warning*:
-
-Some creatures will be deleveled so you might come across a level 30 ogre at level 1 and have to run to survive. Ye have been warned!
-You will learn....stick and move, stick and dodge, run and heal or just plain run away to survive at lower levels.
-
- # Recommended Difficulty Levels (if running solo):
+ ## Recommended Difficulty Levels (if running solo):
 
 Level 0-9 Apprentice
 
@@ -467,17 +511,17 @@ There are added worldspaces to explore as well.
 Wyrmstooth and Beyond Reach will start at a certain level but some you will just find in your exploring like Chanterelle, The Shire, Moonpath to Elswyer, Darkend, Skyrim Sewers, and Skyrim Underground.
 
  
- # Shout Out To Some Awesome People:
+ ## Shout Out To Some Awesome People:
 
 Halgari for creation of this wonderful tool
+
+BiggieBoss for play testing and allowing me to fork his readme code.
 
 For play testing and feedback>>
 
 Iyreshot
 
 Pixelnate
-
-BiggieBoss
 
 You people Rock!
 
