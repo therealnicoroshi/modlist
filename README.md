@@ -281,7 +281,7 @@ Set X to -0.125 for Player Widget.
 
 ### Unless noted in the change log Updates will be Save Safe
 
-### Updating should be as simple as downloading the latest 'The Nico Experience' from Wabbajack, and running it with the same MO2 and Downloads install paths as your existing installation making sure to check the 'overwrite installation' box in the bottom right corner.
+#### Updating should be as simple as downloading the latest 'The Nico Experience' from Wabbajack, and running it with the same MO2 and Downloads install paths as your existing installation making sure to check the 'overwrite installation' box in the bottom right corner.
 
 ***
 
@@ -289,7 +289,7 @@ Set X to -0.125 for Player Widget.
 
  ***
 
- ⚠️ ### **NOTE: These are provided for those that wish to modify or add to this list however ❗ Official Support will not be given on modified lists ❗ ⚠️
+ ⚠️ ❗ **NOTE: These are provided for those that wish to modify or add to this list however Official Support will not be given on modified lists ❗ ⚠️
 
 Bethini Pie
 
