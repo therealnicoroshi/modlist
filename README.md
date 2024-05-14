@@ -4,7 +4,7 @@
 # The Nico Experience
 by Nicoroshi 
 
-## v. 1.5.4
+## v. 1.5.5
 
 ## *Safe to update from 1.4.9 or higher. New game required for 1.4.8 or earlier*
 
