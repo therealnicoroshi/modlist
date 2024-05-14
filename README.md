@@ -529,7 +529,7 @@ You people Rock!
 # Final Words Before I Let You Go:
 
 I designed this mod list to be tougher than anything vanilla with FAR more creatures that are tougher than stock ones.
-As such I have included a mod called skyrim skill uncapper. It has an ini file you can tweak to your liking increasing (or decreasing) the amount of perk points per level as well as amount things like health, magica, and stamina go up per level. Default it is set up with an ini designed for use with Ordinator which is the main perk mod in this list.
+There is also an alternate death system based on Shadow of Mordor style game play that will make the one that kills you a 'Nemesis' and they may take some of your stuff as well.
 I have also included a mod called Unlimited Rings and Amulets to offset the difficulty.
 If you open the files for RLE (rogue like encounters) in MO2 left pane (explore) there are esps in there that can be added or removed from the list that can increase spawns or reduce them.
 CC Survival mode will conflict with SunHelm survivial. I recommend using ONLY Sunhelm as it covers cold, eat, drink, and sleep needs.
