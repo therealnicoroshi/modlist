@@ -289,7 +289,7 @@ Set X to -0.125 for Player Widget.
 
  ***
 
- ⚠️ ❗ **NOTE: These are provided for those that wish to modify or add to this list however Official Support will not be given on modified lists ❗ ⚠️
+ ⚠️ ❗ **NOTE: These are provided for those that wish to add to this list however Official Support will not be given on modified lists** ❗ ⚠️
 
 Bethini Pie
 
