@@ -1,5 +1,18 @@
 Version History:
 
+# 1_5_6
+
+### *Added In:*
+
+Universal Rim lighting Fix
+
+### *Edits/Repair:*
+
+Misc_CP edit 
+
+Repair meta data for SSEedit download
+
+
 # 1_5_5
 
 ### *Added in:*
