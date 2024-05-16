@@ -1,5 +1,26 @@
 Version History:
 
+
+# 1_5_7
+
+### *Update:*
+
+ENB to latest .499 Version
+
+Music_CP
+
+Landscape_CP
+
+Water_CP
+
+### *Add In:*
+
+Custom Skill Companions
+
+Custom Skill MAges Guild
+
+
+
 # 1_5_6
 
 ### *Added In:*
