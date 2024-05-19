@@ -279,7 +279,7 @@ Set X to -0.125 for Player Widget.
 
 ***
 
-### Unless noted in the change log Updates will be Save Safe
+### Unless noted otherwise in the change log all Updates will be Save Safe
 
 #### Updating should be as simple as downloading the latest 'The Nico Experience' from Wabbajack, and running it with the same MO2 and Downloads install paths as your existing installation making sure to check the 'overwrite installation' box in the bottom right corner.
 
