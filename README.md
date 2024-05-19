@@ -516,7 +516,9 @@ Wyrmstooth and Beyond Reach will start at a certain level but some you will just
 
 Halgari for creation of this wonderful tool
 
-BiggieBoss for play testing and allowing me to fork his readme code.
+BiggieBoss for play testing and allowing me to fork his readme, and Licence code.
+
+Althros for writing the licence.
 
 For play testing and feedback>>
 
