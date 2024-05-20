@@ -269,7 +269,7 @@ Search in MO2 Left pane for 'Widescreen' and again for 'Ultrawide'.
 
 Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 
-Make sure the dropdown box on the right is set to `The Nico Experience` and press the `Run` button. 
+Make sure the dropdown box on the right is set to `The Nico Experience (version number)` and press the `Run` button. 
 
 Alternate method is clicking on the .exe link at the top labeled `The Nico Experience (version number)`
 
