@@ -166,16 +166,14 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - Could not download x:
 	- Big files or files hosted on metered connections like google drive can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
- 
-### Potentially Problematic Files
 
-- [[Dint999] BDOR Hairs SSE 0.17](https://drive.google.com/uc?id=1tpY3bDs-LR6rptf8oPUfraKs1CkxJJB3&export=download)
-- [[Dint999] HairPack02 SSE 1.11 (base)](https://drive.google.com/uc?id=1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ&export=download)
-- [[dint999] BDOr Winter Mountain Guardian Spirit v1.1](https://drive.google.com/uc?id=1siyc644OSI0Lz8PlM9lo3Gxf_VxQLlN5&export=download)
-  
-    - **Make sure you have downloaded all the Paid AE update content!**
-  
-	- Make sure you have the Creation Kit installed. Go back to [Pre-Installation](README.md#pre-installation) and read it properly this time.
+#### *If log mentions ANYTHING starting with 'cc'*
+
+- **Make sure you have downloaded all the Paid AE update content!**
+
+#### *If log mentions ANYTHING 'lex' or 'creationkit':*
+ 
+- Make sure you have the Creation Kit installed. Go back to [Pre-Installation](README.md#pre-installation) and read it properly this time.
 
 - Wabbajack could not find my game folder:
 
@@ -184,7 +182,16 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 - Antivirus reports a virus:
 	- You did not follow the steps in [Pre-Installation](README.md#pre-installation). Go back and follow it.
 	- If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan). 
+ 
+### Potentially Problematic Files
 
+#### *Here are links to 3 files known to fail download. If the log mentions one or more of them please download from the link provided and drop the zipped folder in your download location for the installation*
+
+- [[Dint999] BDOR Hairs SSE 0.17](https://drive.google.com/uc?id=1tpY3bDs-LR6rptf8oPUfraKs1CkxJJB3&export=download)
+- [[Dint999] HairPack02 SSE 1.11 (base)](https://drive.google.com/uc?id=1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ&export=download)
+- [[dint999] BDOr Winter Mountain Guardian Spirit v1.1](https://drive.google.com/uc?id=1siyc644OSI0Lz8PlM9lo3Gxf_VxQLlN5&export=download)
+  
+    
 ***
 
 ## Post Installation
