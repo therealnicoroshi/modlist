@@ -198,6 +198,8 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ***
 
+Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
+
 ❗  **IMPORTANT STEP DO NOT SKIP** ❗
 
 ## Run VRAMr on performance setting
