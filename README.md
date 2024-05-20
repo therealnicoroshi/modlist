@@ -37,11 +37,11 @@
   - [Updating](README.md#updating)
 - [Included Tools](README.md#included-tools)
   - [About Adding More Tools](README.md#about-adding-more-tools)
-  - [Removing the Mod List](README.md#removing-the-mod-list)
 - [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-set-up)
   - [Performance Tweaks](README.md#performance-tweaks)
   - [Known Issues](README.md#known-issues)
   - [Recommended Difficulty Levels](README.md#recommended-difficulty-levels)
+- [Removing the Mod List](README.md#removing-the-mod-list)
 - [Shout Out To Some Awesome People](README.md#shout-out-to-some-awesome-people)
 - [Final Words Before I Let You Go](README.md#final-words-before-i-let-you-go)
 
@@ -433,13 +433,6 @@ Find this in MO2 executable bar under <EDIT....> then on the binary click the 3 
 Good tutorial on how to set these up is here >>>>
 [Tutorial on setting up executables in stock folder](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Setting%20up%20Stock%20Game%20for%20Skyrim%20SE.md#tool-setup)
 
-***
-
-## Removing the Mod List 
-
-***
-
-#### Simply delete the folder, and you have uninstalled it.
 
 ***
 
@@ -555,6 +548,14 @@ Paraglider, magical jumping, bow rapid combo v3, mist flight, and others you can
 There are added worldspaces to explore as well.
 
 Wyrmstooth and Beyond Reach will start at a certain level but some you will just find in your exploring like Chanterelle, The Shire, Moonpath to Elswyer, Darkend, Skyrim Sewers, and Skyrim Underground.
+
+***
+
+## Removing the Mod List 
+
+***
+
+#### Simply delete the folder, and you have uninstalled it.
 
 ***
 
