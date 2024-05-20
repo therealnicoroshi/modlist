@@ -239,7 +239,7 @@ Click it and allow it to set the affinty for your processor.
 
 Search in MO2 Left pane for 'Widescreen' and again for 'Ultrawide'.
 
-Enable all of them.
+#### *Enable all of them (There should be 4 files found).*
 
 ### **Don't forget to run Bethini and change your resolution**
 
