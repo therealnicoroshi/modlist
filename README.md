@@ -37,6 +37,7 @@
   - [Updating](README.md#updating)
 - [Included Tools](README.md#included-tools)
   - [About Adding More Tools](README.md#about-adding-more-tools)
+  - [Removing the Mod List](README.md#removing-the-mod-list)
 - [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-set-up)
   - [Performance Tweaks](README.md#performance-tweaks)
   - [Known Issues](README.md#known-issues)
@@ -431,6 +432,14 @@ This is where the game will run from. It will NOT run from Skyrim Special Editio
 Find this in MO2 executable bar under <EDIT....> then on the binary click the 3 dots and navigate to your file path for that exe to change this file paths to lead to your specific file install paths OR IT WILL NOT WORK. They are currently set for my file paths. Use those as a reference on how to set them up.
 Good tutorial on how to set these up is here >>>>
 [Tutorial on setting up executables in stock folder](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Setting%20up%20Stock%20Game%20for%20Skyrim%20SE.md#tool-setup)
+
+***
+
+## Removing the Mod List 
+
+***
+
+#### Simply delete the folder, and you have uninstalled it.
 
 ***
 
