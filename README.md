@@ -460,7 +460,10 @@ This will be your swap file and supplement the VRAM if needed.
   
   5. Go into Display Tweaks in the left pane of MO2 (search it then explore to SSEDisplayTweaks.ini) and lower this line number value:
          ResolutionScale = 0.85
-  To something like .75   
+  To something like .75
+
+### ❗  Lowering this value too much WILL make the Wheeler menu partially off screen so test any changes  ❗
+
   This will reduce the resolution but also decrease the amount of pixels the game needs to render helping frame rate.    
    Try to find a happy medium between graphical fidelity and FPS.
 
