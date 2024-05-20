@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 1.5.7 by Nicoroshi 
+## Version 1.5.8 by Nicoroshi 
 
 <table stlyle="border: none;">
 <tr>
@@ -33,17 +33,16 @@
   - [Problems with Installation](README.md#problems-with-installation)
 - [Post Installation](README.md#post-installation)
   - [Widescreen Support](README.md#widescreen-support)
-  - [Included Tools](README.md#included-tools)
+  - [First Start Up](README.md#first-start-up)
+  - [Updating](README.md#updating)
+- [Included Tools](README.md#included-tools)
   - [About Adding More Tools](README.md#about-adding-more-tools)
 - [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-set-up)
   - [Performance Tweaks](README.md#performance-tweaks)
-  - [The MCM Menu](README.md#the-mcm-menu)
   - [Known Issues](README.md#known-issues)
-- [Some Important Default Keys to Know](README.md#some-important-default-keys-to-know)
-  - [Word of Warning](README.md#word-of-warning)
-- [Recommended Difficulty Levels](README.md#recommended-difficulty-levels)
-  - [Shout Out To Some Awesome People](README.md#shout-out-to-some-awesome-people)
-  - [Final Words Before I Let You Go](README.md#final-words-before-i-let-you-go)
+  - [Recommended Difficulty Levels](README.md#recommended-difficulty-levels)
+- [Shout Out To Some Awesome People](README.md#shout-out-to-some-awesome-people)
+- [Final Words Before I Let You Go](README.md#final-words-before-i-let-you-go)
 
 ***
 
@@ -252,137 +251,33 @@ Enable all of them.
     Resolution = 1920x1080
     ResolutionScale = .80
     Change the resolution to match your chosen resolution then save
-	  
-
-If running 21:9 3440x1440 change these in the MCM in game.
-
-### SkyUI:
-
-Set 3D Item to H= 24, and Scale to 1.2
-
-Set Item Card to H= -225
-
-### Show Player in Menus:
-
-X Offset = 45
-
-### TrueHUD:
-
-Set X to -0.125 for Player Widget.
 
 
-## Congratulations you are now installed and set up.
+## Congratulations you are now installed and ready for first start up.
 
 ***
 
-## Updating
+## First Start up
 
 ***
 
-### Unless noted otherwise in the change log all Updates will be Save Safe
+Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 
-#### Updating should be as simple as downloading the latest 'The Nico Experience' from Wabbajack, and running it with the same MO2 and Downloads install paths as your existing installation making sure to check the 'overwrite installation' box in the bottom right corner.
+Make sure the dropdown box on the right is set to `The Nico Experience` and press the `Run` button. 
 
-***
+Alternate method is clicking on the .exe link at the top labeled `The Nico Experience (version number)`
 
- ## Included Tools:
+This will start the game and bring you to the character creation menu.
 
- ***
+After your character is created and you name them >>>
 
- ⚠️ ❗ **NOTE: These are provided for those that wish to add to this list however Official Support will not be given on modified lists** ❗ ⚠️
-
-Bethini Pie
-
-SSEedit and QuickAutoClean
-
-LOOT
-
-Cathedral Assets Optimizer
-
-Nemesis
-
-Bodyslide and Outfit Studio
-
-NifSkope
-
-ReSaver
-
-VRAMr
-
-Creation Kit
-
-
- ## About Adding More Tools:
-
-
-All the tools you choose to install in addition to these need to link in the top right executable bar in MO2 so these programs can start from within the virtual file structure of MO2.
-This Wabbajack uses a file structure that contains a folder called 'Stock Folder' in the MO2 directory.
-This is where the game will run from. It will NOT run from Skyrim Special Editions Folder so ALL links to executables NEED to point to the Stock Folder in Arguements to work correctly.
- 
-
-Find this in MO2 executable bar under <EDIT....> then on the binary click the 3 dots and navigate to your file path for that exe to change this file paths to lead to your specific file install paths OR IT WILL NOT WORK. They are currently set for my file paths. Use those as a reference on how to set them up.
-Good tutorial on how to set these up is here >>>>
-[Tutorial on setting up executables in stock folder](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Setting%20up%20Stock%20Game%20for%20Skyrim%20SE.md#tool-setup)
-
-
-
-  ## Some Notes On Basic System Set Up:
-	
-This mod list IS graphically taxing on the hardware but systems can run it if they have the room to breathe.
-I'm not going to hold your hand on this, and assume you know Google-fu for anything you don't understand here.
-
-1. Turn off any start up programs or background programs that do not need to be on while running the game.   
-There are guides on the web on how to go through Services.msc to trim the fat out of the Windows System Services.
-
-2. strip that graphics driver down of any AA, AO, AF settings (Turn off) as those effects will be handled by the game engine or the ENB. 
-DO NOT DOUBLE UP ON EFFECTS!  It will kill your framerate and will not look any better than only one doing that specific effect.
-Run Gsync if avialable and for Heavens sake DO NOT use the in game vsync. Use driver vsync instead.
-Run latency at ultra and any settings you can at high performance in the driver.
-
-3. Run resizable bar if your hardware is capable of it. It widens the bandwidth for better file transfer speeds (i.e. smoother gameplay)
-Panjano has a good video on how to set this up
- [>>>Here<<<](https://www.youtube.com/watch?v=5DqcgHtkm9I)
-
-
-4. Go to system settings and set virtual memory on the drive the mod organizer is on at 40GB min and 40GB Max. Save and restart.
-This will be your swap file and supplement the VRAM if needed.
-
-5. Make sure your power plan is set for High performance and **NOT** balanced or power saver
-
-
-## Performance Tweaks
-
-   Here are some things I recommend if your framerate is still suffering after applying the Performance VRAMr and following the notes on 'Basic system set up' above.
-
-  1. Run BethINI (included tool) and choose a lower preset setting like Medium. The default is High. Be sure to NOT use Ambient Occusion, Screen Space Reflections, and turn Tree LOD Distance to '0'. These effects are being handled by Reshade, ENB, and DynDOLOD. Remember DO NOT DOUBLE UP ON EFFECTS! It will cost twice the frame cost with no change in visuals!
-   
-  2. Turn the settings on the effects in ENB to low or medium (default is high/Very high). These are in the left pane when you open ENB and can be seen when expanding each effect individually.
-   
-  3. Run at a lower resolution. 
-   
-  4. Lower the grass density in 'Explore Virtual Folder/Net Script Framework/Plugins/GrassControlConfig.txt/OverwriteMinGrassSize = 65' by INCREASING this number to something like 75-80.
-  
-  5. Go into Display Tweaks in the left pane of MO2 (search it then explore to SSEDisplayTweaks.ini) and lower this line number value:
-         ResolutionScale = 0.85
-  To something like .75   
-  This will reduce the resolution but also decrease the amount of pixels the game needs to render helping frame rate.    
-   Try to find a happy medium between graphical fidelity and FPS.
-
-
-   ## *Some Users have reported being able to run this list on hardware BELOW the minimum I feel it needs*
-
-   In addition to the tweaks recommended above people have removed the ENB and reshade from the list to trade graphical fidelity for frame rate.
-
-   I have seen this list play on a 1080ti trading ENB and reshade for Community Shaders.
-
-   We do have a topic in the Discord for people to discuss what they have done to get it to run on hardware below the recommended minimum.
-
-   
- ## The MCM Menu:
+ ### The MCM Menu:
 
 As of Version 1_3_2 the MCM Recorder should Auto Run on new game start with recommended settings.
 
-## *If this fails for any reason or gets stuck you can edit the .ini for MCM Recorder and disable the auto run feature* 
+### ❗ IT IS HIGHLY RECOMMENDED TO ALLOW THE MCM RECORDER FULLY COMPLETE BEFORE CONTINUING (61/61 steps) ❗
+
+## *If this fails for any reason or gets stuck you can edit the .ini for MCM Recorder in MO2 and disable the auto run feature* 
 
 You can still go through the menu and change things to suit your preference afterward but this will give you a solid base to start from.
 
@@ -396,33 +291,7 @@ Leave shadows OFF in Strange Runes
 
 ### By default The voice for PC head tracking and Dragonborn voice over is set for Ciri. This can be changed in the MCM.
 
-
-  ## Known Issues:
-
-## With MO2 Executables not working as intended
-
-Find the tools folder within your MO2 installation folder, and the .exe of the application inside it's respective folder (Example: D:\The Nico Experience\MO2\Tools\SSEedit)
-
-Right click/ compatability/ Run as administrator
-
-## Within the game
-
-When destroying tables some lanterns, glazed candles, and horn candles will not drop to the ground. Conversely Some candles might drop to the ground as they now have physics because of the Destructable Syrim mod.
-
-If interupting an ilde animation with another animation it might stick the animation stopping you from doing anything else. click on an activatable item with animation or eat/drink to repair (basically play another animation).
-
-If holding block and doing a bash you might get stuck in the block stance. Press M2 (block key) again to come out.
-
-Sometimes when jumping you might get stuck in the jump animation. Jump again to fix
-
-Sometimes the Bow rapid combo attack won't work correctly. Switch weapons then switch back to fix
-
-Sometimes the game gets confused if you're in first person or third (i.e. MCO step forward animations will not step forward) Quicksave/quickload to repair or change from 3rd person to 1st person and draw or sheath a weapon then switch back to 3rd person.
-
-You will need to use the X (swan dive) or C (Shorter Dive) keys before jumping to trigger a short or long dive animation for Leaps of faith.
-
-
-## *Some Important Default Keys To Know*:
+### ❗ IT IS RECOMMENDED AT THIS TIME TO OPEN THE IN GAME MENU TO 'CONTROLS' AND CHANGE ANY KEY BINDINGS TO SUIT YOUR PERSONAL PREFERENCES ❗
 
 ### *NOTE: All these can be changed to suit your preference either in settings/controls menu in game, the MCM menu or through the ini files for the specific mod. This is only how I personally like my set up*
 
@@ -488,8 +357,153 @@ Page Up = SMP reset
   
 C = Quicklight toggle
 
+### Now you can talk to Mara and start your adventure
+
+
+***
+
+## Updating
+
+***
+
+### Unless noted otherwise in the change log all Updates will be Save Safe
+
+#### Updating should be as simple as downloading the latest 'The Nico Experience' from Wabbajack, and running it with the same MO2 and Downloads install paths as your existing installation making sure to check the 'overwrite installation' box in the bottom right corner.
+
+***
+
+ ## Included Tools:
+
+ ***
+
+ ⚠️ ❗ **NOTE: These are provided for those that wish to add to this list however Official Support will not be given on modified lists** ❗ ⚠️
+
+Bethini Pie
+
+SSEedit and QuickAutoClean
+
+LOOT
+
+Cathedral Assets Optimizer
+
+Nemesis
+
+Bodyslide and Outfit Studio
+
+NifSkope
+
+ReSaver
+
+VRAMr
+
+Creation Kit
+
+***
+
+ ## About Adding More Tools:
+
+***
+
+All the tools you choose to install in addition to these need to link in the top right executable bar in MO2 so these programs can start from within the virtual file structure of MO2.
+This Wabbajack uses a file structure that contains a folder called 'Stock Folder' in the MO2 directory.
+This is where the game will run from. It will NOT run from Skyrim Special Editions Folder so ALL links to executables NEED to point to the Stock Folder in Arguements to work correctly.
+ 
+
+Find this in MO2 executable bar under <EDIT....> then on the binary click the 3 dots and navigate to your file path for that exe to change this file paths to lead to your specific file install paths OR IT WILL NOT WORK. They are currently set for my file paths. Use those as a reference on how to set them up.
+Good tutorial on how to set these up is here >>>>
+[Tutorial on setting up executables in stock folder](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Setting%20up%20Stock%20Game%20for%20Skyrim%20SE.md#tool-setup)
+
+***
+
+  ## Some Notes On Basic System Set Up:
+
+***
+	
+This mod list IS graphically taxing on the hardware but systems can run it if they have the room to breathe.
+I'm not going to hold your hand on this, and assume you know Google-fu for anything you don't understand here.
+
+1. Turn off any start up programs or background programs that do not need to be on while running the game.   
+There are guides on the web on how to go through Services.msc to trim the fat out of the Windows System Services.
+
+2. strip that graphics driver down of any AA, AO, AF settings (Turn off) as those effects will be handled by the game engine or the ENB. 
+DO NOT DOUBLE UP ON EFFECTS!  It will kill your framerate and will not look any better than only one doing that specific effect.
+Run Gsync if avialable and for Heavens sake DO NOT use the in game vsync. Use driver vsync instead.
+Run latency at ultra and any settings you can at high performance in the driver.
+
+3. Run resizable bar if your hardware is capable of it. It widens the bandwidth for better file transfer speeds (i.e. smoother gameplay)
+Panjano has a good video on how to set this up
+ [>>>Here<<<](https://www.youtube.com/watch?v=5DqcgHtkm9I)
+
+
+4. Go to system settings and set virtual memory on the drive the mod organizer is on at 40GB min and 40GB Max. Save and restart.
+This will be your swap file and supplement the VRAM if needed.
+
+5. Make sure your power plan is set for High performance and **NOT** balanced or power saver
+
+***
+
+## Performance Tweaks
+
+***
+
+   Here are some things I recommend if your framerate is still suffering after applying the Performance VRAMr and following the notes on 'Basic system set up' above.
+
+  1. Run BethINI (included tool) and choose a lower preset setting like Medium. The default is High. Be sure to NOT use Ambient Occusion, Screen Space Reflections, and turn Tree LOD Distance to '0'. These effects are being handled by Reshade, ENB, and DynDOLOD. Remember DO NOT DOUBLE UP ON EFFECTS! It will cost twice the frame cost with no change in visuals!
+   
+  2. Turn the settings on the effects in ENB to low or medium (default is high/Very high). These are in the left pane when you open ENB and can be seen when expanding each effect individually.
+   
+  3. Run at a lower resolution. 
+   
+  4. Lower the grass density in 'Explore Virtual Folder/Net Script Framework/Plugins/GrassControlConfig.txt/OverwriteMinGrassSize = 65' by INCREASING this number to something like 75-80.
+  
+  5. Go into Display Tweaks in the left pane of MO2 (search it then explore to SSEDisplayTweaks.ini) and lower this line number value:
+         ResolutionScale = 0.85
+  To something like .75   
+  This will reduce the resolution but also decrease the amount of pixels the game needs to render helping frame rate.    
+   Try to find a happy medium between graphical fidelity and FPS.
+
+
+   ## *Some Users have reported being able to run this list on hardware BELOW the minimum I feel it needs*
+
+   In addition to the tweaks recommended above people have removed the ENB and reshade from the list to trade graphical fidelity for frame rate.
+
+   I have seen this list play on a 1080ti trading ENB and reshade for Community Shaders.
+
+   We do have a topic in the Discord for people to discuss what they have done to get it to run on hardware below the recommended minimum.
+
+***
+
+  ## Known Issues:
+
+***
+
+## With MO2 Executables not working as intended
+
+Find the tools folder within your MO2 installation folder, and the .exe of the application inside it's respective folder (Example: D:\The Nico Experience\MO2\Tools\SSEedit)
+
+Right click/ compatability/ Run as administrator
+
+## Within the game
+
+When destroying tables some lanterns, glazed candles, and horn candles will not drop to the ground. Conversely Some candles might drop to the ground as they now have physics because of the Destructable Syrim mod.
+
+If interupting an ilde animation with another animation it might stick the animation stopping you from doing anything else. click on an activatable item with animation or eat/drink to repair (basically play another animation).
+
+If holding block and doing a bash you might get stuck in the block stance. Press M2 (block key) again to come out.
+
+Sometimes when jumping you might get stuck in the jump animation. Jump again to fix
+
+Sometimes the Bow rapid combo attack won't work correctly. Switch weapons then switch back to fix
+
+Sometimes the game gets confused if you're in first person or third (i.e. MCO step forward animations will not step forward) Quicksave/quickload to repair or change from 3rd person to 1st person and draw or sheath a weapon then switch back to 3rd person.
+
+You will need to use the X (swan dive) or C (Shorter Dive) keys before jumping to trigger a short or long dive animation for Leaps of faith.
+
+***
 
  ## Recommended Difficulty Levels (if running solo):
+
+***
 
 Level 0-9 Apprentice
 
@@ -511,8 +525,11 @@ There are added worldspaces to explore as well.
 
 Wyrmstooth and Beyond Reach will start at a certain level but some you will just find in your exploring like Chanterelle, The Shire, Moonpath to Elswyer, Darkend, Skyrim Sewers, and Skyrim Underground.
 
- 
+***
+
  ## Shout Out To Some Awesome People:
+ 
+***
 
 Halgari for creation of this wonderful tool
 
@@ -528,7 +545,11 @@ Pixelnate
 
 You people Rock!
 
+***
+
 # Final Words Before I Let You Go:
+
+***
 
 I designed this mod list to be tougher than anything vanilla with FAR more creatures that are tougher than stock ones.
 There is also an alternate death system based on Shadow of Mordor style game play that will make the one that kills you a 'Nemesis' and they may take some of your stuff as well.
