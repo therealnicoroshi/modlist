@@ -277,11 +277,11 @@ As of Version 1_3_2 the MCM Recorder should Auto Run on new game start with reco
 
 ### ❗ IT IS HIGHLY RECOMMENDED TO ALLOW THE MCM RECORDER FULLY COMPLETE BEFORE CONTINUING (61/61 steps) ❗
 
-## *If this fails for any reason or gets stuck you can edit the .ini for MCM Recorder in MO2 and disable the auto run feature* 
+#### *If this fails for any reason or gets stuck you can edit the .ini for MCM Recorder in MO2 and disable the auto run feature* 
 
 You can still go through the menu and change things to suit your preference afterward but this will give you a solid base to start from.
 
-### Some important things to leave disabled for stability reasons
+#### Some important things to leave disabled for stability reasons
 
 Leave Minatours and Spiders Off in OBIS
 
@@ -289,11 +289,11 @@ Leave Extra spawns Ore Guardians Off in Immersive Creatures
 
 Leave shadows OFF in Strange Runes
 
-### By default The voice for PC head tracking and Dragonborn voice over is set for Ciri. This can be changed in the MCM.
+#### By default The voice for PC head tracking and Dragonborn voice over is set for Ciri. This can be changed in the MCM.
 
 ### ❗ IT IS RECOMMENDED AT THIS TIME TO OPEN THE IN GAME MENU TO 'CONTROLS' AND CHANGE ANY KEY BINDINGS TO SUIT YOUR PERSONAL PREFERENCES ❗
 
-### *NOTE: All these can be changed to suit your preference either in settings/controls menu in game, the MCM menu or through the ini files for the specific mod. This is only how I personally like my set up*
+#### *NOTE: All these can be changed to suit your preference either in settings/controls menu in game, the MCM menu or through the ini files for the specific mod. This is only how I personally like my set up*
 
 Caps Lock + Enter = ENB Menu
 
