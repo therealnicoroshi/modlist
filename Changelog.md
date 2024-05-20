@@ -1,6 +1,29 @@
 Version History:
 
 
+# 1_5_8
+
+### *Update:*
+
+Misc_CP
+
+Tree_Optimization - Nico (Fix floating tree at 42,-9)
+
+SSEedit to latest version
+
+Loot to latest version
+
+### *Add In:*
+
+Hide quest items in Container menu
+
+### *Load order, and plug in changes:*
+
+Set all Consistency patches at the bottom of the load order and lock them into position.
+
+Remove option for Vanilla Start from Alternate Start mod (Not working with this list)
+
+
 # 1_5_7
 
 ### *Update:*
