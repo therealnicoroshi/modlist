@@ -297,6 +297,8 @@ Leave shadows OFF in Strange Runes
 
 - [DirectX Scan Codes for ini values](https://gist.github.com/arithex/3e953d1eb096afe58ce05ba6846493e4)
 
+#### Defaults I have set for my game:
+
 Caps Lock + Enter = ENB Menu
 
 Caps Lock + F12 = Toggle ENB Effect
