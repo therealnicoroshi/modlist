@@ -83,6 +83,8 @@ Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED 
 
 **The Nico Experience** requires a mid to high-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list, and running the included VRAMr at Performance settings. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
 
+***
+
 | Component    | Recommended for 1080p | 
 |:--------------:|:-------------:|
 | CPU | 10th Generation i5 or better/equivalent
@@ -90,12 +92,16 @@ Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED 
 | Storage | SATA SSD or higher
 | GPU | RTX 3060 or better/equivalent (12 GB VRAM)
 
+***
+
 | Component    | Recommended for 1440p | 
 |:--------------:|:-------------:|
 | CPU | 12th Generation i7 or better/equivalent
 | Ram | 32GB DDR4 Ram  + 40GB Pagefile 
 | Storage | M.2 SSD
 | GPU | RTX 4070ti Super or better/equivalent (16GB + VRAM)
+
+***
 
 Space required: ~153GB Archives  ~292GB install Size  40GB Page file ~485GB Total so recommend 500GB of space allocated for this list.
 
