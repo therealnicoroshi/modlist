@@ -295,6 +295,8 @@ Leave shadows OFF in Strange Runes
 
 #### *NOTE: All these can be changed to suit your preference either in settings/controls menu in game, the MCM menu or through the ini files for the specific mod. This is only how I personally like my set up*
 
+- [DirectX Scan Codes for ini values](https://gist.github.com/arithex/3e953d1eb096afe58ce05ba6846493e4)
+
 Caps Lock + Enter = ENB Menu
 
 Caps Lock + F12 = Toggle ENB Effect
