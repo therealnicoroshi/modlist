@@ -29,7 +29,7 @@
 - [Installation](README.md#installation)
   - [Pre-Installation](README.md#pre-installation)
   - [Wabbajack installation](README.md#wabbajack-installation)
-  - [Downloading and Installing The Nico Expereince](README.md#downloading-and-installing-the-nico-expereince)
+  - [Downloading and Installing The Nico Experience](README.md#downloading-and-installing-the-nico-experience)
   - [Problems with Installation](README.md#problems-with-installation)
 - [Post Installation](README.md#post-installation)
   - [Widescreen Support](README.md#widescreen-support)
