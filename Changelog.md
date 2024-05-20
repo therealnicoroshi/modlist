@@ -17,6 +17,8 @@ Loot to latest version
 
 Hide quest items in Container menu
 
+Nilheim - Misc Quest patch for OBIS patrols
+
 ### *Load order, and plug in changes:*
 
 Set all Consistency patches at the bottom of the load order and lock them into position.
