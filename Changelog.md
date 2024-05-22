@@ -1,5 +1,19 @@
 Version History:
 
+# 1_6_0
+
+### *Update:*
+
+More informative Console to latest version
+
+Fubax-Shaders-Master
+
+### *Conflict resolution:*
+
+Hide fluffworks werewolf meshes and textures so Custom meshes and textures from Moonlight Tales work as intended.
+
+
+
 # 1_5_9
 
 Sanitize nif files for Cernunnos mod to repair crash on mounting.
