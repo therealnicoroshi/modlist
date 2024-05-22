@@ -10,6 +10,8 @@ Object Catagorization Framework
 
 Formlist Patch Collection
 
+Dwaylin Stonefist Nord Preset
+
 ### *Ongoing improvements:*
 
 Clean up, and expansion of the readme to cover installation troubleshooting in laymans terms
