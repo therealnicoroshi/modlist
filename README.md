@@ -379,6 +379,8 @@ C = Quicklight toggle
 
 ### Now you can talk to Mara and start your adventure
 
+### ❗ DO NOT save your created character using Proteus UNTIL AFTER you have talked to Mara, and spawned in Skyrim, and messages in upper left have completed ❗
+
 
 ***
 
