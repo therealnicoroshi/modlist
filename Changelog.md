@@ -1,5 +1,19 @@
 Version History:
 
+# 1_5_9
+
+Sanitize nif files for Cernunnos mod to repair crash on mounting.
+
+### *Add In:*
+
+Object Catagorization Framework
+
+Formlist Patch Collection
+
+### *Ongoing improvements:*
+
+Clean up, and expansion of the readme to cover installation troubleshooting in laymans terms
+
 
 # 1_5_8
 
