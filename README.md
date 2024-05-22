@@ -149,7 +149,7 @@ Once you have completed pre-installation, download the [Latest version of Wabbaj
 
 Downloading and installing **The Nico Experience** can take a while depending on your internet connection and computer. To install, complete the following steps.
 
-1. Open Wabbajack and click on browse modlists. At the top in the GAmes Window choose Skyrim Special Edition. Check mark next to Show Unofficial Lists.
+1. Open Wabbajack and click on browse modlists. At the top in the Games Window choose Skyrim Special Edition. Check mark next to Show Unofficial Lists.
 2. Press the download button on The Nico Expereince, and wait for it to download.
 3. Set the installation folder to be somewhere like C:\The Nico Expereince. **Do not install it to your desktop or downloads folder.**
 4. The download location does not need to be on a SSD but it makes installing a bit faster.
