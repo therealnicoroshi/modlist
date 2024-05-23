@@ -170,31 +170,31 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
  ### Potentially Problematic Files
 
-#### *Here are links to 3 files known to fail download. If the log mentions one or more of them please download from the link provided and drop the zipped folder in your download location for the installation then re-run Wabbajack*
+### *Here are links to 3 files known to fail download. If the log mentions one or more of them please download from the link provided and drop the zipped folder in your download location for the installation then re-run Wabbajack*
 
 - [[Dint999] BDOR Hairs SSE 0.17](https://drive.google.com/uc?id=1tpY3bDs-LR6rptf8oPUfraKs1CkxJJB3&export=download)
 - [[Dint999] HairPack02 SSE 1.11 (base)](https://drive.google.com/uc?id=1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ&export=download)
 - [[dint999] BDOr Winter Mountain Guardian Spirit v1.1](https://drive.google.com/uc?id=1siyc644OSI0Lz8PlM9lo3Gxf_VxQLlN5&export=download)
 
-#### *If log mentions ANYTHING starting with 'cc'*
+### *If log mentions ANYTHING starting with 'cc'*
 
    - **Make sure you have downloaded all the Paid AE update content!**
 
-#### *If the log specifically mentions 'Curios'*
+### *If the log specifically mentions 'Curios'*
 
    - **You did not follow the installation instructions!**
    -  Go back to [Pre-Installation](README.md#pre-installation) and follow it this time.
 
-#### *If log mentions ANYTHING 'lex' or 'creationkit':*
+### *If log mentions ANYTHING 'lex' or 'creationkit':*
  
    - **Make sure you have the Creation Kit installed.**
    - Go back to [Pre-Installation](README.md#pre-installation) and read it properly this time.
 
-#### *Wabbajack could not find my game folder:*
+### *Wabbajack could not find my game folder:*
 
    - Either buy the game or go back to the [Pre-Installation](README.md#pre-installation) step.
 
-#### *Antivirus reports a virus:*
+### *Antivirus reports a virus:*
    - You did not follow the steps in [Pre-Installation](README.md#pre-installation). Go back and follow it.
       - If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan). 
   
