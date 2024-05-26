@@ -2,7 +2,7 @@ Version History:
 
 #1_6_1
 
-#### *Update*
+### *Update:*
 
 Update Tree_Optimization - Nico to version 2.3 with more tree fixes.
 
@@ -12,7 +12,7 @@ Nemesis_Output
 
 Fix #26 Artifacts being out of order in the left pane of MO2
 
-#### *Add In:*
+### *Add In:*
 
 LOD Unloading Bug Fix
 
