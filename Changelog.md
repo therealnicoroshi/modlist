@@ -1,5 +1,22 @@
 Version History:
 
+#1_6_1
+
+#### *Update*
+
+Update Tree_Optimization - Nico to version 2.3 with more tree fixes.
+
+Update AncientLands_Tree_Patch - Nico to version 1.1 with more fixes
+
+Nemesis_Output
+
+Fix #26 Artifacts being out of order in the left pane of MO2
+
+#### *Add In:*
+
+LOD Unloading Bug Fix
+
+
 # 1_6_0
 
 ### *Update:*
