@@ -1,6 +1,26 @@
 Version History:
 
-#1_6_1
+# 1_6_2
+
+### *Add In:*
+
+Remove Hanging Moss Patch for Beyond Reach
+
+Wyrmstooth Floating Skull Fix - Nico
+
+Stress and Fear
+
+The Shire Additional Fixes
+
+Grab and Throw
+
+### *Update:*
+
+esmify Depths of Skyrim, Darkend, moonpath, NewBosmerHome, Forgotten City, Ayleid Palace, and Sewers of Skyrim with ESMifier to reduce temp references so long play games won't hit the 1 million temp reference ceiling limit.
+
+
+
+# 1_6_1
 
 ### *Update:*
 
