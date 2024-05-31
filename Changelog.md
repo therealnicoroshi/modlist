@@ -1,5 +1,17 @@
 Version History:
 
+# 1_6_3
+
+### *Hotfixes:*
+
+Remove redundant ESMifer script mod for SSEedit
+
+Remove Grab and Throw (messes with Havok in this list)
+
+Re-Compile in Wabbajack version 3.6.1.0
+
+
+
 # 1_6_2
 
 ### *Add In:*
