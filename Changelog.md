@@ -1,5 +1,22 @@
 Version History:
 
+# 1_6_4
+
+### *Add in:*
+
+Key bindable Dual Wield Blocking
+
+DPI Scaling Fix
+
+### *Update:*
+
+Misc_CP
+
+ENB .499 to latest version
+
+Discord Channels to include FAQ for gameplay and installation
+
+
 # 1_6_3
 
 ### *Hotfixes:*
