@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 1.6.3 by Nicoroshi 
+## Version 1.6.4 by Nicoroshi 
 
 <table stlyle="border: none;">
 <tr>
