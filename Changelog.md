@@ -1,5 +1,19 @@
 Version History:
 
+# 1_6_5
+
+### *Add in:*
+
+Less sniper like NPC
+
+Save Unbaker
+
+### *Install Synthesis as a tool:*
+
+Remove Landscape Vertex Color
+
+Water Does Damage
+
 # 1_6_4
 
 ### *Add in:*
