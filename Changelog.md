@@ -1,5 +1,24 @@
 Version History:
 
+# 1_6_6
+
+### *Remove:*
+
+Save Unbaker
+
+### *Clean up:*
+
+Nicos Scimitars .nif reorder blocks
+
+### *Add in:*
+
+Casting Bar
+
+Casting Bar Variance Dark Dear Diary (only for Bow charge bar)
+
+Interesting Casting Bar
+
+
 # 1_6_5
 
 ### *Add in:*
