@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 1.6.5 by Nicoroshi 
+## Version 1.6.6 by Nicoroshi 
 
 <table stlyle="border: none;">
 <tr>
@@ -314,6 +314,8 @@ Leave shadows OFF in Strange Runes
 #### By default The voice for PC head tracking and Dragonborn voice over is set for Ciri. This can be changed in the MCM.
 
 ### ❗ IT IS RECOMMENDED AT THIS TIME TO OPEN THE IN GAME MENU TO 'CONTROLS' AND CHANGE ANY KEY BINDINGS TO SUIT YOUR PERSONAL PREFERENCES ❗
+
+### ❗ DEFAULT KEY MAPPING CAN BE SET FOR MOST KEYS BY PRESSING ESC KEY/CONTROLS/DEFAULT BUTTON AT THE BOTTOM ❗
 
 #### *NOTE: All of these (except the swan and short dive keys of 'X', and 'C') can be changed to suit your preference either in settings/controls menu in game, the MCM menu or through the ini files for the specific mod found in MO2 left pane.*
 
