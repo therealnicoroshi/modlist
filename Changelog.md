@@ -1,5 +1,22 @@
 Version History:
 
+# 1_6_7
+
+### *Remove:*
+
+Mihail's Vigilants
+
+### *Add In:*
+
+RMB Spoiled Rotten
+
+Skypatcher
+
+Console Commands Extender
+
+Clicklight
+
+
 # 1_6_6
 
 ### *Remove:*
