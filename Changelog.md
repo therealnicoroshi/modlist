@@ -1,5 +1,13 @@
 Version History:
 
+# 1_6_8
+
+### *Simple fixes:*
+
+change emissive color of Tauriels Bow to black (like it should be)
+
+Move modern wait menu in left pane to work with widescreen patches
+
 # 1_6_7
 
 ### *Remove:*
