@@ -1,5 +1,50 @@
 Version History:
 
+# 1_6_9
+
+## *THIS UPDATE REQUIRES A NEW GAME BECAUSE OF A DYNDOLOD DLL UPDATE*
+
+### *Add In:*
+
+Midwood Isle 
+
+Midwood Isle Patches (edited)
+
+Midwood Isle Black Book Fix
+
+GKB Waves Reborn - Midwood Isle
+
+Midwood Isle - My Patches Tree LOD with Shadows
+
+Midwood Isle - My Patches Cats SE-AE
+
+Midwood Isle - Sunhelm Bucket - Patch
+
+Midwood Isle - Wyrmstooth Spell Consistency Patch
+
+Midwood Isle - Guard Armor Replacer
+
+Midwood Isle - Patch for Animated Ships
+
+### *Recompile:*
+
+- Grass Cache
+
+- Texgen
+
+- DynDOLOD
+
+### *Update* 
+
+DynDOLOD resources
+
+DynDOLOD DLL NG
+
+### *Remove:*
+
+Sound_CP
+
+
 # 1_6_8
 
 ### *Simple fixes:*
