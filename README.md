@@ -3,7 +3,7 @@
 
 
 ## Version 1.6.9 by Nicoroshi 
-### ❗ REQUIRES NEW GAME ❗
+### ❗ 1.6.9 UPDATE REQUIRES NEW GAME ❗
 <table stlyle="border: none;">
 <tr>
 <td><a href="https://www.nexusmods.com/skyrimspecialedition/mods/109901">Nexus Page</a></td>
