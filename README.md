@@ -2,8 +2,10 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 1.6.9 by Nicoroshi 
-### ❗ 1.6.9 UPDATE REQUIRES NEW GAME ❗
+## Version 1.7.0 by Nicoroshi 
+### ❗ Updating from 1.6.8 or eariler REQUIRES NEW GAME ❗
+### Safe to update from 1.6.9 or later
+
 <table stlyle="border: none;">
 <tr>
 <td><a href="https://www.nexusmods.com/skyrimspecialedition/mods/109901">Nexus Page</a></td>
