@@ -1,5 +1,24 @@
 Version History:
 
+# 1_7_0
+
+### Safe to update from 1.6.9 or later
+
+### *Add In:*
+
+Cyan's Extra Perks Mod
+
+Auto-Run Console Commands (to set perks per level to 1.75 for better balance)
+
+### *Update:*
+
+ENB Series to version .502
+
+### *Tweaks:*
+
+Tweak MCM recorder values for better balance.
+
+
 # 1_6_9
 
 ## *THIS UPDATE REQUIRES A NEW GAME BECAUSE OF A DYNDOLOD DLL UPDATE*
