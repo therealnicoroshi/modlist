@@ -1,5 +1,18 @@
 Version History:
 
+# 1_7_1
+
+### *Add In:*
+
+Vvardvarks
+
+### *Remove:*
+
+DPI Scaling Fix (Not needed)
+
+Lock from _CP patch mods (was causing issues with people who wanted to modify the list for their own preference)
+
+
 # 1_7_0
 
 ### Safe to update from 1.6.9 or later
