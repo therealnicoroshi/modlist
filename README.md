@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 1.7.1 by Nicoroshi 
+## Version 1.7.2 by Nicoroshi 
 ### ❗ Updating from 1.6.8 or eariler REQUIRES NEW GAME ❗
 ### Safe to update from 1.6.9 or later
 
@@ -166,17 +166,11 @@ Downloading and installing **The Nico Experience** can take a while depending on
 ***
 
 It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
-
-- Could not download x:
-	- Big files or files hosted on metered connections like google drive can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
+	
 
  ### Potentially Problematic Files
 
-### *Here are links to 3 files known to fail download. If the log mentions one or more of them please download from the link provided and drop the zipped folder in your download location for the installation then re-run Wabbajack*
-
-- [[Dint999] BDOR Hairs SSE 0.17](https://drive.google.com/uc?id=1tpY3bDs-LR6rptf8oPUfraKs1CkxJJB3&export=download)
-- [[Dint999] HairPack02 SSE 1.11 (base)](https://drive.google.com/uc?id=1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ&export=download)
-- [[dint999] BDOr Winter Mountain Guardian Spirit v1.1](https://drive.google.com/uc?id=1siyc644OSI0Lz8PlM9lo3Gxf_VxQLlN5&export=download)
+ ## - Could not download x:
 
 ### *If the log mentions ANYTHING starting with 'cc'*
 
