@@ -1,5 +1,22 @@
 Version History:
 
+# 1_7_2
+
+### *Changes made for those that want to remove TAA and add DLAA:*
+
+Comment out Display tweaks upscale lines
+
+Change from full screen to borderless windowed
+
+### *File changes:*
+
+Change both dint hair packs to come from CDN instead of from patreon
+
+### *Remove:*
+
+Remove [dint] Winter Mountain Guardian Armor (problematic to download)
+
+
 # 1_7_1
 
 ### *Add In:*
