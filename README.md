@@ -531,7 +531,7 @@ You will need to use the X (swan dive) or C (Shorter Dive) keys before jumping t
 
 ***
 
- ## Recommended Difficulty Levels (if running solo):
+ ## Recommended Difficulty Levels:
 
 ***
 
