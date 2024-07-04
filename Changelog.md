@@ -1,5 +1,20 @@
 Version History:
 
+# 1_7_3
+
+#### *Updates:*
+
+Update to latest version of enb binaries version .502
+
+Readme to include instructions for DLAA implementation if using an Nvidia graphics card.
+
+#### *Add In:*
+
+Ascend
+
+DLAA support
+
+
 # 1_7_2
 
 ### *Changes made for those that want to remove TAA and add DLAA:*
