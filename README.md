@@ -233,7 +233,7 @@ Search The left pane of MO2 for The White Bar that says:
 
 Expand that Seperator and Enable the mod inside of that called:
 
-### 'Enable DLAA For Nvidia Graphics only
+### 'Enable DLAA For Nvidia Graphics only'
 
 Disable TAA either in BethINI or directly in the SkyrimPrefs.ini accessable in the tools tab at the top of the left pane in MO2.
 
