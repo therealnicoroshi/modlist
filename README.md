@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 1.7.2 by Nicoroshi 
+## Version 1.7.3 by Nicoroshi 
 ### ❗ Updating from 1.6.8 or eariler REQUIRES NEW GAME ❗
 ### Safe to update from 1.6.9 or later
 
@@ -224,6 +224,21 @@ Navigate to Textures/interface/intfullnebulapanarama02.dds
 Right click / Hide 
 
 This is because VRAMr **WILL** downsize the image of the girls in the perk interface and we are hiding the one from VRAMr so that it uses the higher resolution original one.
+
+❗ ### **FOR NVIDIA GRAPHICS ONLY (Will not work with AMD)** ❗
+
+Search The left pane of MO2 for The White Bar that says:
+
+### 'DLAA Enable only with Nvidia Graphis + disable TAA'
+
+Expand that Seperator and Enable the mod inside of that called:
+
+### 'Enable DLAA For Nvidia Graphics only
+
+Disable TAA either in BethINI or directly in the SkyrimPrefs.ini accessable in the tools tab at the top of the left pane in MO2.
+
+#### Note: DLAA is a superior form of Anti-aliasing so recommended for EVERYONE running an Nvidia graphics card.
+
 
 ### Stock Game
 
