@@ -535,7 +535,9 @@ Sometimes the game gets confused if you're in first person or third (i.e. MCO st
 
 You will need to use the X (swan dive) or C (Shorter Dive) keys before jumping to trigger a short or long dive animation for Leaps of faith.
 
-Dying during the Midwood isle battle scenes within the town may stick the player in bleed out because of Shadow of Skyrim. If this happens return to previos save and replay.
+Dying during the Midwood isle battle scenes within the town may stick the player in bleed out because of Shadow of Skyrim. If this happens return to previous save and replay.
+
+#### DO NOT PUT IRON ARROWS INTO A CONTAINER! This will crash the game. Vanilla bug without any known workaround.
 
 ***
 
