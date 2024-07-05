@@ -225,7 +225,7 @@ Right click / Hide
 
 This is because VRAMr **WILL** downsize the image of the girls in the perk interface and we are hiding the one from VRAMr so that it uses the higher resolution original one.
 
-❗ ### **FOR NVIDIA GRAPHICS ONLY (Will not work with AMD)** ❗
+### ❗ **FOR NVIDIA GRAPHICS ONLY (Will not work with AMD)** ❗
 
 Search The left pane of MO2 for The White Bar that says:
 
