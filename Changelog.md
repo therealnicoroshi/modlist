@@ -10,7 +10,7 @@ Don't Eat Spell Tomes
 
 Spell Tome Study
 
-#### *Repir:*
+#### *Repair:*
 
 Grass_Cache fix for grid 20,-19
 
