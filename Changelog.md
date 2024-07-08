@@ -1,5 +1,22 @@
 Version History:
 
+# 1_7_4 
+
+#### *Add-In:*
+
+Midwood Isle Ground Fix for Grid  3,-6
+
+Don't Eat Spell Tomes
+
+Spell Tome Study
+
+#### *Repir:*
+
+Grass_Cache fix for grid 20,-19
+
+Remove 4 conflicting BOS swap records from Destructible Skyrim
+
+
 # 1_7_3
 
 #### *Updates:*
