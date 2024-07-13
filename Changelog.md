@@ -10,9 +10,15 @@ DE_Dress_fix - Nico
 
 Mara_Fix - Nico
 
+Seranaholic 1.5 with Velerica
+
 #### *Remove:*
 
 Reshade, and all shaders for it
+
+Pan_Serana, and Pan_Velerica
+
+Remove Foglings from exterior of Castle Volkihar
 
 #### *Update:*
 
