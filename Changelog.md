@@ -2,7 +2,7 @@ Version History:
 
 # 1_7_5
 
-#### *Add In*
+#### *Add In:*
 
 Dwemer Pipework Reworked 5 Hotfix 3
 
@@ -10,15 +10,15 @@ DE_Dress_fix - Nico
 
 Mara_Fix - Nico
 
-#### *Remove*
+#### *Remove:*
 
 Reshade, and all shaders for it
 
-#### *Update*
+#### *Update:*
 
 LOOT to latest version on Github
 
-#### *Repair*
+#### *Repair:*
 
 Fix Referenced DweHallBgEndCapExBg01.nif
 
