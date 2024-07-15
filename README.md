@@ -333,8 +333,6 @@ Caps Lock + F11 = Toggle Wire Frame
 
 F11 = Toggle A matter of time widget and clock 
 
-Home = Reshade
-
 Backspace = Immersive Equipment Displays
 
 Shift + O = Open Animation Replacer
@@ -430,6 +428,8 @@ VRAMr
 
 Creation Kit
 
+Synthesis
+
 ***
 
  ## About Adding More Tools:
@@ -489,9 +489,6 @@ This will be your swap file and supplement the VRAM if needed.
    
   4. Lower the grass density in 'Explore Virtual Folder/Net Script Framework/Plugins/GrassControlConfig.txt/OverwriteMinGrassSize = 65' by INCREASING this number to something like 75-80.
   
-  5. Go into Display Tweaks in the left pane of MO2 (search it then explore to SSEDisplayTweaks.ini) and lower this line number value:
-         ResolutionScale = 0.85
-  To something like .75
 
 ### ❗  Lowering this value too much WILL make the Wheeler menu partially off screen so test any changes  ❗
 
@@ -501,7 +498,7 @@ This will be your swap file and supplement the VRAM if needed.
 
    ## *Some Users have reported being able to run this list on hardware BELOW the minimum I feel it needs*
 
-   In addition to the tweaks recommended above people have removed the ENB and reshade from the list to trade graphical fidelity for frame rate.
+   In addition to the tweaks recommended above people have removed the ENB from the list to trade graphical fidelity for frame rate.
 
    I have seen this list play on a 1080ti trading ENB and reshade for Community Shaders.
 
