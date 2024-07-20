@@ -1,5 +1,19 @@
 Version History:
 
+# 1_7_6
+
+#### *Repair:*
+
+repair floating moss at -35,15
+
+Repair file paths for Dwemer dungeon walls
+
+Repair WRSkyforge01.nif reference
+
+#### *Update:*
+
+ENB to latest version of .502
+
 # 1_7_5
 
 #### *Add In:*
