@@ -1,5 +1,30 @@
 Version History:
 
+# 1_7_7
+
+#### *Update:*
+
+Better Third Person selection
+
+#### *Add-In:*
+
+Icy_Fix_DLC1
+
+Playable Draugr
+
+Draugr MCO Enabled
+
+Draugr MCO Improved
+
+Draugr MCO Improved Patch Collection
+
+Draugr MCO - JS Emissive Eyes Patch
+
+KittyVFX - Lightning
+
+Comprehensive First Person Animation Overhaul - CFPAO
+
+
 # 1_7_6
 
 #### *Repair:*
