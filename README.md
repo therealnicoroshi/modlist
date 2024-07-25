@@ -518,6 +518,8 @@ Right click/ compatability/ Run as administrator
 
 ## Within the game
 
+#### Some of the Creation Kit content will be Borked!
+
 When destroying tables some lanterns, glazed candles, and horn candles will not drop to the ground. Conversely Some candles might drop to the ground as they now have physics because of the Destructable Syrim mod.
 
 If interupting an ilde animation with another animation it might stick the animation stopping you from doing anything else. click on an activatable item with animation or eat/drink to repair (basically play another animation).
