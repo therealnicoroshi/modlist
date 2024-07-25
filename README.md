@@ -518,7 +518,7 @@ Right click/ compatability/ Run as administrator
 
 ## Within the game
 
-#### Some of the Creation Kit content will be Borked!
+#### Some of the Creation Club content will be Borked. I am not going to repair anything Creation Club.
 
 When destroying tables some lanterns, glazed candles, and horn candles will not drop to the ground. Conversely Some candles might drop to the ground as they now have physics because of the Destructable Syrim mod.
 
