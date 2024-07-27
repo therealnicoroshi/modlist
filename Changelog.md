@@ -1,5 +1,20 @@
 Version History:
 
+# 1_7_8
+
+#### *Remove:*
+
+DLAA Support
+
+#### *Add-In:*
+
+Rielle Doors and some Activables Workaround Fix
+
+#### *Update:*
+
+Update Rudy ENB for Obsidian Weathers to take advantage of ENB Cloud 2.5 in ENBSeries .502
+
+
 # 1_7_7
 
 #### *Update:*
