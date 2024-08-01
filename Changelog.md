@@ -1,5 +1,11 @@
 Version History:
 
+# 1_8_0
+
+#### *settings change:*
+
+DPI scaling fix in SkyrimSE.exe
+
 # 1_7_9
 
 #### *Repair*
