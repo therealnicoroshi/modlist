@@ -1,5 +1,11 @@
 Version History:
 
+# 1_8_1
+
+### Re-Compile of entire list from working personal installation
+
+Should be save safe
+
 # 1_8_0
 
 #### *settings change:*
