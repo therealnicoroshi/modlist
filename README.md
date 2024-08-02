@@ -299,7 +299,7 @@ Leave Extra spawns Ore Guardians Off in Immersive Creatures
 
 Leave shadows OFF in Strange Runes
 
-#### By default The voice for PC head tracking and Dragonborn voice over is set for Ciri. This can be changed in the MCM.
+#### By default The voice for PC head tracking and Dragonborn voice over is set for Bella, and Female Sultry. This can be changed in the MCM.
 
 ### ❗ IT IS RECOMMENDED AT THIS TIME TO OPEN THE IN GAME MENU TO 'CONTROLS' AND CHANGE ANY KEY BINDINGS TO SUIT YOUR PERSONAL PREFERENCES ❗
 
