@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 1.8.2 by Nicoroshi 
+## Version 1.8.3 by Nicoroshi 
 ### ❗ Updating from 1.6.8 or eariler REQUIRES NEW GAME ❗
 ### Safe to update from 1.6.9 or later
 
