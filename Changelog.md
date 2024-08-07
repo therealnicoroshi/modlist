@@ -4,7 +4,7 @@ Version History:
 
 ### ❗ This update requires a new game or cleaning in resaver of orphaned script references ❗ 
 
-#### *Remove*
+#### *Remove:*
 
 Spell Tome Studies
 
