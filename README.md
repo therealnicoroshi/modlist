@@ -3,8 +3,7 @@
 
 
 ## Version 1.8.3 by Nicoroshi 
-### ❗ Updating from 1.6.8 or eariler REQUIRES NEW GAME ❗
-### Safe to update from 1.6.9 or later
+### ❗ Updating from 1.8.2 or eariler REQUIRES NEW GAME ❗
 
 <table stlyle="border: none;">
 <tr>
