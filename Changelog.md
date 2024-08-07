@@ -1,5 +1,31 @@
 Version History:
 
+# 1_8_3
+
+### ❗ This update requires a new game or cleaning in resaver of orphaned script references ❗ 
+
+#### *Remove*
+
+Spell Tome Studies
+
+Don't Eat Spell Tomes
+
+WizKid's Alchemy tables
+
+#### *Add-In:*
+
+Immersive Spell Learning - DESTified
+
+Alchemy Station VAriants BOS with No clutter option
+
+#### *Repair:*
+
+Repair player widget location for 1920x1080 resolution.
+
+Repair Immersive equipment overhaul window locations for 1920x1080 resolution
+
+
+
 # 1_8_2
 
 Upload and link new version of Bodyslide_Output
