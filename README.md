@@ -344,17 +344,17 @@ Dodges= Direction + Left Shift (can be changed in ini file for TK Dodge RE)
 
 G = walk/Run Toggle
 
+V = Shoulder switch
+
 Left Control = Wheeler menu
 
 Caps Lock = Sprint
 
-Del = dMenu
-
+Del = dMenu (This is where you would change the bind for Wheeler menu)
 
 While falling
 
 Paraglider pull or put away = activate key
-
 
 How I set some Keys in the MCM Recorder
 
