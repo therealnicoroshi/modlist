@@ -249,7 +249,7 @@ Click it and allow it to set the affinty for your processor.
 
 ***
 
-## Widescreen Support
+## Widescreen Support (skip to First Start Up if playing 16:9 format):
 
 ***
 
@@ -277,6 +277,10 @@ Make sure the dropdown box on the right is set to `The Nico Experience (version 
 Alternate method is clicking on the .exe link at the top labeled `The Nico Experience (version number)`
 
 This will start the game and bring you to the character creation menu.
+
+### *NOTE:*
+
+#### This will take a few minutes to start up as the game needs to compile shaders for ENB on first start up. Be Patient.
 
 After your character is created and you name them >>>
 
