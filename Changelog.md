@@ -16,7 +16,7 @@ WizKid's Alchemy tables
 
 Immersive Spell Learning - DESTified
 
-Alchemy Station VAriants BOS with No clutter option
+Alchemy Station Variants BOS with No clutter option
 
 #### *Repair:*
 
