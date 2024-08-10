@@ -249,9 +249,11 @@ Click it and allow it to set the affinty for your processor.
 
 ***
 
-## Widescreen Support (skip to First Start Up if playing 16:9 format):
+## Widescreen Support
 
 ***
+
+###  (skip to First Start Up if playing 16:9 format):
 
 ### Optional Setting the HUD for widescreen resolution.
 
