@@ -1,5 +1,16 @@
 Version History:
 
+# 1_8_4
+
+#### *Update:*
+
+ENB .502 to latest version
+
+#### *Remove:*
+
+Remove JK's Sleeping Giant inn - Wizkid Alchemy table patch
+
+
 # 1_8_3
 
 ### ❗ This update requires a new game or cleaning in resaver of orphaned script references ❗ 
