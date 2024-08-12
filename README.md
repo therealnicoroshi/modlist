@@ -263,6 +263,8 @@ Search in MO2 Left pane for 'Widescreen' and again for 'Ultrawide'.
 
 ### **Don't forget to run Bethini and change your resolution**
 
+### *No official controller support provided*
+
 
 ## Congratulations you are now installed and ready for first start up.
 
