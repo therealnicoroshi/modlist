@@ -493,7 +493,7 @@ This will be your swap file and supplement the VRAM if needed.
   This will reduce the resolution but also decrease the amount of pixels the game needs to render helping frame rate.    
    Try to find a happy medium between graphical fidelity and FPS.
 
-### *Although the list can play without additional paid mods I personally use the frame generator from [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/) to 4x my framerate and run this list at 144 FPS. Decide what is right for yourself.
+### *Although the list can play without additional paid mods I personally use the frame generator from [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/) to 4x my framerate and run this list at 144 FPS. Decide what is right for yourself.*
 
 
    ## *Some Users have reported being able to run this list on hardware BELOW the minimum I feel it needs*
