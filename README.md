@@ -269,6 +269,7 @@ Search in MO2 Left pane for 'Widescreen' and again for 'Ultrawide'.
 
 However people have gotten controllers to work with this list
 
+***
 
 ## Congratulations you are now installed and ready for first start up.
 
