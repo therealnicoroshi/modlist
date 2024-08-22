@@ -1,5 +1,20 @@
 Version History:
 
+# 1_8_6
+
+#### *Add-In*
+
+Security Overhaul SKSE Extra Locks
+
+Missives - The Witcher Board HD (4K-2K-ENB Light)
+
+Draugr MCO Improved - Rebalanced
+
+#### *Remove*
+
+Patch for the missive Board Solsheim (redundant)
+
+
 # 1_8_5
 
 #### *Add-In*
