@@ -1,5 +1,102 @@
 Version History:
 
+# 1_8_7
+
+#### *Update:*
+
+enbseries to latest version of .502
+
+LOOT to latest version
+
+Bodyslide_Output
+
+#### *Add-In:*
+
+Oxygen meter 2
+
+RMB SPIDified - Core
+
+Daedric Armor SE
+
+1DaedricBladesSE
+
+Daedric Blades - Standalone version SE
+
+Daedric Armor - Standalone version by Xtudo SE
+
+Daedric Armor - Skyrim Immersive Creatures Patch by Xtudo
+
+Dremora Markynaz Armor SE
+
+Dust Adept Armor SE
+
+Dwemer Armor SE
+
+Falconer Armor SE
+
+Falconer Armor - My patches by Xtudo
+
+Infantry Armor SE
+
+Infantry Armor SE - my patches by Xtudo
+
+Mythic Dawn Armor SE
+
+Northern God Armor SE
+
+Norther n God Armor - My fixes by Xtudo
+
+Silver Armor SE
+
+Silver Armor - My patches by Xtudo
+
+Wind Ruler Armor SE (edited)
+
+Wind Ruler Armor SE - Fixes by Xtudo
+
+QND SPID 4th Unknown Pack
+
+Aemond Armor
+
+Leon Armor
+    
+Highlander Armor
+    
+Melony Armor
+    
+Netflix Geralt Armor
+    
+Rogue Armor
+    
+Sona Armor
+    
+Phantom Armor
+    
+Vendalian Armor
+    
+Red Warrior Armor
+
+Countess Armor 
+
+Adventurer HDT-SMP Armor 
+
+Raven HDT-SMP Armor
+
+Gray Warden HDT-SMP Armor
+
+Inquisitor HDT-SMP Armor
+
+Traveling Mage - My version SE-AE 
+
+Kellan HDT-SMP Armor and Kellan HDT-SMP Additions 
+
+Barkeeper HDT-SMP outfit
+
+QND Fuse SPID Pack (edited)
+
+RMB SPIDified - Core
+
+
 # 1_8_6
 
 #### *Add-In*
