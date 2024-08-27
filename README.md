@@ -317,6 +317,8 @@ Leave shadows OFF in Strange Runes
 
 ![](https://github.com/therealnicoroshi/modlist/blob/main/SkyrimSE%202024-08-26%2022-47-26.jpg?raw=true)
 
+### *As of Version 1.8.8 F11 will pull up the KeyMapping image seen here. It can be modified in game by clicking on a key and changing it's values. Tab to exit*
+
 Caps Lock + Enter = ENB Menu
 
 Caps Lock + F12 = Toggle ENB Effect
