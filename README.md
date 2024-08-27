@@ -313,14 +313,6 @@ Leave shadows OFF in Strange Runes
 
 #### By default The voice for PC head tracking and Dragonborn voice over is set for Bella, and Female Sultry. This can be changed in the MCM.
 
-### ❗ IT IS RECOMMENDED AT THIS TIME TO OPEN THE IN GAME MENU TO 'CONTROLS' AND CHANGE ANY KEY BINDINGS TO SUIT YOUR PERSONAL PREFERENCES ❗
-
-### ❗ DEFAULT KEY MAPPING CAN BE SET FOR MOST KEYS BY PRESSING ESC KEY/CONTROLS/DEFAULT BUTTON AT THE BOTTOM ❗
-
-#### *NOTE: All of these (except the swan and short dive keys of 'X', and 'C') can be changed to suit your preference either in settings/controls menu in game, the MCM menu or through the ini files for the specific mod found in MO2 left pane.*
-
-- [DirectX Scan Codes for ini values](https://gist.github.com/arithex/3e953d1eb096afe58ce05ba6846493e4)
-
 #### Defaults I have set for my game:
 
 ![](https://github.com/therealnicoroshi/modlist/blob/main/SkyrimSE%202024-08-26%2022-47-26.jpg?raw=true)
@@ -336,6 +328,14 @@ Shift + O = Open Animation Replacer
 Scroll wheel = walk\run speed adjustment on the fly
 
 K (Hold) + Scroll Wheel = Zoom
+
+### ❗ IT IS RECOMMENDED AT THIS TIME TO OPEN THE IN GAME MENU TO 'CONTROLS' AND CHANGE ANY KEY BINDINGS TO SUIT YOUR PERSONAL PREFERENCES ❗
+
+### ❗ DEFAULT KEY MAPPING CAN BE SET FOR MOST KEYS BY PRESSING ESC KEY/CONTROLS/DEFAULT BUTTON AT THE BOTTOM ❗
+
+#### *NOTE: All of these (except the swan and short dive keys of 'X', and 'C') can be changed to suit your preference either in settings/controls menu in game, the MCM menu or through the ini files for the specific mod found in MO2 left pane.*
+
+- [DirectX Scan Codes for ini values](https://gist.github.com/arithex/3e953d1eb096afe58ce05ba6846493e4)
 
 ### Now you can talk to Mara and start your adventure
 
