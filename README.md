@@ -323,6 +323,8 @@ Leave shadows OFF in Strange Runes
 
 #### Defaults I have set for my game:
 
+![](https://github.com/therealnicoroshi/modlist/blob/main/SkyrimSE%202024-08-26%2022-47-26.jpg?raw=true)
+
 Caps Lock + Enter = ENB Menu
 
 Caps Lock + F12 = Toggle ENB Effect
