@@ -331,59 +331,11 @@ Caps Lock + F12 = Toggle ENB Effect
 
 Caps Lock + F11 = Toggle Wire Frame
 
-F11 = Toggle A matter of time widget and clock 
-
-Backspace = Immersive Equipment Displays
-
 Shift + O = Open Animation Replacer
-
-Shift = Toggle use or take, and talk or pet for cats, dogs, and horses
-
-Ins = Blink Spell Hotkey (Can be modified in it's ini file)
-
-X = Toggle Compass HUD and swan dive jump
-
-C = Short Dive jump and quicklight
 
 Scroll wheel = walk\run speed adjustment on the fly
 
 K (Hold) + Scroll Wheel = Zoom
-
-Dodges= Direction + Left Shift (can be changed in ini file for TK Dodge RE)
-
-G = walk/Run Toggle
-
-V = Shoulder switch
-
-Left Control = Wheeler menu
-
-Caps Lock = Sprint
-
-Del = dMenu (This is where you would change the bind for Wheeler menu)
-
-While falling
-
-Paraglider pull or put away = activate key
-
-How I set some Keys in the MCM Recorder
-
-Page Down = Proteus Wheel
-
-Page Up = SMP reset
-
-; : = quicksave (but set to make these regular saves in Engine fixes)
-
-' " = quickload
-
-9 ( = toggle EVG traversal markers on/off
-
-= + = PC head tracking Hello
-
-- _ = PC head Tracking Goodbye
-- 
-0 ) = PC head Tracking Random Saying
-  
-C = Quicklight toggle
 
 ### Now you can talk to Mara and start your adventure
 
