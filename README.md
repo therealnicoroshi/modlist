@@ -319,6 +319,8 @@ Leave shadows OFF in Strange Runes
 
 ### *As of Version 1.8.8 F11 will pull up the KeyMapping image seen here. It can be modified in game by clicking on a key and changing it's values. Tab to exit*
 
+### ❗ NOTE: This is only an image and DOES NOT change keymapping itself ❗ It is only a quick reference that will need to be updated if you change any key MApping.
+
 Caps Lock + Enter = ENB Menu
 
 Caps Lock + F12 = Toggle ENB Effect
