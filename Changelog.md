@@ -1,5 +1,20 @@
 Version History:
 
+# 1_8_8
+
+#### *Add-In:*
+
+Expressive Facegen Morphs SE
+
+Hotkey Reminder
+
+#### *Updates/Changes:*
+
+Change the theme of MO2 Paper Dark with Purple headers
+
+Update Readme
+
+
 # 1_8_7
 
 #### *Update:*
