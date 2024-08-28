@@ -313,13 +313,14 @@ Leave shadows OFF in Strange Runes
 
 #### By default The voice for PC head tracking and Dragonborn voice over is set for Bella, and Female Sultry. This can be changed in the MCM.
 
-#### Defaults I have set for my game:
-
-![](https://github.com/therealnicoroshi/modlist/blob/main/SkyrimSE%202024-08-26%2022-47-26.jpg?raw=true)
 
 ### *As of Version 1.8.8 F11 will pull up the KeyMapping image seen here. It can be modified in game by clicking on a key and changing it's values. Tab to exit*
 
 ### ❗ NOTE: This is only an image and DOES NOT change keymapping itself ❗ It is only a quick reference that will need to be updated if you change any key MApping.
+
+### It will look like this>>>
+
+![](https://github.com/therealnicoroshi/modlist/blob/main/SkyrimSE%202024-08-26%2022-47-26.jpg?raw=true)
 
 Caps Lock + Enter = ENB Menu
 
