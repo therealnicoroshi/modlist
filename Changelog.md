@@ -1,5 +1,16 @@
 Version History:
 
+# 1_8_9
+
+#### *Update:*
+
+ENBseries to latest version .502
+
+#### *Remove:*
+
+High Heels Sound
+
+
 # 1_8_8
 
 #### *Add-In:*
