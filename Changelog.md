@@ -1,5 +1,44 @@
 Version History:
 
+# 1_9_0
+
+#### *Add In:*
+
+Diverse Tanning Racks
+
+Auri Follower
+
+3DNPC Auri dialog patch
+
+NFF Auri Dialog Patch
+
+Inigo Auri Dialog Patch
+
+Kaiden Auri Dialog Patch
+
+Auri_Tree_Patch - Nico
+
+Coldsun Visions Assets Pack
+
+Coldsun Fiarrah
+
+Coldsun Bliss
+
+Coldsun Cheska
+
+Swiftly Order Squad
+
+#### *Remap keys:*
+
+Swiftly order Squad to \|
+
+Use or Take to Z
+
+#### *Update:*
+
+F11 Keymap to reflect key mapping changes
+
+
 # 1_8_9
 
 #### *Update:*
