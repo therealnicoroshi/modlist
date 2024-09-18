@@ -297,7 +297,7 @@ After your character is created and you name them >>>
 
 As of Version 1_3_2 the MCM Recorder should Auto Run on new game start with recommended settings.
 
-### ❗ IT IS HIGHLY RECOMMENDED TO ALLOW THE MCM RECORDER FULLY COMPLETE BEFORE CONTINUING (61/61 steps) ❗
+### ❗ IT IS HIGHLY RECOMMENDED TO ALLOW THE MCM RECORDER FULLY COMPLETE BEFORE CONTINUING (66/66 steps) ❗
 
 #### *If this fails for any reason or gets stuck you can edit the .ini for MCM Recorder in MO2 and disable the auto run feature* 
 
