@@ -1,5 +1,26 @@
 Version History:
 
+# 1_9_1
+
+#### *Add-In:*
+
+Leveled List Crash Fix
+
+Leveled List Crash fix for 1.5
+
+Player Name Randomizer
+
+Player Name Randomizer show in UI
+
+Tamrelic names
+
+NPC name distributor
+
+NPC name distributor ini
+
+Local Map Upgrade
+
+
 # 1_9_0
 
 #### *Add In:*
