@@ -12,9 +12,11 @@
       "Fantasy",
       "MCO",
       "New Worldspaces",
-      "Graphics",
       "New Creatures",
-      "New Quests"
+      "New Quests",
+      "New Animations",
+      "SCAR",
+      "Seasons" 
     ],
     "nsfw": false,
     "utility_list": false,
