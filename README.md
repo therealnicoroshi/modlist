@@ -495,6 +495,10 @@ You will need to use the X (swan dive) or C (Shorter Dive) keys before jumping t
 
 Dying during the Midwood isle battle scenes within the town may stick the player in bleed out because of Shadow of Skyrim. If this happens return to previous save and replay.
 
+Animations for Dragons may get stuck during scripted events like when you read the Elder Scroll at the time wound.
+
+The fix for this is disabling SkyrimGuild Creatures-Preview located under section 72. Creature Animations and re-enabling it after that scripted event is complete.
+
 ### ❗ DO NOT PUT IRON ARROWS INTO A CONTAINER ❗ This will crash the game. Vanilla bug without any known workaround. Put them in a corpse or sell them instead.
 
 ***
