@@ -1,5 +1,15 @@
 Version History:
 
+# 1_9_2
+
+#### *Add-In:*
+
+Animated dog feeding
+
+Change heavy blowing snow on Ancient Bridge in Darkend to heavy Rain particles
+
+Action Based Projectiles Patches
+
 # 1_9_1
 
 #### *Add-In:*
