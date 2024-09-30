@@ -16,7 +16,7 @@
       "New Quests",
       "New Animations",
       "SCAR",
-      "Seasons" 
+      "Seasons"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -26,21 +26,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg",
       "readme": "https://github.com/therealnicoroshi/modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/The Nico Experience.wabbajack_13006e2e-44d4-43a7-9b66-d750ce934191",
+      "download": "https://authored-files.wabbajack.org/The Nico Experience.wabbajack_8aa91797-8305-4801-a3d3-f74b8727c962",
       "machineURL": "The_Nico_Experience",
       "discordURL": "https://discord.gg/kHehbzuFZ4"
     },
     "download_metadata": {
-      "Hash": "/c3sBPKrOG4=",
-      "Size": 1295123857,
-      "NumberOfArchives": 1852,
-      "SizeOfArchives": 162454830115,
-      "NumberOfInstalledFiles": 518544,
-      "SizeOfInstalledFiles": 294591244995
+      "Hash": "4uakjyYwMq8=",
+      "Size": 1295141324,
+      "NumberOfArchives": 1854,
+      "SizeOfArchives": 162455892062,
+      "NumberOfInstalledFiles": 518625,
+      "SizeOfInstalledFiles": 294592678862
     },
-    "version": "1.9.1",
+    "version": "1.9.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-09-24T02:14:57.1923412Z",
+    "dateUpdated": "2024-09-30T04:46:06.7431847Z",
     "repositoryName": ""
   }
 ]
