@@ -1,5 +1,16 @@
 Version History:
 
+# 1_9_3
+
+#### *Update:*
+
+XPMSEE to Version 5.0.6
+
+#### *Settings Changes:*
+
+Update MCM Recorder to include changes to Deadly Dragons (strength), and Shadow of Skyrim respawn location
+
+
 # 1_9_2
 
 #### *Add-In:*
