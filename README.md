@@ -499,6 +499,8 @@ Animations for Dragons may get stuck during scripted events like when you read t
 
 The fix for this is disabling SkyrimGuild Creatures-Preview located under section 72. Creature Animations and re-enabling it after that scripted event is complete.
 
+First person interactive animations will only trigger when a weapon is drawn. This is a known compatibility issue between this mod and improved camera.
+
 ### ❗ DO NOT PUT IRON ARROWS INTO A CONTAINER ❗ This will crash the game. Vanilla bug without any known workaround. Put them in a corpse or sell them instead.
 
 ***
