@@ -14,6 +14,8 @@ Offset Movement Animation
 
 First Person Interactions
 
+ENB Anti-Aliasing - AMD FSR 3.1 - NVIDIA DLAA
+
 #### *Update:*
 
 Update Nemesis Output for 1.9.4
