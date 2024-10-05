@@ -1,5 +1,23 @@
 Version History:
 
+# 1_9_4
+
+#### *Remove:*
+
+Improved Camera, and Improved camera Patches
+
+#### *Add-In:*
+
+Precision Magic Trails
+
+Offset Movement Animation
+
+First Person Interactions
+
+#### *Update:*
+
+Update Nemesis Output for 1.9.4
+
 # 1_9_3
 
 #### *Update:*
