@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 1.9.3 by Nicoroshi 
+## Version 1.9.4 by Nicoroshi 
 ### ❗ Updating from 1.8.2 or eariler REQUIRES NEW GAME ❗
 
 <table stlyle="border: none;">
@@ -483,23 +483,19 @@ When destroying tables some lanterns, glazed candles, and horn candles will not 
 
 If interupting an ilde animation with another animation it might stick the animation stopping you from doing anything else. click on an activatable item with animation or eat/drink to repair (basically play another animation).
 
-If holding block and doing a bash you might get stuck in the block stance. Press M2 (block key) again to come out.
+If holding block and doing a bash you might get stuck in the block stance. Press M2 (block key) or M3 (mouse wheel click) again to come out.
 
 Sometimes when jumping you might get stuck in the jump animation. Jump again to fix
 
 Sometimes the Bow rapid combo attack won't work correctly. Switch weapons then switch back to fix
 
-Sometimes the game gets confused if you're in first person or third (i.e. MCO step forward animations will not step forward) Quicksave/quickload to repair or change from 3rd person to 1st person and draw or sheath a weapon then switch back to 3rd person.
-
 You will need to use the X (swan dive) or C (Shorter Dive) keys before jumping to trigger a short or long dive animation for Leaps of faith.
 
-Dying during the Midwood isle battle scenes within the town may stick the player in bleed out because of Shadow of Skyrim. If this happens return to previous save and replay.
+Dying during Scripted battle scenes within the town may stick the player in bleed out because of Shadow of Skyrim. If this happens return to previous save and replay.
 
 Animations for Dragons may get stuck during scripted events like when you read the Elder Scroll at the time wound.
 
 The fix for this is disabling SkyrimGuild Creatures-Preview located under section 72. Creature Animations and re-enabling it after that scripted event is complete.
-
-First person interactive animations will only trigger when a weapon is drawn. This is a known compatibility issue between this mod and improved camera.
 
 ### ❗ DO NOT PUT IRON ARROWS INTO A CONTAINER ❗ This will crash the game. Vanilla bug without any known workaround. Put them in a corpse or sell them instead.
 
