@@ -249,14 +249,6 @@ Click it and allow it to set the affinty for your processor.
 
 ***
 
-## *DLAA or FSR 3.1 Settings in ENB*
-
-Open ENB menu in game using Caps Lock + Enter. 
-
-In the left pane under Anti-Alaising choose either DLAA or FSR 3.1
-
-***
-
 ## Widescreen Support
 
 ***
@@ -341,6 +333,12 @@ Shift + O = Open Animation Replacer
 Scroll wheel = walk\run speed adjustment on the fly
 
 K (Hold) + Scroll Wheel = Zoom
+
+###  ❗ *DLAA or FSR 3.1 Settings in ENB* ❗
+
+Open ENB menu in game using Caps Lock + Enter. 
+
+In the left pane under Anti-Alaising choose either DLAA or FSR 3.1
 
 ### ❗ IT IS RECOMMENDED AT THIS TIME TO OPEN THE IN GAME MENU TO 'CONTROLS' AND CHANGE ANY KEY BINDINGS TO SUIT YOUR PERSONAL PREFERENCES ❗
 
