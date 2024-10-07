@@ -1,5 +1,18 @@
 Version History:
 
+# 1_9_5
+
+#### *Update:*
+
+ENB Anti-Alaising - FSR 3.1 - Nvidia DLAA to 1.2.2
+
+Bodyslide to 5.7.0
+
+LOOT to 0.24
+
+ENB to latest version .502
+
+
 # 1_9_4
 
 #### *Remove:*
