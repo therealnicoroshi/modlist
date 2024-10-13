@@ -1,5 +1,20 @@
 Version History:
 
+# 1_9_6
+
+#### *Add-In:*
+
+Subtleties of Skyrim
+
+MCO Block Recovery
+
+Monster Race Crash Fix
+
+Wrath of Nature SSE Port
+
+Sandbox when idle
+
+
 # 1_9_5
 
 #### *Update:*
