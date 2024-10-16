@@ -483,7 +483,7 @@ Right click/ compatability/ Run as administrator
 
 ## Within the game
 
-#### Some of the Creation Club content will be Borked. I am not going to repair anything Creation Club.
+#### ❗ Some of the Creation Club content will be Borked. I am not going to repair anything Creation Club. ❗
 
 When destroying tables some lanterns, glazed candles, and horn candles will not drop to the ground. Conversely Some candles might drop to the ground as they now have physics because of the Destructable Syrim mod.
 
@@ -502,6 +502,10 @@ Dying during Scripted battle scenes within the town may stick the player in blee
 Animations for Dragons may get stuck during scripted events like when you read the Elder Scroll at the time wound.
 
 The fix for this is disabling SkyrimGuild Creatures-Preview located under section 72. Creature Animations and re-enabling it after that scripted event is complete.
+
+Scripted Dialog during The Wrath of Nature may not provide the correct dialog options if you have the Bathing Beauties Luxury Suite MCM option to 'Talk about outfit' turned on.
+
+The Fix is to disable this option in BBLS MCM until the Wrath of Nature scripted dialogs and quest is complete.
 
 ### ❗ DO NOT PUT IRON ARROWS INTO A CONTAINER ❗ This will crash the game. Vanilla bug without any known workaround. Put them in a corpse or sell them instead.
 
