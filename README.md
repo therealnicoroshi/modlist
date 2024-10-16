@@ -453,11 +453,6 @@ This will be your swap file and supplement the VRAM if needed.
   4. Lower the grass density in 'Explore Virtual Folder/Net Script Framework/Plugins/GrassControlConfig.txt/OverwriteMinGrassSize = 65' by INCREASING this number to something like 75-80.
   
 
-### ❗  Lowering this value too much WILL make the Wheeler menu partially off screen so test any changes  ❗
-
-  This will reduce the resolution but also decrease the amount of pixels the game needs to render helping frame rate.    
-   Try to find a happy medium between graphical fidelity and FPS.
-
 ### *Although the list can play without additional paid mods I personally use the frame generator from [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/) to 4x my framerate and run this list at 144 FPS. Decide what is right for yourself.*
 
 
@@ -466,6 +461,8 @@ This will be your swap file and supplement the VRAM if needed.
    In addition to the tweaks recommended above people have removed the ENB from the list to trade graphical fidelity for frame rate.
 
    I have seen this list play on a 1080ti trading ENB and reshade for Community Shaders.
+
+   It has also been reported to play on a graphics card that only has 8GB of VRAM. YMMV.
 
    We do have a topic in the Discord for people to discuss what they have done to get it to run on hardware below the recommended minimum.
 
