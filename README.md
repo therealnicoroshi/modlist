@@ -486,7 +486,9 @@ When destroying tables some lanterns, glazed candles, and horn candles will not 
 
 If interupting an ilde animation with another animation it might stick the animation stopping you from doing anything else. click on an activatable item with animation or eat/drink to repair (basically play another animation).
 
-If holding block and doing a bash you might get stuck in the block stance. Press M2 (block key) or M3 (mouse wheel click) again to come out.
+If holding block and doing a bash you might get stuck in the block stance. Press M2 (block key) or M3 (mouse wheel click) again to come out. 
+
+#### Note: This can be avoided completely by holding M2 UNTIL the bash animation of hitting M1 is allowed to complete OR by only using M3 to block.
 
 Sometimes when jumping you might get stuck in the jump animation. Jump again to fix
 
