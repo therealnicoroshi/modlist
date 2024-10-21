@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 1.9.6 by Nicoroshi 
+## Version 1.9.7 by Nicoroshi 
 ### ❗ Updating from 1.8.2 or eariler REQUIRES NEW GAME ❗
 
 <table stlyle="border: none;">
@@ -168,6 +168,10 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 	
 
  ### Potentially Problematic Files
+
+ [BDOR 2024 Male Collection By Kirax](https://mega.nz/file/LDJRCbAL#NZHM3h56l10gnIDcHI7rJ3rtJnM5lESQvVGM9ugemuM)
+
+ [BDOR 2024 Female Collection by Kirax](https://mega.nz/file/bCRQ2RQI#mDexnNyL0zw5rnTEUU-FjE0xpDzBdcJN_r0cGoZm_ec)
 
  ## - Could not download x:
 
