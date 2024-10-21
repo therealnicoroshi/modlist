@@ -1,5 +1,24 @@
 Version History:
 
+# 1_9_7
+
+#### *Settings Changes:*
+
+Enable Cloud Scattering in ENB
+
+Enable Moon Rays in ENB
+
+#### *Add-In:*
+
+Eyes Nouveaux
+
+Full inu Armor pack
+
+Kirax BDOR Complete Collection - Male
+
+Kirax Complete Collection - Female
+
+
 # 1_9_6
 
 #### *Add-In:*
