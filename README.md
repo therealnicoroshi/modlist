@@ -151,7 +151,7 @@ Once you have completed pre-installation, download the [Latest version of Wabbaj
 Downloading and installing **The Nico Experience** can take a while depending on your internet connection and computer. To install, complete the following steps.
 
 1. Open Wabbajack and click on browse modlists. At the top in the Games Window choose Skyrim Special Edition. Check mark next to Show Unofficial Lists.
-2. Press the download button on The Nico Expereince, and wait for it to download.
+2. Press the download button on The Nico Expereince, and wait for it to download. Make sure you are logged into Nexus and Lovers Lab at this time.
 3. Set the installation folder to be somewhere like C:\The Nico Expereince. **Do not install it to your desktop or downloads folder.**
 4. The download location does not need to be on a SSD but it makes installing a bit faster.
 5. Press the play button to begin.
@@ -169,11 +169,14 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
  ### Potentially Problematic Files
 
- [BDOR 2024 Male Collection By Kirax](https://mega.nz/file/LDJRCbAL#NZHM3h56l10gnIDcHI7rJ3rtJnM5lESQvVGM9ugemuM)
-
- [BDOR 2024 Female Collection by Kirax](https://mega.nz/file/bCRQ2RQI#mDexnNyL0zw5rnTEUU-FjE0xpDzBdcJN_r0cGoZm_ec)
-
  ## - Could not download x:
+
+ If either of these files fails to download use the links below and add the archives to your download folder location for the list.
+
+[BDOR 2024 Male Collection By Kirax](https://mega.nz/file/LDJRCbAL#NZHM3h56l10gnIDcHI7rJ3rtJnM5lESQvVGM9ugemuM)
+
+[BDOR 2024 Female Collection by Kirax](https://mega.nz/file/bCRQ2RQI#mDexnNyL0zw5rnTEUU-FjE0xpDzBdcJN_r0cGoZm_ec)
+ 
 
 ### *If the log mentions ANYTHING starting with 'cc'*
 
