@@ -515,7 +515,7 @@ Scripted Dialog during The Wrath of Nature may not provide the correct dialog op
 
 The Fix is to disable this option in BBLS MCM until the Wrath of Nature scripted dialogs and quest is complete.
 
-### ❗ DO NOT PUT IRON ARROWS INTO A CONTAINER ❗ This will crash the game. Vanilla bug without any known workaround. Put them in a corpse or sell them instead.
+### ❗ DO NOT put iron arrows into a container or drop them out of your inventory❗ This might crash the game. Vanilla bug without any known workaround. Put them in a corpse or sell them instead.
 
 ***
 
