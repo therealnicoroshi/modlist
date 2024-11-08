@@ -2,8 +2,8 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 1.9.7 by Nicoroshi 
-### ❗ Updating from 1.8.2 or eariler REQUIRES NEW GAME ❗
+## Version 1.9.8 by Nicoroshi 
+### ❗ Updating from 1.9.7 or eariler REQUIRES NEW GAME ❗
 
 <table stlyle="border: none;">
 <tr>
@@ -77,6 +77,10 @@ Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, light
 
 Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED AGAINST**. A lot of content is swapped at game run time and, as a result, fast storage and RAM are needed.
 
+### Note:
+
+The files that will need to be downloaded for this mod list to function come from Nexus and Lovers Lab. As such you will need an account on both sites to be able to download the mods needed to build this list.
+
 ***
 
 ## Recommended System Specifications
@@ -117,7 +121,7 @@ See how to setup a page file here: https://www.tomshardware.com/news/how-to-mana
 
 ***
 
-Installing **The Nico Experience** is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](README.md#updating).
+Installing **The Nico Experience** is relatively easy if you have Nexus Premium, and a Lovers Lab account will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](README.md#updating).
 
 ***
 
@@ -154,8 +158,8 @@ Downloading and installing **The Nico Experience** can take a while depending on
 2. Press the download button on The Nico Expereince, and wait for it to download. Make sure you are logged into Nexus and Lovers Lab at this time.
 3. Set the installation folder to be somewhere like C:\The Nico Expereince. **Do not install it to your desktop or downloads folder.**
 4. The download location does not need to be on a SSD but it makes installing a bit faster.
-5. Press the play button to begin.
-6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
+5. Make sure you are logged into both Nexus and Lover's Lab then Press the play button to begin.
+6. Some files will need to be manually downloaded during the installation process. If they fail for any reason see [potentially problematic files](potentially-problematic-files) for links and instructions to resolve
 7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
 
 ***
