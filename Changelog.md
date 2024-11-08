@@ -2,6 +2,8 @@ Version History:
 
 # 1_9_8
 
+## ❗This Version REQUIRES a NEW GAME ❗
+
 #### *Add-In:*
 
 Cuyi's Bosmeri Antlers - SSE
