@@ -159,7 +159,7 @@ Downloading and installing **The Nico Experience** can take a while depending on
 3. Set the installation folder to be somewhere like C:\The Nico Expereince. **Do not install it to your desktop or downloads folder.**
 4. The download location does not need to be on a SSD but it makes installing a bit faster.
 5. Make sure you are logged into both Nexus and Lover's Lab then Press the play button to begin.
-6. Some files will need to be manually downloaded during the installation process. If they fail for any reason see [potentially problematic files](potentially-problematic-files) for links and instructions to resolve
+6. Some files will need to be manually downloaded during the installation process. If they fail for any reason see [potentially problematic files](#potentially-problematic-files) for links and instructions to resolve
 7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
 
 ***
