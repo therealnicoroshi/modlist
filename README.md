@@ -181,6 +181,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 [BDOR 2024 Female Collection by Kirax](https://mega.nz/file/bCRQ2RQI#mDexnNyL0zw5rnTEUU-FjE0xpDzBdcJN_r0cGoZm_ec)
  
+[DINT999 BDOR Winter Mountain Guardian Spirit](https://drive.google.com/uc?id=1siyc644OSI0Lz8PlM9lo3Gxf_VxQLlN5&export=download)
 
 ### *If the log mentions ANYTHING starting with 'cc'*
 
