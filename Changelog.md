@@ -1,5 +1,58 @@
 Version History:
 
+# 1_9_8
+
+#### *Add-In:*
+
+Cuyi's Bosmeri Antlers - SSE
+
+JK's Nightingale Hall
+
+[Dint]Winter Mountain Guardian
+
+Witcher 3 Female Armors Redone SMP WIP + CBBE Patch
+
+Witcher 3 Female Armors redone CBBE Bodyslide
+
+DBVO Vampire + PC Headtracking + Patches
+
+DBVO Triss + Patches
+
+DBVO Kratos Patches
+
+DBVO Bella Patch Hub
+
+#### *Update:*
+
+Update JK's Patch collection to 1.2.4
+
+Update Lux  to version 6.8.0.0 and Lux Patch Hub to 6.8.0.0
+
+Update Bodyslide_Output for new armors added
+
+update Texgen_Output
+
+update DynDOLOD_Output
+
+#### *Remove (redundant):*
+
+Lux Small update patch
+
+JK's Castle Dour - Ussep Patch
+
+JK's Castle Dour -BCS Patch
+
+JK's Understone Keep - Tree Patch
+
+SPO - LUX Patch
+
+#### *Tweaked or added settings:*
+
+Tweak values for Prepass HDR in ENB for brighter lighting template
+
+Add keys for Always run, and Walk/Run toggle to F11 Map
+
+
 # 1_9_7
 
 #### *Settings Changes:*
