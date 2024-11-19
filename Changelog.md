@@ -2,6 +2,8 @@ Version History:
 
 # 1_9_9
 
+### Safe to update from 1.9.8
+
 #### *Add In:*
 
 Nirn Necessities - SMP Accessories and Bodyslide files
