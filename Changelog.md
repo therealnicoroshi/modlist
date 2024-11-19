@@ -10,7 +10,7 @@ Nirn Necessities - SMP Accessories and Bodyslide files
 
 Olenveld
 
-#### * Update:*
+#### *Update:*
 
 Loot to version 2.4.1
 
