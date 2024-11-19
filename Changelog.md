@@ -1,5 +1,20 @@
 Version History:
 
+# 1_9_9
+
+#### *Add In:*
+
+Nirn Necessities - SMP Accessories and Bodyslide files
+
+Olenveld
+
+#### * Update:*
+
+Loot to version 2.4.1
+
+More informative Console to version 1.2.2
+
+
 # 1_9_8
 
 ## ❗This Version REQUIRES a NEW GAME ❗
