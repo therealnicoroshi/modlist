@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 1.9.8 by Nicoroshi 
+## Version 1.9.9 by Nicoroshi 
 ### ❗ Updating from 1.9.7 or eariler REQUIRES NEW GAME ❗
 
 <table stlyle="border: none;">
@@ -546,7 +546,7 @@ Paraglider, magical jumping, bow rapid combo v3, mist flight, and others you can
 
 There are added worldspaces to explore as well.
 
-Wyrmstooth and Beyond Reach will start at a certain level but some you will just find in your exploring like Chanterelle, The Shire, Moonpath to Elswyer, Darkend, Skyrim Sewers, and Skyrim Underground.
+Wyrmstooth and Beyond Reach will start at a certain level but some you will just find in your exploring like Chanterelle, The Shire, Moonpath to Elswyer, Darkend, Skyrim Sewers, Olenvald, and Skyrim Underground.
 
 ***
 
