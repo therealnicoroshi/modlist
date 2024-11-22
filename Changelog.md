@@ -1,5 +1,28 @@
 Version History:
 
+# 2_0_0
+
+#### *Add-In:*
+
+Real life Snowflakes SSE
+
+NPCs Take Cover - Smarter Anti-Cheese AI
+
+locked chests have keys plus patches
+
+Depths of the Reach plus patches
+
+Custom skills Thieves Guild Perk tree
+
+Configurable Perks Per Level (with MCM)
+
+#### *Update:*
+
+Update ENB to latest version .502
+
+update Nemesis_Output
+
+
 # 1_9_9
 
 ### Safe to update from 1.9.8
