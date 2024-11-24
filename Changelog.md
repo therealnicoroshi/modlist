@@ -2,13 +2,17 @@ Version History:
 
 # 2_0_1
 
-### *Recompile of mod list with fresh install of Skyrim and Creation Kit from Steam*
+### *Recompile of mod list with fresh install of Skyrim from Steam*
 
 #### *Add-In:*
 
 NPC Learn to Aim
 
 Argonian Crests
+
+#### *Remove:*
+
+Creation Kit
 
 
 # 2_0_0
