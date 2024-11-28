@@ -109,7 +109,7 @@ The files that will need to be downloaded for this mod list to function come fro
 
 ***
 
-Space required: ~153GB Archives  ~292GB install Size  40GB Page file ~485GB Total so recommend 500GB of space allocated for this list.
+Space required: ~173GB Archives  ~342GB install Size  40GB Page file ~555GB Total so recommend 600GB of space allocated for this list.
 
 See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html
 
@@ -174,7 +174,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
  ## - Could not download x:
 
- If either of these files fails to download use the links below and add the archives to your download folder location for the list.
+ If any of these files fails to download use the links below and add the archives to your download folder location for the list.
 
 [BDOR 2024 Male Collection By Kirax](https://mega.nz/file/LDJRCbAL#NZHM3h56l10gnIDcHI7rJ3rtJnM5lESQvVGM9ugemuM)
 
