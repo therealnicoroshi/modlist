@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 2.0.1 by Nicoroshi 
+## Version 2.0.2 by Nicoroshi 
 ### ❗ Updating from 1.9.7 or eariler REQUIRES NEW GAME ❗
 
 <table stlyle="border: none;">
@@ -496,6 +496,8 @@ When destroying tables some lanterns, glazed candles, and horn candles will not 
 If interupting an ilde animation with another animation it might stick the animation stopping you from doing anything else. click on an activatable item with animation or eat/drink to repair (basically play another animation).
 
 If holding block and doing a bash you might get stuck in the block stance. Press M2 (block key) or M3 (mouse wheel click) again to come out. 
+
+Also if stuck in block you will not be able to attack or cast spells. Press M3 to resume normal play.
 
 #### Note: This can be avoided completely by holding M2 UNTIL the bash animation of hitting M1 is allowed to complete OR by only using M3 to block.
 
