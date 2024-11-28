@@ -1,5 +1,70 @@
 Version History:
 
+# 2_0_2
+
+#### *Add-In:*
+
+Callisto HDT_SMP Armor
+
+GORM HDT_SMP Armor
+
+Paraglider Zero Plus
+
+Dragon Priest Staff by Ave
+
+Hevnoraak's Staff By Ave
+
+Gauldur Blackblade by Ave
+
+College Staff of Magelight by Ave
+
+Gadnor's Staff By Ave
+
+Ave's Bond of Matrimony
+
+Ave's Calcelmo's Ring
+
+Ave's Ring of instinct
+
+Ave's Ring of Bloodlust
+
+Ave's Ring of the Hunt
+
+Ave's Muirri's ring
+
+Ahzidal's Rings By Ave
+
+Nightweaver's Band by Ave
+
+Ave's Ring of Pure Mixtures
+
+Ave's Eye of Sithis
+
+Ave's Enchanted Ring
+
+Neloth's Ring of Tracking by Ave
+
+sforzinda Desinations
+
+sforzinda Desinations Patch Collection
+
+New Desinations - A desination Addon
+
+Chevalier Armor Set HDT-SMP
+
+FranklyHD Dawnguard Armor and Weapons
+
+PC Head Tracking Ciri - Righteous Adventurer
+
+Mothal Carriage Stop Patch - Nico
+
+#### *Update:*
+
+update Bodyslide
+
+update ENB series to .503
+
+
 # 2_0_1
 
 ### *Recompile of mod list with fresh install of Skyrim from Steam*
