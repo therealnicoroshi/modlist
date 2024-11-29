@@ -2,8 +2,8 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 2.0.2 by Nicoroshi 
-### ❗ Updating from 1.9.7 or eariler REQUIRES NEW GAME ❗
+## Version 2.0.3 by Nicoroshi 
+### ❗ Updating from 2.0.2 or eariler REQUIRES NEW GAME ❗
 
 <table stlyle="border: none;">
 <tr>
