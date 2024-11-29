@@ -1,5 +1,22 @@
 Version History:
 
+# 2_0_3 
+
+## ❗REQUIRES A NEW GAME ❗
+
+#### *Remove:*
+
+Remove Shire alt start mod (No way to leave Shire if you start there)
+
+Remove Eyes Nouveaux (repairs empty eye sockets in racemenu/ character creation)
+
+Remove Vampire start option in Alt Start mod (repairs becoming a vampire while already being one)
+
+Remove redundant immersive equipment display warning messages (mod fixes the script issue so message is reduntant)
+
+Set Timescale to 10 at game start (Quality of Life slower time progression)
+
+
 # 2_0_2
 
 #### *Add-In:*
