@@ -249,7 +249,9 @@ The Nico Experience utilizes a Wabbajack technology called Stock Game. What this
 
 Change this line to reflect the graphics card you are using:
 
-This could also be done by running BethINI IIRC but good to check afterward to make sure it's referencing the correct card being used.
+#### Also Change this line in MO2/Tools/ini editor/Skrim.ini to reflect where you want screenshots saved:
+
+[Display]/sScreenShotBaseName=X:\Modding\Screenshots\ScreenShot
 
 ### Set your affinity
 
