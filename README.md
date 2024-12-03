@@ -349,6 +349,10 @@ Scroll wheel = walk\run speed adjustment on the fly
 
 K (Hold) + Scroll Wheel = Zoom
 
+Up Arrow = Opens progress bar for dropping from snare trap
+
+W (repeated) = fills progress bar to drop from snare trap
+
 ###  ❗ *DLAA or FSR 3.1 Settings in ENB* ❗
 
 Open ENB menu in game using Caps Lock + Enter. 
