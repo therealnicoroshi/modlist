@@ -1,5 +1,34 @@
 Version History:
 
+# 2_0_4
+
+## ❗REQUIRES A NEW GAME ❗
+
+#### *Add-In:*
+
+sztkUtilSE
+
+Traps NTR
+
+Watch your Step
+
+Update Nemesis_Output
+
+Armors of the velothi Part 1
+
+Armors of the Velothi Part 2
+
+Armors of the Velothi Beast Race support
+
+Remember lockpick angle
+
+Yes I'm Sure NG
+
+#### *Remove:*
+
+Populated Lands Roads Paths
+
+
 # 2_0_3 
 
 ## ❗REQUIRES A NEW GAME ❗
