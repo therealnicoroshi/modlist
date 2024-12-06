@@ -1,5 +1,56 @@
 Version History:
 
+# 2_0_5
+
+#### *Add-In:*
+
+Beard Mask fix + Beard Mask fix for 1.5
+
+Predator Vision/Moonlight tales Patch
+
+Rudy HQ - ENB Complex Material for Silverware
+
+Imperious - Races of Skyrim
+
+Imperious - All Mods Compatibility Patch - Not Just Interesting NPC's
+
+Imperious - Races of Skyrim Vampire Head Fix
+
+Imperious - Immersive Interactions Patch
+
+Obscure Magic
+
+wildwaker Magic
+
+Ancient blood magic
+
+Holy Templar Magic
+
+Frostbitten Dreams Magic
+
+Dark Hierophant Magic
+
+Abyssal Tides Magic
+
+Abyssal Wind Magic
+
+WInter Wonderland Magic
+
+Constellation Magic
+
+Storm Calling Magic 2
+
+Astral Magic 2
+
+mihail Sea Turtles
+
+#### *Changes For Stability:*
+
+Run all plug ins through SSEedit script to disable and undelete missing references
+
+disable auto saves
+
+
 # 2_0_4
 
 ## ❗REQUIRES A NEW GAME ❗
