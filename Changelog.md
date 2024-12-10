@@ -1,5 +1,60 @@
 Version History:
 
+# 2_0_6
+
+#### *Add-In:*
+
+Summoning portals
+
+Relationship Dialog Overhaul
+
+RDO -CRF and USSEP Patch
+
+Tales of Skyrim - Berserkyr
+
+Tales of Skyrim Berserkyr Custom Skills For 1.5.97
+
+Knowledge and Wisdom
+
+The Dragon Cult - Priesthood
+
+Dragon Cult Priesthood 1.1.7 For 1.5.97 and ESL
+
+Spell Hotbar
+
+Spell Hotbar - Odin
+
+Spell Hotbar - Storm Calling Magic 2
+
+Spell Hotbar - Astral Magic 2
+
+Spell Hotbar - Dark Hierophant Magic
+
+The Dragonborn's Bestiary
+
+Bears of the North Add-On
+
+Daedra SE Add-On
+
+Falmer Overhaul Add-On
+
+Flesh Colossus SE Add-On
+
+Goblins and Durzogs Add-On
+
+Morrowind Creatures Add-On
+
+Ogres SE - Patch
+
+Welwas SE Add-On
+
+Widescreen Patch
+
+#### *Updates:*
+
+update Proteus
+
+
 # 2_0_5
 
 #### *Add-In:*
