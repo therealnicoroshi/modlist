@@ -54,6 +54,8 @@ Widescreen Patch
 
 update Proteus
 
+Update Keymapping F11 to reflect Beastiry and Spell Hotbar Key changes
+
 
 # 2_0_5
 
