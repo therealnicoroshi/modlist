@@ -26,21 +26,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg",
       "readme": "https://github.com/therealnicoroshi/modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/The Nico Experience.wabbajack_38def2f7-73d3-4cab-9b56-b892c6bb4229",
+      "download": "https://authored-files.wabbajack.org/The Nico Experience.wabbajack_f6cab31e-a948-47d8-8a93-2fc6ed8f969a",
       "machineURL": "The_Nico_Experience",
       "discordURL": "https://discord.gg/kHehbzuFZ4"
     },
     "download_metadata": {
-      "Hash": "azchgxCpsBU=",
-      "Size": 979159329,
+      "Hash": "VFEkjFT5Iw0=",
+      "Size": 979159420,
       "NumberOfArchives": 1973,
       "SizeOfArchives": 176291929995,
       "NumberOfInstalledFiles": 568248,
-      "SizeOfInstalledFiles": 346274947357
+      "SizeOfInstalledFiles": 346274947381
     },
     "version": "2.0.6",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-12-10T01:09:55.8767242Z",
+    "dateUpdated": "2024-12-10T02:03:18.8042644Z",
     "repositoryName": ""
   }
 ]
