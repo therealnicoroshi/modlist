@@ -1,5 +1,54 @@
 Version History:
 
+# 2_0_7
+
+## ❗REQUIRES A NEW GAME ❗
+
+#### *Add-In:*
+
+Rudy HQ - ENB Complex Material Mineral Pools Water
+
+Environs - Hroggar's House
+
+Environs - Hroggar's House - Patch Collection
+
+Environs - Riften Warehouse
+
+Environs - Riften Warehouse -Patch Collection
+
+Environs - Abandoned Abodes
+
+Environs - Abandoned Abodes -Patch Collection
+
+Improved Idle Laydown Animations - OAR
+
+Sonders Keyword Distribution Resources
+
+Improved Table Transitions
+
+Environs - The Greenwood Shack
+
+Shinobi Moveset for MCO.
+
+Shinobi Magic Moveset for MCO.
+
+Claws Moveset for Animated Armoury -MCO-
+
+Animated Armoury - DAR Version - New Weapons with animations
+
+Animated Armoury - Ordinator Perk Description Consistency Patch
+
+I4 - SkyUI Weapons Pack
+
+#### *Updates and Changes:*
+
+Update Nemesis_Output
+
+Tweak rain Brightness in ENB
+
+ESLify a few plug ins to make room for future expansion
+
+
 # 2_0_6
 
 #### *Add-In:*
