@@ -323,6 +323,8 @@ Leave shadows OFF in Strange Runes
 
 #### By default The voice for PC head tracking and Dragonborn voice over is set for Bella, and Female Sultry. This can be changed in the MCM.
 
+#### Spell HotBar will be empty by default, and show when weapons are drawn. Assign Keys to the slots/ Tweak size, Amount, and location in the MCM. Add Spells to it by opening the in game magic menu Hovering over a spell then clicking the assigned hot key for a slot on the bar.
+
 
 ### *As of Version 1.8.8 Function Key 11 (F11) will pull up the KeyMapping image seen here. It can be modified in game by clicking on a key and changing it's values. Tab to exit*
 
