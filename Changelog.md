@@ -1,5 +1,45 @@
 Version History:
 
+# 2_0_8
+
+## ❗REQUIRES A NEW GAME ❗
+
+#### *update:*
+
+Nemesis
+
+#### *Add-In:*
+
+Dibella Statue Complex material
+
+Statue of Kynareth Complex Material
+
+Statue of Mara Complex Material
+
+Deadric Statues Complex Material
+
+Wheeler CTD-Fix
+
+#### *Remove:*
+
+Shinobi Moveset for MCO.
+
+Shinobi Magic Moveset for MCO.
+
+Claws Moveset for Animated Armoury -MCO-
+
+Animated Armoury - Ordinator Perk Description Consistency Patch
+
+I4 - SkyUI Weapons Pack
+
+Improved Idle Laydown Animations - OAR
+
+Sonders Keyword Distribution Resources
+
+Improved Table Transitions
+
+
+
 # 2_0_7
 
 ## ❗REQUIRES A NEW GAME ❗
