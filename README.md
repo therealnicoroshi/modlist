@@ -3,7 +3,7 @@
 
 
 ## Version 2.0.8 by Nicoroshi 
-### ❗ Updating REQUIRES NEW GAME ❗
+### ❗ Updating from 2.0.6.1 or Earlier REQUIRES NEW GAME ❗
 
 <table stlyle="border: none;">
 <tr>
