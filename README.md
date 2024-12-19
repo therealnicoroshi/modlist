@@ -2,8 +2,8 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 2.0.8 by Nicoroshi 
-### ❗ Updating from 2.0.6.1 or Earlier REQUIRES NEW GAME ❗
+## Version 2.0.9 by Nicoroshi 
+### ❗ Updating from 2.0.8 or Earlier REQUIRES NEW GAME ❗
 
 <table stlyle="border: none;">
 <tr>
@@ -269,7 +269,7 @@ Click it and allow it to set the affinty for your processor.
 
 Search in MO2 Left pane for 'Widescreen' and again for 'Ultrawide'.
 
-#### *Enable all of them (There should be 5 files found).*
+#### *Enable all of them (There should be 4 files found).*
 
 ### **Don't forget to run Bethini and change your resolution**
 
