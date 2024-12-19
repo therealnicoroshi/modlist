@@ -1,5 +1,37 @@
 Version History:
 
+# 2_0_9
+
+## ❗ REQUIRES NEW GAME ❗
+### Some Important fixes implemented in this version to fix a menu issue with 2_0_8. HIGHLY RECOMMEND you update.
+
+#### *Add-In:*
+
+Wood Chopping Camera Glitch Fix
+
+B.O.O.B.I.E.S (Immsersive Icons) 2.1.3
+
+Phenomenally Enriched and Nuanced Ingredients for SkyUI (P.E.N.I.S. for B.O.O.B.I.E.S.)
+
+Keyword Patch Collection
+
+The Handy Icon Collection Collective
+
+Aura's Scrumptious Supplement (A.S.S. for B.O.O.B.I.E.S.)
+
+Survival Control Panel
+
+SkyUI - Survival Mode Integration
+
+FMPSE 3-3 - GTB - USSEP
+
+#### *Removed:*
+
+Remove Skyrim Priority from Nexus and replace with Skyrim Priority from Github
+
+remove Widescreen Flashing savegames fix
+
+
 # 2_0_8
 
 
