@@ -271,6 +271,8 @@ Search in MO2 Left pane for 'Widescreen' and again for 'Ultrawide'.
 
 #### *Enable all of them (There should be 4 files found).*
 
+#### *Search MO2 left pane for Widgets and re-install STB Widgets for 21:9 format*
+
 ### **Don't forget to run Bethini and change your resolution**
 
 ***
@@ -344,7 +346,9 @@ Shift + O = Open Animation Replacer
 
 Scroll wheel = walk\run speed adjustment on the fly
 
-K (Hold) + Scroll Wheel = Zoom
+L (Hold) + Scroll Wheel = Zoom
+
+End = STB Widgets Config
 
 Up Arrow = Opens progress bar for dropping from snare trap
 
