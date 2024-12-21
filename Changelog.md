@@ -1,5 +1,57 @@
 Version History:
 
+# 2_1_0
+
+## Safe to update from 2.0.9 or later
+
+#### *Add-In:*
+
+STB Widgets
+
+Navigator
+
+Navigator - Navmesh Fixes - Patch Collection
+
+SkyPatcher
+
+Armor Rating Recalculator - Basic Scaling
+
+Magicka Flow - A Magicka Regeneration Overhaul
+
+NPC Infinite Block Fix - SkyPatched
+
+SkyPatcher Keyword Framework
+
+Glow Be Gone - SkyPatched - Character
+
+Race Attack Fixes - SkyPatcher
+
+SKyValor
+
+SkyValor - Beyond Reach
+
+SkyValor - Darkend
+
+SkyValor - The Forgotten City
+
+SkyValor - Midwood Isle
+
+SkyValor - Skyrim Immersive Creatures SE
+
+SkyValor - 4thUnknown's Creatures
+
+Mihail Mods - SkyValor - Patch
+
+Some SkyValor Patches
+
+Shadow of Skyrim - Nemesis Markers
+
+#### *Repaired:*
+
+Repair Deleted Navmesh in Red Wave Corsairs - Wyrmstooth
+
+
+
 # 2_0_9
 
 ## ❗ REQUIRES NEW GAME ❗
