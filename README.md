@@ -175,7 +175,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
  ## - Could not download x:
 
- If any of these files fails to download use the links below and add the archives to your download folder location for the list.
+ If any of these files fails to download use the links below to download the files then add the archives to your download folder location for the list, and re-run Wabbajack to continue.
 
 [BDOR 2024 Male Collection By Kirax](https://mega.nz/file/LDJRCbAL#NZHM3h56l10gnIDcHI7rJ3rtJnM5lESQvVGM9ugemuM)
 
