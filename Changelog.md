@@ -1,5 +1,22 @@
 Version History:
 
+# 2_1_1
+
+# ❗REQUIRES A NEW GAME ❗
+
+#### *Removed:*
+
+ALL SkyValor mods and patches
+
+remove Tales of Skyrim Berserkyr
+
+remove Tales of Skyrim Berserkyr Custom Skills For 1.5.97
+
+#### *Add-In:*
+
+MM Complex Material - More Accurate Collision
+
+
 # 2_1_0
 
 ## Safe to update from 2.0.9 or later
