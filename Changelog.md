@@ -2,7 +2,7 @@ Version History:
 
 # 2_1_1
 
-# ❗REQUIRES A NEW GAME ❗
+## ❗REQUIRES A NEW GAME ❗
 
 #### *Removed:*
 
