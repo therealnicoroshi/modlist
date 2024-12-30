@@ -1,5 +1,50 @@
 Version History:
 
+# 2_1_2
+
+## Save game safe but will show one redundant and removed patch file (No scripts)
+
+#### *Add-In:*
+
+The Way of the Voice - Greybeard NPC Overhaul
+
+Whiterun Horse Statue - Missives (repaired)
+
+Tales of Skyrim - Berserkyr
+
+Tales of Skyrim - Berserkyr 1.2 For Custom Skills Framework 1.5.97
+
+Tales of Skyrim - Berserkyr Patch Collection
+
+Tales of Skyrim - Berserkyr - 3BA Conversion
+
+Tales of Skyrim - Berserkyr - Book Covers
+
+Candle Flame VFX Edit
+
+#### *Update:*
+
+Update STB Widgets to version 1.3
+
+Update Bodyslide
+
+Update Nemesis
+
+Update Synthesis_Output
+
+#### *Repairs and Fixes:*
+
+Repaired Cave entrance for CC Content The Cause at 45, -16
+
+Repaired Cave entrance for CC Content Umbra at Champions Rest
+
+Repaired missing ground for Berserkyr at Berserkyr Hut near Meekos Shack so it could be added back to the list
+
+#### *Removed:*
+
+ccbgssse067-daedinv - Landscape Patch - Nico (redundant and replaced)
+
+
 # 2_1_1
 
 ## ❗REQUIRES A NEW GAME ❗
