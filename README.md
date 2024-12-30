@@ -2,8 +2,8 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 2.1.1 by Nicoroshi 
-### ❗ REQUIRES NEW GAME ❗
+## Version 2.1.2 by Nicoroshi 
+### Updating from 2.1.0 or earlier REQUIRES NEW GAME. OK from 2.1.1 or later
 
 <table stlyle="border: none;">
 <tr>
@@ -379,7 +379,7 @@ In the left pane under Anti-Alaising choose either DLAA or FSR 3.1
 
 ***
 
-## ❗If you have changed default key mapping and are updating save the file in the mo2/Stock Game folder called ControlMap_Custom.txt  Drop this file into the updated mod list in the Stock game folder and let it overwrite to save your key mapping changes. ❗
+## ❗ If you have changed default key mapping and are updating save the file in the mo2/Stock Game folder called ControlMap_Custom.txt before updating. Drop this file into the updated mod list in the Stock game folder and let it overwrite to save your key mapping changes after update. ❗
 
 ### Unless noted otherwise in the change log all Updates will be Save Safe
 
