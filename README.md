@@ -490,15 +490,15 @@ This will be your swap file and supplement the VRAM if needed.
 
 ***
 
-## With MO2 Executables not working as intended
+### With MO2 Executables not working as intended
 
 Find the tools folder within your MO2 installation folder, and the .exe of the application inside it's respective folder (Example: D:\The Nico Experience\MO2\Tools\SSEedit)
 
 Right click/ compatability/ Run as administrator
 
-## Within the game
+### Within the game
 
-#### ❗ Some of the Creation Club content will be Borked. I am not going to repair anything Creation Club. ❗
+#### ❗ Some of the Creation Club content will be Borked. I am actively working to repair anything Creation Club that is included in this list. ❗
 
 When destroying tables some lanterns, glazed candles, and horn candles will not drop to the ground. Conversely Some candles might drop to the ground as they now have physics because of the Destructable Syrim mod.
 
@@ -516,7 +516,7 @@ Sometimes the Bow rapid combo attack won't work correctly. Switch weapons then s
 
 You will need to use the X (swan dive) or C (Shorter Dive) keys before jumping to trigger a short or long dive animation for Leaps of faith.
 
-Dying during Scripted battle scenes within the town may stick the player in bleed out because of Shadow of Skyrim. If this happens return to previous save and replay.
+Dying during Scripted battle scenes within the Midwood Isle may stick the player in bleed out because of Shadow of Skyrim. If this happens return to previous save and replay.
 
 Animations for Dragons may get stuck during scripted events like when you read the Elder Scroll at the time wound.
 
