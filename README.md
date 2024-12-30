@@ -379,7 +379,7 @@ In the left pane under Anti-Alaising choose either DLAA or FSR 3.1
 
 ***
 
-## ❗ If you have changed default key mapping and are updating save the file in the mo2/Stock Game folder called ControlMap_Custom.txt before updating. Drop this file into the updated mod list in the Stock game folder and let it overwrite to save your key mapping changes after update. ❗
+### ❗ If you have changed default key mapping and are updating save the file in the mo2/Stock Game folder called ControlMap_Custom.txt before updating. Drop this file into the updated mod list in the Stock game folder and let it overwrite to save your key mapping changes after update. ❗
 
 ### Unless noted otherwise in the change log all Updates will be Save Safe
 
