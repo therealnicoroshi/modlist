@@ -44,6 +44,10 @@ Repaired missing ground for Berserkyr at Berserkyr Hut near Meekos Shack so it c
 
 ccbgssse067-daedinv - Landscape Patch - Nico (redundant and replaced)
 
+#### *Gameplay Changes:*
+
+I have added to the base amount of Health, Magicka, Stamina, and Carry weight to offset and better balance game play
+
 
 # 2_1_1
 
