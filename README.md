@@ -275,6 +275,8 @@ Search in MO2 Left pane for 'Widescreen' and again for 'Ultrawide'.
 
 ### **Don't forget to run Bethini and change your resolution**
 
+### Be sure to also set PC head tracking in MO2 left pane under Dialog to your preferred voice type before starting the game. (Note): The Dragon born voice over can be set with game running in the MCM.
+
 ***
 
 ## *No official controller support provided*
