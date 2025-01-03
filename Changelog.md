@@ -1,5 +1,28 @@
 Version History:
 
+# 2_1_3
+
+### Save Game Safe to Update from 2.1.1 or later
+
+#### *Add-In:*
+
+KittyVFX - Healing
+
+update STB Widgets to version 1.4
+
+SIRENROOT - Deluge of Deceit
+
+SIRENROOT - HD Texture Pack
+
+Triss Merigold - PC Head Tracking Voice - EXTRA
+
+PC Head tracking Bella
+
+PC Head Tracking Voice Pack - Yennefer
+
+PC - Head Tracking - Geralt Expanded
+
+
 # 2_1_2
 
 ## Save game safe but will show one redundant and removed patch file (No scripts)
