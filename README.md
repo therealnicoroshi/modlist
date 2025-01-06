@@ -257,6 +257,11 @@ Find:
 
 Click it and allow it to set the affinty for your processor.
 
+### Set Voice type
+
+### Set PC head tracking in MO2 left pane under Dialog to your preferred voice type before starting the game. ❗ Choose only One ❗(Note): The Dragon born voice over can be set to match with game running in the MCM Menu.
+
+
 ***
 
 ## Widescreen Support
@@ -274,8 +279,6 @@ Search in MO2 Left pane for 'Widescreen' and again for 'Ultrawide'.
 #### *Search MO2 left pane for Widgets and re-install STB Widgets for 21:9 format*
 
 ### **Don't forget to run Bethini and change your resolution**
-
-### Be sure to also set PC head tracking in MO2 left pane under Dialog to your preferred voice type before starting the game. (Note): The Dragon born voice over can be set with game running in the MCM.
 
 ***
 
