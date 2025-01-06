@@ -1,5 +1,58 @@
 Version History:
 
+# 2_1_4
+
+#### *Add-In:*
+
+Follower Dialogue Expansion - Illia
+
+FDE Illia Inigo patch
+
+Follower Dialogue Expansion - Roggi Knot-Beard
+
+Follower Dialogue Expansion - Borgakh the Steel Heart
+
+Follower Dialogue Expansion - Faendal
+
+Follower Dialogue Expansion - Camilla Valerius
+
+Follower Dialogue Expansion - Ysolda
+
+Follower Dialogue Expansion - Uthgerd the Unbroken
+
+Follower Dialogue Expansion - Jenassa
+
+Jenassa - Inigo patch
+
+Follower Dialogue Expansion - Lydia
+
+Follower Dialogue Expansion - Jordis the Sword-Maiden
+
+Follower Dialogue Expansion - Erik the Slayer
+
+Follower Dialogue Expansion - Mjoll the Lioness
+
+FDE Mjoll Auri patch
+
+Follower Dialogue Expansion - Brelyna Maryon
+
+Follower Dialogue Expansion - Aela the Huntress
+
+FDE Aela Patch - Khajiit Will Follow
+
+FDE Aela Patch - Auri
+
+FDE Aela Patch - Inigo
+
+#### *Remove:*
+
+Candle flame VFX effect (Did not look good with ENB)
+
+#### *Update:*
+
+Skyrim Priority to come from Nexus instead of Github to fix file structure difference/ error
+
+
 # 2_1_3
 
 ### Save Game Safe to Update from 2.1.1 or later
