@@ -259,7 +259,9 @@ Click it and allow it to set the affinty for your processor.
 
 ### Set Voice type
 
-### Set PC head tracking in MO2 left pane under Dialog to your preferred voice type before starting the game. ❗ Choose only One ❗(Note): The Dragon born voice over can be set to match with game running in the MCM Menu.
+Set PC head tracking in MO2 left pane under Dialog to your preferred voice type before starting the game.
+❗ Choose only One ❗
+(Note): The Dragon born voice over can be set to match with game running in the MCM Menu.
 
 
 ***
