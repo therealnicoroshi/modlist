@@ -222,6 +222,10 @@ Once complete drag and drop the folder it creates (that is clearly marked "DragN
 
 Allow it time to install then activate the plug in by clicking on the box to checkmark it.
 
+#### Save this folder as it will need to be re-installed if you update the list later ❗ 
+
+Just repeat the Drag and drop step after any update.
+
 ❗ **IMPORTANT NOTE** ❗
 
 In the right pane of MO2 click on 'Data' at the top.
