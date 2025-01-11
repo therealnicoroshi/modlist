@@ -1,5 +1,28 @@
 Version History:
 
+# 2_1_5
+
+#### *Add-In:*
+
+Better Stealing
+
+Modex- A Mod Explorer Menu
+
+Nordic Snow  - Complex material
+
+CC The Cause Ayleid Crystals Retexture HD - Enb Light
+
+#### *Fixes:*
+
+Majestic Mountains and The Cause landscape fix
+
+KWF - Havok Fix - Nico
+
+Patch for Isilmeriel LOTR Collection and Creation Club Content-The Cause (light version)
+
+Multiple Languages Strings Unified Central SSE-AE
+
+
 # 2_1_4
 
 #### *Add-In:*
