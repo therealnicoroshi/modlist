@@ -1,5 +1,32 @@
 Version History:
 
+# 2_1_6
+
+#### *Add-In:*
+
+Dwemer Pipework Reworked Complex Material
+
+ParallaxGen_Output
+
+Diverse Campfires- SWAP files update- all versions
+
+Diverse Campfires - FLM patch
+
+Pelts 'o' Plenty - Fur Pelt Gear
+
+Fluffy Pelts 'o' Plenty
+
+4k Upscaled Pelt Cloaks
+
+Pelt Cloaks for Wet and Cold
+
+Daedric Cloaks
+
+#### *Update:*
+
+ENB .503 to latest version as of 1-11-2025
+
+
 # 2_1_5
 
 #### *Add-In:*
