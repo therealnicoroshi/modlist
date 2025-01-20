@@ -1,5 +1,18 @@
 Version History:
 
+# 2_1_7
+
+#### *Add-In:*
+
+Rope Removal -21 -9 - Nico
+
+Mihail's CC Goblins Overhaul - Compatibility Tweak
+
+#### *Update:*
+
+Update Pelts o plenty to 3.93
+
+
 # 2_1_6
 
 #### *Add-In:*
