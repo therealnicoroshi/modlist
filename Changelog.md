@@ -1,4 +1,77 @@
-Version History:
+## Version History:
+
+# 2_1_8
+
+## *Requires New Game*
+
+#### *Repair/Fix:*
+
+Fix hair on Gralnach
+
+Fix hair on Amarelda
+
+Fix deleted item reference in Isilmeriel's LOTR Collection-CC The Cause Patch.esp reported by DynDOLOD 3
+
+Remove MCM Recorder entry for LOOT and Degradation which has been removed from the list
+
+Change horse support option in NFF to repair CTD on Fast travel incompatibility with Conveinent Horses
+
+#### *Fix Potentailly Wild Edits Reported By DynDOLOD 3:*
+
+Olenveld.esp
+
+TheBawbsShire.esp
+
+Unmarked Locations Pack.esp
+
+#### *Add-In:*
+
+RS Children- Beyond Reach Patch SE
+
+Burning Bodies Always Trigger Oil Traps
+
+Particle Lights for ENB - Fire Traps - FULL
+
+SB - Pressure Plate Trap Blending - Base Object Swapper (BOS)
+
+Use Telekinesis on Traps - po3's Papyrus Extender Version
+
+update Olenveld
+
+Add Olenveld Patch 1.1
+
+God of War Kratos DBVO Voice Pack
+
+God of War Kratos Beyond Reach
+
+God of War Kratos College of Winterhold Quest Exp
+
+God of War Kratos Cutting Room Floor
+
+God of War Kratos Darkend
+
+God of War Kratos Sirenroot
+
+God of War Wyrmstooth
+
+Kratos voice files and occult magic chants (PC Head Tracking)
+
+#### *Recompile:*
+
+Regenerate ParallaxGen_Output
+
+Regenerate TexGen_Output
+
+Regenerate DynDOLOD_Output
+
+#### *Remove:*
+
+Remove Skyrimguild Creatures Preview (Bugs out main quest time wound cut scene)
+
+Remove Seasons support
+
+Remove ABP - Apex Khajiit Patch for potentasilly problematic overwritten record.
+
 
 # 2_1_7
 
