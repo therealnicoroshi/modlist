@@ -2,8 +2,8 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 2.1.8 by Nicoroshi 
-### Updating from 2.1.7 or earlier REQUIRES NEW GAME.
+## Version 2.1.9 by Nicoroshi 
+### Updating from 2.1.8 or earlier REQUIRES NEW GAME.
 
 <table stlyle="border: none;">
 <tr>
@@ -374,6 +374,8 @@ In the left pane under Anti-Alaising choose either DLAA or FSR 3.1
 ### ❗ IT IS RECOMMENDED AT THIS TIME TO OPEN THE IN GAME MENU TO 'CONTROLS' AND CHANGE ANY KEY BINDINGS TO SUIT YOUR PERSONAL PREFERENCES ❗
 
 ### ❗ DEFAULT KEY MAPPING CAN BE SET FOR MOST KEYS BY PRESSING ESC KEY/CONTROLS/DEFAULT BUTTON AT THE BOTTOM ❗
+
+### ⚠️ As of version 2.1.9 The majority of the keymapping has been returned to default ⚠️
 
 #### *NOTE: All of these (except the swan and short dive keys of 'X', and 'C') can be changed to suit your preference either in settings/controls menu in game, the MCM menu or through the ini files for the specific mod found in MO2 left pane.*
 
