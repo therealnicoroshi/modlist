@@ -533,10 +533,6 @@ You will need to use the X (swan dive) or C (Shorter Dive) keys before jumping t
 
 Dying during Scripted battle scenes within the Midwood Isle may stick the player in bleed out because of Shadow of Skyrim. If this happens return to previous save and replay.
 
-Animations for Dragons may get stuck during scripted events like when you read the Elder Scroll at the time wound.
-
-The fix for this is disabling SkyrimGuild Creatures-Preview located under section 72. Creature Animations and re-enabling it after that scripted event is complete.
-
 Scripted Dialog during The Wrath of Nature may not provide the correct dialog options if you have the Bathing Beauties Luxury Suite MCM option to 'Talk about outfit' turned on.
 
 The Fix is to disable this option in BBLS MCM until the Wrath of Nature scripted dialogs and quest is complete.
