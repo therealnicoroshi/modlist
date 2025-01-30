@@ -1,5 +1,32 @@
 ## Version History:
 
+# 2_1_9
+
+## *Requires New Game*
+
+#### *Remove:*
+
+Rumpled Rugs
+
+A Matter Of Time
+
+#### *Add-In:*
+
+Elemental Mastery Magic
+
+Tree Fix 13_-18 - Nico
+
+Raevyn Darkclaw - Preset
+
+ENB Terrain Blending Fix
+
+#### *Update:*
+
+update ConsoleUtilSSE to NG
+
+Switch Keymapping to mostly default keys. See F11 for full Keymapping
+
+
 # 2_1_8
 
 ## *Requires New Game*
