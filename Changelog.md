@@ -1,5 +1,24 @@
 ## Version History:
 
+# 2_2_0
+
+#### *Update:*
+
+FSMP
+
+#### *Add-In:*
+
+Skill and Attribute tweaks
+
+#### *Repair:*
+
+Fix ACC adding health, magica, stamina at every game start.
+
+#### *Change:*
+
+Remove Sunhelm Weight penalty
+
+
 # 2_1_9
 
 ## *Requires New Game*
