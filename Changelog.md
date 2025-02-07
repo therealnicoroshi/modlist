@@ -1,5 +1,24 @@
 ## Version History:
 
+# 2_2_1
+
+#### *Update:*
+
+ENB .503 to latest version
+
+#### *Add-In:*
+
+CBPC - Real Tight config
+
+a) Shores of Skyrim Part One
+
+b) Shores of Skyrim Part Two CC Attribution Files
+
+#### *Remove:*
+
+Synthesis_Output
+
+
 # 2_2_0
 
 #### *Update:*
