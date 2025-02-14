@@ -1,5 +1,40 @@
 ## Version History:
 
+# 2_2_2
+
+#### *Add-In:*
+
+Malacath's Chosen - An Orc Furniture Replacer
+
+Malacath's Chosen - Use Those Blankets patch
+
+Comfy Coffins - AIO
+
+Comfy Coffins - Animated patch
+
+On the Mend - A Healing Altar Replacer
+
+On the Mend - JK's Temple of Kynareth BOS patch
+
+Deep Slumber - BOS New and Timeworn Distributed
+
+Deep Slumber - Color Variance Use Those Blankets patch
+
+Boulder in Skyrim
+
+Landscape_Edit 9_28 - Nico (repairs floating tree on the 7000 steps)
+
+#### *Remove:*
+
+Remove Lux - SLaWF patch (not required)
+
+Remove Winter is Coming (replaced with Pelts o plenty)
+
+Remove Winter is coming Artesin SMP patch
+
+Remove Guards armor replacer patch for Winter is coming
+
+
 # 2_2_1
 
 #### *Update:*
