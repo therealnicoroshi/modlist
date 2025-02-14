@@ -30,7 +30,7 @@ Remove Lux - SLaWF patch (not required)
 
 Remove Winter is Coming (replaced with Pelts o plenty)
 
-Remove Winter is coming Artesin SMP patch
+Remove Winter is coming and Artesin SMP patch
 
 Remove Guards armor replacer patch for Winter is coming
 
