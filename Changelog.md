@@ -1,5 +1,38 @@
 ## Version History:
 
+# 2_2_3
+
+#### *Add-In:*
+
+Kill Caps Lock NG
+
+Junk-It
+
+Aura's Extra Fancy Junk Icon
+
+The Dragonborn's Bestiary - 4thUnknown Addons
+
+The Dragonborn's Bestiary - CC Pets Addon
+
+The Dragonborn's Bestiary - Darkend Addon
+
+The Dragonborn's Bestiary - GoT Dragons Addon
+
+The Dragonborn's Bestiary - Mihail Addons
+
+The Dragonborn's Bestiary - SIC Addon
+
+The Dragonborn's Bestiary - Vanilla Addon
+
+Savegame Maxsize plus for SE1.597
+
+Individual Creation Club Patches
+
+More Plantable Plants for Creation Club
+
+update Tree_Optimization - Nico to include changes to -10,3 and -15, 2
+
+
 # 2_2_2
 
 #### *Add-In:*
