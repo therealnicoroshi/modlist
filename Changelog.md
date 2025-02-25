@@ -4,7 +4,7 @@
 
 #### *Remove:*
 
-Remove alt start voiced (DELETED)
+Remove alt start voiced (DELETED), and add on for Drink that potion
 
 #### *Update:*
 
