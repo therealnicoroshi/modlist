@@ -6,6 +6,11 @@
 
 Remove alt start voiced (DELETED)
 
+#### *Update:*
+
+Loot to 0.25.0
+
+
 
 # 2_2_3
 
