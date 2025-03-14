@@ -12,8 +12,6 @@ Hotfix- NPCTorso Pathing for Pelts O plenty
 
 Hotfix- Vale Sabre Cat Short Cloak for Pelts o Plenty
 
-Insanitys Red Eagles Bane
-
 The Dragonborn's Fishiary
 
 ENB Frame Generation
