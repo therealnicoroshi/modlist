@@ -1,5 +1,30 @@
 ## Version History:
 
+# 2_2_5
+
+#### *Add-In:*
+
+Bone_Chime_Fix -38_14 - Nico
+
+Simple Resist Magic Custom Skill Tree (Alteration)
+
+Hotfix- NPCTorso Pathing for Pelts O plenty
+
+Hotfix- Vale Sabre Cat Short Cloak for Pelts o Plenty
+
+Insanitys Red Eagles Bane
+
+The Dragonborn's Fishiary
+
+ENB Frame Generation
+
+#### *Update:*
+
+update: The Dragonborn Bestiary
+
+update: Mod Organizer to version 2.5.2
+
+
 # 2_2_4
 
 #### *Remove:*
