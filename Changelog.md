@@ -1,5 +1,22 @@
 ## Version History:
 
+# 2_2_6
+
+#### *Add-In:*
+
+Frogs (se-ae)- 2k textures
+
+Quieter Croaks - Decreased Mihail Frog Volume
+
+The Dragonborn's Bestiary - Race Based Identification Addon
+
+The Dragonborn Bestiary - RBI - SIC
+
+#### *Update:*
+
+update enbseries .503 to latest release
+
+
 # 2_2_5
 
 #### *Add-In:*
