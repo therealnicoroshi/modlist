@@ -12,6 +12,8 @@ The Dragonborn's Bestiary - Race Based Identification Addon
 
 The Dragonborn Bestiary - RBI - SIC
 
+HFs - Aretino Family Heirloom - remodel - 2K
+
 #### *Update:*
 
 update enbseries .503 to latest release
