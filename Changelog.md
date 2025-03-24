@@ -1,5 +1,9 @@
 ## Version History:
 
+# 2_2_7
+
+Repaired Missing Skysight Skins mod that was causing weird male textures
+
 # 2_2_6
 
 #### *Add-In:*
