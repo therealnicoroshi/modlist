@@ -1,5 +1,20 @@
 ## Version History:
 
+# 2_2_8
+
+#### *Add-In:*
+
+Olenvald Revoiced
+
+##### *Changes in settings:*
+
+Give better teleknesis spells to player by default > : )
+
+#### *Update:*
+
+Update Tree Optimization - Nico to include fix for Brazer at -24,-6
+
+
 # 2_2_7
 
 Repaired Missing Skysight Skins mod that was causing weird male textures
