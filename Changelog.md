@@ -1,5 +1,52 @@
 ## Version History:
 
+# 2_3_1
+
+#### *Update:*
+
+Update OAR
+
+Update Spell HotBar to V2
+
+Enb Frame Gen to 1.0.2
+
+#### *Add-In:*
+
+Modernize - Vanilla 2.7
+
+Modernize - Bug fixes
+
+Dynamic Armor Variants
+
+Dynamic Armor Variants for Skyrim 1.5
+
+HDT-SMP Vanilla Armors
+
+HDT-SMP Vanilla - CBBE 3BA Conversions
+
+Sprint Sneak Movement Speed Fix
+
+Open Animation Replacer - Math Plugin
+
+Core impact framework
+
+Dynamic Armor and Weapon Impacts
+
+Better Dynamic Snow - Complex Material
+
+#### *Remove:*
+
+Animated carriages
+
+Animated carriages Additional Routes
+
+Animated carriages - Horse replacer patches
+
+#### *Hide:*
+
+Hide ENB light Drainspell bow to use one from Bowgasm
+
+
 # 2_3_0
 
 #### *Add-In:*
