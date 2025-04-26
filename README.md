@@ -322,7 +322,7 @@ As of Version 1_3_2 the MCM Recorder should Auto Run on new game start with reco
 
 ### ❗ IT IS HIGHLY RECOMMENDED TO ALLOW THE MCM RECORDER FULLY COMPLETE BEFORE CONTINUING ❗
 
-#### *If this fails for any reason or gets stuck you can edit the .ini for MCM Recorder in MO2 and disable the auto run feature* 
+#### *If this fails for any reason or gets stuck you can edit the .ini for MCM Recorder in MO2 and disable the auto run feature, If it has trouble with one or more of the mods choose 'skip this mod' as you can configure it after the MCMRecorder completes* 
 
 You can still go through the menu and change things to suit your preference afterward but this will give you a solid base to start from.
 
@@ -505,6 +505,8 @@ This will be your swap file and supplement the VRAM if needed.
 
 ***
 
+### ❗Various issues related to reloading saves from within the game or exiting to the main menu and reloading from there. If you want the most bug free experience, always close and restart the game to load a save. ❗
+
 ### With MO2 Executables not working as intended
 
 Find the tools folder within your MO2 installation folder, and the .exe of the application inside it's respective folder (Example: D:\The Nico Experience\MO2\Tools\SSEedit)
@@ -513,7 +515,7 @@ Right click/ compatability/ Run as administrator
 
 ### Within the game
 
-#### ❗ Some of the Creation Club content will be Borked. I am actively working to repair anything Creation Club that is included in this list. ❗
+#### ❗ Some of the Creation Club content 'might' be Borked. I am actively working to repair anything Creation Club that is included in this list. ❗
 
 When destroying tables some lanterns, glazed candles, and horn candles will not drop to the ground. Conversely Some candles might drop to the ground as they now have physics because of the Destructable Syrim mod.
 
