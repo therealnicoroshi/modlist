@@ -1,5 +1,20 @@
 ## Version History:
 
+# 2_3_2
+
+#### *Add-In:*
+
+Moveable Chain
+
+#### *Update:*
+
+Update Core impact framework to version 1.0.3
+
+#### *Remove:*
+
+BDS 2 Complex Parallax Shader 
+
+
 # 2_3_1
 
 #### *Update:*
