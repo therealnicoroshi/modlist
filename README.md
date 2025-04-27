@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 2.3.1 by Nicoroshi 
+## Version 2.3.2 by Nicoroshi 
 ### Updating from 2.3.0 or earlier REQUIRES NEW GAME.
 
 <table stlyle="border: none;">
