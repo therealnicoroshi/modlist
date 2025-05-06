@@ -200,7 +200,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
    - You did not follow the steps in [Pre-Installation](README.md#pre-installation). Go back and follow it.
       - If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
-### *"Eldritch Blast" Sanity Extraction error*
+### *If the log mentions: Eldritch Blast Sanity Extraction error*
    - Your Language Locale for Windows is NOT set to US English. Please return to [Pre-Installation](README.md#pre-installation) Step 9 and follow it.
   
     
