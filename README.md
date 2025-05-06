@@ -138,6 +138,7 @@ Installing **The Nico Experience** is relatively easy if you have Nexus Premium,
 6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
 7. Launch the game to the main menu and allow it to download the paid addon files. **DO NOT VERIFY YOUR GAME FILES**
 8. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
+9. ⚠️ The Windows Locale **Needs to be set for US English** for this installation to complete sucessfully ⚠️ Learn how [Here](https://www.google.com/search?client=firefox-b-1-d&q=set+system+locale+windows+11)
 
 ***
 
@@ -197,7 +198,10 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ### *Antivirus reports a virus:*
    - You did not follow the steps in [Pre-Installation](README.md#pre-installation). Go back and follow it.
-      - If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan). 
+      - If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
+
+### *"ELDRITCH BLAST" SANITY EXTRACTION ERROR*
+   - Your Language Locale for Windows is NOT set to US English. Please return to [Pre-Installation](README.md#pre-installation). Go back and follow it.
   
     
 ***
