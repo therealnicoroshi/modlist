@@ -12,7 +12,7 @@ update LOOT to version 2.6.0
 
 update STB Widgets to version 1.7
 
-Update Readmeto include fix for Language Locale NOT set to US English.
+Update Readme to include fix for Language Locale NOT set to US English.
 
 
 # 2_3_2
