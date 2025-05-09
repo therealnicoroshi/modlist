@@ -1,5 +1,20 @@
 ## Version History:
 
+# 2_3_3
+
+#### *Add-In:*
+
+TNE_CC_SnS Bow and Arrow Replacer
+
+#### *Update:*
+
+update LOOT to version 2.6.0
+
+update STB Widgets to version 1.7
+
+Update Readmeto include fix for Language Locale NOT set to US English.
+
+
 # 2_3_2
 
 #### *Add-In:*
