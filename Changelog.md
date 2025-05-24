@@ -1,5 +1,18 @@
 ## Version History:
 
+# 2_3_5
+
+#### *Add-In:*
+
+Old people are old - Skypatcher - SPID
+
+Sharpened Teeth - Character Creation Addon
+
+Goam's Elven Ears
+
+Non-aggro Quieter Mihail's Hummingbird
+
+
 # 2_3_4
 
 #### *Add-In:*
