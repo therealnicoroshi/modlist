@@ -12,6 +12,10 @@ Goam's Elven Ears
 
 Non-aggro Quieter Mihail's Hummingbird
 
+#### *Update:*
+
+Splash Screen Logo
+
 
 # 2_3_4
 
