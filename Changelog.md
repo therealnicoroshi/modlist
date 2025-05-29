@@ -26,6 +26,8 @@ Wolf's Assault
 
 Judgement Cut End - RE - Script Free
 
+Fast Slash Effects Chaos - PI - DAC
+
 Pause Menu After Loading
 
 STB No save and load in combat
