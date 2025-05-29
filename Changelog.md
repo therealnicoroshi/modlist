@@ -1,5 +1,48 @@
 ## Version History:
 
+# 2_3_6
+
+#### *Add-In:*
+
+Elden Ring Law of Regression
+
+Elden Ring Law of Causality
+
+Destined Death
+
+Tasha's Hideous Laughter
+
+Divine Smite
+
+Eldritch Blast
+
+Frenzy and Enraged Throw 
+
+Dragonborn Weapon Arts Custom Skill Tree
+
+Starcaller Cry
+
+Wolf's Assault
+
+Judgement Cut End - RE - Script Free
+
+Pause Menu After Loading
+
+STB No save and load in combat
+
+Save Unbaker
+
+#### *Update:*
+
+Update ENBseries to latest version .503
+
+#### *Repair:*
+
+fix all SPID errors reported by PO3 log
+
+Quick auto Clean Eldrich Blast
+
+
 # 2_3_5
 
 #### *Add-In:*
@@ -48,8 +91,6 @@ Starcaller Cry
 Wolf's Assault
 
 Judgement Cut End - RE - Script Free
-
-Dragonborn Weapon Arts Custom Skill Tree
 
 
 # 2_3_3
