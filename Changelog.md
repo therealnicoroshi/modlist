@@ -1,5 +1,13 @@
 ## Version History:
 
+# 2_3_7
+
+#### *Minor fixes and repairs:*
+
+Un-Tick complete widescreen fix for SKYUI that was mistakenly enabled in last update
+
+Repair errors in MCM recorder auto run
+
 # 2_3_6
 
 #### *Add-In:*
