@@ -1,5 +1,20 @@
 ## Version History:
 
+# 2_3_8
+
+#### *Update:*
+
+MCM recorder to include follower frameworks setting to spawn horses off camera to fix carriage stop crash
+
+Quick Auto Clean Tree_Optimization - Nico
+
+#### *Add-In:*
+
+Weather of World
+
+Animated Armoury - Precision Patch
+
+
 # 2_3_7
 
 #### *Minor fixes and repairs:*
