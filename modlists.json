@@ -25,23 +25,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg",
       "readme": "https://github.com/therealnicoroshi/modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/The Nico Experience.wabbajack_6e65b0f6-dbe3-4ba1-9891-2dc0fa0799c6",
+      "download": "https://authored-files.wabbajack.org/The Nico Experience.wabbajack_9c2cb9e5-3e57-4edb-8fba-917a18acc892",
       "machineURL": "The_Nico_Experience",
       "discordURL": "https://discord.gg/kHehbzuFZ4",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "SPmPBS2Mvx8=",
-      "Size": 587892444,
-      "NumberOfArchives": 2153,
-      "SizeOfArchives": 177979031969,
-      "NumberOfInstalledFiles": 600878,
-      "SizeOfInstalledFiles": 329667695490,
-      "TotalSize": 507646727459
+      "Hash": "B6UuD8K7o3w=",
+      "Size": 588010658,
+      "NumberOfArchives": 2167,
+      "SizeOfArchives": 178608314680,
+      "NumberOfInstalledFiles": 601430,
+      "SizeOfInstalledFiles": 330379500740,
+      "TotalSize": 508987815420
     },
-    "version": "2.3.8",
+    "version": "2.3.9",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-06-05T06:41:45.4405353Z",
+    "dateUpdated": "2025-06-09T01:41:07.867889Z",
     "repositoryName": ""
   }
 ]
