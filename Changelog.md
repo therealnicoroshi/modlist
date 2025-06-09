@@ -1,5 +1,54 @@
 ## Version History:
 
+# 2_3_9
+
+#### *Add-In:*
+
+MCO WoLong QuarterStaffs(S.C.A.R)
+
+ER Rapier(SCAR)
+
+ER KATANA (MCO SCAR)
+
+ER Spear Basic Animation (MCO SCAR)
+
+Realistic Halberd Poleaxe Animation(MCO SCAR)
+
+Underwater Loop and Swimming Sounds
+
+Azura's Audio Array
+
+Dragon Voiced Word Walls
+
+Haunted Shipwrecks
+
+Whispers of the Daedric Princes
+
+Magical Potion Sounds
+
+The Haunting Harmonies of Hjaalmarch
+
+Volkihar Soundscape Overhaul
+
+Whales off the Coast
+
+#### *Remove:*
+
+Shinobi moveset (not being used)
+
+#### *Changes to file structure:*
+
+change priority of dedicated claw animations so they are used in game
+
+#### *Update:*
+
+Immersive interactions to version 1.78
+
+Natural Waterfalls to latest version
+
+Loot to version 2.6.1
+
+
 # 2_3_8
 
 #### *Update:*
