@@ -494,6 +494,8 @@ This will be your swap file and supplement the VRAM if needed.
 
 ### *Although the list can play without additional paid mods I personally use the frame generator from [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/) to 4x my framerate and run this list at 144 FPS. Decide what is right for yourself.*
 
+#### ❗*IMPORTANT: If you plan to use lossless scaling you should disable ENB Frame Gen in the 4.Optimazation section in the left pane of MO2 ❗
+
 
    ## *Some Users have reported being able to run this list on hardware BELOW the minimum I feel it needs*
 
