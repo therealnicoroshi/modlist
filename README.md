@@ -79,7 +79,7 @@ Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED 
 
 ### Note:
 
-The files that will need to be downloaded for this mod list to function come from Nexus and Lovers Lab. As such you will need an account on both sites to be able to download the mods needed to build this list.
+The files that will need to be downloaded for this mod list to function come from Nexus and Lovers Lab via Mega Downloads. As such you will need an account on both sites to be able to download the mods needed to build this list.
 
 ***
 
@@ -157,7 +157,7 @@ Downloading and installing **The Nico Experience** can take a while depending on
 2. Press the download button on The Nico Expereince, and wait for it to download. Once downloaded The arrow down will change to a 'Play' Arrow facing right. Press that to begin installation of the list.
 3. Set the installation folder to be somewhere like C:\The Nico Expereince. **Do not install it to your desktop, or ANY protected Windows folders like Program Files or Downloads.**
 4. The download location does not need to be on a SSD but it makes installing a bit faster.
-5. Make sure you are logged into both Nexus and Lover's Lab then Press the play button to begin.
+5. Make sure you are logged into Mega, Nexus and Lover's Lab then Press the play button to begin.
 6. Some files will need to be manually downloaded during the installation process. If they fail for any reason see [potentially problematic files](#potentially-problematic-files) for links and instructions to resolve
 7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
 
@@ -170,11 +170,15 @@ Downloading and installing **The Nico Experience** can take a while depending on
 It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
 	
 
- ### Potentially Problematic Files
-
  ## - Could not download x:
 
- If any of these files fails to download use the links below to download the files then add the archives to your download folder location for the list, and re-run Wabbajack to continue.
+ Sometimes due to multiple downloads happening at once some files may not download correctly from Nexus or Lovers Lab manual downloads.
+ 
+ Running wabbajack again should allow these files to download.
+ 
+  ### Potentially Problematic Files
+  
+ If any of the larger files from Mega fails to download use the links below to download the files manually then add the archives to your download folder location for the list, and re-run Wabbajack to continue.
 
 [BDOR 2024 Male Collection By Kirax](https://mega.nz/file/LDJRCbAL#NZHM3h56l10gnIDcHI7rJ3rtJnM5lESQvVGM9ugemuM)
 
@@ -246,7 +250,7 @@ The Nico Experience utilizes a Wabbajack technology called Stock Game. What this
 
 #### In MO2 find 'Tools' in the top left and click on it. Navigate to ini editor/ SkyrimPrefs.ini/[Launcher] sD3DDevice="NVIDIA GeForce RTX 3090
 
-Change this line to reflect the graphics card you are using:
+Change this line to reflect the graphics card you are using if not changed automatically:
 
 #### Also Change this line in MO2/Tools/ini editor/Skrim.ini to reflect where you want screenshots saved:
 
@@ -278,13 +282,13 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 
 ### Optional Setting the HUD for widescreen resolution.
 
-Search in MO2 Left pane for 'Widescreen' and again for 'Ultrawide'.
+Search in MO2 Left pane for 'Wide'.
 
 #### *Enable all of them (There should be 4 files found).*
 
 #### *Search MO2 left pane for Widgets and re-install STB Widgets for 21:9 format*
 
-### **Don't forget to run Bethini and change your resolution**
+### **Don't forget to run Bethini and change your resolution, and LOOT in the top exe icons to sort your load order**
 
 ***
 
@@ -379,6 +383,8 @@ In the left pane under Anti-Alaising choose either DLAA or FSR 3.1
 
 #### *NOTE: All of these (except the swan and short dive keys of 'X', and 'C') can be changed to suit your preference either in settings/controls menu in game, the MCM menu or through the ini files for the specific mod found in MO2 left pane.*
 
+#### *Dodge key can be changed by searching in MO2 (bottom left) for 'TK Dodge RE'. In the skse/plugins/TK Dodge RE.ini change the DodgeHotkey = to the numerical value of the key desired using the DX scan codes linked below*
+
 - [DirectX Scan Codes for ini values](https://gist.github.com/arithex/3e953d1eb096afe58ce05ba6846493e4)
 
 ### Now you can talk to Mara and start your adventure
@@ -455,7 +461,7 @@ I'm not going to hold your hand on this, and assume you know Google-fu for anyth
 There are guides on the web on how to go through Services.msc to trim the fat out of the Windows System Services.
 
 2. strip that graphics driver down of any AA, AO, AF settings (Turn off) as those effects will be handled by the game engine or the ENB. 
-DO NOT DOUBLE UP ON EFFECTS!  It will kill your framerate and will not look any better than only one doing that specific effect.
+*DO NOT DOUBLE UP ON EFFECTS!*  It will kill your framerate and will not look any better than only one doing that specific effect.
 Run Gsync if avialable and for Heavens sake DO NOT use the in game vsync. Use driver vsync instead.
 Run latency at ultra and any settings you can at high performance in the driver.
 
