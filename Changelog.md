@@ -1,5 +1,45 @@
 ## Version History:
 
+# 2_4_0 Requires New Game
+
+
+#### *Add-In:*
+
+Hands Redone F CBBE
+
+Hands redone 3BA Patch for CBBE
+
+Glowing ore veins 300
+
+Improved camera
+
+Improved Camera Patch Collection
+
+Mythical Giants Replacer - Chakra's Creatures
+
+Sirens - Chakra's Creatures
+
+Scribers - Chakra's Creatures
+
+Swamp Skeletons - Chakra's Creatures
+
+Drowners - Chakra's Creatures
+
+Leshens - Chakra's Creatures
+
+SkyParkour v2 - Procedural Parkour Framework (SPPF)
+
+JellyFishInLoop SkyParkour animations
+
+#### *Update:*
+
+Shores of Skyrim to version 1.4
+
+#### *Remove:*
+
+SkyClimb
+
+
 # 2_3_9
 
 #### *Add-In:*
