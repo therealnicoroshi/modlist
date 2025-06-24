@@ -31,6 +31,8 @@ SkyParkour v2 - Procedural Parkour Framework (SPPF)
 
 JellyFishInLoop SkyParkour animations
 
+Honed Metal
+
 #### *Update:*
 
 Shores of Skyrim to version 1.4
