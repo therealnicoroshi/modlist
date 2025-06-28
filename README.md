@@ -547,6 +547,8 @@ Scripted Dialog during The Wrath of Nature may not provide the correct dialog op
 
 The Fix is to disable this option in BBLS MCM until the Wrath of Nature scripted dialogs and quest is complete.
 
+Transformations from Wrath of Nature mod will crash the game in first person view. Please only transform in 3rd person.
+
 ### ❗ DO NOT put iron arrows into a container or drop them out of your inventory❗ This might crash the game. Vanilla bug without any known workaround. Put them in a corpse or sell them instead.
 
 ### ❗Remember to remove followers from Follower Framework after dismissing from active service.❗Failure to do so may cause the game to crash on carriage or fast travel.
