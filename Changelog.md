@@ -1,5 +1,16 @@
 ## Version History:
 
+# 2_4_1
+
+#### *Add-In:*
+
+Water Effects FIX
+
+DisplayTweaks FrameGen settings
+
+Soul Gems Universal Sorting - SkyPatcher
+
+
 # 2_4_0 Requires New Game
 
 
