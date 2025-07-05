@@ -1,5 +1,15 @@
 ## Version History:
 
+# 2_4_2
+
+#### *Add-In:*
+
+Fast Travel Crash Fix
+
+#### *Remove:*
+
+Improved Camera
+
 # 2_4_1
 
 #### *Add-In:*
