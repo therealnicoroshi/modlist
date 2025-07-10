@@ -1,5 +1,27 @@
 ## Version History:
 
+# 2_4_3
+
+#### *Add-In:*
+
+Menu Zoom
+
+Cooking Categories Improvement
+
+moreHUD Inventory Edition
+
+Apocrypha ENB Light
+
+Ayleid Ruins ENB Light
+
+ENB lights for Aetherium Shards SE
+
+ENB-ParticleLights-DwemerLanterns-1-02
+
+#### *Patches/Fixes:*
+
+Patch Horse at -7, -17 to repair crash on carriage travel
+
 # 2_4_2
 
 #### *Add-In:*
