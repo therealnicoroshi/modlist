@@ -1,5 +1,17 @@
 ## Version History:
 
+# 2_4_4
+
+#### *Patches and Fixes:*
+
+AnimatedShips_Patch - Nico
+
+Occlusion_Fix_Brina - Nico
+
+Repair Iris Divine Elegance Dress Cube map overwrite from Parallax gen
+
+Occlusion_Fix_Aretino - Nico 
+
 # 2_4_3
 
 #### *Add-In:*
