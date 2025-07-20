@@ -1,5 +1,27 @@
 ## Version History:
 
+# 2_4_5
+
+#### *Update:*
+
+ENB to latest version
+
+IWBA All in One Parallax fix
+
+#### *Add-In:*
+
+Shire _ Edit -14_-19
+
+JK's Fort Dawnguard
+
+Riton fort dawnguard 2k
+
+Fogling_Patch - Nico
+
+#### *Repair:*
+
+Missing install for Aemond Armor
+
 # 2_4_4
 
 #### *Patches and Fixes:*
