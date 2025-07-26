@@ -549,6 +549,8 @@ The Fix is to disable this option in BBLS MCM until the Wrath of Nature scripted
 
 Transformations from Wrath of Nature mod will crash the game in first person view. Please only transform in 3rd person.
 
+When using the Bloodskal Blade in Raven Rock please disable MCO First person Patch to be able to complete the attack wall in first person.
+
 ### ❗ DO NOT put iron arrows into a container or drop them out of your inventory❗ This might crash the game. Vanilla bug without any known workaround. Put them in a corpse or sell them instead.
 
 ### ❗Remember to remove followers from Follower Framework after dismissing from active service.❗Failure to do so may cause the game to crash on carriage or fast travel.
