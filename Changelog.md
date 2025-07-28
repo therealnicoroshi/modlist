@@ -1,5 +1,24 @@
 ## Version History:
 
+# 2_4_6
+
+#### *Add-In:*
+
+Steel Battleaxe Of Fiery Souls Truly Unique ESL 2K
+
+Loading Screen Truce
+
+Storm_Fix - Nico
+
+#### *Repair:*
+
+Arvak coloration
+
+#### *Update:*
+
+Misc_CP to version 1.5 with Frost giant fixes
+
+
 # 2_4_5
 
 #### *Update:*
