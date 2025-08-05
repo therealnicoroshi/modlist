@@ -1,5 +1,18 @@
 ## Version History:
 
+# 2_4_7
+
+#### *Fixes:*
+
+Hide 4 meshes from ParallaxGen
+
+Restore Revoith's Daedric dagger as default model
+
+#### *Update:*
+
+ENB to latest version .503
+
+
 # 2_4_6
 
 #### *Add-In:*
