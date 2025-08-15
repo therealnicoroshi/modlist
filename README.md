@@ -475,6 +475,8 @@ This will be your swap file and supplement the VRAM if needed.
 
 5. Make sure your power plan is set for High performance and **NOT** balanced or power saver
 
+6. Highly recommended to set up a standby memory purge Windows sceduled task. Good video on how to do that here>>> [Empty Standbu List Tutorial Video](https://www.youtube.com/watch?v=CAxuGjdahd0)
+
 ***
 
 ## Performance Tweaks
