@@ -494,8 +494,6 @@ This will be your swap file and supplement the VRAM if needed.
   4. Lower the grass density in 'Explore Virtual Folder/Net Script Framework/Plugins/GrassControlConfig.txt/OverwriteMinGrassSize = 65' by INCREASING this number to something like 75-80.
   
 
-### *Although the list can play without additional paid mods I personally use the frame generator from [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/) to 4x my framerate and run this list at 144 FPS. Decide what is right for yourself.*
-
 #### ❗*IMPORTANT: If you plan to use lossless scaling you should disable ENB Frame Gen in the 4.Optimazation section in the left pane of MO2 ❗
 
 
