@@ -1,5 +1,25 @@
 ## Version History:
 
+# 2_4_8
+
+#### *Add-In:*
+
+OBIS_Bandit_Magic_Removal - Nico
+
+Imp and Orcherza Presets
+
+Moonlight Tales Well Animation Fix
+
+#### *Update:*
+
+FormList Manipulator - FLM to 1.8.1
+
+SkyParkour from V2 to v3
+
+Nemesis_Output
+
+Olenvald Fix Patch to 1.1beta to 1.1c
+
 # 2_4_7
 
 #### *Fixes:*
