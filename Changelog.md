@@ -1,5 +1,40 @@
 ## Version History:
 
+# 2_4_9
+
+#### *Add-In:*
+
+Fashions Of Forsworn
+
+Fashions Of Forsworn CBBE 3BA Bodyslides
+
+RMB SPIDified - Forsworn Fashions
+
+The Midden - Expanded
+
+The Midden Expanded - Tweaks and Fixes
+
+Move For Warmth - improved survival through exercise
+
+Move For Warmth  - Add Perk On Start
+
+Dwemer Water Wheels - Markarth - Wyrmstooth - Base Object Swapper
+
+Auri's Mount Thistlefoot Texture Fix
+
+Sensible Oculory Solution - Logical Mzark Puzzle - Discerning The Transmundane - Main Quest
+
+Stacks of Septims - 3d Coin Piles
+
+#### *Update:*
+
+SPID to version 7.1.3
+
+#### *Fixes:*
+
+Remove non English texture (gradient) from Eldrich Blast.
+
+
 # 2_4_8
 
 #### *Add-In:*
