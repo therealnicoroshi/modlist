@@ -290,6 +290,8 @@ Search in MO2 Left pane for 'Wide'.
 
 #### *Search MO2 left pane for Widgets and re-install STB Widgets for 21:9 format*
 
+#### *Search MO2 Left pane for The Elder Scrolls Legends - Loading Screens and re-install for 21:9 format*
+
 ### **Don't forget to run Bethini and change your resolution, and LOOT in the top exe icons to sort your load order**
 
 ***
