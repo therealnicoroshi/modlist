@@ -1,5 +1,45 @@
 ## Version History:
 
+# 2_5_0 
+
+## *Requires New Game*
+
+#### *Updates:*
+
+Conditional Idles to 1.5.1
+
+Nif Previewer for MO2 Version 2.5.2
+
+Skyrim 3D Rocks - Better Dynamic Snow - Patch Modgroup update
+
+Metadata update for Loot
+
+Navigator - Navmesh Fixes
+
+#### *Add-In:*
+
+Ancient Death Magic
+
+Goblins and Durzogs SE - Fixed esl
+
+BR_Fixes - Nico (Beyond Reach)
+
+#### *Consistency Patch:*
+
+Various Mod Fixes
+
+New battleaxe of firey soultrap to have vanilla enchant and new model
+
+#### *Remove:*
+
+Sa'Chil follower with assorted patches and add ons for Sa'Chil
+
+Diverse Foods - Hearthfires Patch
+
+TESL LS Tweaks and Addons
+
+
+
 # 2_4_9
 
 #### *Add-In:*
