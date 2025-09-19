@@ -232,7 +232,9 @@ Allow it time to install then activate the plug in by clicking on the box to che
 
 Just repeat the Drag and drop step after any update.
 
-### You will need to set the player ID to use 'Skyrim Save System Overhaul'. Follow the instructions [here>>>](https://www.nexusmods.com/skyrimspecialedition/mods/122343?tab=description)
+## You will need to set the player ID to use 'Skyrim Save System Overhaul'. Follow the instructions
+
+- [Here>>>](https://www.nexusmods.com/skyrimspecialedition/mods/122343?tab=description)
 
 
 ❗ **IMPORTANT NOTE** ❗
