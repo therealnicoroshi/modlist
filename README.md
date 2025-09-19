@@ -214,7 +214,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 
-❗  **IMPORTANT STEP DO NOT SKIP** ❗
+❗  **IMPORTANT STEPS DO NOT SKIP** ❗
 
 ## Run VRAMr on performance setting
 
@@ -231,6 +231,9 @@ Allow it time to install then activate the plug in by clicking on the box to che
 #### Save this folder as it will need to be re-installed if you update the list later ❗ 
 
 Just repeat the Drag and drop step after any update.
+
+### You will need to set the player ID to use 'Skyrim Save System Overhaul'. Follow the instructions [here>>>](https://www.nexusmods.com/skyrimspecialedition/mods/122343?tab=description)
+
 
 ❗ **IMPORTANT NOTE** ❗
 
