@@ -1,5 +1,44 @@
 ## Version History:
 
+# 2_5_1
+
+## *Requires New Game* 
+## *Also requires registering your player ID for SSSO 3 to work correctly. See Post installation section in the readme*
+
+#### *Update:*
+
+Enbseries to latest version .503 
+
+NL_MCM to version 1.1.4
+
+#### *Add-In:*
+
+Combat Music Fix SKSE
+
+Combat Music Fix NG
+
+Underground_Old_Hroldan_Patch - Nico
+
+CC safe zones for Deadly Dragons patches
+
+Immersive Diseases 2.0
+
+PrivateProfileRedirector SE 0.6.2 (Runtime 1.5.97)
+
+Darkend_Shader_Fix - Nico
+
+Unique Region Names SE
+
+Regional Save Names
+
+Save System Overhaul 3
+
+Splash Screen
+
+#### *Remove:*
+
+Remove Diverse Dragons and patches
+
 # 2_5_0 
 
 ## *Requires New Game*
