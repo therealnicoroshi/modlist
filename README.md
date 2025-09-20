@@ -2,8 +2,8 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 2.5.0 by Nicoroshi 
-### Updating from 2.4.9 or earlier REQUIRES NEW GAME.
+## Version 2.5.1 by Nicoroshi 
+### Updating from 2.5.0 or earlier REQUIRES NEW GAME.
 
 <table stlyle="border: none;">
 <tr>
@@ -242,13 +242,7 @@ Just repeat the Drag and drop step after any update.
 
 ❗ **IMPORTANT NOTE** ❗
 
-In the right pane of MO2 click on 'Data' at the top.
-Navigate to Textures/interface/intfullnebulapanarama02.dds
-Right click / Hide 
-
-This is because VRAMr **WILL** downsize the image of the girls in the perk interface and we are hiding the one from VRAMr so that it uses the higher resolution original one.
-
-### *Note:* If you want to remove the girls in the Perk tree completely hide both the VRAMr downsized file and the original
+If the girls in the perk tree are out of focus please hide the VRAMr file that is overwriting it so it can use the default full resolution image. It is located in the right pane of MO2 at Data/Textures/Interface/intfullnebulapanarama02.dds
 
 
 ### Stock Game
