@@ -1,5 +1,37 @@
 ## Version History:
 
+# 2_5_2
+
+## *Safe to update from 2.5.1*
+## *Don't forget to register your player ID for SSSO 3 to work correctly. See Post installation section in the readme*
+
+#### *Add-In:*
+
+Kynes Breath
+
+Reclusive Reachcliff Cave
+
+Reclusive Reachcliff Cave - Lux Patch
+
+Heretical Haemar's Shame
+
+Heretical Haemar's Shame - Lux Patch
+
+Weapon Stat Viewer V2
+
+Digitigrade Beast Races for Skyrim SE
+
+Digitigrade Beast Races DAV
+
+Argonian Raptor Claws for SSE - With Flawns Argonians Redux Patch
+
+#### *Update:*
+
+Keyword item distributor to version 3.4.0
+
+MCM recorder file for New game start
+
+
 # 2_5_1
 
 ## *Requires New Game* 
