@@ -1,5 +1,41 @@
 ## Version History:
 
+# 2_5_3
+
+## *Requires a new game!*
+
+#### *Update:*
+
+Update DynDOLOD
+
+Update TexGen
+
+Update ParallaxGen
+
+Update Grass Cache
+
+Update DynDOLOD Resources
+
+Update DynDOLOD DLL NG
+
+#### *Add-In:*
+
+Aquatic Elegance - Argonian Koi Whisker Addons
+
+Natural Forts of Skyrim -SE-AE
+
+Tower lod files for Natural forts of skyrim
+
+Snowy Natural Forts - Base Object Swapper
+
+Natural Forts of Skyrim LOD resource
+
+Natural Forts of Skyrim - Ryns Broken Tower Redoubt
+
+Snowy Forts of Skyrim - BOS Lods
+
+Dives Deep Argonian Preset
+
 # 2_5_2
 
 ## *Safe to update from 2.5.1*
