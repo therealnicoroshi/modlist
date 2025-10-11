@@ -1,5 +1,26 @@
 ## Version History:
 
+# 2_5_4
+
+#### *Add-In:*
+
+Dynamic Interior Ambient Lighting (DIAL)
+
+The Gildergreen Grows
+
+Nature of the Wildlands Patch - The Gildergreen Grows
+
+USSEP Patch - The Gildergreen Grows
+
+Skyrim freeze fix NG
+
+#### *Update:*
+
+better third person selection
+
+add onto MCM Recorder for sounds of Skyrim preferences
+
+
 # 2_5_3
 
 ## *Requires a new game!*
