@@ -1,5 +1,32 @@
 ## Version History:
 
+# 2_5_5
+
+#### *Add-In:*
+
+Skyshard_BTR_patch - Nico
+
+It Came from Akavir - Quest Mod
+
+CritterSpawn - Script Call Reduction
+
+Non-Horse Mount Animation Fix
+
+#### *Update:*
+
+update Skyrim freeze fix NG to 0.4
+
+update move for warmth
+
+update TGC of Winterhold - Skyshard  Patch - Nico to remove master Skyshard full LOD
+
+Update MCM Recorder run at start config
+
+#### *Remove:*
+
+Remove Deadly Dragons - Safezone CC Bittercup
+
+
 # 2_5_4
 
 #### *Add-In:*
