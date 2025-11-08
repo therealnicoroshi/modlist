@@ -288,7 +288,7 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 
 Search in MO2 Left pane for 'Wide'.
 
-#### *Enable all of them (There should be 4 files found).*
+#### *Enable all of them (There should be 5 files found).*
 
 #### *Search MO2 left pane for Widgets and re-install STB Widgets for 21:9 format*
 
