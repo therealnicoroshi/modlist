@@ -500,7 +500,7 @@ This will be your swap file and supplement the VRAM if needed.
   4. Lower the grass density in 'Explore Virtual Folder/Net Script Framework/Plugins/GrassControlConfig.txt/OverwriteMinGrassSize = 65' by INCREASING this number to something like 75-80.
   
 
-#### ❗*IMPORTANT: If you plan to use lossless scaling you should disable ENB Frame Gen in the 4.Optimazation section in the left pane of MO2 ❗
+#### ❗I have been able to stack frame generators in my personal game I did this by running PureDarks Latest upscaler/ frame gen AIO using DLSS Upscaling and FSR 3.1 Frame generation. I then ran Lossless scaling on top of that on adaptivewith target frame rate at 144 (my monitor is 144Hz). This yields a nearly ghost free 144 FPS with this mod list. Check out my live streams on YT for examples at 3440x1440 resolution❗
 
 
    ## *Some Users have reported being able to run this list on hardware BELOW the minimum I feel it needs*
