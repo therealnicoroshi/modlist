@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 2.5.5 by Nicoroshi 
+## Version 2.5.6 by Nicoroshi 
 ### Updating from 2.5.2 or earlier REQUIRES NEW GAME.
 
 <table stlyle="border: none;">
@@ -489,6 +489,11 @@ This will be your swap file and supplement the VRAM if needed.
 
 ***
 
+   ### Note:
+   Enb Frame Gen is part of the mod list by default. This will double whatever frame rate your system can produce. This should be smooth enough for most systems that meet the required minimum specs however we all want more :) so..
+
+   #### ❗I have been able to stack frame generators in my personal game I did this by running PureDarks Latest upscaler/ frame gen AIO using DLSS Upscaling and FSR 3.1 Frame generation. I then ran Lossless scaling on top of that on adaptivewith target frame rate at 144 (my monitor is 144Hz). This yields a nearly ghost free 144 FPS with this mod list. Check out my live streams on YT for examples at 3440x1440 resolution❗
+   
    Here are some things I recommend if your framerate is still suffering after applying the Performance VRAMr and following the notes on 'Basic system set up' above.
 
   1. Run BethINI (included tool) and choose a lower preset setting like Medium. The default is High. Be sure to NOT use Ambient Occusion, Screen Space Reflections, and turn Tree LOD Distance to '0'. These effects are being handled by Reshade, ENB, and DynDOLOD. Remember DO NOT DOUBLE UP ON EFFECTS! It will cost twice the frame cost with no change in visuals!
@@ -497,10 +502,7 @@ This will be your swap file and supplement the VRAM if needed.
    
   3. Run at a lower resolution. 
    
-  4. Lower the grass density in 'Explore Virtual Folder/Net Script Framework/Plugins/GrassControlConfig.txt/OverwriteMinGrassSize = 65' by INCREASING this number to something like 75-80.
-  
-
-#### ❗I have been able to stack frame generators in my personal game I did this by running PureDarks Latest upscaler/ frame gen AIO using DLSS Upscaling and FSR 3.1 Frame generation. I then ran Lossless scaling on top of that on adaptivewith target frame rate at 144 (my monitor is 144Hz). This yields a nearly ghost free 144 FPS with this mod list. Check out my live streams on YT for examples at 3440x1440 resolution❗
+  4. Lower the grass density in 'Explore Virtual Folder/Net Script Framework/Plugins/GrassControlConfig.txt/OverwriteMinGrassSize = 65' by INCREASING this number to something like 75-80
 
 
    ## *Some Users have reported being able to run this list on hardware BELOW the minimum I feel it needs*
