@@ -1,5 +1,46 @@
 ## Version History:
 
+# 2_5_6
+
+#### *Add-In:*
+
+DD - Jewelry Replacer by Vergi
+
+KaiBow_Fix - Nico
+
+HFs - Tankard - 2K
+
+HFs - Diverse (BOS) Tankard - 2K
+
+In game patcher
+
+Debug Menu - In-Game Navmesh Viewer and More
+
+Object Manipulation Overhaul
+
+SKSE Menu Framework
+
+SkyPrompt
+
+ImGui Icons
+
+Debug Menu - Ultrawide patch 21 9
+
+In_Game_Patcher - Nico
+
+Rudy's Ruin Levers addon SE version
+
+Save and Load Accelerator for SKSE Cosaves - S.L.A.C.K.
+
+#### *Remove:*
+
+Remove ElSopa Tankard HD
+
+#### *Update:*
+
+Add onto F11 keymap to include 'F12' Debug menu , 'F10' SkyPrompt Menu, and 'Home' Object manipulation Overhaul
+
+
 # 2_5_5
 
 #### *Add-In:*
