@@ -6,6 +6,10 @@
 
 DD - Jewelry Replacer by Vergi
 
+Smart Talk - Latest Version
+
+Smart Talk MCM
+
 KaiBow_Fix - Nico
 
 HFs - Tankard - 2K
