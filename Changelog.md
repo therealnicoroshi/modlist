@@ -1,5 +1,60 @@
 ## Version History:
 
+# 2_5_7
+
+#### *Add-In:*
+
+Barn Owls- Mihail Monsters and Animals (SE-AE)
+
+Hawks Go to Sleep- Mihail's Shards of Immersion (SE-AE)
+
+Angis Camp Overhaul
+
+Angis Camp Overhaul - Patch Collection
+
+Clean Save Auto-reloader
+
+SMIM Minewood HD Texture Replacer
+
+Allow Dialogue Progress Bugfix
+
+Improved Loading Screen Colors
+
+Unique Notched Pickaxe
+
+Lots of Ladders - BOS
+
+Lots of Ladders - EVGAT Climbable Ladders Patch
+
+Handcarts - Base Object Swapper
+
+Diverse Chicken Coops - Base Object Swapper
+
+Diverse Chicken Coops - Great Town of Shor's Stone
+
+Diverse Chicken Coops - No Ivy
+
+Stockades of Skyrim 3D
+
+Logical Rope Bridges
+
+Rope Bridges Remastered - SMIM - Full Ropes     
+
+Pinecones
+
+slightly Better Hagraven Feathers
+
+slightly Better Honey in a Jar (BOS)
+
+#### *Remove:*
+
+REMOVE: Unlimited Rings and Amulets
+
+#### *Update:*
+
+UPDATE Save and Load Accelerator for SKSE Cosaves - S.L.A.C.K. to version 1.1.0
+
+
 # 2_5_6
 
 #### *Add-In:*
