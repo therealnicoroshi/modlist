@@ -1,5 +1,28 @@
 ## Version History:
 
+# 2_5_8
+
+#### *Add-In:*
+
+Snazzy Noble Cupboards - Base Object Swapper
+
+Favorites Menu Effects Description
+
+Dragonborn Reskin - Modern Wait Menu
+
+Dragonborn Reskin - Widescreen Patch 21-9
+
+h84u perk interface
+
+JS Dragon Claws AE
+
+#### *Remove:*
+
+Remove Pretty Girls Perk interface
+
+Remove Slof's Dragon Claws
+
+
 # 2_5_7
 
 #### *Add-In:*
