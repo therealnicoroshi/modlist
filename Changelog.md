@@ -1,5 +1,22 @@
 ## Version History:
 
+# 2_5_9
+
+#### *Add-In:*
+
+Horse Jump Fix - OAR
+
+Dust by FrankBlack aka Dust not Clouds
+
+#### *Change for stability:*
+
+change DefaultHeapInitialAllocMB=1024 in SKSE.ini
+
+#### *Fixes:*
+
+Hide some parallax gen dragon claw files that were overwriting JS models in door
+
+
 # 2_5_8
 
 #### *Add-In:*
