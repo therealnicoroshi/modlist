@@ -1,5 +1,24 @@
 ## Version History:
 
+# 2_6_0
+
+#### *Add-In:*
+
+Media Keys Fix SKSE
+
+Alt-Tab Stuck Key Fix NG
+
+Missives - Voice and Quest Expansion
+
+Interesting NPCs ILS Freeze Fix
+
+#### *Update:*
+
+Update: Nico_In Game Patcher with a few more little fixes
+
+Update:  SKSE Menu Framework to version 3.3 hotfix
+
+
 # 2_5_9
 
 #### *Add-In:*
