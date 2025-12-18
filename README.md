@@ -240,11 +240,6 @@ Just repeat the Drag and drop step after any update.
 
 ## 
 
-❗ **IMPORTANT NOTE** ❗
-
-If the girls in the perk tree are out of focus please hide the VRAMr file that is overwriting it so it can use the default full resolution image. It is located in the right pane of MO2 at Data/Textures/Interface/intfullnebulapanarama02.dds
-
-
 ### Stock Game
 
 The Nico Experience utilizes a Wabbajack technology called Stock Game. What this essentially does is create a copy of your Skyrim installation within the installation location of the list. This enables greater compatibility with other mod-lists.
