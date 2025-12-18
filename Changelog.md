@@ -1,5 +1,44 @@
 ## Version History:
 
+# 2_6_1
+
+#### *Add-In:*
+
+Brastia Bloodskal MCO FIX
+
+Kanjs - Soup and Stew All In One Animated
+
+Animated Objects Overhauled Part One
+
+Animated Objects Overhauled Part Two CCA
+
+Add in  R.A.S.S. - Rain Ash And Snow Shaders
+
+Quaint Raven Rock - Ghosts of the Tribunal CC Patch (with removed master of Quaint Raven Rock)
+
+#### *Remove:*
+
+Remove: Steaming hot soups and Stews
+
+Remove: Wet and Cold
+
+Remove improved Wet and cold water Drips
+
+Remove Pelt cloaks for wet and cold
+
+Remove True storms - Wet and cold Compatibility
+
+Remove Wet and cold SE Snowy Texture replacer
+
+#### *Changes:*
+
+Hide DLC2/landscape/glaciers/dlc2glaciercaveentrance02.nif from Parallaxgen so it uses the one from icy mesh remastered and isn't purple in game.
+
+#### *Update:*
+
+Update In Game Patcher_Swap.ini with more fixes
+
+
 # 2_6_0
 
 #### *Add-In:*
