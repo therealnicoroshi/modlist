@@ -34,6 +34,8 @@ Remove Wet and cold SE Snowy Texture replacer
 
 Hide DLC2/landscape/glaciers/dlc2glaciercaveentrance02.nif from Parallaxgen so it uses the one from icy mesh remastered and isn't purple in game.
 
+Modified MCM Recorder autorun to reflect removal of wet and cold and addition of RASS
+
 #### *Update:*
 
 Update In Game Patcher_Swap.ini with more fixes
