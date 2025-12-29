@@ -1,5 +1,12 @@
 ## Version History:
 
+# 2_6_3
+
+#### *Update:*
+
+EnbSeries version .503 to latest release 12-24-2025
+
+
 # 2_6_1 and 2_6_2
 
 #### *Add-In:*
