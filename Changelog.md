@@ -1,5 +1,22 @@
 ## Version History:
 
+# 2_6_4
+
+#### *Update:* 
+
+ancient blood magic to version 1.6.0.0
+
+#### *Remove:*
+
+Remove all Dragonborn Beastiry mods and files.
+
+Remove RASS
+
+#### *Add-In:*
+
+Re-install Wet and Cold with all patches
+
+
 # 2_6_3
 
 #### *Update:*
