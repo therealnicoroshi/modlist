@@ -1,5 +1,138 @@
 ## Version History:
 
+# 2_6_5
+
+#### *Changes:*
+
+change default key for Additional attack to something other than left mouse
+
+Turn on LOD shadows feature from ENB .504
+
+#### *Update:*
+
+Update ENBSeries to version .504 dated 1-4-2026
+
+#### *Add-In:*
+
+Evanora - Female Player Voice Pack (DBVO and PC Headtracking)
+
+Evanora - PC Head Tracking and Voice Type Preset
+
+Dragonborn Voice Over DBVO - Allison Voice Pack
+
+DBVO Allison - Interesting NPCs SE (3DNPC)
+
+DBVO Allison - Mod Megapack AIO
+
+Valerie DBVO
+
+Valerie DBVO - Even More Patches
+
+Valerie - PC HT VT
+
+Elas - Elven Voice Pack for DBVO
+
+DBVO - Elas - USSEP
+
+DBVO - Elas - Alternate Start - Live Another Life
+
+DBVO - Elas - Auri
+
+DBVO - Elas - Creation Club (AE) Content
+
+DBVO - Elas - Inigo
+
+DBVO - Elas - Interesting NPCs (3DNPC)
+
+DBVO - Elas - Kaidan 2
+
+DBVO - Elas - Kaidan Extended
+
+DBVO - Elas - More To Say (Complete)
+
+DBVO - Elas - Relationship Dialogue Overhaul
+
+DBVO - Elas - Serana Dialogue Add-On (FIXED)
+
+DBVO - Elas - Sirenroot
+
+DBVO - Elas - The Forgotten City
+
+DBVO - Elas - Wyrmstooth
+
+Elas Voicepack for PC Head Tracking and Voice Type
+
+Talion Patch - Wyrmstooth
+
+Talion Patch - USSEP
+
+Talion Patch - Song of the Green (Auri Follower)
+
+Talion Patch - Sirenroot
+
+Talion Patch - Olenveld
+
+Talion Patch - More to Say
+
+Talion Patch - Kaidan
+
+Talion Patch - Inigo
+
+Talion Patch - Forgotten City
+
+Talion Patch - Darkend
+
+Talion Patch - Cutting Room Floor
+
+Talion Patch - Beyond Reach
+
+Talion Patch - Alternate Start - Live Another Life
+
+Talion Patch - 3DNPC
+
+Talion Patch - Whispering Door Quest Expansion
+
+Talion Patch - The Only Cure Quest Expansion
+
+Talion Patch - Serana Dialogue Add-On
+
+Talion Patch - Paarthurnax Quest Expansion
+
+Talion Patch - House of Horrors Quest Expansion
+
+PC Head Tracking and Voice Type Pack - Talion
+
+Talion DBVO Pack - Base Game and DLCs
+
+Vanaheimr - Snow
+
+Icy Mesh Remastered - Complex Parallax Addon
+
+[dint999]BDOR Hairs SSE 0.20.7z
+
+Valkyr HDT-SMP Hairstyles 01
+
+Valkyr HDT-SMP Hairstyles 02
+
+Steelthorn Steel Weapons Replacer
+
+Steelthorn Sword Scabbards
+
+Vanilla Complex Parallax - Landscapes
+
+Terrain Parallax Blending Fix
+
+SB - Fixed Windhelm Entrance
+
+#### *Remove:*
+                                                                                     
+Nordic snow
+
+Edmond's HD Nordic Snow with Parallax 
+
+Nordic Snow - Complex material
+
+
 # 2_6_4
 
 #### *Update:* 
