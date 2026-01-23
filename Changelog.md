@@ -1,5 +1,60 @@
 ## Version History:
 
+# 2_6_6 Save game safe
+
+#### *Add-In:*
+
+Bonemold Armors and Weapons Retexture
+
+Chitin Armors Retexture SE
+
+Faction Armors and Weapons Retexture SE
+
+Ghosts of the Tribunal Retexture SE
+
+Robes Retexture SE
+
+Saints and Seducers Retexture SE
+
+Stalhrim Armors and Weapons Retexture SE
+
+Unique Armors and Weapons Retexture SE
+
+Dwemer Armors and Weapons Retexture SE
+
+Common Clothing Retexture SE
+
+Dragon Armors and Weapons Retexture SE
+
+Ebony Armors and Weapons Retexture SE
+
+Daedric Armors and Weapons Retexture SE
+
+Orcish Armors and Weapons Retexture SE
+
+Iron Armors and Weapons Retexture SE
+
+Steel Armors and Weapons Retexture SE
+
+Imperial Armors and Weapons Retexture SE
+
+Elven Armors and Weapons Retexture SE
+
+Glass Armors and Weapons Retexture SE
+
+Falmer Armors and Weapons Retexture SE
+
+Ancient Nord Armors and Weapons Retexture SE
+
+#### *Remove:*
+
+Frankly HD Dawnguard armor
+
+#### *Changes:*
+
+switch steel dagger with Revoith's silver dagger model
+
+
 # 2_6_5 and 2_6_5_1
 
 
