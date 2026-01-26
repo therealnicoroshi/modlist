@@ -279,15 +279,11 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 
 ###  (skip to First Start Up if playing 16:9 format):
 
-### Optional Setting the HUD for widescreen resolution.
+### Optional Setting the HUD elements for widescreen resolution.
 
-Search in MO2 Left pane for 'Wide'.
+### See 21x9 Widescreen support separator at the bottom of MO2.
 
-#### *Enable all of them (There should be 5 files found).*
-
-#### *Search MO2 left pane for Widgets and re-install STB Widgets for 21:9 format*
-
-#### *Search MO2 Left pane for The Elder Scrolls Legends - Loading Screens and re-install for 21:9 format*
+## Enable all mods within
 
 ### **Don't forget to run Bethini and change your resolution, and LOOT in the top exe icons to sort your load order**
 
@@ -295,7 +291,7 @@ Search in MO2 Left pane for 'Wide'.
 
 ## *No official controller support provided*
 
-However people have gotten controllers to work with this list and there is a Beta Controller map on the Discord to try provided as is by Gremlin
+### However There is a pinned post on the discord for a universal controller mod you can try.
 
 ***
 
