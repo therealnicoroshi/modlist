@@ -1,6 +1,6 @@
 ## Version History:
 
-# 2_6_7 Save Game Safe
+# 2_6_7 Save Game Safe *Be sure to run Nemesis*
 
 #### *Add-In:*
 
