@@ -242,6 +242,8 @@ Just repeat the Drag and drop step after any update.
 
 #### I suggest turning on saves at completion points (clear dungeon, level up, player get up, etc), and Changing the save button for quick saves to something unused while setting the SSS0 save button to the '; :' key where Vanilla quicksaves are mapped by default in this list (See F11 in game for Keymap).
 
+### 🔷Doing this will ensure your manual saves from that button are using the SSSO mod safe save system to avoid corruption 🔷
+
 ## 
 
 ### Stock Game
