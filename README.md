@@ -71,8 +71,6 @@ The Nico Experience
 
 **The Nico Experience** only supports **English Steam** versions of Skyrim Anniversary Edition. **GOG and other Languages are not supported**. The specific version used is 1.5.97 with the creation club content from 1.6.1170.
 
-**Your Keyboard MUST be set to English U.S. or Eldritch Blast will fail to download**
-
 :warning: :exclamation: **THE NICO EXPERIENCE REQUIRES THE FULL PAID UPDATE TO SKYRIM ANNIVERSARY EDITION. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS** :exclamation: :warning:
 
 Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and **The Nico Experience**.
@@ -214,9 +212,9 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 
-❗  **IMPORTANT STEPS DO NOT SKIP** ❗
+##❗  **IMPORTANT STEPS DO NOT SKIP** ❗
 
-## Run VRAMr on performance setting
+## Run VRAMr on performance setting unless you have 24GB or more of VRAM on your graphics card.
 
 ### You can find VRAMr at the far right of the top of MO2 where all the executables are.
 
@@ -232,7 +230,9 @@ Allow it time to install then activate the plug in by clicking on the box to che
 
 Just repeat the Drag and drop step after any update.
 
-## You will need to set the player ID to use 'Skyrim Save System Overhaul'. 
+***
+
+## ❗You will need to set the player ID to use 'Skyrim Save System Overhaul'❗ 
 
 ### Follow the instructions under the 'Set Player ID' section of the instructions 
 
@@ -244,12 +244,7 @@ Just repeat the Drag and drop step after any update.
 
 ### 🔷Doing this will ensure your manual saves from that button are using the SSSO mod safe save system to avoid corruption 🔷
 
-## 
-
-### Stock Game
-
-The Nico Experience utilizes a Wabbajack technology called Stock Game. What this essentially does is create a copy of your Skyrim installation within the installation location of the list. This enables greater compatibility with other mod-lists.
-
+***
 
 ### Change this line
 
@@ -261,20 +256,25 @@ Change this line to reflect the graphics card you are using if not changed autom
 
 [Display]/sScreenShotBaseName=X:\Modding\Screenshots\ScreenShot
 
+***
+
 ### Page File Manager
 
 This list uses a page file manager that will tell you if you do not have a large enough page file and set it  automatically for you (If you agree)
 
 You need this to run the game smoothly. Either allow the manager to set it for you or manually set it to 40,960 yourself.
 
+***
+
 ### Set your affinity
 
 In MO2 top left find the tools tab again, and click on it.
 
-Find: 
-#### *Set CPU Affinity* 
+Find:  *Set CPU Affinity* 
 
 Click it and allow it to set the affinty for your processor.
+
+***
 
 ### Set Voice type
 
@@ -282,20 +282,19 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 ❗ Choose only One ❗
 (Note): The Dragon born voice over can be set to match with game running in the MCM Menu.
 
-
 ***
 
 ## Widescreen Support
 
 ***
 
-###  (skip to First Start Up if playing 16:9 format):
+####  (skip to First Start Up if playing 16:9 format):
 
 ### Optional Setting the HUD elements for widescreen resolution.
 
-### See 21x9 Widescreen support separator at the bottom of MO2.
+#### See White 21x9 Widescreen support separator at the bottom of MO2.
 
-## Enable all mods within
+#### Enable all mods within
 
 ### **Don't forget to run Bethini and change your resolution, and LOOT in the top exe icons to sort your load order**
 
