@@ -1,5 +1,146 @@
 ## Version History:
 
+# 2_6_7 Save Game Safe
+
+#### *Add-In:*
+
+Zhizhen Tattoo
+
+Yyvengar Bodypaint - Designs of the Lupine - RaceMenu Overlays
+
+CBBE Unholy Tattoos
+
+Serval Khajiit RaceMenu Overlays
+
+Riellata - Ayleid (High Elf) HPH Preset - Bodyslide - RaceMenu Overlays
+
+Beast Race Bodypaints SE -Khajiit and Argonian Themed Bodypaints Facepaints RaceMenu Overlays-
+
+Barbarian Bodypaints - Racemenu Body and Head Overlays for UUNP CBBE and Males
+
+Dovahzul Overlays
+
+Lyru's Tattoo pack collection
+
+Lyru's Tattoo pack collection 2
+
+Obi's Tattoos 3BA 4K
+
+Overlay Collection
+
+Pseudo's Constellation Overlays for 3BA BHUNP and UBE
+
+OBody Next Generation
+
+OBody NG Configuration File
+
+Am Chubby - Realistic Bodyslide Preset 3ba V2
+
+Am Cuddles - Bodyslide Preset 3ba V2
+
+Am Skinny - Bodyslide Preset 3ba V2
+
+Aphrodite Ambrosia - BodySlide Preset for CBBE 3BA
+
+Busty Babe - 3BA (3BBB) CBBE Bodyslide Preset
+
+Delia's Nightfall - Viper's 3BA Bodyslide Preset
+
+Dibell-ass CBBE 3BA BHUNP bodyslide preset
+
+Dibell-ass CBBE 3BA BHUNP bodyslide preset (clothes)
+
+Dibella's strenght CBBE 3BA BHUNP bodyslide preset
+
+Dibella's strenght CBBE 3BA BHUNP bodyslide preset (Clothes)
+
+Dragonsong Body Series 3BA
+
+Elegant and Realistic CBBE 3BA - BodySlide Preset
+
+CBBE 3BA 3BBB Bodyslide Preset - Graceful body
+
+Hecate Sealed BodySlide Preset for CBBE 3BBB 3BA
+
+Hip-ster CBBE 3BA bodyslide preset
+
+Hip-ster CBBE 3BA bodyslide preset (clothes)
+
+itllBuff - Flat Chested to Large Body CBBE 3BA
+
+Khaleesi 3BA-UBE BodySlide Preset V2
+
+Kinda Thicc 3ba Body Preset
+
+Lovely Lady - 3BA (3BBB) CBBE Bodyslide Preset
+
+Lusty Maid - A CBBE 3BBB 3BA Bodyslide Preset for SE
+
+Natural and Realistic CBBE 3BA - BodySlide Preset
+
+North Battlemaiden- A CBBE 3BA Presset
+
+o777 Au Naturel - Fit and Natural CBBE BodySlide Preset
+
+OWrong Bodies - 3BA Bodyslide presets for OBody (6 presets) 
+
+3BA Painterly - Classical Statuesque CBBE Preset
+
+Real Body - 3BA (3BBB) CBBE Bodyslide Presets
+
+Safiyya 3BA - Lazarus Bodyslide Presets
+
+SandwichBody CBBE 3BA BodySlide Preset
+
+SandwichFighter CBBE 3BA BodySlide Preset
+
+ShyGirl - 3ba Cbbe bodyslide preset
+
+Slim and Realistic CBBE 3BA - BodySlide Preset
+
+Sporty and Realistic CBBE 3BA V3 - BodySlide Preset
+
+The Big Essentials Cbbe 3ba Bodyslide Preset
+
+The Common Lass - SerketHetyt's 3BA and Hands Redone Bodyslide Preset
+
+Vestal Body 3BA - Lazarus Bodyslide Presets
+
+Quiet Confidence - Viper's 3BA BHUNP UBE Bodyslide Preset
+
+RaceMenu Undress
+
+Wolfpaint - Face - Racemenu Overlays - Male and Female
+
+Kenokun's Warpints - RM Overlays
+
+OverlayFixAndOtherFixes
+
+Page File Manager
+
+Horsepower - Modernized Horse Riding
+
+Additional Attack - Settings Loader
+
+Auto Input Switch (1.5.97)
+
+Classic Sprinting Redone (Latest version for SE)
+
+Bow Rapid Combo V3 - Settings Loader
+
+Controller Support for SkyUI's Favorites Menu Groups
+
+Gamepad Plus Plus
+
+Quick Light SE - Settings Loader
+
+Complete Controller Setup
+
+#### *Update:*
+
+F11 HotKey Reminder to reflect 'O' being used for OBody
+
+
 # 2_6_6 Save game safe
 
 #### *Add-In:*
