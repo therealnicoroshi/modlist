@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 2.6.6 by Nicoroshi 
+## Version 2.6.7 by Nicoroshi 
 ### Updating from 2.6.3 or earlier REQUIRES NEW GAME. Safe to Update from 2.6.4 or later
 
 <table stlyle="border: none;">
@@ -255,12 +255,18 @@ Change this line to reflect the graphics card you are using if not changed autom
 
 [Display]/sScreenShotBaseName=X:\Modding\Screenshots\ScreenShot
 
+### Page File Manager
+
+This list uses a page file manager that will tell you if you do not have a large enough page file and set it  automatically for you (If you agree)
+
+You need this to run the game smoothly. Either allow the manager to set it for you or manually set it to 40,960 yourself.
+
 ### Set your affinity
 
 In MO2 top left find the tools tab again, and click on it.
 
 Find: 
-### *Set CPU Affinity* 
+#### *Set CPU Affinity* 
 
 Click it and allow it to set the affinty for your processor.
 
@@ -289,9 +295,17 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 
 ***
 
-## *No official controller support provided*
+## Controller Files
 
-### However There is a pinned post on the discord for a universal controller mod you can try.
+### ❗There is NO official controller support. Use at your own risk❗
+
+#### However There are included files for those that wish to set up their own controller mapping for the list
+
+#### Enable all the files in the white Controller files seperator near the bottom to use
+
+#### You WILL need to (probably) modify some of the default keys of mods that have settings loaders in that section
+
+#### You WILL also need to re-install the 'complete controller setup' mod and set options in it's installer
 
 ***
 
