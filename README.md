@@ -193,6 +193,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 ### *If the log specifically mentions 'Curios'*
 
    - **You did not follow the installation instructions!**
+   - **The free version of Curios has capital letters. This list requires the downloaded version from Bethesda which is lower case**
    -  Go back to [Pre-Installation](README.md#pre-installation) and follow it this time.
 
 ### *Wabbajack could not find my game folder:*
