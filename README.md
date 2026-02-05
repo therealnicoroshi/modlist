@@ -343,7 +343,7 @@ After your character is created and you name them >>>
 
 As of Version 1_3_2 the MCM Recorder should Auto Run on new game start with recommended settings.
 
-### ❗ IT IS HIGHLY RECOMMENDED TO ALLOW THE MCM RECORDER FULLY COMPLETE BEFORE CONTINUING ❗
+### ❗ YOU MUST ALLOW THE MCM RECORDER FULLY COMPLETE BEFORE CONTINUING ❗
 
 #### *If this fails for any reason or gets stuck you can edit the .ini for MCM Recorder in MO2 and disable the auto run feature, If it has trouble with one or more of the mods choose 'skip this mod' as you can configure it after the MCMRecorder completes* 
 
@@ -366,9 +366,7 @@ Leave shadows OFF in Strange Runes
 
 ### ❗ NOTE: This is only an image and DOES NOT change keymapping itself ❗ It is only a quick reference that will need to be updated if you change any key Mapping.
 
-### It will look Something like this>>>
-
-![](https://github.com/therealnicoroshi/modlist/blob/main/SkyrimSE%202024-08-26%2022-47-26.jpg?raw=true)
+### *Some important keys to know:*
 
 Caps Lock + Enter = ENB Menu
 
