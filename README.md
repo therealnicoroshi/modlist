@@ -239,6 +239,8 @@ Just repeat the Drag and drop step after any update.
 
 - [Here>>>](https://www.nexusmods.com/skyrimspecialedition/mods/122343?tab=description)
 
+  ![](https://github.com/therealnicoroshi/modlist/blob/main/Screenshot%20(18).png)
+
 #### When back in game enable the mod in the MCM and configure it to your liking. 
 
 #### I suggest turning on saves at completion points (clear dungeon, level up, player get up, etc), and Changing the save button for quick saves to something unused while setting the SSS0 save button to the '; :' key where Vanilla quicksaves are mapped by default in this list (See F11 in game for Keymap).
