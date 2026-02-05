@@ -1,5 +1,60 @@
 ## Version History:
 
+# 2_6_*
+
+#### *Add-In:*
+
+Nordic UI - Clean StartMenu
+
+Shadow of Skyrim - No Startup Message
+
+Shadow of Skyrim - Trembling Hands Unequips
+
+Male Furniture Animation Pack
+
+Modern Female Sitting Animations Overhaul
+
+Sonders Keyword Distribution Resources
+
+NPC Animation Remix (OAR) - main archive
+
+2 sitting animations for player character DAR
+
+Arm Movement Animations (OAR)
+
+SIGMA - Sword animations - 1st person
+
+Assorted Behavior Fixes
+
+Sigma - magic
+
+SIGMA - Battleaxe animations - 1st person
+
+SIGMA - Greatsword animations - 1st person
+
+SIGMA - Waraxe animations - 1st person
+
+SIGMA - Mace animations - 1st person
+
+SIGMA - Shield animations - 1st person
+
+SIGMA - Warhammer animations - 1st person
+
+Unlocked 1st Person Combat
+
+State Behavior Framework
+
+Vanilla Attack Annotation Fix (With FirstPerson Support)
+
+Stances NG
+
+AC Valhalla Inspired Dagger Dual Dagger Moveset Player
+
+#### *Update:*
+
+Update MCO WoLong QuarterStaffs(S.C.A.R)
+
+
 # 2_6_7 Save Game Safe *Be sure to run Nemesis*
 
 #### *Add-In:*
