@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 2.6.8 by Nicoroshi 
+## Version 2.6.9 by Nicoroshi 
 ### Updating from 2.6.3 or earlier REQUIRES NEW GAME. Safe to Update from 2.6.4 or later
 
 <table stlyle="border: none;">
@@ -233,52 +233,6 @@ Just repeat the Drag and drop step after any update.
 
 ***
 
-## ❗You will need to set the player ID to use 'Skyrim Save System Overhaul'❗ 
-
-### Follow the instructions under the 'Set Player ID' section of the instructions 
-
-- [Here>>>](https://www.nexusmods.com/skyrimspecialedition/mods/122343?tab=description)
-
-  ![](https://github.com/therealnicoroshi/modlist/blob/main/Screenshot%20(18).png)
-
-#### When back in game enable the mod in the MCM and configure it to your liking. 
-
-#### I suggest turning on saves at completion points (clear dungeon, level up, player get up, etc), and Changing the save button for quick saves to something unused while setting the SSS0 save button to the '; :' key where Vanilla quicksaves are mapped by default in this list (See F11 in game for Keymap).
-
-### 🔷Doing this will ensure your manual saves from that button are using the SSSO mod safe save system to avoid corruption 🔷
-
-***
-
-### Change this line
-
-#### In MO2 find 'Tools' in the top left and click on it. Navigate to ini editor/ SkyrimPrefs.ini/[Launcher] sD3DDevice="NVIDIA GeForce RTX 3090
-
-Change this line to reflect the graphics card you are using if not changed automatically:
-
-#### Also Change this line in MO2/Tools/ini editor/Skrim.ini to reflect where you want screenshots saved:
-
-[Display]/sScreenShotBaseName=X:\Modding\Screenshots\ScreenShot
-
-***
-
-### Page File Manager
-
-This list uses a page file manager that will tell you if you do not have a large enough page file and set it  automatically for you (If you agree)
-
-You need this to run the game smoothly. Either allow the manager to set it for you or manually set it to 40,960 yourself.
-
-***
-
-### Set your affinity
-
-In MO2 top left find the tools tab again, and click on it.
-
-Find:  *Set CPU Affinity* 
-
-Click it and allow it to set the affinty for your processor.
-
-***
-
 ### Set Voice type
 
 Set PC head tracking in MO2 left pane under Dialog to your preferred voice type before starting the game.
@@ -314,6 +268,36 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 #### You WILL need to (probably) modify some of the default keys of mods that have settings loaders in that section
 
 #### You WILL also need to re-install the 'complete controller setup' mod and set options in it's installer
+
+***
+
+ ### Change this line
+
+#### In MO2 find 'Tools' in the top left and click on it. Navigate to ini editor/ SkyrimPrefs.ini/[Launcher] sD3DDevice="NVIDIA GeForce RTX 3090
+
+Change this line to reflect the graphics card you are using if not changed automatically:
+
+#### Also Change this line in MO2/Tools/ini editor/Skrim.ini to reflect where you want screenshots saved:
+
+[Display]/sScreenShotBaseName=X:\Modding\Screenshots\ScreenShot
+
+***
+
+### Page File Manager
+
+This list uses a page file manager that will tell you if you do not have a large enough page file and set it  automatically for you (If you agree)
+
+You need this to run the game smoothly. Either allow the manager to set it for you or manually set it to 40,960 yourself.
+
+***
+
+### Set your affinity
+
+In MO2 top left find the tools tab again, and click on it.
+
+Find:  *Set CPU Affinity* 
+
+Click it and allow it to set the affinty for your processor.
 
 ***
 
@@ -403,6 +387,37 @@ In the left pane under Anti-Alaising choose either DLAA or FSR 3.1
 #### *Dodge key can be changed by searching in MO2 (bottom left) for 'TK Dodge RE'. In the skse/plugins/TK Dodge RE.ini change the DodgeHotkey = to the numerical value of the key desired using the DX scan codes linked below*
 
 - [DirectX Scan Codes for ini values](https://gist.github.com/arithex/3e953d1eb096afe58ce05ba6846493e4)
+
+
+***
+
+## ❗You will need to set the player ID to use 'Skyrim Save System Overhaul'❗ 
+
+### Follow the instructions under the 'Set Player ID' section of the instructions 
+
+- [Here>>>](https://www.nexusmods.com/skyrimspecialedition/mods/122343?tab=description)
+
+  ![](https://github.com/therealnicoroshi/modlist/blob/main/Screenshot%20(18).png)
+
+#### When back in game enable the mod in the MCM and configure it to your liking. 
+
+#### I suggest turning on saves at completion points (clear dungeon, level up, player get up, etc), and Changing the save button for quick saves to something unused while setting the SSS0 save button to the '; :' key where Vanilla quicksaves are mapped by default in this list (See F11 in game for Keymap).
+
+### 🔷Doing this will ensure your manual saves from that button are using the SSSO mod safe save system to avoid corruption 🔷
+
+***
+
+## ❗You will need to set up and configure Heart of Magic ❗
+
+### When in game press 'Y' to bring up the Heart of Magic interface
+
+- [Follow the instructions >>>here<<<](https://www.nexusmods.com/skyrimspecialedition/mods/171146)
+
+### I recommend doing the complex scan after clicking on the Python install and toggling on 'Spell Tomes Only' button.
+
+### Personally I used the easy profile in my game and set to auto learn the next spell in the tree but feel free to try different things or not use at all
+
+***
 
 ### Now you can talk to Mara and start your adventure
 
