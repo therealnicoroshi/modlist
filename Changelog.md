@@ -1,5 +1,41 @@
 ## Version History:
 
+# 2_7_0
+
+#### *Add-In:*
+
+ADXP I MCO Skyrim Hunter Series 3 (1hm Animation)
+
+MCO wolong Spear
+
+Frost Colossi
+
+update NPCs_CP to include more drowner. Sirens, and Swamp skeleton encounters on the Northern coast
+
+Fix issue with Windhelm guard CTD
+
+Stuck Underwater Visuals and Sounds Fix SKSE
+
+
+# 2_6_9
+
+#### *Add-In:*
+
+EDGE UI Loading Screen Fix (For spinner only)
+
+Dear Diary Dark Mode (for blank spinner file)
+
+Native EditorID Fix (Skyrim 1.5)
+
+00 - Detailmap seamfix - SE
+
+Skyrim Configuration Menu
+
+TAA Flicker Fixer
+
+Inertia - Physical Movement Response System - SKSE
+
+
 # 2_6_8
 
 #### *Add-In:*
