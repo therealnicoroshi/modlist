@@ -370,6 +370,17 @@ Up Arrow = Opens progress bar for dropping from snare trap
 
 W (repeated) = fills progress bar to drop from snare trap
 
+### *Some cool keys/included mods to play with worthy of note:*
+
+Shift + z = Opens Tailor and wiggy whcih can be used to change NPC hair style/color as well as build a custom outfit in game real time
+
+O = Opens Obody which can change female body shape in game real time
+
+Y = Heart of Magic menu
+
+Backspace = Immersive Equipment displays to change equipment location/behaviors in real time in game.
+
+
 ###  ❗ *DLAA or FSR 3.1 Settings in ENB* ❗
 
 Open ENB menu in game using Caps Lock + Enter. 
