@@ -1,5 +1,24 @@
 ## Version History:
 
+# 2_7_1
+
+#### *Add-In:*
+
+Tailor-SE
+
+Mists of Tamriel
+
+#### *Remove:*
+
+Volumetric Mists
+
+#### *Update:*
+
+Loading screen image to remove transparency
+
+Repair missing required mods for Prisma UI
+
+
 # 2_7_0
 
 #### *Add-In:*
