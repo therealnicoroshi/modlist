@@ -2,14 +2,14 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 2.7.2 by Nicoroshi 
+## Version 2.7.3 by Nicoroshi 
 ### Updating from 2.6.3 or earlier REQUIRES NEW GAME. Safe to Update from 2.6.4 or later
 
 <table stlyle="border: none;">
 <tr>
 <td><a href="https://www.nexusmods.com/skyrimspecialedition/mods/109901">Nexus Page</a></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download Wabbajack</a></td>	
-<td><a href="https://loadorderlibrary.com/lists/the-nico-experience-24">Load Order Library</a></td>
+<td><a href="https://loadorderlibrary.com/lists/the-nico-experience-25">Load Order Library</a></td>
 <td><a href="https://discord.gg/kHehbzuFZ4"><img alt="Discord" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="64px" ></a></td>
 </tr>
 </table>
@@ -213,7 +213,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 
-##❗  **IMPORTANT STEPS DO NOT SKIP** ❗
+##❗  **IMPORTANT STEPS DO NOT SKIP UNLESS YOUR GRAPHICS CARD HAS 24GB OF VRAM OR MORE** ❗
 
 ## Run VRAMr on performance setting unless you have 24GB or more of VRAM on your graphics card.
 
@@ -263,7 +263,7 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 
 #### However There are included files for those that wish to set up their own controller mapping for the list
 
-#### Enable all the files in the white Controller files seperator near the bottom to use
+#### Enable all the files you want in the white Controller files seperator near the bottom to use (Only the complete controller file is required but some of the preloaders and gamepad ++ might be helpful).
 
 #### You WILL need to (probably) modify some of the default keys of mods that have settings loaders in that section
 
@@ -273,7 +273,7 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 
  ### Change this line
 
-#### In MO2 find 'Tools' in the top left and click on it. Navigate to ini editor/ SkyrimPrefs.ini/[Launcher] sD3DDevice="NVIDIA GeForce RTX 3090
+#### In MO2 find 'Tools' in the top left and click on it. Navigate to ini editor/ SkyrimPrefs.ini/[Launcher] sD3DDevice="NVIDIA GeForce RTX 5090
 
 Change this line to reflect the graphics card you are using if not changed automatically:
 
@@ -321,7 +321,7 @@ This will start the game and bring you to the character creation menu.
 
 #### This will take a few minutes to start up as the game needs to compile shaders for ENB on first start up. Be Patient.
 
-After your character is created and you name them >>>
+### After your character is created and you name them >>>
 
  ### The MCM Menu:
 
@@ -345,6 +345,7 @@ Leave shadows OFF in Strange Runes
 
 #### Spell HotBar will be empty by default, and show when weapons are drawn. Assign Keys to the slots/ Tweak size, Amount, and location in the MCM. Add Spells to it by opening the in game magic menu Hovering over a spell then clicking the assigned hot key for a slot on the bar.
 
+#### You will need to manually restart SunHelm in the MCM if you want to play with Survival features from that mod.
 
 ### *As of Version 1.8.8 Function Key 11 (F11) will pull up the KeyMapping image seen here. It can be modified in game by clicking on a key and changing it's values. Tab to exit*
 
