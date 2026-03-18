@@ -3,7 +3,7 @@
 
 
 ## Version 2.7.3 by Nicoroshi 
-### Updating from 2.6.3 or earlier REQUIRES NEW GAME. Safe to Update from 2.6.4 or later
+### Updating from 2.7.2 or earlier REQUIRES NEW GAME.
 
 <table stlyle="border: none;">
 <tr>
