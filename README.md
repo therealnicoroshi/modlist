@@ -113,6 +113,8 @@ Space required: ~173GB Archives  ~342GB install Size  40GB Page file ~555GB Tota
 
 See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html
 
+# **As of the latest versions MO2 will ❗Alert you ❗ if your page file is not set correctly and offer to set it correctly for you**
+
 :warning: **NOTE**: AMD RX 580 and older cards are **not supported**. :warning:
 
 ***
@@ -154,11 +156,11 @@ Once you have completed pre-installation, download the [Latest version of Wabbaj
 Downloading and installing **The Nico Experience** can take a while depending on your internet connection and computer. To install, complete the following steps.
 
 1. Open Wabbajack and click on browse modlists. At the top in the Games Window choose Skyrim Special Edition. Check mark next to Show Unofficial Lists.
-2. Press the download button on The Nico Expereince, and wait for it to download. Once downloaded The arrow down will change to a 'Play' Arrow facing right. Press that to begin installation of the list.
+2. Press the download button on The Nico Expereince, and wait for it to download. Once downloaded Wabbajack will have an *Install* button. ❗DO NOT PRESS IT YET❗
 3. Set the installation folder to be somewhere like C:\The Nico Expereince. **Do not install it to your desktop, or ANY protected Windows folders like Program Files or Downloads.**
 4. The download location does not need to be on a SSD but it makes installing a bit faster.
-5. Make sure you are logged into Mega, Nexus and Lover's Lab then Press the play button to begin.
-6. Some files will need to be manually downloaded during the installation process. If they fail for any reason see [potentially problematic files](#potentially-problematic-files) for links and instructions to resolve
+5. Make sure you are logged into Mega, Nexus and Lover's Lab by clicking the settings button and ensuring the *LOGGED IN* is showing as well as manually logging into Lovers Lab then Press the install button to begin.
+6. Some files will need to be manually downloaded during the installation process. Watch for Prompts from Lovers Lab. If they fail for any reason see [potentially problematic files](#potentially-problematic-files) for links and instructions to resolve
 7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
 
 ***
@@ -174,7 +176,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
  Sometimes due to multiple downloads happening at once some files may not download correctly from Nexus or Lovers Lab manual downloads.
  
- Running wabbajack again should allow these files to download.
+ Running wabbajack again should allow these files to download. This is common so don't fret and use the *Retry* button at the bottom.
  
   ### Potentially Problematic Files
   
@@ -194,7 +196,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
    - **You did not follow the installation instructions!**
    - **The free version of Curios has capital letters. This list requires the downloaded version from Bethesda which is lower case**
-   -  Go back to [Pre-Installation](README.md#pre-installation) and follow it this time.
+   -  Go back to [Pre-Installation](README.md#pre-installation) and follow it this time. You will need the paid version (lower case) of curios.
 
 ### *Wabbajack could not find my game folder:*
 
@@ -345,7 +347,7 @@ Leave shadows OFF in Strange Runes
 
 #### Spell HotBar will be empty by default, and show when weapons are drawn. Assign Keys to the slots/ Tweak size, Amount, and location in the MCM. Add Spells to it by opening the in game magic menu Hovering over a spell then clicking the assigned hot key for a slot on the bar.
 
-#### You will need to manually restart SunHelm in the MCM if you want to play with Survival features from that mod.
+#### You will need to manually restart SunHelm in the MCM if you want to play with Survival features from that mod. ❗Do this after talking to Mara statue and entering the game world ❗
 
 ### *As of Version 1.8.8 Function Key 11 (F11) will pull up the KeyMapping image seen here. It can be modified in game by clicking on a key and changing it's values. Tab to exit*
 
@@ -380,6 +382,8 @@ O = Opens Obody which can change female body shape in game real time
 Y = Heart of Magic menu
 
 Backspace = Immersive Equipment displays to change equipment location/behaviors in real time in game.
+
+z = Stances
 
 
 ###  ❗ *DLAA or FSR 3.1 Settings in ENB* ❗
@@ -431,9 +435,7 @@ In the left pane under Anti-Alaising choose either DLAA or FSR 3.1
 
 ***
 
-### Now you can talk to Mara and start your adventure
-
-### ❗ DO NOT save your created character using Proteus UNTIL AFTER you have talked to Mara, spawned in Skyrim, and messages in upper left have completed ❗
+### ❗ DO NOT save your created character using Proteus UNTIL AFTER you have talked to Mara, spawned in Skyrim, Configured mods listed above, re-entered game and messages in upper left have completed ❗
 
 
 ***
@@ -513,13 +515,9 @@ Run latency at ultra and any settings you can at high performance in the driver.
 Panjano has a good video on how to set this up
  [>>>Here<<<](https://www.youtube.com/watch?v=5DqcgHtkm9I)
 
+4. Make sure your power plan is set for High performance and **NOT** balanced or power saver
 
-4. Go to system settings and set virtual memory on the drive the mod organizer is on at 40GB min and 40GB Max. Save and restart.
-This will be your swap file and supplement the VRAM if needed.
-
-5. Make sure your power plan is set for High performance and **NOT** balanced or power saver
-
-6. Highly recommended to set up a standby memory purge Windows sceduled task. Good video on how to do that here>>> [Empty Standbu List Tutorial Video](https://www.youtube.com/watch?v=CAxuGjdahd0)
+5. Highly recommended to set up a standby memory purge Windows sceduled task. Good video on how to do that here>>> [Empty Standbu List Tutorial Video](https://www.youtube.com/watch?v=CAxuGjdahd0)
 
 ***
 
@@ -547,11 +545,13 @@ This will be your swap file and supplement the VRAM if needed.
 
    In addition to the tweaks recommended above people have removed the ENB from the list to trade graphical fidelity for frame rate.
 
-   I have seen this list play on a 1080ti trading ENB and reshade for Community Shaders.
+   I have seen this list play on a 1080ti trading ENB for Community Shaders.
 
    It has also been reported to play on a graphics card that only has 8GB of VRAM. YMMV.
 
    We do have a topic in the Discord for people to discuss what they have done to get it to run on hardware below the recommended minimum.
+
+   If you have a NASA computer and want there is a Global Illumination Reshade preset on the Discord that I personally use for your enjoyment. It will eat 15-20 FPS so make sure you have that to spare or are using something like Puredark's AIO upscaling and frame gen to make up the difference.
 
 ***
 
@@ -559,7 +559,7 @@ This will be your swap file and supplement the VRAM if needed.
 
 ***
 
-### ❗Various issues related to reloading saves from within the game or exiting to the main menu and reloading from there. If you want the most bug free experience, always close and restart the game to load a save. ❗
+### ❗Various issues related to reloading saves from within the game or exiting to the main menu and reloading from there. If you want the most bug free experience, always close and restart the game to load a save. ❗As of the latest version The game will ALWAYS quit out to desktop and reload from last save to avoid corruption unless using Shadow of Skyrim.
 
 ### With MO2 Executables not working as intended
 
@@ -569,11 +569,13 @@ Right click/ compatability/ Run as administrator
 
 ### Within the game
 
-#### ❗ Some of the Creation Club content 'might' be Borked. I am actively working to repair anything Creation Club that is included in this list. ❗
+#### ❗ Some of the Creation Club content 'might' be Borked. I am actively working to repair anything Creation Club that is included in this list. ❗As of the latest Version most if not all issues have been fixed.
 
 When destroying tables some lanterns, glazed candles, and horn candles will not drop to the ground. Conversely Some candles might drop to the ground as they now have physics because of the Destructable Syrim mod.
 
-If interupting an ilde animation with another animation it might stick the animation stopping you from doing anything else. click on an activatable item with animation or eat/drink to repair (basically play another animation).
+If interupting an ilde animation with another animation it might stick the animation stopping you from doing anything else.  
+
+#### Fix: Click on an activatable item with animation or eat/drink to repair (basically play another animation).
 
 If holding block and doing a bash you might get stuck in the block stance. Press M2 (block key) or M3 (mouse wheel click) again to come out. 
 
@@ -594,6 +596,8 @@ Scripted Dialog during The Wrath of Nature may not provide the correct dialog op
 The Fix is to disable this option in BBLS MCM until the Wrath of Nature scripted dialogs and quest is complete.
 
 Transformations from Wrath of Nature mod will crash the game in first person view. Please only transform in 3rd person.
+
+Sometimes Opening Heart of Magic and closing will toggle always run button. Press that button again to fix.
 
 ### ❗ DO NOT put iron arrows into a container or drop them out of your inventory❗ This might crash the game. Vanilla bug without any known workaround. Put them in a corpse or sell them instead.
 
