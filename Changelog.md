@@ -1,5 +1,24 @@
 ## Version History:
 
+# 2_7_3 REQUIRES NEW GAME
+
+#### *Add-In:*
+
+Boggarts vs Elves
+
+Sigma Bow 1st person animations
+
+Particle Wind
+
+#### *Update:*
+
+update SKSE co save optimizer to version 1.3.2 to fix issue with start of new game CTD
+
+#### *Remove:*
+
+remove Roguelike encounters to fix broken quest Gauldur Amulet becasue one of the brothers dies as ash pile breaking scripted scene.
+
+
 # 2_7_2
 
 Recompile of 2_7_1
