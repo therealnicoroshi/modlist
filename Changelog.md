@@ -1,5 +1,10 @@
 ## Version History:
 
+# 2_7_4  
+
+Recompile of mod list in the latest version of Wabbajack 4.0.4.1 
+
+
 # 2_7_3 REQUIRES NEW GAME
 
 #### *Add-In:*
