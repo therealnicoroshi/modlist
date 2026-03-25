@@ -113,7 +113,7 @@ Space required: ~173GB Archives  ~342GB install Size  40GB Page file ~555GB Tota
 
 See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html
 
-# **As of the latest versions MO2 will ❗Alert you ❗ if your page file is not set correctly and offer to set it correctly for you**
+### **As of the latest versions MO2 will ❗Alert you ❗ if your page file is not set correctly and offer to set it correctly for you**
 
 :warning: **NOTE**: AMD RX 580 and older cards are **not supported**. :warning:
 
