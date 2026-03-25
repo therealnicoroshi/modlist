@@ -349,7 +349,7 @@ Leave shadows OFF in Strange Runes
 
 #### You will need to manually restart SunHelm in the MCM if you want to play with Survival features from that mod. ❗Do this after talking to Mara statue and entering the game world ❗
 
-### *As of Version 1.8.8 Function Key 11 (F11) will pull up the KeyMapping image seen here. It can be modified in game by clicking on a key and changing it's values. Tab to exit*
+### *As of Version 1.8.8 Function Key 11 (F11) will pull up the KeyMapping image. It can be modified in game by clicking on a key and changing it's values. Tab to exit*
 
 ### ❗ NOTE: This is only an image and DOES NOT change keymapping itself ❗ It is only a quick reference that will need to be updated if you change any key Mapping.
 
