@@ -1,5 +1,34 @@
 ## Version History:
 
+# 2_7_5
+
+#### *Improvements/Fixes:*
+
+Quick auto clean MihailWatcherOnly of 19 identical to master records and removal of unresolved missing container item
+
+Remove 3 giant campfire textures from parallax gen that were disabling the fire in game
+
+#### *Update:*
+
+Update paired animation improvements to version 1.0.2
+
+Update Open Animation replacer to version 3.0.2
+
+#### *Add-In:*
+
+Open Animation Replacer - RaySense
+
+Raysense-Beam Walking Assist
+
+Raysense-Beam Walking Assist - 1st
+
+RaySense - Cover Animation
+
+RaySense - Edge Lookdown
+
+RaySense - Jumping over obstacles
+
+
 # 2_7_4  
 
 Recompile of mod list in the latest version of Wabbajack 4.0.4.1 
