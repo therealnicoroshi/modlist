@@ -1,5 +1,9 @@
 ## Version History:
 
+# 2_7_6
+
+Recompile using Wabbajack Version 4.2.1.0 Pre3
+
 # 2_7_5
 
 #### *Improvements/Fixes:*
