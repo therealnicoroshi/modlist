@@ -215,7 +215,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 
-##❗  **IMPORTANT STEPS DO NOT SKIP UNLESS YOUR GRAPHICS CARD HAS 24GB OF VRAM OR MORE** ❗
+❗  **IMPORTANT STEPS DO NOT SKIP UNLESS YOUR GRAPHICS CARD HAS 24GB OF VRAM OR MORE** ❗
 
 ## Run VRAMr on performance setting unless you have 24GB or more of VRAM on your graphics card.
 
