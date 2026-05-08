@@ -1,5 +1,16 @@
 ## Version History:
 
+# 2_7_7
+
+#### *Add-In:*
+
+DandelionsSE
+
+#### *Update*
+
+LOOT to latest Version
+
+
 # 2_7_6
 
 Recompile using Wabbajack Version 4.2.1.0 Pre3
