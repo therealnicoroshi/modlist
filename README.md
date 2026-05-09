@@ -199,6 +199,11 @@ It is possible that you may encounter an error with Wabbajack when installing. S
    - **The free version of Curios has capital letters. This list requires the downloaded version from Bethesda which is lower case**
    -  Go back to [Pre-Installation](README.md#pre-installation) and follow it this time. You will need the paid version (lower case) of curios.
 
+### *If the log mentions missing files such as installscript.vdf, Data_Scripts.zip, or Tools:*
+
+   - **You Did not download and install the Creation Kit or have unpacked the Data_Scripts.zip before installation was complete**
+   - Go back to [Pre-Installation](README.md#pre-installation) and follow the instructions.
+
 ### *Wabbajack could not find my game folder:*
 
    - Either buy the game or go back to the [Pre-Installation](README.md#pre-installation) step.
