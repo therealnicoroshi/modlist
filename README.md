@@ -353,7 +353,7 @@ Leave shadows OFF in Strange Runes
 
 #### Spell HotBar will be empty by default, and show when weapons are drawn. Assign Keys to the slots/ Tweak size, Amount, and location in the MCM. Add Spells to it by opening the in game magic menu Hovering over a spell then clicking the assigned hot key for a slot on the bar.
 
-#### You will need to manually restart SunHelm in the MCM if you want to play with Survival features from that mod. ❗Do this after talking to Mara statue and entering the game world ❗
+#### You will need to manually restart SunHelm in the MCM if you want to play with Survival features from that mod, and Shadow of Skyrim for the alturnative Death mod. ❗Do this after talking to Mara statue and entering the game world ❗
 
 ### *As of Version 1.8.8 Function Key 11 (F11) will pull up the KeyMapping image. It can be modified in game by clicking on a key and changing it's values. Tab to exit*
 
