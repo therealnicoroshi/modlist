@@ -1,5 +1,16 @@
 ## Version History:
 
+# 2_7_8
+
+#### *Add-In:*
+
+Khajiit Has Wares Tents Animated
+
+Modern Lighting Overhaul 2 (MLO2)
+
+Skyfall's Whiterun Bridges Replacer
+
+
 # 2_7_7
 
 #### *Add-In:*
