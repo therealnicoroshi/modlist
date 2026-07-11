@@ -2,14 +2,14 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 2.7.8 by Nicoroshi 
+## Version 2.7.9 by Nicoroshi 
 ### Updating from 2.7.2 or earlier REQUIRES NEW GAME.
 
 <table stlyle="border: none;">
 <tr>
 <td><a href="https://www.nexusmods.com/skyrimspecialedition/mods/109901">Nexus Page</a></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download Wabbajack</a></td>	
-<td><a href="https://loadorderlibrary.com/lists/the-nico-experience-28">Load Order Library</a></td>
+<td><a href="https://loadorderlibrary.com/lists/the-nico-experience-29">Load Order Library</a></td>
 <td><a href="https://discord.gg/kHehbzuFZ4"><img alt="Discord" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="64px" ></a></td>
 </tr>
 </table>
