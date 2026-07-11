@@ -1,5 +1,30 @@
 ## Version History:
 
+# 2_7_9
+
+#### *Add-In:*
+
+XEMI Utility
+
+Luma Utility
+
+MMSF
+
+Helios
+
+Creation Kit Platform Extended for Skyrim
+
+Creation Kit
+
+#### *Remove:*
+
+DIAL
+
+#### *Update:*
+
+In_Game_Patcher - Nico
+
+
 # 2_7_8
 
 #### *Add-In:*
