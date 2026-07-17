@@ -1,5 +1,9 @@
 ## Version History:
 
+# 2_8_0
+
+Recompile with fresh version of CreationKitPrefs.ini
+
 # 2_7_9
 
 #### *Add-In:*
