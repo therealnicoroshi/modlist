@@ -1,5 +1,48 @@
 ## Version History:
 
+# 2_8_1
+
+#### *Add-In:*
+
+Spear of Skyrim
+
+Spear of Skyrim Skypatcher
+
+Spears of Skyrim keyword patch
+
+Modern NPC Pathing
+
+NextGen Disk Cache
+
+Ash Nomad - Tents - BOS Distributed 
+
+Ash Nomad - Campfire Addon
+
+Ash Nomad - Bedrolls - BOS Distributed
+
+Ash Nomad - Bedrolls - Use Those Blankets Patch
+
+Wait Your Turn Redux - Enemy Circling Behavior
+
+Fuzz's Legally Intelligible Core Kit
+
+Improved Camera SE
+
+Improved Camera - First Person Animations
+
+Improved Camera Patch Collection
+
+#### *Update:*
+
+Update ENB to latest version .504
+
+Update EVG Animated Traversal to version 2.1
+
+#### *Remove:*
+
+Disk Cache Enabler
+
+
 # 2_8_0
 
 Recompile with fresh version of CreationKitPrefs.ini
