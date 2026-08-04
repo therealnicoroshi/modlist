@@ -1,5 +1,22 @@
 ## Version History:
 
+# 2_8_2
+
+#### *Add-In:*
+
+Cached Recursive Directory Walk
+
+Smooth Terrain
+
+Native Water Light Stabilizer
+
+Texture Downscaler
+
+#### *REMOVE:*
+
+Remove: VRAMr
+
+
 # 2_8_1
 
 #### *Add-In:*
