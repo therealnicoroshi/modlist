@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 2.8.1 by Nicoroshi 
+## Version 2.8.2 by Nicoroshi 
 ### Updating from 2.7.2 or earlier REQUIRES NEW GAME.
 
 <table stlyle="border: none;">
@@ -87,7 +87,7 @@ The files that will need to be downloaded for this mod list to function come fro
 
 ***
 
-**The Nico Experience** requires a mid to high-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list, and running the included VRAMr at Performance settings. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
+**The Nico Experience** requires a mid to high-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
 
 ***
 
@@ -107,13 +107,19 @@ The files that will need to be downloaded for this mod list to function come fro
 | Storage | M.2 SSD
 | GPU | RTX 4070ti Super or better/equivalent (16GB + VRAM)
 
+##  ❗Important Note ❗
+
+### Reinstall of Texture Downscaler mod (White Bar in MO2) at 'Performance' setting will reduce Vram usage to 8GB at 1080p Resolution and 12GB for 1440p
+
 ***
 
 Space required: ~173GB Archives  ~342GB install Size  40GB Page file ~555GB Total so recommend 600GB of space allocated for this list.
 
 See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html
 
-### **As of the latest versions MO2 will ❗Alert you ❗ if your page file is not set correctly and offer to set it correctly for you**
+### **As of the latest versions of the list MO2 will ❗Alert you ❗ if your page file is not set correctly and offer to set it correctly for you**
+
+### **We recommend letting it set  this automatically for you**
 
 :warning: **NOTE**: AMD RX 580 and older cards are **not supported**. :warning:
 
@@ -221,24 +227,6 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 
-❗  **IMPORTANT STEPS DO NOT SKIP UNLESS YOUR GRAPHICS CARD HAS 24GB OF VRAM OR MORE** ❗
-
-## Run VRAMr on performance setting unless you have 24GB or more of VRAM on your graphics card.
-
-### You can find VRAMr at the far right of the top of MO2 where all the executables are.
-
-#### This will take about an hour to run but important to reduce VRAM Usage and avoid system stutter while playing. Recommend Performance setting for everyone.
-
-- [Tutorial Video](https://www.youtube.com/watch?v=Se6oAvmtaBE&t=1s)
-
-Once complete drag and drop the folder it creates (that is clearly marked "DragNDropThisFolderIntoModManager") between Texgen_Output and Dyndolod_Output in MO2 '94. LOD Generation Output'
-
-Allow it time to install then activate the plug in by clicking on the box to checkmark it.
-
-#### Save this folder as it will need to be re-installed if you update the list later ❗ 
-
-Just repeat the Drag and drop step after any update.
-
 ***
 
 ### Set Voice type
@@ -279,6 +267,15 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 
 ***
 
+ ## Texture Downscaler
+ 
+ ### This is set up to use the default setting of the mod which makes all textures 1024x1024, and will use 8 GB of VRAM at 1080p and 10GB of VRAM at 1440p
+
+ #### If your hardware can handle more VRAM usage than this you can open the white separator then either re-install the mod at a higher setting or open the .ini and manually set the values you want.
+
+ #### Disabling the mod will make the list use up to 24 GB of VRAM on the regular and may cause instability.
+ 
+ 
  ### Change this line
 
 #### In MO2 find 'Tools' in the top left and click on it. Navigate to ini editor/ SkyrimPrefs.ini/[Launcher] sD3DDevice="NVIDIA GeForce RTX 5090
@@ -335,7 +332,7 @@ This will start the game and bring you to the character creation menu.
 
 As of Version 1_3_2 the MCM Recorder should Auto Run on new game start with recommended settings.
 
-### ❗ YOU MUST ALLOW THE MCM RECORDER FULLY COMPLETE BEFORE CONTINUING ❗
+## ❗ YOU MUST ALLOW THE MCM RECORDER FULLY COMPLETE BEFORE CONTINUING ❗
 
 #### *If this fails for any reason or gets stuck you can edit the .ini for MCM Recorder in MO2 and disable the auto run feature, If it has trouble with one or more of the mods choose 'skip this mod' as you can configure it after the MCMRecorder completes* 
 
@@ -345,11 +342,42 @@ You can still go through the menu and change things to suit your preference afte
 
 Leave Minatours and Spiders Off in OBIS
 
-Leave Extra spawns Ore Guardians Off in Immersive Creatures
-
 Leave shadows OFF in Strange Runes
 
-#### By default The voice for PC head tracking and Dragonborn voice over is set for Bella, and Female Sultry. This can be changed in the MCM.
+***
+
+## ❗You will need to set the player ID to use 'Skyrim Save System Overhaul'❗ 
+
+### Follow the instructions under the 'Set Player ID' section of the instructions 
+
+- [Here>>>](https://www.nexusmods.com/skyrimspecialedition/mods/122343?tab=description)
+
+  ![](https://github.com/therealnicoroshi/modlist/blob/main/Screenshot%20(18).png)
+
+#### When back in game enable the mod in the MCM and configure it to your liking. 
+
+#### I suggest turning on saves at completion points (clear dungeon, level up, player get up, etc), and Changing the save button for quick saves to something unused while setting the SSS0 save button to the '; :' key where Vanilla quicksaves are mapped by default in this list (See F11 in game for Keymap).
+
+### 🔷Doing this will ensure your manual saves from that button are using the SSSO mod safe save system to avoid corruption 🔷
+
+***
+
+## ❗You will need to set up and configure Heart of Magic ❗
+
+### When in game press 'Y' to bring up the Heart of Magic interface
+
+- [Follow the instructions >>>here<<<](https://www.nexusmods.com/skyrimspecialedition/mods/171146)
+
+### I recommend doing the complex scan after clicking on the Python install and toggling on 'Spell Tomes Only' button.
+
+### Personally I used the easy profile in my game and set to auto learn the next spell in the tree but feel free to try different things or not use at all
+
+***
+
+### ❗ DO NOT save your created character using Proteus UNTIL AFTER you have talked to Mara, spawned in Skyrim, Configured mods listed above, re-entered game and messages in upper left have completed ❗
+
+
+####  PC head tracking and Dragonborn voice over will need to be set to match your character. This can be changed in the MCM, and different PC headtracking voices can be chosen in MO2. Just search 'PC Headtracking' in the left pane and choose ONLY ONE at a time.
 
 #### Spell HotBar will be empty by default, and show when weapons are drawn. Assign Keys to the slots/ Tweak size, Amount, and location in the MCM. Add Spells to it by opening the in game magic menu Hovering over a spell then clicking the assigned hot key for a slot on the bar.
 
@@ -413,39 +441,6 @@ In the left pane under Anti-Alaising choose either DLAA or FSR 3.1
 
 ***
 
-## ❗You will need to set the player ID to use 'Skyrim Save System Overhaul'❗ 
-
-### Follow the instructions under the 'Set Player ID' section of the instructions 
-
-- [Here>>>](https://www.nexusmods.com/skyrimspecialedition/mods/122343?tab=description)
-
-  ![](https://github.com/therealnicoroshi/modlist/blob/main/Screenshot%20(18).png)
-
-#### When back in game enable the mod in the MCM and configure it to your liking. 
-
-#### I suggest turning on saves at completion points (clear dungeon, level up, player get up, etc), and Changing the save button for quick saves to something unused while setting the SSS0 save button to the '; :' key where Vanilla quicksaves are mapped by default in this list (See F11 in game for Keymap).
-
-### 🔷Doing this will ensure your manual saves from that button are using the SSSO mod safe save system to avoid corruption 🔷
-
-***
-
-## ❗You will need to set up and configure Heart of Magic ❗
-
-### When in game press 'Y' to bring up the Heart of Magic interface
-
-- [Follow the instructions >>>here<<<](https://www.nexusmods.com/skyrimspecialedition/mods/171146)
-
-### I recommend doing the complex scan after clicking on the Python install and toggling on 'Spell Tomes Only' button.
-
-### Personally I used the easy profile in my game and set to auto learn the next spell in the tree but feel free to try different things or not use at all
-
-***
-
-### ❗ DO NOT save your created character using Proteus UNTIL AFTER you have talked to Mara, spawned in Skyrim, Configured mods listed above, re-entered game and messages in upper left have completed ❗
-
-
-***
-
 ## Updating
 
 ***
@@ -481,8 +476,6 @@ Bodyslide and Outfit Studio
 NifSkope
 
 ReSaver
-
-VRAMr
 
 ***
 
