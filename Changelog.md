@@ -1,5 +1,40 @@
 ## Version History:
 
+# 2_8_3
+
+#### *Add-In:*
+
+2K Peony Crest Katana Collection no stands
+
+Peony Crest Katana Collection AAPatch
+
+Ancient Hoplite Kopis
+
+Bobbing Framework SKSE
+
+Bobbing Framework SKSE - Red Wave Corsairs
+
+Bobbing Framework SKSE - Solitude Docks Updated
+
+Bobbing Framework SKSE - Dainty Sload
+
+Bobbing Framework SKSE - configs
+
+Native Mesh Light Flicker Fix
+
+KiLoader for Skyrim
+
+ENB Extender and Helper Skyrim
+
+LOD Refresh Bug Fix
+
+#### *Remove:*
+
+ENB Helper
+
+LOD Unloading bug fix
+
+
 # 2_8_2
 
 #### *Add-In:*
