@@ -34,6 +34,8 @@ ENB Helper
 
 LOD Unloading bug fix
 
+CreationKitPrefs.ini
+
 
 # 2_8_2
 
