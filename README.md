@@ -417,11 +417,7 @@ Shift + z = Opens Tailor and wiggy whcih can be used to change NPC hair style/co
 
 O = Opens Obody which can change female body shape in game real time
 
-Y = Heart of Magic menu
-
 Backspace = Immersive Equipment displays to change equipment location/behaviors in real time in game.
-
-z = Stances
 
 
 ###  ❗ *DLAA or FSR 3.1 Settings in ENB* ❗
