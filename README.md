@@ -368,7 +368,7 @@ Leave shadows OFF in Strange Runes
 
 ## ❗You will need to set up and configure Heart of Magic ❗
 
-### When in game press 'Y' to bring up the Heart of Magic interface
+### When in game press 'F11' to bring up the key mapping menu. Find Heart of Magic, and use it's hotkey to open
 
 - [Follow the instructions >>>here<<<](https://www.nexusmods.com/skyrimspecialedition/mods/171146)
 
