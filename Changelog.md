@@ -28,6 +28,13 @@ ENB Extender and Helper Skyrim
 
 LOD Refresh Bug Fix
 
+
+#### *Changes:*
+
+Modified Cached Recursive Directory Walk.ini to have the prompt for creating a cache at start up show.
+
+Also Modified Readme to reflect this change with instructions 
+
 #### *Remove:*
 
 ENB Helper
