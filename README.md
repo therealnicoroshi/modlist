@@ -320,7 +320,11 @@ Make sure the dropdown box on the right is set to `The Nico Experience (version 
 
 Alternate method is clicking on the .exe link at the top labeled `The Nico Experience (version number)`
 
-This will start the game and bring you to the character creation menu.
+This will start the game and prompt you if you want to rebuild Cached Recursive Directory Walk CACHE (CRDW)
+
+If you have never done this before, made any changes/additions to the mod list or are updating  please click 'YES' to regenerate the CACHE.
+
+If starting without any changes after doing this you can safely click 'NO'
 
 ### *NOTE:*
 
