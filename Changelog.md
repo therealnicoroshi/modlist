@@ -1,5 +1,31 @@
 ## Version History:
 
+# 2_8_4
+
+#### *Add-In:*
+
+ElSopa - Sacks Redone
+
+ElSopa - Carts Redone
+
+#### *Update:*
+
+Update ENB to version .505
+
+#### *Remove:*
+
+Remove: Native Water Light Stabilizer
+
+Remove: Native Mesh Light Flicker Fix
+
+Remove Cached Recursive Directory Walk
+
+#### *File Changes:*
+
+REPAIR: Stances NG katana sprint animation
+
+Cleaned Up MCM Recorder
+
 # 2_8_3
 
 #### *Add-In:*
