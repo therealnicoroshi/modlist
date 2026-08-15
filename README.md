@@ -2,14 +2,14 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 2.8.3 by Nicoroshi 
+## Version 2.8.4 by Nicoroshi 
 ### Updating from 2.8.2 or earlier REQUIRES NEW GAME.
 
 <table stlyle="border: none;">
 <tr>
 <td><a href="https://www.nexusmods.com/skyrimspecialedition/mods/109901">Nexus Page</a></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download Wabbajack</a></td>	
-<td><a href="https://loadorderlibrary.com/lists/the-nico-experience-32">Load Order Library</a></td>
+<td><a href="https://loadorderlibrary.com/lists/the-nico-experience-33">Load Order Library</a></td>
 <td><a href="https://discord.gg/kHehbzuFZ4"><img alt="Discord" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="64px" ></a></td>
 </tr>
 </table>
@@ -319,12 +319,6 @@ Open the installation folder and double-click on the program called `ModOrganize
 Make sure the dropdown box on the right is set to `The Nico Experience (version number)` and press the `Run` button. 
 
 Alternate method is clicking on the .exe link at the top labeled `The Nico Experience (version number)`
-
-This will start the game and prompt you if you want to rebuild Cached Recursive Directory Walk CACHE (CRDW)
-
-If you have never done this before, made any changes/additions to the mod list or are updating  please click 'YES' to regenerate the CACHE.
-
-If starting without any changes after doing this you can safely click 'NO'
 
 ### *NOTE:*
 
