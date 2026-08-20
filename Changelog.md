@@ -1,5 +1,30 @@
 ## Version History:
 
+# 2_8_5
+
+### **REQUIRES UPDATING SKYRIM AND CREATION KIT TO LATEST VERSION AS OF 8-20-2026 WHICH IS 1.7.99.0**
+
+#### *Add-In:*
+
+Skyrim Revoiced
+
+Skyrim Revoiced Patch Collection
+
+Dunmer Dreams - BOS Color Variance - Custom Frame
+
+BOS Color Variance Use Those Blankets patch
+
+Dunmeri Furniture in Gray Quarter BOS patch
+
+Dovahnique's Diverse Dark Elf Lanterns (BOS - ENB Lights - High Poly)
+
+#### *Update:*
+
+Loot
+
+Core Impact Framework
+
+
 # 2_8_4
 
 #### *Add-In:*
