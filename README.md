@@ -2,7 +2,8 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 2.8.4 by Nicoroshi 
+## Version 2.8.5 by Nicoroshi 
+### ⚠️Requires game and creation kit version 1.7.99.0 from 8-20-2026 Steam update⚠️
 ### Updating from 2.8.2 or earlier REQUIRES NEW GAME.
 
 <table stlyle="border: none;">
@@ -69,7 +70,7 @@ The Nico Experience
 
 ### Disclaimer
 
-**The Nico Experience** only supports **English Steam** versions of Skyrim Anniversary Edition. **GOG and other Languages are not supported**. The specific version used is 1.5.97 with the creation club content from 1.6.1170.
+**The Nico Experience** only supports **English Steam** versions of Skyrim Anniversary Edition. **GOG and other Languages are not supported**. The specific version used is 1.5.97 with the creation club content from 1.7.99.0
 
 :warning: :exclamation: **THE NICO EXPERIENCE REQUIRES THE FULL PAID UPDATE TO SKYRIM ANNIVERSARY EDITION. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS** :exclamation: :warning:
 
