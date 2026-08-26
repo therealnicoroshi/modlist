@@ -1,5 +1,40 @@
 ## Version History:
 
+# 2_8_6
+
+Aetherius Crossing - A Tropical Player Home v2
+
+Aetherius Crossing - Cubemap Hotfix
+
+Aetherius Crossing - Complex Materials Patch
+
+Rainbow Hotfix
+
+AC_Fish_Table - Nico
+
+_ResourcePack.esl + _ResourcePack.bsa
+
+Hammet's Dungeon Pack 1 SE
+
+Hammet's Dungeon Pack 2 SE
+
+Hammet's Dungeon Pack 3 SE
+
+Footprints - Alternative Design
+
+PGPatcher
+
+Generate ParallaxGen
+
+Cached Recursive Directory Walk
+
+Automatic CRDW (Faster Load Times)
+
+Shaders of Solstheim - Ash and Moss
+
+Southfringe Sanctum fix
+
+
 # 2_8_5
 
 ### **REQUIRES UPDATING SKYRIM AND CREATION KIT TO LATEST STEAM VERSION AS OF 8-20-2026 WHICH IS 1.7.99.0**
