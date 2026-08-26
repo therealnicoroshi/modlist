@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 2.8.5 by Nicoroshi 
+## Version 2.8.6 by Nicoroshi 
 ### ⚠️Requires game and creation kit version 1.7.99.0 from 8-20-2026 Steam update⚠️
 ### Updating from 2.8.2 or earlier REQUIRES NEW GAME.
 
@@ -10,7 +10,7 @@
 <tr>
 <td><a href="https://www.nexusmods.com/skyrimspecialedition/mods/109901">Nexus Page</a></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download Wabbajack</a></td>	
-<td><a href="https://loadorderlibrary.com/lists/the-nico-experience-34">Load Order Library</a></td>
+<td><a href="https://loadorderlibrary.com/lists/the-nico-experience-35">Load Order Library</a></td>
 <td><a href="https://discord.gg/kHehbzuFZ4"><img alt="Discord" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="64px" ></a></td>
 </tr>
 </table>
@@ -336,6 +336,9 @@ As of Version 1_3_2 the MCM Recorder should Auto Run on new game start with reco
 #### *If this fails for any reason or gets stuck you can edit the .ini for MCM Recorder in MO2 and disable the auto run feature, If it has trouble with one or more of the mods choose 'skip this mod' as you can configure it after the MCMRecorder completes* 
 
 You can still go through the menu and change things to suit your preference afterward but this will give you a solid base to start from.
+
+### ❗NOTE ❗ CRDW (Basically a file caching system to make game start up much faster) will be running automatically but will leave a SKSE/Plugin/CRDW.ini file in your overwrite folder. Please ignore it and leave it there.
+
 
 #### Some important things to leave disabled for stability reasons
 
