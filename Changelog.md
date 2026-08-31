@@ -1,6 +1,21 @@
 ## Version History:
 
+# 2_8_7
+
+## Recompile using the latest version of Skyrim from Steam v. 1.7.104.0
+
+#### *Add-In:*
+
+Ricochet Framework - Latest Version
+
+Ricochet Framework - MCM menu
+
+Re-install icy mesh remastered without partitioned textures to repair visual glitch on snowdrifts
+
+
 # 2_8_6
+
+#### *Add-In:*
 
 Aetherius Crossing - A Tropical Player Home v2
 
