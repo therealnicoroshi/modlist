@@ -275,9 +275,10 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
  #### If your hardware can handle more VRAM usage than this you can open the white separator then either re-install the mod at a higher setting or open the .ini and manually set the values you want.
 
  #### Disabling the mod will make the list use up to 24 GB of VRAM on the regular and may cause instability.
- 
- 
- ### Change this line
+
+ ***
+
+ ## Change this line
 
 #### In MO2 find 'Tools' in the top left and click on it. Navigate to ini editor/ SkyrimPrefs.ini/[Launcher] sD3DDevice="NVIDIA GeForce RTX 5090
 
