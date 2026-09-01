@@ -242,7 +242,7 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 
 ***
 
-####  (skip to First Start Up if playing 16:9 format):
+####  (skip if playing 16:9 format):
 
 ### Optional Setting the HUD elements for widescreen resolution.
 
