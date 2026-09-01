@@ -256,6 +256,8 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 
 ## Controller Files
 
+***
+
 ### ❗There is NO official controller support. Use at your own risk❗
 
 #### However There are included files for those that wish to set up their own controller mapping for the list
@@ -266,9 +268,11 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 
 #### You WILL also need to re-install the 'complete controller setup' mod and set options in it's installer
 
-***
+ ***
 
  ## Texture Downscaler
+
+ ***
  
  ### This is set up to use the default setting of the mod which makes all textures 1024x1024, and will use 8 GB of VRAM at 1080p and 10GB of VRAM at 1440p
 
@@ -278,7 +282,9 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 
  ***
 
- ## Change this line
+ ### Change this line
+
+ ***
 
 #### In MO2 find 'Tools' in the top left and click on it. Navigate to ini editor/ SkyrimPrefs.ini/[Launcher] sD3DDevice="NVIDIA GeForce RTX 5090
 
@@ -292,6 +298,8 @@ Change this line to reflect the graphics card you are using if not changed autom
 
 ### Page File Manager
 
+***
+
 This list uses a page file manager that will tell you if you do not have a large enough page file and set it  automatically for you (If you agree)
 
 You need this to run the game smoothly. Either allow the manager to set it for you or manually set it to 40,960 yourself.
@@ -299,6 +307,8 @@ You need this to run the game smoothly. Either allow the manager to set it for y
 ***
 
 ### Set your affinity
+
+***
 
 In MO2 top left find the tools tab again, and click on it.
 
