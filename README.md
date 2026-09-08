@@ -111,7 +111,7 @@ The files that will need to be downloaded for this mod list to function come fro
 
 ##  ❗Important Note ❗
 
-### Reinstall of Texture Downscaler mod (White Bar in MO2) at 'Performance' setting will reduce Vram usage to 8GB at 1080p Resolution and 12GB for 1440p
+### Reinstall of Texture Downscaler mod (White Bar in MO2) at your preferred texture size based on your available VRAM. It is set at Low/ performance 1K diffuse and 8GB of Vram used by default
 
 ***
 
