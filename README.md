@@ -2,15 +2,16 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 2.8.7 by Nicoroshi 
-### ⚠️Requires game version 1.7.104.0, and Creation Kit version 1.7.99.0 from 8-30-2026 or later from steam⚠️
-### Updating from 2.8.2 or earlier REQUIRES NEW GAME.
+## Version 3.0.0 by Nicoroshi 
+### ⚠️Requires game version 1.7.104.0, and Creation Kit version 1.7.99.0 from steam⚠️
+
+## ❗REQUIRES NEW GAME.❗
 
 <table stlyle="border: none;">
 <tr>
-<td><a href="https://www.nexusmods.com/skyrimspecialedition/mods/109901">Nexus Page</a></td>
+<td><a href="https://www.nexusmods.com/profile/Nicoroshi/mods">Nexus Page</a></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download Wabbajack</a></td>	
-<td><a href="https://loadorderlibrary.com/lists/the-nico-experience-36">Load Order Library</a></td>
+<td><a href="https://loadorderlibrary.com/lists/the-nico-experience-37">Load Order Library</a></td>
 <td><a href="https://discord.gg/kHehbzuFZ4"><img alt="Discord" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="64px" ></a></td>
 </tr>
 </table>
@@ -70,7 +71,7 @@ The Nico Experience
 
 ### Disclaimer
 
-**The Nico Experience** only supports **English Steam** versions of Skyrim Anniversary Edition. **GOG and other Languages are not supported**. The specific version used is 1.5.97 with the creation club content from 1.7.99.0
+**The Nico Experience** only supports **English Steam** versions of Skyrim Anniversary Edition. **GOG and other Languages are not supported**. The specific version used is 1.5.97 with the creation club content from 1.7.104.0
 
 :warning: :exclamation: **THE NICO EXPERIENCE REQUIRES THE FULL PAID UPDATE TO SKYRIM ANNIVERSARY EDITION. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS** :exclamation: :warning:
 
@@ -80,7 +81,7 @@ Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED 
 
 ### Note:
 
-The files that will need to be downloaded for this mod list to function come from Nexus and Lovers Lab via Mega Downloads. As such you will need an account on both sites to be able to download the mods needed to build this list.
+The files that will need to be downloaded for this mod list to function come from Nexus and Lovers Lab via Mega Downloads. As such you will need an account on ALL sites to be able to download the mods needed to build this list.
 
 ***
 
@@ -242,8 +243,6 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 
 ***
 
-####  (skip if playing 16:9 format):
-
 ### Optional Setting the HUD elements for widescreen resolution.
 
 #### See White 21x9 Widescreen support separator at the bottom of MO2.
@@ -274,11 +273,11 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 
  ***
  
- ### This is set up to use the default setting of the mod which makes all textures 1024x1024, and will use 8 GB of VRAM at 1080p and 10GB of VRAM at 1440p
+ ### This is set up by default to use  Diffuse=1024, Normal=1024, Parallax=512, Material=512, Glow=512, Mask=512 sized textures which will run on 8GB graphics card at 1080p resolution
 
  #### If your hardware can handle more VRAM usage than this you can open the white separator then either re-install the mod at a higher setting or open the .ini and manually set the values you want.
 
- #### Disabling the mod will make the list use up to 24 GB of VRAM on the regular and may cause instability.
+ #### ⚠️ Disabling the mod will make the list use up to 24 GB of VRAM on the regular and may cause instability.⚠️
 
  ***
 
@@ -435,11 +434,11 @@ Open ENB menu in game using Caps Lock + Enter.
 
 In the left pane under Anti-Alaising choose either DLAA or FSR 3.1
 
+## The Default Key Mapping you see when pressing F11 is what I personally use AND MAY NOT BE TO YOUR LIKING. 
+
 ### ❗ IT IS RECOMMENDED AT THIS TIME TO OPEN THE IN GAME MENU TO 'CONTROLS' AND CHANGE ANY KEY BINDINGS TO SUIT YOUR PERSONAL PREFERENCES ❗
 
 ### ❗ DEFAULT KEY MAPPING CAN BE SET FOR MOST KEYS BY PRESSING ESC KEY/CONTROLS/DEFAULT BUTTON AT THE BOTTOM ❗
-
-### ⚠️ As of version 2.1.9 The majority of the keymapping has been returned to default ⚠️
 
 #### *NOTE: All of these (except the swan and short dive keys of 'X', and 'C') can be changed to suit your preference either in settings/controls menu in game, the MCM menu or through the ini files for the specific mod found in MO2 left pane.*
 
@@ -485,6 +484,12 @@ Bodyslide and Outfit Studio
 NifSkope
 
 ReSaver
+
+ParallaxGen
+
+Creation Kit
+
+DeadMesh
 
 ***
 
