@@ -1,5 +1,12 @@
 ## Version History:
 
+# Major change to list
+## Requires a new game
+# 3_0_0
+
+Recompile of list using my private copy as a base which will include ALL patches made during live streams.
+
+
 # 2_8_7
 
 ## Recompile using the latest version of Skyrim from Steam v. 1.7.104.0
