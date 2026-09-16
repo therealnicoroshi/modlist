@@ -5,7 +5,7 @@
 ## Version 3.0.1 by Nicoroshi 
 ## [🥇>>> Grab the latest version from Nexus mods Here <<<🥇](https://www.nexusmods.com/skyrimspecialedition/mods/109901)
 ### ⚠️Requires game version 1.7.104.0, and Creation Kit version 1.7.99.0 from steam⚠️
-### ❗Requires new game if updating from version 2.7.8 or earlier❗
+### ❗Requires new game if updating from version 2.8.7 or earlier❗
 
 <table stlyle="border: none;">
 <tr>
