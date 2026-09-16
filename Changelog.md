@@ -1,5 +1,50 @@
 ## Version History:
 
+# 3_0_1
+
+#### *Add-In:*
+
+Ash Nomad Shrine Fix Nico
+
+Cinematic Conversation Camera
+
+FB - Templar Assassin 2k 3BA
+
+FB - Witch Slayer 4k 3BA
+
+Einherjr 3BA 4k
+
+Viper Armor 4k 3BA
+
+DD - Vergi Sigrin Armor
+
+FB - Master Thief 3BA-CBBE 4k
+
+HDT-SMP Master Thief Armor Patch for 3BA-CBBE
+
+King of t he Murkmire - Main
+
+King of the Murkmire - LOD
+
+King of the Murkmire Animated Ships patch
+
+Boats and Ships Murkmire Patch - Nico
+
+#### *Remove:*
+
+REMOVE: Alternate Conversation Camera
+
+REMOVE: ParallaxGen_Output
+
+#### *File Changes/Updates:*
+
+update In_Game_Patcher - Nico
+
+update Bodyslide_Output with new armors added 
+
+update Nemesis_Output
+
+
 # Major change to list
 ## Requires a new game
 # 3_0_0
