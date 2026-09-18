@@ -2,8 +2,11 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 3.0.1 by Nicoroshi 
+## Version 3.0.1 by Nicoroshi Available on Nexus
+## **UNSUPPORTED AND OLDER VERSION** Available in the wabbajack app
+
 ## [🥇>>> Grab the latest version from Nexus mods Here <<<🥇](https://www.nexusmods.com/skyrimspecialedition/mods/109901)
+
 ### ⚠️Requires game version 1.7.104.0, and Creation Kit version 1.7.99.0 from steam⚠️
 ### ❗Requires new game if updating from version 2.8.7 or earlier❗
 
