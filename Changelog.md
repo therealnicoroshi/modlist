@@ -1,5 +1,30 @@
 ## Version History:
 
+# 3_0_2
+
+#### *Add-In:*
+
+Bottled Shaders
+
+Assorted mesh fixes
+
+Obsidian CS
+
+Vanilla Skies Enhanced
+
+Dynamic Terrain Deformation skse
+
+SSE - Skyrim Sun Enhanced
+
+Velothi Warscythe
+
+Velothi Warscythe - Warhammer to Battleaxe
+
+#### *Modlist configuration changes:*
+
+Set up structure for using either ENB or CS with Bottled Shaders (See Readme)
+
+
 # 3_0_1
 
 #### *Add-In:*
