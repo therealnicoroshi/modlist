@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 3.0.1 by Nicoroshi Available on Nexus
+## Version 3.0.2 by Nicoroshi Available on Nexus
 ## **UNSUPPORTED AND OLDER VERSION** Available in the wabbajack app
 
 ## [🥇>>> Grab the latest version from Nexus mods Here <<<🥇](https://www.nexusmods.com/skyrimspecialedition/mods/109901)
@@ -14,7 +14,7 @@
 <tr>
 <td><a href="https://www.nexusmods.com/skyrimspecialedition/mods/109901">Nexus Page</a></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download Wabbajack</a></td>	
-<td><a href="https://loadorderlibrary.com/lists/the-nico-experience-38">Load Order Library</a></td>
+<td><a href="https://loadorderlibrary.com/lists/the-nico-experience-39">Load Order Library</a></td>
 <td><a href="https://discord.gg/kHehbzuFZ4"><img alt="Discord" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="64px" ></a></td>
 </tr>
 </table>
@@ -286,6 +286,16 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 
  ***
 
+ ## Choose between ENB (default and already enabled) or Bottled Shaders CS
+ 
+ ### ❗ If you decide to use Bottled Shaders CS option then you MUST move the D3D11.dll file located in MO2/Stock Game folder to the empty storage folder for that file found in the same place. ❗
+ 
+ #### Disable ALL files in the ENB section and Enable ALL in the Bottled Shaders CS section
+ 
+ #### NOTE: The first run will take some time as the game will need to compile all the shaders for Bottled Shaders CS.
+ 
+ ***
+ 
  ### Change this line
 
  ***
@@ -338,7 +348,7 @@ Alternate method is clicking on the .exe link at the top labeled `The Nico Exper
 
 ### *NOTE:*
 
-#### This will take a few minutes to start up as the game needs to compile shaders for ENB on first start up. Be Patient.
+#### This will take a few minutes to start up as the game needs to compile shaders for ENB or CS on first start up. Be Patient.
 
 ### After your character is created and you name them >>>
 
@@ -381,11 +391,11 @@ Leave shadows OFF in Strange Runes
 
 ## ❗You will need to set up and configure Heart of Magic ❗
 
-### When in game press 'F11' to bring up the key mapping menu. Find Heart of Magic, and use it's hotkey to open
+### When in game press 'F11' to bring up the key mapping menu. Find Heart of Magic, and use it's hotkey to open (should be F8 by default but might be marked as my suggested 'Y' key)
 
 - [Follow the instructions >>>here<<<](https://www.nexusmods.com/skyrimspecialedition/mods/171146)
 
-### I recommend doing the complex scan after clicking on the Python install and toggling on 'Spell Tomes Only' button.
+### I recommend doing the complex scan, and toggling on 'Spell Tomes Only' button.
 
 ### Personally I used the easy profile in my game and set to auto learn the next spell in the tree but feel free to try different things or not use at all
 
@@ -399,6 +409,8 @@ Leave shadows OFF in Strange Runes
 #### Spell HotBar will be empty by default, and show when weapons are drawn. Assign Keys to the slots/ Tweak size, Amount, and location in the MCM. Add Spells to it by opening the in game magic menu Hovering over a spell then clicking the assigned hot key for a slot on the bar.
 
 #### You will need to manually restart SunHelm in the MCM if you want to play with Survival features from that mod, and Shadow of Skyrim for the alturnative Death mod. ❗Do this after talking to Mara statue and entering the game world ❗
+
+#### There are SKSE Framework mods that can be configured by opening that menu (F10)
 
 ### *As of Version 1.8.8 Function Key 11 (F11) will pull up the KeyMapping image. It can be modified in game by clicking on a key and changing it's values. Tab to exit*
 
