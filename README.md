@@ -2,8 +2,7 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 3.0.3 by Nicoroshi Available on Nexus
-## **UNSUPPORTED AND OLDER VERSION** Available in the wabbajack app
+## Version 3.0.3 by Nicoroshi
 
 ## [🥇>>> Grab the latest version from Nexus mods Here <<<🥇](https://www.nexusmods.com/skyrimspecialedition/mods/109901)
 
