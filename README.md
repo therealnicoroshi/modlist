@@ -287,7 +287,7 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 
  ## Choose between ENB or Bottled Shaders CS
  
- ### ❗ If you decide to use Bottled Shaders CS option then you MUST move the D3D11.dll file located in MO2/Stock Game folder to the storage folder for that file found in the same place. If using ENB then the D3D11.dll needs to be in the Stock Game folder❗
+ ### ❗Pay close attention to the location of the D3D11.dll file depending on your choice❗
 
  *** 
  
