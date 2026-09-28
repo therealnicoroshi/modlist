@@ -21,9 +21,9 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
-      "image": "https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg",
+      "image": "https://raw.githubusercontent.com/therealnicoroshi/modlist/main/Banner_NE-4.webP",
       "readme": "https://github.com/therealnicoroshi/modlist/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/The Nico Experience.wabbajack_c43f8511-9d16-47c9-b2e0-310bd9ff99f8",
       "machineURL": "The_Nico_Experience",
