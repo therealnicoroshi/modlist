@@ -1,5 +1,5 @@
 
-![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
+![](https://github.com/therealnicoroshi/modlist/blob/bb0a1c3910bfc0363f778b22bfe39e967ae2d9a5/Banner_NE-4.webP)
 
 
 ## Version 3.0.3 by Nicoroshi
