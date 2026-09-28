@@ -293,12 +293,14 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
  
  #### For [CS] Bottled Shaders Disable ALL files in the ENB section and Enable ALL in the Bottled Shaders CS section
  #### ❗Make sure the D3D11.dll is in the storage folder for it located in the MO2/Stock Game folder ❗
+ #### Run LOOT and sort the load order
  #### NOTE: The first run will take some time as the game will need to compile all the shaders for Bottled Shaders CS.
 
  ***
  
  #### For ENB Disable all files in the [CS] Bottled Shaders section and enable all the files in the ENB section.
  #### ❗Make sure the D3D11.dll is in the Stock Game folder and NOT in the storage folder within the Stock Game folder ❗
+ #### Run LOOT and sort the load order
  
  ***
  
