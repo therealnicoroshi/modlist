@@ -1,5 +1,24 @@
 ## Version History:
 
+# 3_0_3
+
+#### *Add-In:*
+
+update Bottled Shaders to version 1.0.3
+
+cathedral PBR Plants
+
+Cathedrall 3D mountain flowers - Alt Textures
+
+ParallaxGen_Output PBR
+
+Cathedral - 3DBlack Mountain Flowers for 3DNPC
+
+I want them all - BOS 3D mountain Flowers
+
+Set up ability to switch between Bottled Shaders and ENB in MO2
+
+
 # 3_0_2
 
 #### *Add-In:*
