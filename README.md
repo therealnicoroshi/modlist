@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg)
 
 
-## Version 3.0.2 by Nicoroshi Available on Nexus
+## Version 3.0.3 by Nicoroshi Available on Nexus
 ## **UNSUPPORTED AND OLDER VERSION** Available in the wabbajack app
 
 ## [🥇>>> Grab the latest version from Nexus mods Here <<<🥇](https://www.nexusmods.com/skyrimspecialedition/mods/109901)
@@ -14,7 +14,7 @@
 <tr>
 <td><a href="https://www.nexusmods.com/skyrimspecialedition/mods/109901">Nexus Page</a></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download Wabbajack</a></td>	
-<td><a href="https://loadorderlibrary.com/lists/the-nico-experience-39">Load Order Library</a></td>
+<td><a href="https://loadorderlibrary.com/lists/the-nico-experience-40">Load Order Library</a></td>
 <td><a href="https://discord.gg/kHehbzuFZ4"><img alt="Discord" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="64px" ></a></td>
 </tr>
 </table>
@@ -471,8 +471,6 @@ In the left pane under Anti-Alaising choose either DLAA or FSR 3.1
 ***
 
 #### ❗ If you have changed default key mapping and are updating save the file in the mo2/Stock Game folder called ControlMap_Custom.txt BEFORE updating. Drop this file into the updated mod list in the Stock game folder and let it overwrite to save your key mapping changes after update. ❗
-
-#### ❗After updating the list you will need to re-install the generated VRAMr folder Called: "DragNDropThisFolderIntoModManager" between Texgen_Output and Dyndolod_Output in MO2 '94. LOD Generation Output'❗
 
 #### Unless noted otherwise in the change log all Updates will be Save Safe
 
