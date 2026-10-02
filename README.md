@@ -1,10 +1,8 @@
 
-![](https://github.com/therealnicoroshi/modlist/blob/bb0a1c3910bfc0363f778b22bfe39e967ae2d9a5/Banner_NE-4.webP)
+![](https://github.com/therealnicoroshi/modlist/blob/ccf153e6485bce07a0768e6f7a5d100e9716a82f/NewCoverArtNE.jpg)
 
 
 ## Version 3.0.3 by Nicoroshi
-
-## [🥇>>> Grab the latest version from Nexus mods Here <<<🥇](https://www.nexusmods.com/skyrimspecialedition/mods/109901)
 
 ### ⚠️Requires game version 1.7.104.0, and Creation Kit version 1.7.99.0 from steam⚠️
 ### ❗Requires new game if updating from version 2.8.7 or earlier❗
