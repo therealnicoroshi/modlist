@@ -237,12 +237,6 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 
 ***
 
-##  ❗Important Note ❗
-
-### Reinstall of Texture Downscaler mod (White Bar in MO2) at your preferred texture size based on your available VRAM.
-
-***
-
 ## Widescreen Support
 
 ***
@@ -276,12 +270,12 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
  ## Texture Downscaler
 
  ***
- 
- ### This is set up by default to use  Diffuse=1024, Normal=1024, Parallax=512, Material=512, Glow=512, Mask=512 sized textures which will run on 8GB graphics card at 1080p resolution
 
- #### If your hardware can handle more VRAM usage than this you can open the white separator then either re-install the mod at a higher setting or open the .ini and manually set the values you want.
+ #### Please open up this white separator in MO2 and re-insall this mod using one of the presets it provides or manually edit the .ini file to control the amount of VRAM this list will use.
 
- #### ⚠️ Disabling the mod will make the list use up to 24 GB of VRAM on the regular and may cause instability.⚠️
+ #### Setting Diffuse at 1024 and the rest at 512 will reduce VRAM usage to about 8 GB. Diffuse at 2048, Normal at 1024 and the rest at 512 will be about 10-12 GB of VRAM used. Find what works best for your graphics card.
+
+ #### ⚠️ Disabling the mod will make the list use up to 24 GB of VRAM and may cause instability.⚠️
 
  ***
 
@@ -292,14 +286,19 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
  *** 
  
  #### For [CS] Bottled Shaders Disable ALL files in the ENB section and Enable ALL in the Bottled Shaders CS section
+ 
  #### ❗Make sure the D3D11.dll is in the storage folder for it located in the MO2/Stock Game folder ❗
+ 
  #### Run LOOT and sort the load order
+ 
  #### NOTE: The first run will take some time as the game will need to compile all the shaders for Bottled Shaders CS.
 
  ***
  
  #### For ENB Disable all files in the [CS] Bottled Shaders section and enable all the files in the ENB section.
+ 
  #### ❗Make sure the D3D11.dll is in the Stock Game folder and NOT in the storage folder within the Stock Game folder ❗
+ 
  #### Run LOOT and sort the load order
  
  ***
