@@ -109,10 +109,6 @@ The files that will need to be downloaded for this mod list to function come fro
 | Storage | M.2 SSD
 | GPU | RTX 4070ti Super or better/equivalent (16GB + VRAM)
 
-##  ❗Important Note ❗
-
-### Reinstall of Texture Downscaler mod (White Bar in MO2) at your preferred texture size based on your available VRAM. It is set at Low/ performance 1K diffuse and 8GB of Vram used by default
-
 ***
 
 Space required: ~173GB Archives  ~342GB install Size  40GB Page file ~555GB Total so recommend 600GB of space allocated for this list.
@@ -238,6 +234,12 @@ Open the installation folder and double-click on the program called `ModOrganize
 Set PC head tracking in MO2 left pane under Dialog to your preferred voice type before starting the game.
 ❗ Choose only One ❗
 (Note): The Dragon born voice over can be set to match with game running in the MCM Menu.
+
+***
+
+##  ❗Important Note ❗
+
+### Reinstall of Texture Downscaler mod (White Bar in MO2) at your preferred texture size based on your available VRAM.
 
 ***
 
