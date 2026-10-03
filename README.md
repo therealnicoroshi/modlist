@@ -279,27 +279,35 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 
  ***
 
- ## Choose between ENB or Bottled Shaders CS
+ ## Choose between ENB or Community Shaders (two options)
  
  ### ❗Pay close attention to the location of the D3D11.dll file depending on your choice❗
 
  *** 
  
- #### For [CS] Bottled Shaders Disable ALL files in the ENB section and Enable ALL in the Bottled Shaders CS section
+ #### For Bottled Shaders or Open Shaders Disable ALL files in the [ENB] section and Enable ALL below options 1 and 2 in the [CS] Section.
  
  #### ❗Make sure the D3D11.dll is in the storage folder for it located in the MO2/Stock Game folder ❗
+
+ #### ⚠️ IMPORTANT NOTE: If using Open shaders and wanting to use dlss Neural Rendering you will need to source the DLSSNR.dll from the internet (search RenoDX DLSS) and manually place it in the MO2/mods/Open Shaders/Shaders/Upscaling/Streamline folder before it will work ⚠️
  
  #### Run LOOT and sort the load order
  
- #### NOTE: The first run will take some time as the game will need to compile all the shaders for Bottled Shaders CS.
+ #### NOTE: The first run will take some time as the game will need to compile all the shaders for Community Shaders.
 
  ***
  
- #### For ENB Disable all files in the [CS] Bottled Shaders section and enable all the files in the ENB section.
+ #### For ENB Disable all files in the [CS] section and enable all the files in the ENB section.
  
  #### ❗Make sure the D3D11.dll is in the Stock Game folder and NOT in the storage folder within the Stock Game folder ❗
+
+ #### Delete Any ShaderCache folder in the Overwrite folder of MO2
  
  #### Run LOOT and sort the load order
+
+ ***
+
+ ### When switching between [CS] and [ENB] you will have files that will be different and show up as missing when the game starts. This should not be a problem as they are SKSE.dll or only different meshes/textures Files so this warning can be ignored.
  
  ***
  
