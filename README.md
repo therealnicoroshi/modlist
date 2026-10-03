@@ -289,6 +289,8 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
  
  #### ❗Make sure the D3D11.dll is in the storage folder for it located in the MO2/Stock Game folder ❗
 
+ #### Delete Any ShaderCache folder in the Overwrite folder of MO2
+
  #### ⚠️ IMPORTANT NOTE: If using Open shaders and wanting to use dlss Neural Rendering you will need to source the DLSSNR.dll from the internet (search RenoDX DLSS) and manually place it in the MO2/mods/Open Shaders/Shaders/Upscaling/Streamline folder before it will work ⚠️
  
  #### Run LOOT and sort the load order
@@ -549,7 +551,7 @@ I'm not going to hold your hand on this, and assume you know Google-fu for anyth
 1. Turn off any start up programs or background programs that do not need to be on while running the game.   
 There are guides on the web on how to go through Services.msc to trim the fat out of the Windows System Services.
 
-2. strip that graphics driver down of any AA, AO, AF settings (Turn off) as those effects will be handled by the game engine or the ENB. 
+2. strip that graphics driver down of any AA, AO, AF settings (Turn off) as those effects will be handled by the game engine or the ENB or Community Shaders. 
 *DO NOT DOUBLE UP ON EFFECTS!*  It will kill your framerate and will not look any better than only one doing that specific effect.
 Run Gsync if avialable and for Heavens sake DO NOT use the in game vsync. Use driver vsync instead.
 Run latency at ultra and any settings you can at high performance in the driver.
@@ -569,11 +571,11 @@ Panjano has a good video on how to set this up
 ***
 
    ### Note:
-   Enb Frame Gen is part of the mod list by default. This will double whatever frame rate your system can produce. This should be smooth enough for most systems that meet the required minimum specs however we all want more :) so..
+   Enb Frame Gen and/or Open Shaders Frame Genis part of the mod list by default. This will double whatever frame rate your system can produce. This should be smooth enough for most systems that meet the required minimum specs however we all want more :) so..
 
-   #### ❗I have been able to stack frame generators in my personal game I did this by running PureDarks Latest upscaler/ frame gen AIO using DLSS Upscaling and FSR 3.1 Frame generation. I then ran Lossless scaling on top of that on adaptivewith target frame rate at 144 (my monitor is 144Hz). This yields a nearly ghost free 144 FPS with this mod list. Check out my live streams on YT for examples at 3440x1440 resolution❗
+   #### ❗If you wish to use PureDarks latest AIO upscaler you will need to disable [ENB] DLAA and ENB FrameGen in MO2 or it will crash the  game on start ❗
    
-   Here are some things I recommend if your framerate is still suffering after applying the Performance VRAMr and following the notes on 'Basic system set up' above.
+   Here are some things I recommend if your framerate is still suffering after applying the Performance saetting in Texture Downscaler and following the notes on 'Basic system set up' above.
 
   1. Run BethINI (included tool) and choose a lower preset setting like Medium. The default is High. Be sure to NOT use Ambient Occusion, Screen Space Reflections, and turn Tree LOD Distance to '0'. These effects are being handled by Reshade, ENB, and DynDOLOD. Remember DO NOT DOUBLE UP ON EFFECTS! It will cost twice the frame cost with no change in visuals!
    
@@ -586,11 +588,11 @@ Panjano has a good video on how to set this up
 
    ## *Some Users have reported being able to run this list on hardware BELOW the minimum I feel it needs*
 
-   In addition to the tweaks recommended above people have removed the ENB from the list to trade graphical fidelity for frame rate.
+   In addition to the tweaks recommended above people have removed gotten better framerate from Turning off effects in either ENB or Community shaders.
 
-   I have seen this list play on a 1080ti trading ENB for Community Shaders.
+   I have seen this list play on a 1080ti trading ENB for Community Shaders and removing some shaders.
 
-   It has also been reported to play on a graphics card that only has 8GB of VRAM. YMMV.
+   It has also been reported to play on a graphics card that only has 8GB of VRAM.  I have tested this at 1080p and performance setting in Texture Downscaler and can confirm around 8 GB of Vram used.
 
    We do have a topic in the Discord for people to discuss what they have done to get it to run on hardware below the recommended minimum.
 
