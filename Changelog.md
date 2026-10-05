@@ -1,5 +1,28 @@
 ## Version History:
 
+# 3_0_4
+
+#### *Add-In:*
+
+AutoSEQ
+
+Add in Open Shaders Option to [CS]
+
+Eli's Coffee Mod
+
+#### *Remove:*
+
+ParallaxGen_Output for ENB option
+
+#### *Update:*
+
+update Bottled Shaders to version 1.0.7 
+
+update cinematic Conversation Camera to version 1.5.0
+
+Update Readme with ENB or Community shaders options instructions
+
+
 # 3_0_3
 
 #### *Add-In:*
