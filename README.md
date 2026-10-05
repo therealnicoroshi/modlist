@@ -271,7 +271,7 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 
  ***
 
- #### Please open up this white separator in MO2 and re-insall this mod using one of the presets it provides or manually edit the .ini file to control the amount of VRAM this list will use.
+ #### Please open up this white separator in MO2 and re-install this mod using one of the presets it provides or manually edit the .ini file to control the amount of VRAM this list will use.
 
  #### Setting Diffuse at 1024 and the rest at 512 will reduce VRAM usage to about 8 GB. Diffuse at 2048, Normal at 1024 and the rest at 512 will be about 10-12 GB of VRAM used. Find what works best for your graphics card.
 
