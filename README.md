@@ -2,7 +2,7 @@
 ![](https://github.com/therealnicoroshi/modlist/blob/ccf153e6485bce07a0768e6f7a5d100e9716a82f/NewCoverArtNE.jpg)
 
 
-## Version 3.0.3 by Nicoroshi
+## Version 3.0.4 by Nicoroshi
 
 ### ⚠️Requires game version 1.7.104.0, and Creation Kit version 1.7.99.0 from steam⚠️
 ### ❗Requires new game if updating from version 2.8.7 or earlier❗
@@ -11,7 +11,7 @@
 <tr>
 <td><a href="https://www.nexusmods.com/skyrimspecialedition/mods/109901">Nexus Page</a></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download Wabbajack</a></td>	
-<td><a href="https://loadorderlibrary.com/lists/the-nico-experience-40">Load Order Library</a></td>
+<td><a href="https://loadorderlibrary.com/lists/the-nico-experience-41">Load Order Library</a></td>
 <td><a href="https://discord.gg/kHehbzuFZ4"><img alt="Discord" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="64px" ></a></td>
 </tr>
 </table>
