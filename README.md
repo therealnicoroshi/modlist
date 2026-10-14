@@ -457,7 +457,7 @@ W (repeated) = fills progress bar to drop from snare trap
 
 ### *Some cool keys/included mods to play with worthy of note:*
 
-Shift + z = Opens Tailor and wiggy whcih can be used to change NPC hair style/color as well as build a custom outfit in game real time
+Shift + z = Opens Tailor and wiggy which can be used to change NPC or player hair style/color as well as build a custom outfit in game real time.
 
 O = Opens Obody which can change female body shape in game real time
 
@@ -518,8 +518,6 @@ Bodyslide and Outfit Studio
 NifSkope
 
 ReSaver
-
-ParallaxGen
 
 Creation Kit
 
@@ -674,7 +672,7 @@ Paraglider, magical jumping, bow rapid combo v3, mist flight, and others you can
 
 There are added worldspaces to explore as well.
 
-Wyrmstooth and Beyond Reach will start at a certain level but some you will just find in your exploring like Chanterelle, The Shire, Moonpath to Elswyer, Darkend, Skyrim Sewers, Olenvald, and Skyrim Underground.
+Wyrmstooth, Clockwork, Midwood Isle, and Beyond Reach will start at a certain level but some you will just find in your exploring like Chanterelle, The Shire, Moonpath to Elswyer, Darkend, Skyrim Sewers, Olenvald, Mirkmire, and Skyrim Underground.
 
 ***
 
