@@ -28,7 +28,7 @@ remove Bottled Shaders
 
 remove ParallaxGen_Output for [CS]
 
-Remove ParallaxGen from Tools
+Remove PGPatcher from Tools
 
 
 # 3_0_4
