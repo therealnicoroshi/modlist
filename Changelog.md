@@ -1,5 +1,36 @@
 ## Version History:
 
+# 3_0_5
+
+#### *Add-In:*
+
+Clockwork SE
+
+Additional Clockwork
+
+Clockwork Cleaned Textures
+
+Clockwork Particle Lights for ENB Addon
+
+#### *Update:*
+
+update Tailor to version 3.0.1
+
+update Open Shaders to 2.1.8
+
+update modern NPC pathing to Version 2.5
+
+update Dynamic Terrain Deformation to version 1.2 
+
+#### *Remove:*
+
+remove Bottled Shaders 
+
+remove ParallaxGen_Output for [CS]
+
+Remove ParallaxGen from Tools
+
+
 # 3_0_4
 
 #### *Add-In:*
