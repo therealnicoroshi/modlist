@@ -98,7 +98,7 @@ The files that will need to be downloaded for this mod list to function come fro
 | CPU | 10th Generation i5 or better/equivalent
 | Ram | 16GB DDR4 Ram  + 40GB Pagefile 
 | Storage | SATA SSD or higher
-| GPU | RTX 3060 or better/equivalent (12 GB VRAM)
+| GPU | RTX 3060 or better/equivalent
 
 ***
 
@@ -107,11 +107,11 @@ The files that will need to be downloaded for this mod list to function come fro
 | CPU | 12th Generation i7 or better/equivalent
 | Ram | 32GB DDR4 Ram  + 40GB Pagefile 
 | Storage | M.2 SSD
-| GPU | RTX 4070ti Super or better/equivalent (16GB + VRAM)
+| GPU | RTX 4070ti Super or better/equivalent
 
 ***
 
-Space required: ~173GB Archives  ~342GB install Size  40GB Page file ~555GB Total so recommend 600GB of space allocated for this list.
+Space required: ~232GB Archives  ~395GB install Size  40GB Page file ~670GB Total so recommend 700GB of space minimum allocated for this list.
 
 See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html
 
