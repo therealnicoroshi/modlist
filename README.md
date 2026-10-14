@@ -2,16 +2,16 @@
 ![](https://github.com/therealnicoroshi/modlist/blob/ccf153e6485bce07a0768e6f7a5d100e9716a82f/NewCoverArtNE.jpg)
 
 
-## Version 3.0.4 by Nicoroshi
+## Version 3.0.5 by Nicoroshi
 
-### ⚠️Requires game version 1.7.104.0, and Creation Kit version 1.7.99.0 from steam⚠️
-### ❗Requires new game if updating from version 2.8.7 or earlier❗
+#### ⚠️Requires game version 1.7.104.0, and Creation Kit version 1.7.99.0 from steam⚠️
+#### ❗Requires new game if updating from version 2.8.7 or earlier❗
 
 <table stlyle="border: none;">
 <tr>
 <td><a href="https://www.nexusmods.com/skyrimspecialedition/mods/109901">Nexus Page</a></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download Wabbajack</a></td>	
-<td><a href="https://loadorderlibrary.com/lists/the-nico-experience-41">Load Order Library</a></td>
+<td><a href="https://loadorderlibrary.com/lists/the-nico-experience-42">Load Order Library</a></td>
 <td><a href="https://discord.gg/kHehbzuFZ4"><img alt="Discord" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="64px" ></a></td>
 </tr>
 </table>
@@ -279,13 +279,13 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 
  ***
 
- ## Choose between ENB or Community Shaders (two options)
+ ## Choose between ENB or Open Shaders 
  
  ### ❗Pay close attention to the location of the D3D11.dll file depending on your choice❗
 
  *** 
  
- #### For Bottled Shaders or Open Shaders Disable ALL files in the [ENB] section and Enable ALL below options 1 and 2 in the [CS] Section.
+ #### For Open Shaders Disable ALL files in the [ENB] section and Enable ALL below [CS] Open Shaders in the white [CS] Section of MO2.
  
  #### ❗Make sure the D3D11.dll is in the storage folder for it located in the MO2/Stock Game folder ❗
 
