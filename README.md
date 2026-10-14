@@ -113,11 +113,13 @@ The files that will need to be downloaded for this mod list to function come fro
 
 Space required: ~232GB Archives  ~395GB install Size  40GB Page file ~670GB Total so recommend 700GB of space minimum allocated for this list.
 
-See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html
-
 ### **As of the latest versions of the list MO2 will ❗Alert you ❗ if your page file is not set correctly and offer to set it correctly for you**
 
 ### **We recommend letting it set  this automatically for you**
+
+### **If you wish to do this manually instead**
+
+See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html
 
 :warning: **NOTE**: AMD RX 580 and older cards are **not supported**. :warning:
 
