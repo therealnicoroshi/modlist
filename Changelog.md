@@ -2,6 +2,7 @@
 
 # 3_0_6 
 
+### *Save Safe but MCM menus for Dino's Easy Quest Fix and My Precious may not show until new game*
 
 #### *Add-In:*
 
