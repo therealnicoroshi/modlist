@@ -2,16 +2,16 @@
 ![](https://github.com/therealnicoroshi/modlist/blob/ccf153e6485bce07a0768e6f7a5d100e9716a82f/NewCoverArtNE.jpg)
 
 
-## Version 3.0.5 by Nicoroshi
+## Version 3.0.6 by Nicoroshi
 
 #### ⚠️Requires game version 1.7.104.0, and Creation Kit version 1.7.99.0 from steam⚠️
-#### ❗Requires new game if updating from version 2.8.7 or earlier❗
+#### ❗Requires new game if updating from version 3.0.5 or earlier (for 2 new MCM menus to register)❗
 
 <table stlyle="border: none;">
 <tr>
 <td><a href="https://www.nexusmods.com/skyrimspecialedition/mods/109901">Nexus Page</a></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download Wabbajack</a></td>	
-<td><a href="https://loadorderlibrary.com/lists/the-nico-experience-42">Load Order Library</a></td>
+<td><a href="https://loadorderlibrary.com/lists/the-nico-experience-43">Load Order Library</a></td>
 <td><a href="https://discord.gg/kHehbzuFZ4"><img alt="Discord" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="64px" ></a></td>
 </tr>
 </table>
@@ -439,6 +439,8 @@ Leave shadows OFF in Strange Runes
 
 Caps Lock + Enter = ENB Menu
 
+F10 = SKSE Framework. There are many mods configuration menus here that you can set to your preference. ❗DO NOT SKIP GOING HERE❗
+
 Caps Lock + F12 = Toggle ENB Effect
 
 Caps Lock + F11 = Toggle Wire Frame
@@ -459,7 +461,7 @@ W (repeated) = fills progress bar to drop from snare trap
 
 Shift + z = Opens Tailor and wiggy which can be used to change NPC or player hair style/color as well as build a custom outfit in game real time.
 
-O = Opens Obody which can change female body shape in game real time
+O = Opens Obody which can change female body shape in game real time while looking at an NPC
 
 Backspace = Immersive Equipment displays to change equipment location/behaviors in real time in game.
 
