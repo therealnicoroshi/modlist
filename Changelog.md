@@ -1,5 +1,41 @@
 ## Version History:
 
+# 3_0_6 
+
+
+#### *Add-In:*
+
+Dino's Easy Quest Fix
+
+My Precious...es - Multiple Rings SKSE
+
+MyPreciouses - MCM Addon
+
+Stealth Fixes
+
+Better Deformation
+
+Selective Looting
+
+Follower parkour plus
+
+Fluid motion lite
+
+Fluid motion spiders (retains 5x speed for some terrifying creepy crawlers)
+
+#### *Update:*
+
+Update Sky Parkour to version 3.6.5
+
+#### *Remove:*
+
+Remove faster spiders (speed has been increased through Fluid Motion Spiders to make obsolete).
+
+#### *Repair/Fix:*
+
+Repair missing Open Shaders, and ENB DLAA
+
+
 # 3_0_5
 
 #### *Add-In:*
