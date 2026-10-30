@@ -249,7 +249,7 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 
 #### Enable all mods within
 
-### **Don't forget to run Bethini and change your resolution, and LOOT in the top exe icons to sort your load order**
+### **Don't forget to run Bethini and check your resolution, and LOOT in the top exe icons to sort your load order**
 
 ***
 
@@ -261,11 +261,11 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 
 #### However There are included files for those that wish to set up their own controller mapping for the list
 
-#### Enable all the files you want in the white Controller files seperator near the bottom to use (Only the complete controller file is required but some of the preloaders and gamepad ++ might be helpful).
+#### Enable all the files you want in the white Controller files separator near the bottom to use (Only the complete controller file is required but some of the preloaders and gamepad ++ might be helpful).
 
 #### You WILL need to (probably) modify some of the default keys of mods that have settings loaders in that section
 
-#### You WILL also need to re-install the 'complete controller setup' mod and set options in it's installer
+#### You WILL need to re-install the 'complete controller setup' mod and set options in it's installer
 
  ***
 
@@ -361,7 +361,7 @@ Click it and allow it to set the affinty for your processor.
 
 Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 
-Make sure the dropdown box on the right is set to `The Nico Experience (version number)` and press the `Run` button. 
+Make sure the drop down box on the right is set to `The Nico Experience (version number)` and press the `Run` button. 
 
 Alternate method is clicking on the .exe link at the top labeled `The Nico Experience (version number)`
 
@@ -427,13 +427,13 @@ Leave shadows OFF in Strange Runes
 
 #### Spell HotBar will be empty by default, and show when weapons are drawn. Assign Keys to the slots/ Tweak size, Amount, and location in the MCM. Add Spells to it by opening the in game magic menu Hovering over a spell then clicking the assigned hot key for a slot on the bar.
 
-#### You will need to manually restart SunHelm in the MCM if you want to play with Survival features from that mod, and Shadow of Skyrim for the alturnative Death mod. ❗Do this after talking to Mara statue and entering the game world ❗
+#### You will need to manually restart SunHelm in the MCM if you want to play with Survival features from that mod, and Shadow of Skyrim for the alternative Death mod. ❗Do this after talking to Mara statue and entering the game world ❗
 
 #### There are SKSE Framework mods that can be configured by opening that menu (F10)
 
-### *As of Version 1.8.8 Function Key 11 (F11) will pull up the KeyMapping image. It can be modified in game by clicking on a key and changing it's values. Tab to exit*
+### *As of Version 1.8.8 Function Key 11 (F11) will pull up the Key Mapping image. It can be modified in game by clicking on a key and changing it's values. Tab to exit*
 
-### ❗ NOTE: This is only an image and DOES NOT change keymapping itself ❗ It is only a quick reference that will need to be updated if you change any key Mapping.
+### ❗ NOTE: This is only an image and DOES NOT change key mapping itself ❗ It is only a quick reference that will need to be updated if you change any key mapping.
 
 ### *Some important keys to know:*
 
@@ -493,7 +493,7 @@ In the left pane under Anti-Alaising choose either DLAA or FSR 3.1
 
 #### ❗ If you have changed default key mapping and are updating save the file in the mo2/Stock Game folder called ControlMap_Custom.txt BEFORE updating. Drop this file into the updated mod list in the Stock game folder and let it overwrite to save your key mapping changes after update. ❗
 
-#### Unless noted otherwise in the change log all Updates will be Save Safe
+#### Unless noted otherwise in the change log, and at the top of the readme page all Updates will be Save Safe
 
 #### Updating should be as simple as downloading the latest 'The Nico Experience' from Wabbajack, and running it with the same MO2 and Downloads install paths as your existing installation making sure to check the 'overwrite installation' box in the bottom right corner.
 
@@ -519,7 +519,7 @@ Bodyslide and Outfit Studio
 
 NifSkope
 
-ReSaver
+ReSaver Plus Plus
 
 Creation Kit
 
@@ -555,7 +555,7 @@ There are guides on the web on how to go through Services.msc to trim the fat ou
 
 2. strip that graphics driver down of any AA, AO, AF settings (Turn off) as those effects will be handled by the game engine or the ENB or Community Shaders. 
 *DO NOT DOUBLE UP ON EFFECTS!*  It will kill your framerate and will not look any better than only one doing that specific effect.
-Run Gsync if avialable and for Heavens sake DO NOT use the in game vsync. Use driver vsync instead.
+Run Gsync if available and for Heavens sake DO NOT use the in game vsync. Use driver vsync instead.
 Run latency at ultra and any settings you can at high performance in the driver.
 
 3. Run resizable bar if your hardware is capable of it. It widens the bandwidth for better file transfer speeds (i.e. smoother gameplay)
@@ -564,7 +564,7 @@ Panjano has a good video on how to set this up
 
 4. Make sure your power plan is set for High performance and **NOT** balanced or power saver
 
-5. Highly recommended to set up a standby memory purge Windows sceduled task. Good video on how to do that here>>> [Empty Standbu List Tutorial Video](https://www.youtube.com/watch?v=CAxuGjdahd0)
+5. Highly recommended to set up a standby memory purge Windows scheduled task. Good video on how to do that here>>> [Empty Standbu List Tutorial Video](https://www.youtube.com/watch?v=CAxuGjdahd0)
 
 ***
 
@@ -573,13 +573,13 @@ Panjano has a good video on how to set this up
 ***
 
    ### Note:
-   Enb Frame Gen and/or Open Shaders Frame Genis part of the mod list by default. This will double whatever frame rate your system can produce. This should be smooth enough for most systems that meet the required minimum specs however we all want more :) so..
+   Enb Frame Gen and/or Open Shaders Frame Gen is part of the mod list by default. This will double whatever frame rate your system can produce. This should be smooth enough for most systems that meet the required minimum specs however we all want more :) so..
 
-   #### ❗If you wish to use PureDarks latest AIO upscaler you will need to disable [ENB] DLAA and ENB FrameGen in MO2 or it will crash the  game on start ❗
+   #### ❗If you wish to use PureDarks latest AIO upscaler you will need to disable [ENB] DLAA, [ENB] Reflex and [ENB] FrameGen in MO2 or it will crash the game on start ❗
    
-   Here are some things I recommend if your framerate is still suffering after applying the Performance saetting in Texture Downscaler and following the notes on 'Basic system set up' above.
+   Here are some things I recommend if your framerate is still suffering after applying the Performance setting in Texture Downscaler and following the notes on 'Basic system set up' above.
 
-  1. Run BethINI (included tool) and choose a lower preset setting like Medium. The default is High. Be sure to NOT use Ambient Occusion, Screen Space Reflections, and turn Tree LOD Distance to '0'. These effects are being handled by Reshade, ENB, and DynDOLOD. Remember DO NOT DOUBLE UP ON EFFECTS! It will cost twice the frame cost with no change in visuals!
+  1. Run BethINI (included tool) and choose a lower preset setting like Medium. The default is High. Be sure to NOT use Ambient Occlusion, Screen Space Reflections, and turn Tree LOD Distance to '0'. These effects are being handled by Reshade, ENB, and DynDOLOD. Remember DO NOT DOUBLE UP ON EFFECTS! It will cost twice the frame cost with no change in visuals!
    
   2. Turn the settings on the effects in ENB to low or medium (default is high/Very high). These are in the left pane when you open ENB and can be seen when expanding each effect individually.
    
