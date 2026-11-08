@@ -1,5 +1,61 @@
 ## Version History:
 
+# 3_0_7
+
+#### *Add-In:*
+
+Explosion Collision Fix
+
+Ashe - Crystal Heart
+
+Ashe - Inigo patch
+
+Ashe Lux Patch
+
+Ashe Static Skill leveling patch
+
+Ashe RSV patch
+
+Ashe Outfit invisibility  test fix
+
+Add ENB preset Natural View Tamriel
+
+Add ENB preset Re-Engaged
+
+Add Community Shaders Bottled Shaders
+
+#### *Updates:*
+
+update In Game Patcher Output
+
+update resaver to resaver PP
+
+update MCM recorder base good starting config file
+
+update Readme.md to reflect changes caused by Root Builder
+
+#### *Remove:*
+
+remove selective looting
+
+remove stealth fixes
+
+remove Better Deformation
+
+remove Magic _CP
+
+Remove ERM mountains
+
+Remove PBR mountain flowers
+
+Remove PBR Cathedral plants
+
+#### *Changes:*
+
+Implement Root Builder to make switching/ choosing between CS and ENB easier
+
+
+
 # 3_0_6 
 
 ### *Save Safe but MCM menus for Dino's Easy Quest Fix and My Precious may not show until new game*
