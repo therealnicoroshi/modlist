@@ -2,7 +2,7 @@
 ![](https://github.com/therealnicoroshi/modlist/blob/ccf153e6485bce07a0768e6f7a5d100e9716a82f/NewCoverArtNE.jpg)
 
 
-## Version 3.0.6 by Nicoroshi
+## Version 3.0.7 by Nicoroshi
 
 #### ⚠️Requires game version 1.7.104.0, and Creation Kit version 1.7.99.0 from steam⚠️
 #### ❗Requires new game if updating from version 3.0.5 or earlier (for 2 new MCM menus to register)❗
@@ -11,7 +11,7 @@
 <tr>
 <td><a href="https://www.nexusmods.com/skyrimspecialedition/mods/109901">Nexus Page</a></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download Wabbajack</a></td>	
-<td><a href="https://loadorderlibrary.com/lists/the-nico-experience-43">Load Order Library</a></td>
+<td><a href="https://loadorderlibrary.com/lists/the-nico-experience-44">Load Order Library</a></td>
 <td><a href="https://discord.gg/kHehbzuFZ4"><img alt="Discord" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="64px" ></a></td>
 </tr>
 </table>
@@ -282,32 +282,24 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
  ***
 
  ## Choose between ENB or Open Shaders 
- 
- ### ❗Pay close attention to the location of the D3D11.dll file depending on your choice❗
 
  *** 
  
- #### For Open Shaders Disable ALL files in the [ENB] section and Enable ALL below [CS] Open Shaders in the white [CS] Section of MO2.
- 
- #### ❗Make sure the D3D11.dll is in the storage folder for it located in the MO2/Stock Game folder ❗
+ #### For Open Shaders Ensure ALL files in the Blue [ENB] section and Light Blue [ENB] Common files Sections are disabled. 
 
- #### Delete Any ShaderCache folder in the Overwrite folder of MO2
+ #### Choose which Community shaders AIO you would like to use in the Blue [CS] section and Enable ALL files in the Light blue [CS] Common Files section.
+
+#### For ENB Ensure ALL files in the Blue [CS] section and Light Blue [CS] Common files Section are disabled.
+
+#### Choose which ENB Preset you would like to use in the Blue [ENB] section and Enable ALL files in the Light Blue [ENB] Common Files Section.
+
+ #### Delete Any ShaderCache folder in the Overwrite folder of MO2 when switching between ENB and CS or move it to the [CS] option folder you had been using before switching to ENB.
 
  #### ⚠️ IMPORTANT NOTE: If using Open shaders and wanting to use dlss Neural Rendering you will need to source the DLSSNR.dll from the internet (search RenoDX DLSS) and manually place it in the MO2/mods/Open Shaders/Shaders/Upscaling/Streamline folder before it will work ⚠️
  
  #### Run LOOT and sort the load order
  
  #### NOTE: The first run will take some time as the game will need to compile all the shaders for Community Shaders.
-
- ***
- 
- #### For ENB Disable all files in the [CS] section and enable all the files in the ENB section.
- 
- #### ❗Make sure the D3D11.dll is in the Stock Game folder and NOT in the storage folder within the Stock Game folder ❗
-
- #### Delete Any ShaderCache folder in the Overwrite folder of MO2
- 
- #### Run LOOT and sort the load order
 
  ***
 
