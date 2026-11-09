@@ -4,8 +4,8 @@
 
 ## Version 3.0.7 by Nicoroshi
 
-#### ⚠️Requires game version 1.7.104.0, and Creation Kit version 1.7.99.0 from steam⚠️
-#### ❗Requires new game if updating from version 3.0.5 or earlier (for 2 new MCM menus to register)❗
+#### Requires game version 1.7.104.0, and Creation Kit version 1.7.99.0 from steam
+#### ❗Requires new game if updating from version 3.0.5 or earlier❗
 
 <table stlyle="border: none;">
 <tr>
@@ -54,11 +54,11 @@
 
 ***
 
-This is the mod list I personally play. I would describe it as a power fantasy list with 
-emphasis on visuals, combat, new creatures, new places, and fast paced game play.
-I could write a book on this, and still have more to say so I will just put it to you like this.
-I am very OCD, and want the best of everything in my Skyrim. 
-This mod list is the result of playing and modding this game since the day of it's release
+This is the mod list I personally play. 
+I would describe it as a power fantasy list with an EnaiRim base, and
+many options for how to play. Included are tools to customize almost every aspect of play without leaving the game.
+3 different ENB presets, and 2 different community shaders choices in MO2 using Root Builder.
+Lots of new world spaces to discover and explore. New creatures, dungeons, followers, dialog, quest lines, and much more.
 So if you're looking for a visually stunning Skyrim experience that will push the graphical 
 limits of what Skyrim can be I invite you to take a trip through
 The Nico Experience 
@@ -111,7 +111,7 @@ The files that will need to be downloaded for this mod list to function come fro
 
 ***
 
-Space required: ~232GB Archives  ~395GB install Size  40GB Page file ~670GB Total so recommend 700GB of space minimum allocated for this list.
+Space required: ~232GB Archives  ~397GB install Size  40GB Page file ~670GB Total so recommend 700GB of space minimum allocated for this list.
 
 ### **As of the latest versions of the list MO2 will ❗Alert you ❗ if your page file is not set correctly and offer to set it correctly for you**
 
@@ -419,7 +419,10 @@ Leave shadows OFF in Strange Runes
 
 #### Spell HotBar will be empty by default, and show when weapons are drawn. Assign Keys to the slots/ Tweak size, Amount, and location in the MCM. Add Spells to it by opening the in game magic menu Hovering over a spell then clicking the assigned hot key for a slot on the bar.
 
-#### You will need to manually restart SunHelm in the MCM if you want to play with Survival features from that mod, and Shadow of Skyrim for the alternative Death mod. ❗Do this after talking to Mara statue and entering the game world ❗
+#### You will need to manually restart SunHelm in the MCM if you want to play with Survival features from that mod, 
+
+#### You will also need to manually restart Shadow of Skyrim for the alternative Death mod. ❗Do not leave this disabled, and be sure to set respawn compatibility to ON in MCM❗
+#### I also recommend reducing the amount of dropped items, and setting to '0' any items you do not wish to lose on death. 
 
 #### There are SKSE Framework mods that can be configured by opening that menu (F10)
 
@@ -456,6 +459,8 @@ Shift + z = Opens Tailor and wiggy which can be used to change NPC or player hai
 O = Opens Obody which can change female body shape in game real time while looking at an NPC
 
 Backspace = Immersive Equipment displays to change equipment location/behaviors in real time in game.
+
+Home = Community shaders
 
 
 ###  ❗ *DLAA or FSR 3.1 Settings in ENB* ❗
@@ -567,7 +572,8 @@ Panjano has a good video on how to set this up
    ### Note:
    Enb Frame Gen and/or Open Shaders Frame Gen is part of the mod list by default. This will double whatever frame rate your system can produce. This should be smooth enough for most systems that meet the required minimum specs however we all want more :) so..
 
-   #### ❗If you wish to use PureDarks latest AIO upscaler you will need to disable [ENB] DLAA, [ENB] Reflex and [ENB] FrameGen in MO2 or it will crash the game on start ❗
+   #### ❗If you wish to use PureDarks latest AIO upscaler and ANY [ENB] option you will need to disable [ENB] DLAA, [ENB] Reflex and [ENB] FrameGen in MO2 or it will crash the game on start ❗
+   #### ❗If using PureDarks Upscaler and ANY [CS] option you should disable FrameGen, Reflex, and neural rendering in the [CS] config window ❗
    
    Here are some things I recommend if your framerate is still suffering after applying the Performance setting in Texture Downscaler and following the notes on 'Basic system set up' above.
 
@@ -638,6 +644,10 @@ Transformations from Wrath of Nature mod will crash the game in first person vie
 
 Sometimes Opening Heart of Magic and closing will toggle always run button. Press that button again to fix.
 
+Looking at an NPC or creature when using the SSSO save button ';:' will switch which you are playing. This can be fun but disorienting if not intended. 
+
+The Fix is to look at your character and press ';:' button again to switch back to being your character.
+
 ### ❗ DO NOT put iron arrows into a container or drop them out of your inventory❗ This might crash the game. Vanilla bug without any known workaround. Put them in a corpse or sell them instead.
 
 ### ❗Remember to remove followers from Follower Framework after dismissing from active service.❗Failure to do so may cause the game to crash on carriage or fast travel.
@@ -706,7 +716,7 @@ I designed this mod list to be tougher than anything vanilla with FAR more creat
 There is also an alternate death system based on Shadow of Mordor style game play that will make the one that kills you a 'Nemesis' and they may take some of your stuff as well.
 I have also included a mod called Unlimited Rings and Amulets to offset the difficulty.
 If you open the files for RLE (rogue like encounters) in MO2 left pane (explore) there are esps in there that can be added or removed from the list that can increase spawns or reduce them.
-CC Survival mode will conflict with SunHelm survivial. I recommend using ONLY Sunhelm as it covers cold, eat, drink, and sleep needs.
+CC Survival mode will conflict with SunHelm survivial. I recommend using ONLY Sunhelm as it covers cold, eat, drink, and sleep needs. Please ignore the survival MCM menu and use ONLY Sunhelm.
 
 Basically the tools are there to make it as hard or easy as you want. 
 Now go forth brave adventurer, and get lost admiring the parallax mud puddles, and ice cube glaciers......But Beware as the world is full of dangers and rewards.
