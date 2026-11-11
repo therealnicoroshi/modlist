@@ -32,7 +32,7 @@ DynDOLOD_Output
 
 *Doing this cut the script instances in half (Literally over 100,000 instance removed)*
 
-*This also reduced the ESM/ESP amount of this list to 233/254*
+*This also reduced the ESM/ESP amount of this list to 228/254*
 
 
 # 3_0_7
