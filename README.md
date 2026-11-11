@@ -2,10 +2,10 @@
 ![](https://github.com/therealnicoroshi/modlist/blob/ccf153e6485bce07a0768e6f7a5d100e9716a82f/NewCoverArtNE.jpg)
 
 
-## Version 3.0.7 by Nicoroshi
+## Version 3.1.0 by Nicoroshi
 
 #### Requires game version 1.7.104.0, and Creation Kit version 1.7.99.0 from steam
-#### ❗Requires new game if updating from version 3.0.5 or earlier❗
+#### ❗Major changes. NOT save safe. Requires New Game❗
 
 <table stlyle="border: none;">
 <tr>
