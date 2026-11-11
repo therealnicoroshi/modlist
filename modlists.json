@@ -25,24 +25,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/therealnicoroshi/modlist/main/Banner_NE.webP",
       "readme": "https://github.com/therealnicoroshi/modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/The Nico Experience.wabbajack_17c298c0-4d7e-4dec-93b4-d893115c7b25",
+      "download": "https://authored-files.wabbajack.org/The Nico Experience.wabbajack_b3d26181-a406-4094-96f7-1a509e91987d",
       "machineURL": "The_Nico_Experience",
       "discordURL": "https://discord.gg/kHehbzuFZ4",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "O+YjbsrmiTA=",
-      "Size": 3052235628,
-      "NumberOfArchives": 2581,
-      "SizeOfArchives": 232723999180,
-      "NumberOfInstalledFiles": 599598,
-      "SizeOfInstalledFiles": 397953055218,
-      "TotalSize": 630677054398
+      "Hash": "9bKttqCifQw=",
+      "Size": 3158777033,
+      "NumberOfArchives": 2554,
+      "SizeOfArchives": 236755652063,
+      "NumberOfInstalledFiles": 573214,
+      "SizeOfInstalledFiles": 384126319586,
+      "TotalSize": 620881971649
     },
-    "version": "3.0.7",
+    "version": "3.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-11-08T09:21:12.0757354Z",
+    "dateUpdated": "2026-11-11T20:41:07.4509163Z",
     "repositoryName": ""
   }
 ]
