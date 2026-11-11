@@ -1,5 +1,40 @@
 ## Version History:
 
+# 3_1_0
+
+### ❗MAJOR CHANGES THAT REQUIRE A NEW GAME❗
+
+Removal of some script heavy mods, and added worldspaces to improve stability
+
+#### *Removed:*
+
+Clockwork
+
+Forgotten Dungeons
+
+Darkend
+
+Missives
+
+Midden Expanded
+
+Ascend
+
+Beyond Reach
+
+Moonpath
+
+All the patches that used these mods as masters.
+
+#### *Update:*
+
+DynDOLOD_Output
+
+*Doing this cut the script instances in half (Literally over 100,000 instance removed)*
+
+*This also reduced the ESM/ESP amount of this list to 233/254*
+
+
 # 3_0_7
 
 #### *Add-In:*
