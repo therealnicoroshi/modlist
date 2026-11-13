@@ -285,13 +285,13 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 
  *** 
  
- #### For Open Shaders Ensure ALL files in the Blue [ENB] section and Light Blue [ENB] Common files Sections are disabled. 
+ #### For Open Shaders Ensure ALL files in the Blue [ENB] section and Light Blue and White [ENB] Common files Sections are disabled. 
 
  #### Choose which Community shaders AIO you would like to use in the Blue [CS] section and Enable ALL files in the Light blue [CS] Common Files section.
 
 #### For ENB Ensure ALL files in the Blue [CS] section and Light Blue [CS] Common files Section are disabled.
 
-#### Choose which ENB Preset you would like to use in the Blue [ENB] section and Enable ALL files in the Light Blue [ENB] Common Files Section.
+#### Choose which ENB Preset you would like to use in the Blue [ENB] section and Enable ALL files in the Light Blue and white [ENB] Common Files Section.
 
  #### Delete Any ShaderCache folder in the Overwrite folder of MO2 when switching between ENB and CS or move it to the [CS] option folder you had been using before switching to ENB.
 
@@ -421,7 +421,7 @@ Leave shadows OFF in Strange Runes
 
 #### You will need to manually restart SunHelm in the MCM if you want to play with Survival features from that mod, 
 
-#### You will also need to manually restart Shadow of Skyrim for the alternative Death mod. ❗Do not leave this disabled, and be sure to set respawn compatibility to ON in MCM❗
+#### You will also need to manually restart Shadow of Skyrim for the alternative Death mod. ❗Do not leave this disabled, and be sure to set respawn compatibility to ON in MCM developer section❗
 #### I also recommend reducing the amount of dropped items, and setting to '0' any items you do not wish to lose on death. 
 
 #### There are SKSE Framework mods that can be configured by opening that menu (F10)
