@@ -195,8 +195,6 @@ It is possible that you may encounter an error with Wabbajack when installing. S
  
 [DINT999 BDOR Winter Mountain Guardian Spirit](https://drive.google.com/uc?id=1siyc644OSI0Lz8PlM9lo3Gxf_VxQLlN5&export=download)
 
-[DynDOLOD_Output Per](https://www.nexusmods.com/api/files/7318625065106/download)
-
 ### *If the log mentions ANYTHING starting with 'cc'*
 
    - **Make sure you have downloaded all the Paid AE update content!**
