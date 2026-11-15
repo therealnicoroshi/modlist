@@ -1,5 +1,34 @@
 ## Version History:
 
+# 3_1_1
+
+### ❗NEW GAME RECOMMENDED FOR NEW MODS TO INITIALIZE CORRECTLY ❗
+
+#### *Add-In:*
+
+vampire DBVO pack
+
+Lara Croft (2013) - Dragonborn Voice Over Pack
+
+wildfire
+
+SkyTimber
+
+Silent Follower Parkour Roll
+
+Grab and Throw
+
+TrampolineGuard
+
+Banner Physics
+
+#### *Update:*
+
+Update FLICKING NG
+
+Clean up MCM Recorder Base good starting config
+
+
 # 3_1_0
 
 ### ❗MAJOR CHANGES THAT REQUIRE A NEW GAME❗
