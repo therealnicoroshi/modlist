@@ -291,7 +291,7 @@ Set PC head tracking in MO2 left pane under Dialog to your preferred voice type 
 
 #### Choose which ENB Preset you would like to use in the Blue [ENB] section and Enable ALL files in the Light Blue and white [ENB] Common Files Section.
 
- #### Delete Any ShaderCache folder in the Overwrite folder of MO2 when switching between ENB and CS or move it to the [CS] option folder you had been using before switching to ENB.
+ ### Delete Any ShaderCache or enbcache folder in the Overwrite folder of MO2 when switching between ENB and CS.
 
  #### ⚠️ IMPORTANT NOTE: If using Open shaders and wanting to use dlss Neural Rendering you will need to source the DLSSNR.dll from the internet (search RenoDX DLSS) and manually place it in the MO2/mods/Open Shaders/Shaders/Upscaling/Streamline folder before it will work ⚠️
  
