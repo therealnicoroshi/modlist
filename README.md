@@ -5,7 +5,7 @@
 ## Version 3.1.2 by Nicoroshi
 
 #### Requires game version 1.7.104.0, and Creation Kit version 1.7.99.0 from steam
-#### ❗New Game Recommended❗
+#### Safe to update from version 3.1.1 or later 
 
 <table stlyle="border: none;">
 <tr>
