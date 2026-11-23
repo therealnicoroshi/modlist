@@ -359,6 +359,9 @@ Alternate method is clicking on the .exe link at the top labeled `The Nico Exper
 
 #### This will take a few minutes to start up as the game needs to compile shaders for ENB or CS on first start up. Be Patient.
 
+### HELP! My female character always has Elven pointed Ears! 
+### Move the facial hair slider to find normal ears or animated cat ears.
+
 ### After your character is created and you name them >>>
 
  ### The MCM Menu:
