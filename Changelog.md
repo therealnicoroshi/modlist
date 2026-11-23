@@ -1,5 +1,47 @@
 ## Version History:
 
+# 3_1_2
+
+#### *Add-In:*
+
+Culminated ENB
+
+Intrigued ENB
+
+Silent Horizons ENB
+
+Naga Kur Armor
+
+Naga Kur CBBE
+
+Naga Kur Tempered Skins
+
+Ryn's Valtheim Towers
+
+Dynamic Wind Framework
+
+Alternate Conversation Camera
+
+Skyjack simple woodcutting
+
+add back in missing widescreen 21x9 files in MO2
+
+#### *Remove:*
+
+wildfire
+
+Skytimber
+
+Trampoline Guard
+
+Banner Physics
+
+#### *Update:*
+
+Open Shaders
+
+
+
 # 3_1_1
 
 ### ❗NEW GAME RECOMMENDED FOR NEW MODS TO INITIALIZE CORRECTLY ❗
