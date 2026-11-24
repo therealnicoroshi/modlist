@@ -1,5 +1,24 @@
 ## Version History:
 
+#3_1_3
+
+#### *Add-In:*
+
+Vampire DBVO
+
+Kratos DBVO
+
+Master Chief DBVO
+
+Next Gen Decapitations
+
+Free Climb
+
+#### *Remove:*
+
+Survival Control panel
+
+
 # 3_1_2
 
 #### *Add-In:*
